@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.venv/
+.venv_phi4/
+.venv_phi4_req/
+venv/
+ENV/
+env/
+code/.venv/
+code/.venv_phi4/
+code/.venv_phi4_req/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data files (large files)
+data/raw/
+data/processed/pdf_extracted_images/
+data/processed/*.jsonl
+data/embeddings/
+models/
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
