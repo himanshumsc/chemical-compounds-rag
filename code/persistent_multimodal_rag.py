@@ -20,8 +20,14 @@ import sqlite3
 import hashlib
 import time
 
+# Fix ChromaDB SQLite compatibility
+import sys
+sys.path.insert(0, '/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages')
+import pysqlite3 as sqlite3
+sys.modules['sqlite3'] = sqlite3
+
 # Import our existing hybrid search system
-from hybrid_search import HybridSearchEngine
+from chromadb_search import ChromaDBSearchEngine
 
 # Setup logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -30,10 +36,10 @@ logger = logging.getLogger(__name__)
 class PersistentMultimodalRAG:
     """Persistent multimodal RAG system with SQLite storage"""
     
-    def __init__(self, embeddings_path: Path, phi4_model_path: Path, 
+    def __init__(self, chromadb_path: Path, phi4_model_path: Path, 
                  db_path: Path, device: str = "auto"):
         self.device = self._get_device(device)
-        self.embeddings_path = embeddings_path
+        self.chromadb_path = chromadb_path
         self.phi4_model_path = phi4_model_path
         self.db_path = db_path
         
@@ -60,13 +66,15 @@ class PersistentMultimodalRAG:
         return device
     
     def _load_search_system(self):
-        """Load our existing hybrid search system"""
-        logger.info("Loading hybrid search system...")
-        self.search_system = HybridSearchEngine(self.embeddings_path, self.device)
-        logger.info("Hybrid search system loaded")
+        """Load ChromaDB search system"""
+        logger.info("Loading ChromaDB search system...")
+        # Use CPU for CLIP to avoid GPU memory conflicts with Phi-4
+        search_device = "cpu" if self.device == "cuda" else self.device
+        self.search_system = ChromaDBSearchEngine(str(self.chromadb_path), search_device)
+        logger.info(f"ChromaDB search system loaded on {search_device}")
     
     def _load_phi4_model(self):
-        """Load Phi-4 multimodal model"""
+        """Load Phi-4 multimodal model with robust error handling"""
         try:
             logger.info(f"Loading Phi-4 model from {self.phi4_model_path}")
             
@@ -77,23 +85,35 @@ class PersistentMultimodalRAG:
                 trust_remote_code=True
             )
             
-            # Set attention implementation for compatibility
-            try:
+            # Override attention implementation to avoid FlashAttention2 issues
+            cfg._attn_implementation = "sdpa"
+            if hasattr(cfg, 'attn_implementation'):
                 cfg.attn_implementation = "sdpa"
-                cfg._attn_implementation_internal = "sdpa"
-                logger.info("Set attention implementation to sdpa")
-            except Exception as e:
-                logger.warning(f"Could not set attention implementation: {e}")
+            logger.info("Set attention implementation to sdpa")
             
-            # Load model
-            self.phi4_model = AutoModelForCausalLM.from_pretrained(
-                str(self.phi4_model_path),
-                config=cfg,
-                torch_dtype=torch.float16,
-                device_map={"": self.device},
-                trust_remote_code=True,
-                low_cpu_mem_usage=True
-            )
+            # Load model with multiple fallback options
+            try:
+                self.phi4_model = AutoModelForCausalLM.from_pretrained(
+                    str(self.phi4_model_path),
+                    config=cfg,
+                    torch_dtype=torch.bfloat16,  # Use bfloat16 for Phi-4
+                    device_map="auto",
+                    trust_remote_code=True,
+                    low_cpu_mem_usage=True,
+                    attn_implementation="sdpa"  # Explicitly set attention
+                )
+            except Exception as e1:
+                logger.warning(f"First loading attempt failed: {e1}")
+                logger.info("Trying with different parameters...")
+                
+                # Fallback: try without explicit attention setting
+                self.phi4_model = AutoModelForCausalLM.from_pretrained(
+                    str(self.phi4_model_path),
+                    torch_dtype=torch.bfloat16,
+                    device_map="auto",
+                    trust_remote_code=True,
+                    low_cpu_mem_usage=True
+                )
             
             # Load processor
             self.phi4_processor = AutoProcessor.from_pretrained(
@@ -106,8 +126,39 @@ class PersistentMultimodalRAG:
             
         except Exception as e:
             logger.error(f"Failed to load Phi-4 model: {e}")
-            self.phi4_model = None
-            self.phi4_processor = None
+            logger.info("Attempting to load Qwen model as fallback...")
+            
+            # Fallback to Qwen model if Phi-4 fails
+            try:
+                self._load_qwen_fallback()
+            except Exception as e2:
+                logger.error(f"Failed to load Qwen fallback: {e2}")
+                self.phi4_model = None
+                self.phi4_processor = None
+    
+    def _load_qwen_fallback(self):
+        """Load Qwen model as fallback if Phi-4 fails"""
+        logger.info("Loading Qwen2.5-VL-AWQ as fallback model...")
+        
+        qwen_path = Path("/home/himanshu/dev/models/QWEN_AWQ")
+        if not qwen_path.exists():
+            raise Exception("Qwen model not found for fallback")
+        
+        from transformers import Qwen2_5_VLForConditionalGeneration, AutoProcessor
+        
+        self.phi4_model = Qwen2_5_VLForConditionalGeneration.from_pretrained(
+            str(qwen_path),
+            torch_dtype=torch.float16,
+            device_map="auto",
+            trust_remote_code=True
+        )
+        
+        self.phi4_processor = AutoProcessor.from_pretrained(
+            str(qwen_path),
+            trust_remote_code=True
+        )
+        
+        logger.info("Qwen model loaded as fallback successfully")
     
     def _setup_database(self):
         """Setup SQLite database for persistent storage"""
@@ -235,11 +286,26 @@ Please provide a detailed, accurate response based on the provided context. Incl
         return augmented_prompt, image_paths[:5]  # Limit to 5 images for processing
     
     def generate_response_with_phi4(self, prompt: str, images: List[str]) -> str:
-        """Generate response using Phi-4 multimodal model"""
+        """Generate response using Phi-4 or Qwen multimodal model"""
         
         if not self.phi4_model or not self.phi4_processor:
-            return "Phi-4 model not available. Please check model loading."
+            return "Model not available. Please check model loading."
         
+        try:
+            # Check if we're using Qwen model (fallback)
+            is_qwen_model = hasattr(self.phi4_model, 'config') and 'qwen' in str(type(self.phi4_model)).lower()
+            
+            if is_qwen_model:
+                return self._generate_with_qwen(prompt, images)
+            else:
+                return self._generate_with_phi4(prompt, images)
+            
+        except Exception as e:
+            logger.error(f"Generation error: {e}")
+            return f"Error generating response: {str(e)}"
+    
+    def _generate_with_phi4(self, prompt: str, images: List[str]) -> str:
+        """Generate response using Phi-4 model"""
         try:
             # Prepare images for Phi-4
             processed_images = []
@@ -296,7 +362,89 @@ Please provide a detailed, accurate response based on the provided context. Incl
             
         except Exception as e:
             logger.error(f"Phi-4 generation error: {e}")
-            return f"Error generating response: {str(e)}"
+            raise e
+    
+    def _generate_with_qwen(self, prompt: str, images: List[str]) -> str:
+        """Generate response using Qwen model"""
+        try:
+            # Prepare images for Qwen
+            processed_images = []
+            for img_path in images:
+                if Path(img_path).exists():
+                    try:
+                        image = Image.open(img_path).convert("RGB")
+                        processed_images.append(image)
+                    except Exception as e:
+                        logger.warning(f"Failed to load image {img_path}: {e}")
+                        continue
+            
+            # Prepare messages for Qwen
+            messages = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "text", "text": prompt}
+                    ]
+                }
+            ]
+            
+            # Add images to messages if available
+            if processed_images:
+                for img_path in images:
+                    if Path(img_path).exists():
+                        messages[0]["content"].insert(0, {
+                            "type": "image", 
+                            "image": f"file://{img_path}"
+                        })
+            
+            # Prepare inputs using Qwen's chat template
+            text = self.phi4_processor.apply_chat_template(
+                messages, tokenize=False, add_generation_prompt=True
+            )
+            
+            if processed_images:
+                inputs = self.phi4_processor(
+                    text=[text],
+                    images=processed_images,
+                    padding=True,
+                    return_tensors="pt",
+                )
+            else:
+                inputs = self.phi4_processor(
+                    text=[text],
+                    padding=True,
+                    return_tensors="pt",
+                )
+            
+            # Move to device
+            device_inputs = {}
+            for k, v in inputs.items():
+                if v is not None:
+                    device_inputs[k] = v.to(self.device)
+            
+            # Generate response
+            with torch.no_grad():
+                generated_ids = self.phi4_model.generate(
+                    **device_inputs,
+                    max_new_tokens=512,
+                    do_sample=True,
+                    temperature=0.7,
+                    pad_token_id=self.phi4_processor.tokenizer.eos_token_id
+                )
+            
+            # Decode response
+            generated_ids_trimmed = [
+                out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+            ]
+            response = self.phi4_processor.batch_decode(
+                generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
+            )[0]
+            
+            return response
+            
+        except Exception as e:
+            logger.error(f"Qwen generation error: {e}")
+            raise e
     
     def save_query_to_db(self, query_text: str, query_image: Optional[str], 
                         response: str, context_text: str, image_paths: List[str],
@@ -450,13 +598,13 @@ Please provide a detailed, accurate response based on the provided context. Incl
     
     def get_statistics(self) -> Dict[str, Any]:
         """Get system statistics"""
-        stats = self.search_system.get_statistics()
-        stats.update({
+        stats = {
             'phi4_model_loaded': self.phi4_model is not None,
             'phi4_processor_loaded': self.phi4_processor is not None,
             'device': self.device,
-            'database_connected': self.db_conn is not None
-        })
+            'database_connected': self.db_conn is not None,
+            'chromadb_path': str(self.chromadb_path)
+        }
         
         if self.db_conn:
             try:
@@ -478,9 +626,9 @@ Please provide a detailed, accurate response based on the provided context. Incl
 
 def main():
     parser = argparse.ArgumentParser(description="Persistent Multimodal RAG System")
-    parser.add_argument("--embeddings-path", type=Path,
-                       default=Path("/home/himanshu/dev/data/embeddings/multimodal_embeddings.pkl"),
-                       help="Path to embeddings data")
+    parser.add_argument("--chromadb-path", type=Path,
+                       default=Path("/home/himanshu/dev/data/chromadb"),
+                       help="Path to ChromaDB storage")
     parser.add_argument("--phi4-model-path", type=Path,
                        default=Path("/home/himanshu/dev/models/PHI4"),
                        help="Path to Phi-4 model")
@@ -504,7 +652,7 @@ def main():
     
     # Initialize RAG system
     rag_system = PersistentMultimodalRAG(
-        args.embeddings_path, 
+        args.chromadb_path, 
         args.phi4_model_path,
         args.db_path
     )
