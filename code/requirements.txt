@@ -1,109 +1,97 @@
-absl-py==2.3.1
+# Requirements for Chemical Compounds RAG System
+# Generated from .venv_phi4_req virtual environment
+# Last updated: November 30, 2025
+
+# ============================================================================
+# CORE ML/DL FRAMEWORKS
+# ============================================================================
+# PyTorch ecosystem for deep learning
+torch==2.9.0
+torchaudio==2.9.0
+torchvision==0.24.0
+
+# Hugging Face Transformers (from git for latest features)
+transformers @ git+https://github.com/huggingface/transformers@9c804f7ec42c94289ce52eaa84eed32f770311d7
+
+# vLLM - High-throughput LLM inference engine
+vllm==0.11.2
+
+# Accelerate - Multi-GPU/TPU training acceleration
 accelerate==1.4.0
-aiohappyeyeballs==2.6.1
-aiohttp==3.12.15
-aiosignal==1.4.0
-annotated-doc==0.0.4
-annotated-types==0.7.0
-anthropic==0.71.0
-anyio==4.10.0
-apache-tvm-ffi==0.1.3
-asgiref==3.9.1
-astor==0.8.1
-attrs==25.3.0
-autoawq==0.2.9
-av==15.1.0
-backoff==2.2.1
-bcrypt==4.3.0
-bert-score==0.3.13
+
+# BitsAndBytes - Quantization utilities
 bitsandbytes==0.47.0
-blake3==1.0.8
-build==1.3.0
-cachetools==5.5.2
-cbor2==5.7.1
-certifi==2025.8.3
-charset-normalizer==3.4.3
-chroma-hnswlib==0.7.3
-chromadb==1.3.5
-click==8.2.1
-clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
-cloudpickle==3.1.2
-coloredlogs==15.0.1
-compressed-tensors==0.12.2
-contourpy==1.3.3
-cuda-bindings==13.0.3
-cuda-pathfinder==1.3.2
-cuda-python==13.0.3
-cupy-cuda12x==13.6.0
-cycler==0.12.1
-datasets==3.3.2
-depyf==0.20.0
-dill==0.3.8
-diskcache==5.6.3
-distro==1.9.0
-dnspython==2.8.0
-docstring_parser==0.17.0
-durationpy==0.10
-einops==0.8.1
-email-validator==2.3.0
-fastapi==0.121.3
-fastapi-cli==0.0.16
-fastapi-cloud-cli==0.5.1
-fastar==0.6.0
-fastrlock==0.8.3
-filelock==3.20.0
+
+# AutoAWQ - AWQ quantization for models
+autoawq==0.2.9
+
+# XFormers - Efficient attention mechanisms
+xformers==0.0.33.post1
+
+# Triton - GPU kernel compiler
+triton==3.5.0
+
+# FlashInfer - Fast attention kernels
 flashinfer-python==0.5.2
-flatbuffers==25.2.10
-fonttools==4.60.1
-frozenlist==1.7.0
-fsspec==2024.6.1
-ftfy==6.3.1
-gguf==0.17.1
-google-auth==2.40.3
-googleapis-common-protos==1.70.0
-grpcio==1.74.0
-h11==0.16.0
-hf-xet==1.1.9
-httpcore==1.0.9
-httptools==0.6.4
-httpx==0.28.1
+
+# ============================================================================
+# RAG / VECTOR DATABASE
+# ============================================================================
+# ChromaDB - Vector database for RAG context storage
+chromadb==1.3.5
+chroma-hnswlib==0.7.3
+
+# Hugging Face Hub - Model and dataset hosting
 huggingface-hub==0.34.4
-humanfriendly==10.0
-idna==3.10
-importlib_metadata==8.7.0
-importlib_resources==6.5.2
-interegular==0.3.3
-Jinja2==3.1.6
-jiter==0.11.0
-jmespath==1.0.1
-joblib==1.5.2
-jsonschema==4.25.1
-jsonschema-specifications==2025.9.1
-kiwisolver==1.4.9
-kubernetes==33.1.0
-lark==1.2.2
-llguidance==1.3.0
-llvmlite==0.44.0
-lm-format-enforcer==0.11.3
-loguru==0.7.3
-markdown-it-py==4.0.0
-MarkupSafe==2.1.5
-matplotlib==3.10.7
-mdurl==0.1.2
-mistral_common==1.8.5
-ml_dtypes==0.5.3
-mmh3==5.2.0
-model-hosting-container-standards==0.1.9
-mpmath==1.3.0
-msgpack==1.1.2
-msgspec==0.19.0
-multidict==6.6.4
-multiprocess==0.70.16
-networkx==3.3
-ninja==1.13.0
+hf-xet==1.1.9
+
+# ============================================================================
+# EVALUATION METRICS
+# ============================================================================
+# BERTScore - Semantic similarity evaluation
+bert-score==0.3.13
+
+# ROUGE Score - Text summarization evaluation
+rouge_score==0.1.2
+
+# NLTK - Natural Language Toolkit for text processing
 nltk==3.9.2
-numba==0.61.2
-numpy==2.2.6
+
+# ============================================================================
+# API CLIENTS
+# ============================================================================
+# OpenAI API client
+openai==2.1.0
+openai-harmony==0.0.8
+
+# Anthropic API client
+anthropic==0.71.0
+
+# ============================================================================
+# COMPUTER VISION / MULTIMODAL
+# ============================================================================
+# CLIP - Vision-language model (from OpenAI git)
+clip @ git+https://github.com/openai/CLIP.git@dcba3cb2e2827b402d2701e7e1c7d9fed8a20ef1
+
+# OpenCV - Computer vision library
+opencv-python-headless==4.12.0.88
+
+# Pillow - Image processing
+pillow==11.1.0
+
+# PyMuPDF - PDF processing
+PyMuPDF==1.26.4
+
+# pdf2image - PDF to image conversion
+pdf2image==1.17.0
+
+# Qwen-VL utilities for vision-language tasks
+qwen-vl-utils==0.0.11
+
+# ============================================================================
+# CUDA / GPU LIBRARIES
+# ============================================================================
+# NVIDIA CUDA libraries
 nvidia-cublas-cu12==12.8.4.1
 nvidia-cuda-cupti-cu12==12.8.90
 nvidia-cuda-nvrtc-cu12==12.8.93
@@ -122,14 +110,138 @@ nvidia-nccl-cu12==2.27.5
 nvidia-nvjitlink-cu12==12.8.93
 nvidia-nvshmem-cu12==3.3.20
 nvidia-nvtx-cu12==12.8.90
-oauthlib==3.3.1
+
+# CUDA Python bindings
+cuda-bindings==13.0.3
+cuda-pathfinder==1.3.2
+cuda-python==13.0.3
+
+# CuPy - NumPy-like library for GPU
+cupy-cuda12x==13.6.0
+
+# ============================================================================
+# WEB FRAMEWORK / API SERVER
+# ============================================================================
+# FastAPI - Modern web framework for APIs
+fastapi==0.121.3
+fastapi-cli==0.0.16
+fastapi-cloud-cli==0.5.1
+
+# Uvicorn - ASGI server
+uvicorn==0.35.0
+
+# Starlette - ASGI framework (FastAPI dependency)
+starlette==0.50.0
+
+# HTTP utilities
+httptools==0.6.4
+httpcore==1.0.9
+httpx==0.28.1
+h11==0.16.0
+
+# ============================================================================
+# DATA PROCESSING / SCIENTIFIC COMPUTING
+# ============================================================================
+# NumPy - Numerical computing
+numpy==2.2.6
+
+# Pandas - Data manipulation
+pandas==2.2.3
+
+# SciPy - Scientific computing
+scipy==1.15.2
+
+# Datasets - Hugging Face datasets library
+datasets==3.3.2
+
+# PyArrow - Columnar data processing
+pyarrow==21.0.0
+
+# ============================================================================
+# ONNX / MODEL OPTIMIZATION
+# ============================================================================
+# ONNX Runtime for model inference
 onnx==1.19.0
 onnxruntime==1.22.1
-onnxruntime-genai-cuda==0.9.1
 onnxruntime-gpu==1.22.0
-openai==2.1.0
-openai-harmony==0.0.8
-opencv-python-headless==4.12.0.88
+onnxruntime-genai-cuda==0.9.1
+
+# ============================================================================
+# TOKENIZATION / TEXT PROCESSING
+# ============================================================================
+# Tokenizers - Fast tokenization
+tokenizers==0.22.0
+
+# SentencePiece - Subword tokenization
+sentencepiece==0.2.1
+
+# Tiktoken - OpenAI tokenizer
+tiktoken==0.12.0
+
+# Regex - Advanced regex
+regex==2025.9.1
+
+# ============================================================================
+# MODEL TRAINING / FINE-TUNING
+# ============================================================================
+# PEFT - Parameter-Efficient Fine-Tuning
+peft==0.14.0
+
+# Safetensors - Safe tensor storage
+safetensors==0.6.2
+
+# Compressed tensors
+compressed-tensors==0.12.2
+
+# ============================================================================
+# UTILITIES / HELPER LIBRARIES
+# ============================================================================
+# File handling
+fsspec==2024.6.1
+filelock==3.20.0
+
+# Serialization
+msgpack==1.1.2
+orjson==3.11.3
+cbor2==5.7.1
+cloudpickle==3.1.2
+dill==0.3.8
+
+# Configuration / Environment
+python-dotenv==1.1.1
+pydantic==2.12.4
+pydantic-extra-types==2.10.6
+pydantic_core==2.41.5
+PyYAML==6.0.2
+
+# Logging
+loguru==0.7.3
+coloredlogs==15.0.1
+python-json-logger==4.0.0
+
+# Progress bars
+tqdm==4.67.1
+rich==14.1.0
+rich-toolkit==0.16.0
+
+# Caching
+diskcache==5.6.3
+cachetools==5.5.2
+
+# Retry logic
+backoff==2.2.1
+tenacity==9.1.2
+
+# ============================================================================
+# RAY / DISTRIBUTED COMPUTING
+# ============================================================================
+# Ray - Distributed computing framework
+ray==2.52.0
+
+# ============================================================================
+# MONITORING / OBSERVABILITY
+# ============================================================================
+# OpenTelemetry - Observability
 opentelemetry-api==1.37.0
 opentelemetry-exporter-otlp-proto-common==1.37.0
 opentelemetry-exporter-otlp-proto-grpc==1.37.0
@@ -140,94 +252,186 @@ opentelemetry-proto==1.37.0
 opentelemetry-sdk==1.37.0
 opentelemetry-semantic-conventions==0.58b0
 opentelemetry-util-http==0.58b0
-orjson==3.11.3
-outlines_core==0.2.11
-overrides==7.7.0
-packaging==25.0
-pandas==2.2.3
-partial-json-parser==0.2.1.1.post7
-pdf2image==1.17.0
-peft==0.14.0
-pillow==11.1.0
-posthog==5.4.0
-prometheus-fastapi-instrumentator==7.1.0
+
+# Prometheus - Metrics
 prometheus_client==0.23.1
-propcache==0.3.2
-protobuf==6.32.1
-psutil==7.0.0
-pulsar-client==3.8.0
-py-cpuinfo==9.0.0
-pyarrow==21.0.0
+prometheus-fastapi-instrumentator==7.1.0
+
+# Sentry - Error tracking
+sentry-sdk==2.45.0
+
+# ============================================================================
+# VISUALIZATION
+# ============================================================================
+# Matplotlib - Plotting
+matplotlib==3.10.7
+seaborn==0.13.2
+contourpy==1.3.3
+cycler==0.12.1
+fonttools==4.60.1
+kiwisolver==1.4.9
+
+# ============================================================================
+# DATABASE / STORAGE
+# ============================================================================
+# SQLite (pysqlite3 for ChromaDB compatibility)
+pysqlite3-binary==0.5.4
+
+# ============================================================================
+# GRAMMAR / STRUCTURED OUTPUT
+# ============================================================================
+# Grammar enforcement for structured outputs
+lm-format-enforcer==0.11.3
+outlines_core==0.2.11
+xgrammar==0.1.25
+llguidance==1.3.0
+
+# ============================================================================
+# DEPENDENCIES / LOW-LEVEL LIBRARIES
+# ============================================================================
+# Core Python utilities
+attrs==25.3.0
+click==8.2.1
+packaging==25.0
+# Note: pip, setuptools, wheel are base packages and not included
+
+# Async/HTTP
+aiohttp==3.12.15
+aiosignal==1.4.0
+aiohappyeyeballs==2.6.1
+anyio==4.10.0
+multidict==6.6.4
+frozenlist==1.7.0
+yarl==1.20.1
+websockets==15.0.1
+websocket-client==1.8.0
+
+# Network
+requests==2.32.5
+urllib3==2.5.0
+certifi==2025.8.3
+idna==3.10
+charset-normalizer==3.4.3
+dnspython==2.8.0
+
+# Authentication
+google-auth==2.40.3
+oauthlib==3.3.1
+requests-oauthlib==2.0.0
 pyasn1==0.6.1
 pyasn1_modules==0.4.2
+rsa==4.9.1
+bcrypt==4.3.0
+
+# JSON/Data formats
+jsonschema==4.25.1
+jsonschema-specifications==2025.9.1
+referencing==0.36.2
+rpds-py==0.27.1
+
+# Date/Time
+python-dateutil==2.9.0.post0
+pytz==2025.2
+tzdata==2025.2
+
+# Math/Scientific
+sympy==1.14.0
+mpmath==1.3.0
+numba==0.61.2
+llvmlite==0.44.0
+
+# System utilities
+psutil==7.0.0
+py-cpuinfo==9.0.0
+setproctitle==1.3.7
+watchfiles==1.1.0
+
+# Template engine
+Jinja2==3.1.6
+MarkupSafe==2.1.5
+
+# Parsing
+lark==1.2.2
+pyparsing==3.2.5
+interegular==0.3.3
+
+# Type checking
+typing_extensions==4.15.0
+typing-inspection==0.4.2
+annotated-types==0.7.0
+overrides==7.7.0
+
+# Documentation
+docstring_parser==0.17.0
+markdown-it-py==4.0.0
+mdurl==0.1.2
+Pygments==2.19.2
+
+# CLI tools
+typer==0.17.4
+shellingham==1.5.4
+tabulate==0.9.0
+
+# Other utilities
+einops==0.8.1
+joblib==1.5.2
+multiprocess==0.70.16
+networkx==3.3
+distro==1.9.0
+humanfriendly==10.0
+blake3==1.0.8
+xxhash==3.5.0
+zstandard==0.25.0
 pybase64==1.4.2
 pycountry==24.6.1
-pydantic==2.12.4
-pydantic-extra-types==2.10.6
-pydantic_core==2.41.5
-Pygments==2.19.2
-PyMuPDF==1.26.4
-pyparsing==3.2.5
-PyPika==0.48.9
-pyproject_hooks==1.2.0
-pysqlite3-binary==0.5.4
-python-dateutil==2.9.0.post0
-python-dotenv==1.1.1
-python-json-logger==4.0.0
+email-validator==2.3.0
 python-multipart==0.0.20
-pytz==2025.2
-PyYAML==6.0.2
+wcwidth==0.2.13
+wrapt==1.17.3
+propcache==0.3.2
+fastrlock==0.8.3
+
+# Build tools
+build==1.3.0
+pyproject_hooks==1.2.0
+ninja==1.13.0
+
+# Protocol buffers
+protobuf==6.32.1
+googleapis-common-protos==1.70.0
+grpcio==1.74.0
+
+# Miscellaneous
+absl-py==2.3.1
+annotated-doc==0.0.4
+apache-tvm-ffi==0.1.3
+asgiref==3.9.1
+astor==0.8.1
+av==15.1.0
+depyf==0.20.0
+durationpy==0.10
+fastar==0.6.0
+flatbuffers==25.2.10
+ftfy==6.3.1
+gguf==0.17.1
+jiter==0.11.0
+jmespath==1.0.1
+kubernetes==33.1.0
+mistral_common==1.8.5
+ml_dtypes==0.5.3
+mmh3==5.2.0
+model-hosting-container-standards==0.1.9
+msgspec==0.19.0
+partial-json-parser==0.2.1.1.post7
+posthog==5.4.0
+pulsar-client==3.8.0
+PyPika==0.48.9
 pyzmq==27.1.0
-qwen-vl-utils==0.0.11
-ray==2.52.0
-referencing==0.36.2
-regex==2025.9.1
-requests==2.32.5
-requests-oauthlib==2.0.0
-rich==14.1.0
-rich-toolkit==0.16.0
 rignore==0.7.6
-rouge_score==0.1.2
-rpds-py==0.27.1
-rsa==4.9.1
-safetensors==0.6.2
-scipy==1.15.2
-seaborn==0.13.2
-sentencepiece==0.2.1
-sentry-sdk==2.45.0
-setproctitle==1.3.7
-shellingham==1.5.4
+supervisor==4.3.0
+uvloop==0.21.0
+zipp==3.23.0
+importlib_metadata==8.7.0
+importlib_resources==6.5.2
 six==1.17.0
 sniffio==1.3.1
-starlette==0.50.0
-supervisor==4.3.0
-sympy==1.14.0
-tabulate==0.9.0
-tenacity==9.1.2
-tiktoken==0.12.0
-tokenizers==0.22.0
-torch==2.9.0
-torchaudio==2.9.0
-torchvision==0.24.0
-tqdm==4.67.1
-transformers @ git+https://github.com/huggingface/transformers@9c804f7ec42c94289ce52eaa84eed32f770311d7
-triton==3.5.0
-typer==0.17.4
-typing-inspection==0.4.2
-typing_extensions==4.15.0
-tzdata==2025.2
-urllib3==2.5.0
-uvicorn==0.35.0
-uvloop==0.21.0
-vllm==0.11.2
-watchfiles==1.1.0
-wcwidth==0.2.13
-websocket-client==1.8.0
-websockets==15.0.1
-wrapt==1.17.3
-xformers==0.0.33.post1
-xgrammar==0.1.25
-xxhash==3.5.0
-yarl==1.20.1
-zipp==3.23.0
-zstandard==0.25.0
