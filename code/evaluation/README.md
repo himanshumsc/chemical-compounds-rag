@@ -5,18 +5,24 @@ This directory contains scripts and documentation for calculating evaluation met
 ## Directory Structure
 
 ```
-bleu_evaluation/
+evaluation/
 ├── README.md                          # This file
 ├── BLEU_SCORE_PLAN.md                # Detailed plan and methodology
 ├── BERTSCORE_PLAN.md                 # BERTScore plan and methodology
 ├── scripts/
 │   ├── bleu_score_calculator.py     # Main BLEU calculation script
-│   └── bertscore_calculator.py      # Main BERTScore calculation script
+│   ├── bleu_score_calculator_regenerated.py  # BLEU calculator for regenerated data
+│   ├── bertscore_calculator.py      # Main BERTScore calculation script
+│   └── bertscore_calculator_regenerated.py  # BERTScore calculator for regenerated data
 ├── results/                           # Output directory (generated)
-│   ├── per_question_bleu.csv        # Detailed per-question BLEU scores
-│   ├── per_question_bertscore.csv   # Detailed per-question BERTScore
-│   ├── summary_metrics.json         # Aggregated BLEU statistics
-│   └── summary_bertscore.json       # Aggregated BERTScore statistics
+│   ├── per_question_bleu.csv        # Detailed per-question BLEU scores (original)
+│   ├── per_question_bleu_regenerated.csv  # BLEU scores for regenerated data
+│   ├── per_question_bertscore.csv   # Detailed per-question BERTScore (original)
+│   ├── per_question_bertscore_regenerated.csv  # BERTScore for regenerated data
+│   ├── summary_metrics.json         # Aggregated BLEU statistics (original)
+│   ├── summary_metrics_regenerated.json  # BLEU stats for regenerated data
+│   ├── summary_bertscore.json       # Aggregated BERTScore statistics (original)
+│   └── summary_bertscore_regenerated.json  # BERTScore stats for regenerated data
 └── visualizations/                   # Charts and plots (generated)
 ```
 
@@ -27,30 +33,50 @@ bleu_evaluation/
 ```bash
 cd /home/himanshu/dev/code
 source .venv_phi4_req/bin/activate
-pip install -r bleu_evaluation/requirements.txt
+pip install -r evaluation/requirements.txt
 python -c "import nltk; nltk.download('punkt')"
+python -c "import nltk; nltk.download('punkt_tab')"
 ```
 
 ### 2. Run Evaluation Scripts
 
-**BLEU Score Calculation:**
+**BLEU Score Calculation (Original Data):**
 ```bash
-cd /home/himanshu/dev/code/bleu_evaluation/scripts
+cd /home/himanshu/dev/code/evaluation/scripts
 python bleu_score_calculator.py
 ```
 
-**BERTScore Calculation:**
+**BLEU Score Calculation (Regenerated Data):**
 ```bash
-cd /home/himanshu/dev/code/bleu_evaluation/scripts
+cd /home/himanshu/dev/code/evaluation/scripts
+python bleu_score_calculator_regenerated.py
+```
+
+**BERTScore Calculation (Original Data):**
+```bash
+cd /home/himanshu/dev/code/evaluation/scripts
 python bertscore_calculator.py
+```
+
+**BERTScore Calculation (Regenerated Data):**
+```bash
+cd /home/himanshu/dev/code/evaluation/scripts
+python bertscore_calculator_regenerated.py
 ```
 
 **Note**: BERTScore requires a GPU for efficient processing. The script will automatically use CPU if GPU is not available, but it will be slower.
 
 ## Data Sources
 
+### Original Data
 - **QWEN Answers (Candidate)**: `/home/himanshu/dev/output/qwen/*__answers.json`
 - **OpenAI Answers (Reference)**: `/home/himanshu/dev/test/data/processed/qa_pairs_individual_components/*.json`
+
+### Regenerated Data
+- **QWEN Answers (Candidate)**: `/home/himanshu/dev/output/qwen_regenerated/*__answers.json`
+  - Regenerated with vLLM, max_tokens=500
+- **OpenAI Answers (Reference)**: `/home/himanshu/dev/test/data/processed/qa_pairs_individual_components_comprehensive/*.json`
+  - Regenerated with comprehensive_text, max_tokens=500
 
 ## Output
 
@@ -155,5 +181,11 @@ If files don't match, check the console output for warnings.
 
 ---
 
-**Last Updated**: 2025-01-07
+**Last Updated**: November 23, 2025
+
+## Regenerated Data Analysis
+
+See the following documents for detailed analysis of regenerated data:
+- `BLEU_REGENERATED_RESULTS.md` - BLEU score analysis for regenerated QWEN vs OpenAI answers
+- `BERTSCORE_REGENERATED_RESULTS.md` - BERTScore analysis for regenerated QWEN vs OpenAI answers
 
