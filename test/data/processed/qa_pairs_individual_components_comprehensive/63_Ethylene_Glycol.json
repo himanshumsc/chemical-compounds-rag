@@ -1,0 +1,58 @@
+{
+  "compound_id": 60,
+  "compound_name": "Ethylene Glycol",
+  "source_file": "compound_060_Ethylene Glycol.json",
+  "main_entry_length": 4121,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0364_Ethylene_Glycol_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:07",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of ethylene glycol. In the diagram, red atoms represent oxygen, white atoms are hydrogen, and black atoms are carbon. Ethylene glycol is a colorless, odorless, sweet-tasting liquid commonly used as an antifreeze and in the manufacture of polyester fibers and resins. It has a high boiling point and low freezing point, making it effective in preventing freezing and overheating in engines. It's also hygroscopic, meaning it can absorb water from the air.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethylene glycol?",
+      "answer": "The chemical formula of ethylene glycol is CH2OHCH2OH, and its molecular weight is 62.07 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:01",
+      "char_limit": 1000,
+      "answer_length": 95
+    },
+    {
+      "question": "Explain why ethylene glycol is used in radiator coolants instead of plain water.",
+      "answer": "Ethylene glycol is used in radiator coolants instead of plain water because it raises the boiling point of the coolant. This characteristic allows vehicles, such as airplanes, to operate at higher speeds without the risk of the radiator boiling over, which was a limitation when using water alone. By adding ethylene glycol, the coolant can maintain its liquid state at higher temperatures, enabling the use of smaller radiators and contributing to more efficient and faster vehicle designs. This change was particularly beneficial in the construction of military airplanes used in combat, as it enhanced their performance and reliability. Additionally, ethylene glycol remains extensively used as a coolant and antifreeze in various applications due to its effectiveness in preventing freezing and overheating.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:08",
+      "char_limit": 1800,
+      "answer_length": 811
+    },
+    {
+      "question": "Describe the primary industrial method for producing ethylene glycol and discuss its efficiency.",
+      "answer": "The primary industrial method for producing ethylene glycol involves the hydration of ethylene oxide. Ethylene oxide is a ring compound consisting of two methylene (-CH2) groups and one oxygen atom. The hydration process adds water to ethylene oxide, and it can be conducted at a temperature of about 383°F (195°C) without a catalyst, or at about 50°C to 70°C (122°F to 158°F) with a catalyst, typically a strong acid. Both processes result in a yield of at least 90 percent of ethylene glycol, indicating high efficiency in the production method.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:11",
+      "char_limit": 2000,
+      "answer_length": 547
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6879,
+  "updated_at": "2025-11-30 14:03:11",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

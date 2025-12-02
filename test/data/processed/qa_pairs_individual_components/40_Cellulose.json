@@ -1,0 +1,38 @@
+{
+  "compound_id": 37,
+  "compound_name": "Cellulose",
+  "source_file": "compound_037_Cellulose.json",
+  "main_entry_length": 1524,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0246_Cellulose_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is cellulose. Cellulose is a polysaccharide consisting of a linear chain of several hundred to many thousands of β(1→4) linked D-glucose units. It is a primary structural component of plant cell walls and is the most abundant organic polymer on Earth.\n\nKey properties of cellulose include:\n\n1. **Insolubility in Water**: Cellulose is not soluble in water due to its strong hydrogen bonding.\n2. **High Tensile Strength**: This makes it an important material in plant structure.\n3. **Biodegradability**: It can be broken down by microorganisms, making it...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:31"
+    },
+    {
+      "question": "What is the chemical formula for cellulose and what does the subscript 'n' signify?",
+      "answer": "The chemical formula for cellulose is (C6H10O5)n. The subscript 'n' signifies that cellulose is a polymer consisting of a large number of glucose monomers, indicating the polymer nature of cellulose as a polysaccharide.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of cellulose and explain why it behaves that way.",
+      "answer": "Cellulose is insoluble in water and all common organic solvents. This insolubility is due to its large molecular structure and the nature of hydrogen bonding between the glucose monomers, which makes it difficult for cellulose to interact with solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Cellulose is described as providing structural support for plants. Discuss how its structure contributes to this function and compare its occurrence in various natural sources.",
+      "answer": "Cellulose provides structural support due to its long chains of glucose monomers that form strong fibers, which are resistant to hydrolysis and enzymatic breakdown. This makes cellulose an ideal material for maintaining rigidity and strength in plant cell walls. Cellulose does not occur in pure form in nature; cotton is the purest with about 90% cellulose content, flax has 70-75%, wood contains 40-50%, and seaweeds and algae have 25-30%. The varying cellulose content affects the strength and rigidity of these materials.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

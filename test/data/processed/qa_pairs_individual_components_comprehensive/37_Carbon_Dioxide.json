@@ -1,0 +1,58 @@
+{
+  "compound_id": 34,
+  "compound_name": "Carbon Dioxide",
+  "source_file": "compound_034_Carbon Dioxide.json",
+  "main_entry_length": 5242,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0228_Carbon_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents carbon dioxide (CO₂). It consists of one carbon atom (black) and two oxygen atoms (red), with double bonds shown as gray sticks. Carbon dioxide is a colorless, odorless gas at room temperature and is a significant greenhouse gas. It is produced naturally through processes like respiration, fermentation, and the combustion of fossil fuels. Industrially, it's obtained from reactions involving calcium carbonate or as a by-product in processes like the Haber-Bosch process.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:19"
+    },
+    {
+      "question": "What is the chemical formula of carbon dioxide, and what elements does it comprise?",
+      "answer": "The chemical formula of carbon dioxide is CO2. It comprises the elements carbon and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:13",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain the role of carbon dioxide in the carbonation of beverages and its effects on taste and preservation.",
+      "answer": "Carbon dioxide plays a crucial role in the carbonation of beverages by being dissolved into the liquid, which creates a sparkling, refreshing drink. This process was first discovered by the English chemist Joseph Priestley in the mid-eighteenth century. The carbonation adds a zesty taste to the beverage, enhancing its flavor profile. Additionally, carbon dioxide contributes to the preservation of the beverage by creating an acidic environment that inhibits the growth of spoilage microorganisms. This makes carbonated drinks not only more enjoyable in terms of taste but also helps in maintaining their quality over time.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:23",
+      "char_limit": 1800,
+      "answer_length": 625
+    },
+    {
+      "question": "Describe the significance of supercritical carbon dioxide (SC-CO2) and its properties.",
+      "answer": "Supercritical carbon dioxide (SC-CO2) is a form of carbon dioxide that exhibits properties of both a liquid and a gas under specific conditions of temperature and pressure. This dual behavior makes SC-CO2 a highly efficient solvent with significant advantages for various applications. Its unique properties as a solvent are considered environmentally friendly, as SC-CO2 does not pose environmental disadvantages typically associated with other solvents. This has made SC-CO2 of great interest to scientists for its potential uses in industrial and commercial processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:32",
+      "char_limit": 2000,
+      "answer_length": 571
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 17585,
+  "updated_at": "2025-11-30 13:57:32",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

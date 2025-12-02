@@ -1,0 +1,36 @@
+{
+  "compound_id": 74,
+  "compound_name": "Isoamyl Acetate",
+  "source_file": "compound_074_Isoamyl Acetate.json",
+  "main_entry_length": 1197,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0428_Isoamyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Isoamyl Acetate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Isoamyl Acetate?",
+      "answer": "The chemical formula of Isoamyl Acetate is CH3COOCH2CH2CH(CH3)2, and its molecular weight is 130.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of Isoamyl Acetate and its implications for industrial uses.",
+      "answer": "Isoamyl Acetate is slightly soluble in water but soluble in most organic solvents. This property makes it suitable for use in various industrial applications where it can be mixed with organic compounds. Its solubility in organic solvents allows it to be used effectively as a flavoring agent or fragrance in products that are oil-based or require non-aqueous solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process by which Isoamyl Acetate is commercially produced and how it relates to its isomers.",
+      "answer": "Isoamyl Acetate is commercially produced by reacting acetic acid (CH3COOH) with amyl alcohol (C4H9CH2OH) to produce amyl acetate, which has eight isomers. The production process involves separating these isomers through fractional distillation to obtain the specific desired form of isoamyl acetate. This process is crucial because each isomer can have different properties and applications, and isoamyl acetate is particularly valued for its fruity odor and taste reminiscent of pears or bananas.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

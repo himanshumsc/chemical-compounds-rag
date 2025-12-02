@@ -1,0 +1,36 @@
+{
+  "compound_id": 70,
+  "compound_name": "Hydrogen Chloride",
+  "source_file": "compound_070_Hydrogen Chloride.json",
+  "main_entry_length": 1357,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0408_Hydrogen_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:49",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Hydrogen Chloride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of hydrogen chloride and what elements does it consist of?",
+      "answer": "The chemical formula of hydrogen chloride is HCl. It consists of the elements hydrogen and chlorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why hydrogen chloride is considered an inorganic acid and describe its physical state at room temperature.",
+      "answer": "Hydrogen chloride is considered an inorganic acid because it is composed of elements other than carbon and is capable of donating a proton (H+ ion) in solution. At room temperature, hydrogen chloride exists as a colorless gas with a strong, suffocating odor.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical significance of hydrogen chloride and its industrial importance based on the provided information.",
+      "answer": "Hydrogen chloride has historical significance dating back to the eighth century when it was described by the Arabian chemist Jabir ibn Hayyan. He produced the gas by reacting common table salt with sulfuric acid. In terms of industrial importance, hydrogen chloride is available as hydrochloric acid, which is one of the most important industrial chemicals globally. In 2004, it was the eighteenth most important chemical in the United States by production volume, with over 5 million metric tons produced.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

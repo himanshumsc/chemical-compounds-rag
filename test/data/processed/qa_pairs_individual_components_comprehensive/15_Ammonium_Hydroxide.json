@@ -1,0 +1,58 @@
+{
+  "compound_id": 11,
+  "compound_name": "Ammonium Hydroxide",
+  "source_file": "compound_011_Ammonium Hydroxide.json",
+  "main_entry_length": 1221,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0120_Ammonium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents ammonium hydroxide. It is formed when ammonia gas (NH₃) is dissolved in water, resulting in a solution that contains NH₄⁺ (ammonium) and OH⁻ (hydroxide) ions. Ammonium hydroxide is commonly used as a cleaning agent, in the manufacture of textiles, as a refrigerant, and as a food additive to maintain acidity. It can also be found in the production of soaps, detergents, and other industrial products. Exposure to its vapors can pose health hazards due to the release of ammonia gas.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:06"
+    },
+    {
+      "question": "What is the chemical formula for ammonium hydroxide and which elements does it consist of?",
+      "answer": "The chemical formula for ammonium hydroxide is NH4OH. It consists of the elements nitrogen, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:06",
+      "char_limit": 1000,
+      "answer_length": 113
+    },
+    {
+      "question": "Explain why ammonium hydroxide does not have a melting or boiling point.",
+      "answer": "Ammonium hydroxide does not have a melting or boiling point because it exists only as an aqueous solution, not as a pure compound. It is a solution of ammonia gas dissolved in water, and the compound does not exist in any other state. Therefore, it cannot be measured for melting or boiling points, which are properties typically associated with pure substances.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:08",
+      "char_limit": 1800,
+      "answer_length": 362
+    },
+    {
+      "question": "Describe the process of how ammonium hydroxide is prepared and discuss its stability.",
+      "answer": "Ammonium hydroxide is prepared by dissolving ammonia gas (NH3) in water. This process results in a clear, colorless aqueous solution that contains ammonium hydroxide (NH4OH). The compound does not exist outside of this solution form. Once prepared, ammonium hydroxide solutions tend to be very stable. The concentration of ammonia in these solutions typically ranges from less than one percent to about 35 percent, with commercial solutions usually containing at least 10 percent ammonia. The use of ammonium hydroxide over ammonia gas provides the advantage of easier control of the reactant when it is dissolved in water.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:12",
+      "char_limit": 2000,
+      "answer_length": 623
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2979,
+  "updated_at": "2025-11-30 13:47:12",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

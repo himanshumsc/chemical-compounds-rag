@@ -1,0 +1,38 @@
+{
+  "compound_id": 110,
+  "compound_name": "Phenol",
+  "source_file": "compound_110_Phenol.json",
+  "main_entry_length": 1487,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0610_Phenol_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:33",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of phenol. Phenol is an aromatic organic compound with the chemical formula C₆H₅OH. It consists of a benzene ring bonded to a hydroxyl group (-OH). Key properties of phenol include its role as a precursor to various industrial compounds and its use in the production of plastics, resins, and pharmaceuticals. Phenol is also a disinfectant and antiseptic but can be corrosive and toxic if not handled properly. Its production is significant, with about 6 million metric tons produced annually in the United States.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:26"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phenol?",
+      "answer": "The chemical formula of phenol is C6H5OH, and its molecular weight is 94.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the physical state and solubility properties of phenol.",
+      "answer": "Phenol is a white, crystalline solid with a characteristic odor and a sharp, burning taste. It is soluble in water, ethyl alcohol, ether, chloroform, acetone, benzene, and other organic solvents. Phenol also has a tendency to absorb moisture from the air, turning into an aqueous solution.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the historical significance of phenol and its discovery.",
+      "answer": "Phenol was first observed by Johann Rudolf Glauber, who obtained it from coal tar vapors. It was later isolated by Friedlieb Ferdinand Runge in 1834, who named it carbolic acid. The modern name 'phenol' was suggested by Charles Frederic Gerhardt in 1843. Phenol's discovery was significant as it highlighted the potential of coal tar as a source of valuable chemical compounds.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

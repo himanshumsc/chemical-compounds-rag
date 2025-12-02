@@ -1,0 +1,38 @@
+{
+  "compound_id": 114,
+  "compound_name": "Polyethylene",
+  "source_file": "compound_114_Polyethylene.json",
+  "main_entry_length": 1577,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0630_Polyethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:49",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polyethylene. Polyethylene is a polymer made of repeated methylene (-CH₂-) units. It is a versatile plastic known for its durability, chemical resistance, and flexibility. Polyethylene is used in a wide variety of applications, including packaging materials, containers, and piping. It can be produced in different densities, such as high-density polyethylene (HDPE) and low-density polyethylene (LDPE), each with distinct properties and uses.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:34"
+    },
+    {
+      "question": "What are the primary elements that make up the compound polyethylene?",
+      "answer": "The primary elements that make up polyethylene are carbon and hydrogen. The chemical formula for polyethylene is -[-CH2-CH2-]-n, indicating the repeating units of ethylene composed of these elements.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does the structure of polyethylene affect its density, particularly in high-density versus low-density forms?",
+      "answer": "The structure of polyethylene significantly affects its density. High-density polyethylene (HDPE) consists of straight chains without branches, allowing the chains to pack together tightly, thus increasing the density. In contrast, low-density polyethylene (LDPE) has shorter chains with many side branches, which prevent the chains from packing closely together, resulting in lower density.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Given that polyethylene is a thermosetting polymer, explain why it cannot be re-melted once formed and how this property influences its applications.",
+      "answer": "Polyethylene, being a thermosetting polymer, is resistant to high temperatures and cannot be re-melted once it is formed. This is because, during formation, the polymer chains form irreversible chemical bonds, especially in cross-linked polyethylene. This property makes polyethylene ideal for applications where stability and resistance to deformation under heat are crucial, such as in piping systems, containers, and other durable goods that require structural integrity.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

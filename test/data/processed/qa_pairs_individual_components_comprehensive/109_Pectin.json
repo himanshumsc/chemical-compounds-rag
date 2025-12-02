@@ -1,0 +1,58 @@
+{
+  "compound_id": 105,
+  "compound_name": "Pectin",
+  "source_file": "compound_105_Pectin.json",
+  "main_entry_length": 3593,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0582_Pectin_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't see molecular structure diagrams or images, but based on the text provided, the chemical compound discussed is pectin. Pectin is a natural substance found in ripening fruit and is used primarily as a gelling agent in jams and jellies. It forms a thick, jelly-like mass when dissolved in water. Pectin is also used as a food additive to stabilize and emulsify products, and in pharmaceuticals and cosmetics. The U.S. FDA has classified pectin as an approved food additive, considering it safe for consumption.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:16"
+    },
+    {
+      "question": "What is the solubility characteristic of pectin, and how does this property relate to its primary use?",
+      "answer": "Pectin is soluble in water but insoluble in organic solvents. This solubility characteristic is essential for its primary use as a jelling agent in the manufacture of jams and jellies. When dissolved in water, pectin forms a thick, jelly-like mass, which is crucial for achieving the desired consistency and texture in these products.",
+      "difficulty_level": "basic",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:46",
+      "char_limit": 1000,
+      "answer_length": 334
+    },
+    {
+      "question": "Explain why pectin is classified as a mixture and not a compound, and describe its chemical structure.",
+      "answer": "Pectin is classified as a mixture rather than a compound because its components are not chemically combined, and it doesn't have a definite composition. Instead, it consists of varying amounts of substances. Chemically, pectin is a polysaccharide, which is a large molecule made up of many thousands of monosaccharide units linked in long, complex chains. Monosaccharides are simple sugars, and those in pectin are more complex than glucose. Pectin's chemical structure enables it to form a thick, jelly-like mass when dissolved in water, which is why it is primarily used as a jelling agent in jams and jellies. It occurs naturally in many fruits and vegetables, especially in citrus fruits, and is commercially extracted from citrus peel or apple pomace using hot, acidified water, followed by purification processes.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:49",
+      "char_limit": 1800,
+      "answer_length": 819
+    },
+    {
+      "question": "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubility properties.",
+      "answer": "Pectin is commercially extracted from raw materials like citrus peel or apple pomace by treating them with hot, acidified water. This process dissolves the pectin, which is then purified through repeated filtrations. To extract the pectin from the water solution, alcohol or an aluminum salt is added, causing the pectin to precipitate out. The precipitate is then dried and ground into a powder.\n\nTo modify the solubility properties of pectin, additional steps are sometimes undertaken to convert high ester pectin to low ester pectin, which is more soluble. This conversion involves treating high ester pectin with acids or alkalis, followed by washing and purification.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:51",
+      "char_limit": 2000,
+      "answer_length": 672
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5471,
+  "updated_at": "2025-11-30 13:36:51",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

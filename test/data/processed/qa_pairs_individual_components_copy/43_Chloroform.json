@@ -1,0 +1,36 @@
+{
+  "compound_id": 40,
+  "compound_name": "Chloroform",
+  "source_file": "compound_040_Chloroform.json",
+  "main_entry_length": 4514,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0262_Chloroform_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Chloroform.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What are the chemical formula and molecular weight of chloroform?",
+      "answer": "The chemical formula of chloroform is CHCl3, and its molecular weight is 119.38 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why chloroform was replaced by other compounds as an anesthetic in the twenty-first century.",
+      "answer": "Chloroform was replaced by other compounds as an anesthetic because newer anesthetics are more effective and have fewer undesirable side effects compared to chloroform.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the commercial production process of chloroform. Include the chemical reaction involved.",
+      "answer": "Chloroform is produced commercially by the reaction between chlorine gas and methane gas, where each of the four hydrogens in methane is replaced, one at a time, by chlorine atoms. This process must be carefully controlled to ensure maximum amounts of chloroform are obtained. Additionally, chloroform can be produced by the reaction between acetone and bleaching powder (CaOCl2) in the presence of sulfuric acid (H2SO4): 2CH3COCH3 + 6CaOCl2 → 2CHCl3 + (CH3COO)2Ca + 3CaCl2 + 2Ca(OH)2.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 16,
+  "compound_name": "Amyl Nitrite",
+  "source_file": "compound_016_Amyl Nitrite.json",
+  "main_entry_length": 2615,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0140_Amyl_Nitrite_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:40",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is amyl nitrite. It consists of carbon (black spheres), hydrogen (white spheres), oxygen (red spheres), and nitrogen (blue sphere). Amyl nitrite is used medically to treat angina by causing blood vessels to expand, improving blood flow and reducing chest pain. It also has applications in treating poisoning by hydrogen cyanide and hydrogen sulfide. Additionally, it is used in perfumes and as a room deodorizer due to its ability to produce relaxing effects.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:39"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Amyl Nitrite?",
+      "answer": "The chemical formula of Amyl Nitrite is C5H11NO2, and its molecular weight is 117.15 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is isoamyl nitrite considered unstable, and what are its effects when used medically?",
+      "answer": "Isoamyl nitrite is considered unstable because it breaks down when exposed to air, light, or water. Medically, it is used as a vasodilator, which means it causes blood vessels to relax and expand, allowing for increased blood flow. This is particularly useful in treating angina and poisoning by hydrogen cyanide and hydrogen sulfide gas.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the synthesis method of isoamyl nitrite, and explain its use in emergency medical situations.",
+      "answer": "Isoamyl nitrite is prepared by reacting isoamyl alcohol with nitrous acid. One common method involves generating nitrous acid by combining starch with concentrated nitric acid, then passing it through warm isoamyl alcohol. It can also be synthesized by distilling a mixture of potassium nitrite, isoamyl alcohol, and sulfuric acid. In emergency medical situations, isoamyl nitrite is used to treat poisoning by hydrogen cyanide and hydrogen sulfide gas. It converts to methemoglobin in the body, which binds to these toxic substances, reducing their harmful effects.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

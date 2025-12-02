@@ -1,0 +1,280 @@
+{
+  "source_file": "28_Butyl_Mercaptan.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Butyl mercaptan. It's a liquid with a very strong, skunk-like odor. It's produced via reaction with iodine and a sulfhydryl compound.",
+      "latency_s": 20.67,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "answer": "The provided text does not contain information about butyl mercaptan. It details acetic acid, containing elements Carbon, Hydrogen, and Oxygen.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7528897821903229,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "has_image": false,
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_73",
+          "score": 0.7288393378257751,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "74-74",
+            "text_length": 1443,
+            "chunk_id": "chunk_73",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7215535640716553,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1364,
+            "image_path": "",
+            "page_range": "44-44",
+            "chunk_id": "chunk_43"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7116826176643372,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_0",
+            "text_length": 162,
+            "page_range": "1-1"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7088924646377563,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_76",
+            "page_range": "77-77",
+            "image_path": "",
+            "text_length": 1769
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.753)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.729)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 3 (Relevance: 0.722)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n\n\n[Source 4 (Relevance: 0.712)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.709)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl mercaptan and name its three isomers.",
+      "answer": "Isomers are molecules with the same molecular formula but different structural arrangements. Butyl mercaptan (C₄H₁₀S) has several isomers. Three examples include:\n\n1. **n-Butyl Mercaptan:** CH₃CH₂CH₂CH₂SH\n2. **sec-Butyl Mercaptan:** CH₃CH(SH)CH₂CH₃\n3. **isobutyl mercaptan:** (CH₃)₂CHCH₂SH\n\n\n\nThese isomers differ in how the sulfur atom is positioned relative to the carbon chain.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_14",
+          "score": 0.7606674283742905,
+          "text": "compounds, they usually use only the official IUPAC name\nfor a compound since that name leaves no doubt as to the\nsubstance about which they are talking. In some cases, a\ncompound may have more than one official name, depending\non the set of rules used in the naming process. For example,\n1,10-thiobis[2-chloroethane] is also an acceptable name for\nmustard gas. The ‘‘Other Names’’ section of each entry\nlists both the systematic (IUPAC) and common names for a\ncompound.\nMany compounds also have another kind of name, a\nbrand name or trade name given to them by their manufac-\nturers. For example, some trade names for the pain killer\nacetaminophen are PanadolTM, TylenolTM, AcetaTM, Gena-\npapTM, TempraTM, and DepacinTM. The symbol next to each\nname means that the name is registered to the company that\nmakes the compound. Trades names may be mentioned in the\nOverview or Uses sections of the entry for each compound.\nChemical Formula: A chemical formula is a set of sym-\nbols that tells the elements present in a compound and the\nrelative numbers of each element. For example, the chemical\nformula for the compound carbon dioxide is CO2. That for-\nmula tells that for every one carbon atom (C) in carbon\ndioxide there are two atoms of oxygen (O).\nChemists use different kinds of formulas to describe a\ncompound. The simplest formula is a molecular formula.\nA molecular formula like CO2 tells the kind and relative\nnumber of elements present in the compound. Another kind\nof formula is a structural formula. A structural formula\nprovides one additional piece of information: The arrange-\nment of elements in a compound. The structural formula for\nmethanol (wood alcohol), for example, is CH3OH. That for-\nmula shows that methanol consists of a carbon atom (C) to\nwhich are attached three hydrogen (H) atoms (CH3). The\ncarbon atom is also joined to an oxygen atom (O) which, in\nturn, is attached to a hydrogen atom (H).\nStructural formulas can be written in a variety of ways.\nAnother way to draw the structural formula for methanol, for\nexample, is to show where individual bonds between atoms\nbranch off other atoms in different directions. These struc-\ntural formulas can be seen on the first page of nearly\nall entries in Chemical Compounds. In a third type of struc-\ntural formula, the ball-and-stick formula, each element is\nReader’s Guide\nxiv\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "chunk_id": "chunk_14",
+            "image_path": "",
+            "page_range": "15-15",
+            "text_length": 2370,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.7065953612327576,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "9-9",
+            "text_length": 2062,
+            "chunk_id": "chunk_8",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_51",
+          "score": 0.6896501779556274,
+          "text": "OTHER NAMES:\nBiethylene; bivinyl;\ndivinyl; erythrene;\nvinylethylene\nFORMULA:\nCH2=CHCH=CH2\nELEMENTS:\nCarbon, hydrogen\nCOMPOUND TYPE:\nAlkene (unsaturated\nhydrocarbon)\nSTATE:\nGas\nMOLECULAR WEIGHT:\n54.09 g/mol\nMELTING POINT:\n\u0002108.91\u0003C\n(\u0002164.04\u0003F)\nBOILING POINT:\n\u00024.41\u0003C (\u000224.1\u0003F)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, and benzene\n1,3-Butadiene\nK E Y F A C T S\nOVERVIEW\n1,3-butadiene (one-three-byoo-tah-DYE-een) is a colorless\ngas with a mild, slightly sweet odor. It occurs naturally in\npetroleum, from which it is extracted at refineries. The com-\npound was first discovered in petroleum in 1886 by the\nEnglish chemist Henry E. Armstrong (1848–1937) and his\ncolleague A. K. Miller (no dates available). This discovery\napparently had no practical application until 1910 when the\nRussian chemist Sergei Lebedev (1874–1934) developed a\nmethod for polymerizing butadiene to make a rubber-like\nsubstance. Even then, Lebedev’s invention, called polybuta-\ndiene, was primarily a laboratory curiosity. There was rela-\ntively little demand for rubber products that could not be\nmet by the vast supplies of natural rubber from Southeast\nAsia.\nThat situation began to change in the 1920s and 1930s.\nThe demand for rubber products in automobiles and other\nmotor vehicles, especially tires, grew rapidly as car and truck\nproduction increased rapidly year after year. At the same\nH\nH\nC\nC\nC\nC\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n1\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "52-52",
+            "chunk_id": "chunk_51",
+            "text_length": 1426,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_77",
+          "score": 0.6827932596206665,
+          "text": "OTHER NAMES:\nEthyne; ethine\nFORMULA:\nCH=CH\nELEMENTS:\nCarbon, hydrogen\nCOMPOUND TYPE:\nAlkyne (unsaturated\nhydrocarbon;\norganic)\nSTATE:\nGas\nMOLECULAR WEIGHT:\n26.04 g/mol\nMELTING POINT:\n\u000280.8\u0003C (\u0002113\u0003F)\nBOILING POINT:\n\u000284\u0003C (\u0002120\u0003F)\nSOLUBILITY:\nSlightly soluble in\nwater and alcohol;\nsoluble in acetone\nand benzene\nAcetylene\nK E Y F A C T S\nOVERVIEW\nAcetylene (uh-SET-ill-ene) is the simplest hydrocarbon,\nconsisting of two carbon atoms joined to each other by a\ntriple bond with their associated hydrogen atoms. It occurs\nas a colorless gas with a sweet odor when pure, but an\nunpleasant odor due to the presence of phosphine (PH3)\nand/or arsine (AsH3), with which it is often contaminated.\nAcetylene is a highly flammable gas that is also somewhat\nexplosive. This property accounts for one of its most impor-\ntant uses, in torches that burn at very high temperatures.\nAcetylene\nwas\ndiscovered\nby\nthe\nBritish\nchemist\nEdmund Davy (1785–1857) in 1836. Davy obtained the gas\naccidentally when he combined water with potassium carbide\n(KCH2) while attempting to make potassium metal. He noted\nthat the gas burned with a bright flame and thought it\nmight be used as a source of illumination. That application\nwas impractical, however, because of the high cost of potas-\nsium carbide. When the German chemist Frederich Wo¨hler\n(1800–1882) discovered the far less expensive calcium carbide\nH\nH\nC\nC\nCHEMICAL COMPOUNDS\n27\n",
+          "metadata": {
+            "chunk_id": "chunk_77",
+            "image_path": "",
+            "has_image": false,
+            "page_range": "78-78",
+            "text_length": 1411
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.6821160018444061,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_0",
+            "text_length": 162,
+            "image_path": "",
+            "page_range": "1-1"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.761)]\ncompounds, they usually use only the official IUPAC name\nfor a compound since that name leaves no doubt as to the\nsubstance about which they are talking. In some cases, a\ncompound may have more than one official name, depending\non the set of rules used in the naming process. For example,\n1,10-thiobis[2-chloroethane] is also an acceptable name for\nmustard gas. The ‘‘Other Names’’ section of each entry\nlists both the systematic (IUPAC) and common names for a\ncompound.\nMany compounds also have another kind of name, a\nbrand name or trade name given to them by their manufac-\nturers. For example, some trade names for the pain killer\nacetaminophen are PanadolTM, TylenolTM, AcetaTM, Gena-\npapTM, TempraTM, and DepacinTM. The symbol next to each\nname means that the name is registered to the company that\nmakes the compound. Trades names may be mentioned in the\nOverview or Uses sections of the entry for each compound.\nChemical Formula: A chemical formula is a set of sym-\nbols that tells the elements present in a compound and the\nrelative numbers of each element. For example, the chemical\nformula for the compound carbon dioxide is CO2. That for-\nmula tells that for every one carbon atom (C) in carbon\ndioxide there are two atoms of oxygen (O).\nChemists use different kinds of formulas to describe a\ncompound. The simplest formula is a molecular formula.\nA molecular formula like CO2 tells the kind and relative\nnumber of elements present in the compound. Another kind\nof formula is a structural formula. A structural formula\nprovides one additional piece of information: The arrange-\nment of elements in a compound. The structural formula for\nmethanol (wood alcohol), for example, is CH3OH. That for-\nmula shows that methanol consists of a carbon atom (C) to\nwhich are attached three hydrogen (H) atoms (CH3). The\ncarbon atom is also joined to an oxygen atom (O) which, in\nturn, is attached to a hydrogen atom (H).\nStructural formulas can be written in a variety of ways.\nAnother way to draw the structural formula for methanol, for\nexample, is to show where individual bonds between atoms\nbranch off other atoms in different directions. These struc-\ntural formulas can be seen on the first page of nearly\nall entries in Chemical Compounds. In a third type of struc-\ntural formula, the ball-and-stick formula, each element is\nReader’s Guide\nxiv\nCHEMICAL COMPOUNDS\n\n\n[Source 2 (Relevance: 0.707)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 3 (Relevance: 0.690)]\nOTHER NAMES:\nBiethylene; bivinyl;\ndivinyl; erythrene;\nvinylethylene\nFORMULA:\nCH2=CHCH=CH2\nELEMENTS:\nCarbon, hydrogen\nCOMPOUND TYPE:\nAlkene (unsaturated\nhydrocarbon)\nSTATE:\nGas\nMOLECULAR WEIGHT:\n54.09 g/mol\nMELTING POINT:\n\u0002108.91\u0003C\n(\u0002164.04\u0003F)\nBOILING POINT:\n\u00024.41\u0003C (\u000224.1\u0003F)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, and benzene\n1,3-Butadiene\nK E Y F A C T S\nOVERVIEW\n1,3-butadiene (one-three-byoo-tah-DYE-een) is a colorless\ngas with a mild, slightly sweet odor. It occurs naturally in\npetroleum, from which it is extracted at refineries. The com-\npound was first discovered in petroleum in 1886 by the\nEnglish chemist Henry E. Armstrong (1848–1937) and his\ncolleague A. K. Miller (no dates available). This discovery\napparently had no practical application until 1910 when the\nRussian chemist Sergei Lebedev (1874–1934) developed a\nmethod for polymerizing butadiene to make a rubber-like\nsubstance. Even then, Lebedev’s invention, called polybuta-\ndiene, was primarily a laboratory curiosity. There was rela-\ntively little demand for rubber products that could not be\nmet by the vast supplies of natural rubber from Southeast\nAsia.\nThat situation began to change in the 1920s and 1930s.\nThe demand for rubber products in automobiles and other\nmotor vehicles, especially tires, grew rapidly as car and truck\nproduction increased rapidly year after year. At the same\nH\nH\nC\nC\nC\nC\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n1\n\n\n[Source 4 (Relevance: 0.683)]\nOTHER NAMES:\nEthyne; ethine\nFORMULA:\nCH=CH\nELEMENTS:\nCarbon, hydrogen\nCOMPOUND TYPE:\nAlkyne (unsaturated\nhydrocarbon;\norganic)\nSTATE:\nGas\nMOLECULAR WEIGHT:\n26.04 g/mol\nMELTING POINT:\n\u000280.8\u0003C (\u0002113\u0003F)\nBOILING POINT:\n\u000284\u0003C (\u0002120\u0003F)\nSOLUBILITY:\nSlightly soluble in\nwater and alcohol;\nsoluble in acetone\nand benzene\nAcetylene\nK E Y F A C T S\nOVERVIEW\nAcetylene (uh-SET-ill-ene) is the simplest hydrocarbon,\nconsisting of two carbon atoms joined to each other by a\ntriple bond with their associated hydrogen atoms. It occurs\nas a colorless gas with a sweet odor when pure, but an\nunpleasant odor due to the presence of phosphine (PH3)\nand/or arsine (AsH3), with which it is often contaminated.\nAcetylene is a highly flammable gas that is also somewhat\nexplosive. This property accounts for one of its most impor-\ntant uses, in torches that burn at very high temperatures.\nAcetylene\nwas\ndiscovered\nby\nthe\nBritish\nchemist\nEdmund Davy (1785–1857) in 1836. Davy obtained the gas\naccidentally when he combined water with potassium carbide\n(KCH2) while attempting to make potassium metal. He noted\nthat the gas burned with a bright flame and thought it\nmight be used as a source of illumination. That application\nwas impractical, however, because of the high cost of potas-\nsium carbide. When the German chemist Frederich Wo¨hler\n(1800–1882) discovered the far less expensive calcium carbide\nH\nH\nC\nC\nCHEMICAL COMPOUNDS\n27\n\n\n[Source 5 (Relevance: 0.682)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC"
+    },
+    {
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "answer": "There is no information about butyl mercaptan in the provided text. The documents detail the production and uses of acetic acid, 1,3-butadiene, and acetaminophen, but do not mention butyl mercaptan.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_74",
+          "score": 0.7399079501628876,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "75-75",
+            "image_path": "",
+            "text_length": 1074,
+            "chunk_id": "chunk_74"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.7339208126068115,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "54-54",
+            "chunk_id": "chunk_53",
+            "image_path": "",
+            "text_length": 1567
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.712227463722229,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1769,
+            "page_range": "77-77",
+            "chunk_id": "chunk_76",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7019799649715424,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "has_image": false,
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.6709079742431641,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "text_length": 1074,
+            "has_image": false,
+            "chunk_id": "chunk_70",
+            "image_path": "",
+            "page_range": "71-71"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.740)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 2 (Relevance: 0.734)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 3 (Relevance: 0.712)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.702)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.671)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:57:02",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:57:02",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:58",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    4
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 84,
+  "compound_name": "Magnesium Silicate Hydroxide",
+  "source_file": "compound_084_Magnesium Silicate Hydroxide.json",
+  "main_entry_length": 4194,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0474_Magnesium_Silicate_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows magnesium silicate, specifically magnesium silicate hydroxide. Key properties include:\n\n- Occurrence: It is a component of talc, one of the softest minerals, ranking 1 on the Mohs scale.\n- Appearance: Typically a fine white powder, odorless, and non-combustible.\n- Solubility: Insoluble in most solvents and resistant to heat.\n- Absorption: Tends to absorb moisture from the air.\n- Variability: The mineral can appear in various colors due to impurities.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:08"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Silicate Hydroxide?",
+      "answer": "The chemical formula of Magnesium Silicate Hydroxide is Mg3Si4O10(OH)2. Its molecular weight is 379.27 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:25",
+      "char_limit": 1000,
+      "answer_length": 109
+    },
+    {
+      "question": "Discuss the solubility and physical state characteristics of Magnesium Silicate Hydroxide.",
+      "answer": "Magnesium Silicate Hydroxide, also known as talc or soapstone, is a solid compound with the chemical formula Mg3Si4O10(OH)2. It is one of the softest known minerals, ranking 1 on the Mohs scale, which means it can be scratched with a fingernail. It typically appears as a fine white powder with no odor and has a pearly luster. Its color can vary due to impurities, ranging from white, gray, or silver to black, brown, pink, or green.\n\nIn terms of solubility, Magnesium Silicate Hydroxide is insoluble in water and most organic solvents. This property makes it useful in various applications where solubility is undesirable, such as in cosmetics, lubricants, and as a filler in products. It is non-combustible and resistant to heat, beginning to lose water of hydration at temperatures above 900°C (1600°F) and melting at around 1500°C (2700°F). Additionally, it has a tendency to absorb moisture from the air. These characteristics contribute to its wide use in industries, including cosmetics, food additives, and as a lubricant or filler in several products.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:30",
+      "char_limit": 1800,
+      "answer_length": 1061
+    },
+    {
+      "question": "Explain how Magnesium Silicate Hydroxide is typically obtained and some common uses for this compound.",
+      "answer": "Magnesium Silicate Hydroxide, also known as talc, is typically obtained from natural sources. Extraction involves several steps: the mineral is separated from waste products, crushed, purified, and processed into its desired form, such as powder or crystal. This compound is insoluble in most solvents, non-combustible, and resistant to heat. \n\nCommonly known for its form as talcum powder, Magnesium Silicate Hydroxide is primarily used as a moisture absorbent and skin soother, especially for babies. It's also a key ingredient in many cosmetic products, such as blushes, eye shadows, makeup foundations, and face powders. Additionally, it is used in paints, rubber products, roofing materials, ceramics, insecticides, and as a food additive to prevent clumping. Other applications include use in rice polishing, improving olive oil clarity, laboratory countertops, as a lubricant for sheeted products, and as a filler in soap, putty, and rubber products. It serves as a non-caking agent in animal feeds and fertilizers.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:33",
+      "char_limit": 2000,
+      "answer_length": 1022
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5234,
+  "updated_at": "2025-11-30 14:09:34",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

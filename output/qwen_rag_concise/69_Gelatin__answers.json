@@ -1,0 +1,59 @@
+{
+  "source_file": "69_Gelatin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows acetylene (C2), a chemical compound with a triple bond between two carbon atoms and hydrogen atoms at its ends. Its key properties include high reactivity due to its triple bond and low melting and boiling points.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What elements are present in gelatin, and what is its state at room temperature?",
+      "answer": "Gelatin is primarily composed of proteins from collagen. At room temperature, gelatin is a solid.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why gelatin is classified as a mixture rather than a compound.",
+      "answer": "Gelatin is classified as a mixture because it is made from animal collagen through a process that involves boiling and extraction, rather than through a chemical reaction that results in a single compound. Its composition varies with the source and preparation method, containing proteins, minerals, and other organic substances.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the process of making gelatin from animal parts and differentiate between Type A and Type B gelatin.",
+      "answer": "Gelatin is produced by boiling animal parts, such as bones, skin, and connective tissues, in water. The process involves simmering the materials for several hours to extract the gelatinous substance. Type A gelatin is generally made from collagen-rich raw materials, while Type B gelatin is produced from cooked raw materials. Type A gelatin is typically clearer and more gelatinous, while Type B gelatin is often softer and less brittle.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

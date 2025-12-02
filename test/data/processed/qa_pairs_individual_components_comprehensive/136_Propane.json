@@ -1,0 +1,58 @@
+{
+  "compound_id": 132,
+  "compound_name": "Propane",
+  "source_file": "compound_132_Propane.json",
+  "main_entry_length": 1198,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0714_Propane_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:09",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of propane, a hydrocarbon with the chemical formula C₃H₈. Propane consists of three carbon atoms (black) and eight hydrogen atoms (white). It is a colorless, flammable gas at room temperature and is commonly used as a fuel for heating, cooking, and in vehicles. Propane is also a key component of liquefied petroleum gas (LPG). It is obtained from refining crude oil and processing natural gas. Propane is valued for its clean-burning properties and energy efficiency.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of propane?",
+      "answer": "The chemical formula of propane is C3H8, and its molecular weight is 44.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:24",
+      "char_limit": 1000,
+      "answer_length": 81
+    },
+    {
+      "question": "Describe the solubility characteristics of propane in different solvents.",
+      "answer": "Propane (C3H8) is slightly soluble in water and is soluble in ethyl alcohol, ether, and benzene.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:25",
+      "char_limit": 1800,
+      "answer_length": 96
+    },
+    {
+      "question": "Explain how propane is naturally formed and its common commercial form.",
+      "answer": "Propane is naturally formed as a component of petroleum and natural gas. These fossil fuels originated millions of years ago from the decay of marine organisms that died, sank to the ocean floor, and were buried under layers of debris. The absence of oxygen during their decomposition led to the formation of fossil fuels, including natural gas, petroleum, and coal, which are complex mixtures of hydrocarbons. \n\nIn its common commercial form, propane is often sold as a fuel. It is available in a liquefied form known as liquid propane gas (LPG). Propane is a colorless gas with an odor reminiscent of natural gas. It belongs to the alkane family, characterized by hydrocarbons consisting only of carbon and hydrogen atoms joined by single bonds. Propane is slightly soluble in water but is soluble in ethyl alcohol, ether, and benzene. It is used both as a fuel source and in the petrochemical industry for producing various organic chemicals.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:33",
+      "char_limit": 2000,
+      "answer_length": 945
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5816,
+  "updated_at": "2025-11-30 13:42:34",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

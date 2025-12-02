@@ -1,0 +1,27 @@
+{
+  "source_file": "2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **2-(4-isobutylphenyl)propionic acid**. This compound is a derivative of propionic acid with a specific aromatic substituent.\n\n### Key Properties:\n1. **Chemical Formula**: The molecular formula can be deduced from the structure as C₁₆H₂₄O₂.\n2. **Functional Groups**:\n   - A carboxylic acid group (-COOH), which is responsible for its acidic properties.\n   - An isobutylphenyl substituent, which adds aromaticity and hydrophobicity to the molecule.\n3.",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of 2-(4-Isobutylphenyl)propionic acid?",
+      "answer": "The chemical formula for 2-(4-Isobutylphenyl)propionic acid can be determined by identifying the structural components:\n\n1. The propionic acid part: This is CH3CH2COOH.\n2. The phenyl group: This is C6H5.\n3. The isobutyl group: This is C4H9.\n\nPutting these together, we get:\n\\[ \\text{C}_{10}\\text{H}_{17}\\text{O}_2 \\]\n\nSo, the chemical formula is \\( \\text{C}_{10}\\text{H}_{17}\\text",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Why was 2-(4-Isobutylphenyl)propionic acid, also known as ibuprofen, developed as an analgesic and anti-inflammatory medication?",
+      "answer": "Ibuprofen, or 2-(4-isobutylphenyl)propionic acid, is a nonsteroidal anti-inflammatory drug (NSAID) that was developed to provide relief from pain and inflammation. Its development can be traced back to the discovery of salicylates in the late 19th century, which were found to have analgesic and anti-inflammatory properties.\n\nThe development of ibuprofen specifically was influenced by several factors:\n\n1. **Structure-Activity Relationship (SAR):** Researchers began to explore the structure of existing NSAIDs like aspirin and salicylic acid to understand how changes in",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Given that 2-(4-Isobutylphenyl)propionic acid decomposes above its melting point, what implications does this have for its storage and use in pharmaceutical applications?",
+      "answer": "The decomposition of 2-(4-Isobutylphenyl)propionic acid (IBUP) above its melting point has several important implications for its storage and use in pharmaceutical applications:\n\n1. **Stability at Room Temperature**: Since IBUP decomposes above its melting point, it is crucial to store the compound below its melting point to prevent decomposition. This means that it should be stored at room temperature or slightly below.\n\n2. **Avoidance of Heat Exposure**: During handling, storage, and use, care must be taken to avoid exposing the compound to temperatures that exceed its melting point. This includes avoiding direct sunlight, high",
+      "latency_s": 10.57
+    }
+  ]
+}

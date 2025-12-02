@@ -1,0 +1,59 @@
+{
+  "source_file": "6_Acetylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows acetylene (C2H2). It has a triple bond between carbon atoms and is highly flammable.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the molecular formula of Acetylene and what elements does it consist of?",
+      "answer": "The molecular formula of Acetylene is C2H2, consisting of Carbon and Hydrogen.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why acetylene is highly flammable and how this property is utilized.",
+      "answer": "Acetylene is highly flammable due to its chemical structure with a triple bond between carbon atoms, making it very reactive with oxygen. This property is utilized in oxyacetylene torches, which produce very hot flames at 3,000-3,500°C (5,500-6,300°F) for welding and cutting metal, even in cold climates or underwater.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the historical development in the production of Acetylene, including the roles of calcium carbide and the BASF process.",
+      "answer": "Historically, calcium carbide was used to produce acetylene by reacting calcium carbide with water. The BASF process, developed by BASF, utilized a catalyst to convert acetylene into vinyl chloride, which is then polymerized to form polyvinyl chloride (PVC). This process improved efficiency and production scale, contributing to PVC's widespread use in various applications.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

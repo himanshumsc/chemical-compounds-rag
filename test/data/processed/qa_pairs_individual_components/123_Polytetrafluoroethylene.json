@@ -1,0 +1,38 @@
+{
+  "compound_id": 119,
+  "compound_name": "Polytetrafluoroethylene",
+  "source_file": "compound_119_Polytetrafluoroethylene.json",
+  "main_entry_length": 1448,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0654_Polytetrafluoroethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:19",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Polytetrafluoroethylene (PTFE). Its key properties include:\n\n1. **Low Coefficient of Friction**: PTFE has the lowest coefficient of friction among known substances, making it ideal for non-stick applications such as Teflon® coatings.\n\n2. **Chemical Resistance**: PTFE is highly resistant to chemical reactions, making it useful in various industrial applications.\n\n3. **Thermal Stability**: It can withstand high temperatures without breaking down.\n\n4. **Non-stick Surface**: PTFE's surface is slick, preventing substances from adhering to it easily.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:57"
+    },
+    {
+      "question": "What are the chemical elements that make up the compound Polytetrafluoroethylene?",
+      "answer": "Polytetrafluoroethylene is composed of two elements: carbon and fluorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Polytetrafluoroethylene does not have a boiling point.",
+      "answer": "Polytetrafluoroethylene does not have a boiling point because it is a thermoplastic polymer. Instead of boiling, it can repeatedly soften and harden by alternately heating and cooling. This is characteristic of polymers that do not have a specific boiling point like simple compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the solubility properties of Polytetrafluoroethylene and its implications for industrial applications.",
+      "answer": "Polytetrafluoroethylene is insoluble in water, concentrated acids, other inorganic solvents, and almost all organic solvents. This property makes it highly resistant to chemical reactions and degradation, which is advantageous in various industrial applications. For example, PTFE's chemical resistance makes it suitable for use as a non-stick coating in cookware, as well as in chemical processing equipment where exposure to harsh chemicals is frequent.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

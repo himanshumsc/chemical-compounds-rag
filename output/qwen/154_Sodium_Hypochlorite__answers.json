@@ -1,0 +1,27 @@
+{
+  "source_file": "154_Sodium_Hypochlorite.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium hypochlorite (NaOCl). The key properties of sodium hypochlorite include:\n\n1. **Chemical Composition**: Sodium hypochlorite consists of one sodium atom (Na), one oxygen atom (O), and one chlorine atom (Cl).\n2. **Active Oxygen**: Sodium hypochlorite contains nascent oxygen, which is a very active form of oxygen. This active oxygen is responsible for its bleaching and disinfectant properties.\n3. **Bleaching Properties**: Sodium hypochlorite is used as a bleach due to its powerful oxidizing powers.",
+      "latency_s": 16.9
+    },
+    {
+      "question": "What is the chemical formula for sodium hypochlorite and what elements does it comprise?",
+      "answer": "The chemical formula for sodium hypochlorite is NaOCl. It comprises three main elements:\n\n1. Sodium (Na)\n2. Oxygen (O)\n3. Chlorine (Cl)\n\nSodium hypochlorite is commonly known as bleach and is used in various applications, including disinfecting water, cleaning surfaces, and treating wounds.",
+      "latency_s": 10.6
+    },
+    {
+      "question": "Explain how sodium hypochlorite functions as a bleaching agent and disinfectant.",
+      "answer": "Sodium hypochlorite, commonly known as bleach, is a powerful chemical compound that functions as both a bleaching agent and a disinfectant due to its strong oxidizing properties.\n\n### Bleaching Agent\n\n1. **Oxidation**: Sodium hypochlorite acts as an oxidizing agent by removing electrons from other molecules. This process can cause the color of certain substances to fade or disappear because the color is often associated with the presence of electrons in specific molecular structures.\n   \n2. **Hydrolysis**: When applied to fabrics or other materials, sodium hypochlorite can break down the bonds responsible for the",
+      "latency_s": 10.6
+    },
+    {
+      "question": "Describe the commercial production process of sodium hypochlorite and outline its potential hazards.",
+      "answer": "Sodium hypochlorite, commonly known as bleach, is produced in commercial quantities through various processes, primarily involving the electrolysis of brine (a solution of salt in water). Here's an overview of the commercial production process and some of its potential hazards:\n\n### Production Process\n\n1. **Brine Preparation**:\n   - Brine is prepared by dissolving salt (sodium chloride) in water to create a saturated solution.\n\n2. **Electrolysis**:\n   - The brine is passed through an electrolytic cell where it is subjected to an electric current.\n   - During this process, chlorine gas is produced",
+      "latency_s": 10.6
+    }
+  ]
+}

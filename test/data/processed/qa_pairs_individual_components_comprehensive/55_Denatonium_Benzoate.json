@@ -1,0 +1,58 @@
+{
+  "compound_id": 52,
+  "compound_name": "Denatonium Benzoate",
+  "source_file": "compound_052_Denatonium Benzoate.json",
+  "main_entry_length": 4406,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0322_Denatonium_Benzoate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:28",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Denatonium Benzoate. It is known as one of the most bitter compounds and is commonly used as a deterrent to prevent accidental ingestion of toxic substances. The structure includes red atoms representing oxygen, white for hydrogen, black for carbon, and blue for nitrogen. The compound was derived by attaching benzoic acid to a nitrogen atom in lidocaine. Despite having little anesthetic effectiveness, its intense bitterness is utilized in products like Bitrex®.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:07"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Denatonium Benzoate?",
+      "answer": "The chemical formula of Denatonium Benzoate is C28H34N2O3, and its molecular weight is 446.58 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:51",
+      "char_limit": 1000,
+      "answer_length": 100
+    },
+    {
+      "question": "Explain why Denatonium Benzoate is considered an effective deterrent in various applications.",
+      "answer": "Denatonium benzoate is considered an effective deterrent in various applications due to its extremely bitter taste, which is the most bitter known to science. This property discourages consumption of toxic substances like methanol by making them unpalatable. Even at low concentrations, such as 30 parts per million, the taste is intolerable to most people. It is used in consumer products like antifreeze and car windshield washer fluid to prevent accidental or intentional ingestion. Additionally, it is applied to deter behaviors such as nail-biting and thumb-sucking by making the experience unpleasant. Denatonium benzoate also acts as an animal repellent, protecting crops and materials from being grazed or chewed by animals like deer and rats. Its effectiveness as a deterrent is enhanced by its stability in solutions, maintaining its bitter taste over time, and its colorless and odorless nature, which makes it unobtrusive to the appearance and smell of products.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:57",
+      "char_limit": 1800,
+      "answer_length": 974
+    },
+    {
+      "question": "Discuss the solubility properties of Denatonium Benzoate and how they might affect its use in different applications.",
+      "answer": "Denatonium benzoate is soluble in water and alcohol but insoluble in ether. This solubility profile significantly influences its applications. Its solubility in water and alcohol allows it to be easily formulated into various liquid products, such as solutions used to deter methanol consumption. Methanol, a highly toxic alcohol, is often denatured with denatonium benzoate to prevent accidental or intentional ingestion, leveraging the compound's extreme bitterness.\n\nAdditionally, its solubility in water makes it suitable for use in solutions applied to nails or thumbs to deter biting and sucking habits. Similarly, its water solubility is beneficial for its use as an animal repellent, where it can be sprayed on vegetation to deter grazing by animals.\n\nThe insolubility of denatonium benzoate in ether implies that it won't dissolve in non-polar solvents, limiting its use in non-polar or oil-based formulations. This characteristic ensures that when denatonium benzoate is incorporated into aqueous or alcohol-based products, it remains effective in delivering its bitter taste, which is crucial for its role in deterring consumption or contact.\n\nOverall, the solubility properties of denatonium benzoate are crucial for its effectiveness in applications designed to exploit its bitter taste to prevent ingestion or contact.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:02",
+      "char_limit": 2000,
+      "answer_length": 1332
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6444,
+  "updated_at": "2025-11-30 14:01:02",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

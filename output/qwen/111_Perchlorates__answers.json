@@ -1,0 +1,27 @@
+{
+  "source_file": "111_Perchlorates.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows the perchlorate ion (ClO₄⁻). The key properties of perchlorate ions include:\n\n1. **Composition**: It consists of one chlorine atom (green) bonded to four oxygen atoms (red).\n2. **Electronegativity**: Chlorine is more electronegative than oxygen, leading to a slight negative charge on the chlorine atom.\n3. **Solubility**: Perchlorates are highly soluble in water due to their ionic nature.\n4. **Stability**: Perchlorates are generally stable compounds but can be explosive under certain conditions, especially when mixed with other oxid",
+      "latency_s": 16.65
+    },
+    {
+      "question": "What are the chemical formulas for the most important perchlorates?",
+      "answer": "Perchlorate ions (ClO₄⁻) can form salts with various metals, and some of the most important perchlorates in terms of their applications and environmental significance include:\n\n1. **Potassium Perchlorate (KClO₄)**:\n   - Chemical formula: KClO₄\n\n2. **Sodium Perchlorate (NaClO₄)**:\n   - Chemical formula: NaClO₄\n\n3. **Calcium Perchlorate (Ca(ClO₄)₂)**:\n   - Chemical formula: Ca(ClO₄)₂\n\n4. **Barium Per",
+      "latency_s": 10.73
+    },
+    {
+      "question": "How does the method of production differ between ammonium perchlorate and potassium perchlorate?",
+      "answer": "The methods of production for ammonium perchlorate (NH4ClO4) and potassium perchlorate (KClO4) involve different chemical reactions, starting materials, and processes due to their distinct chemical properties and uses.\n\n### Ammonium Perchlorate (NH4ClO4)\n\n1. **Starting Materials**: Ammonium perchlorate is produced from ammonia (NH3) and perchloric acid (HClO4).\n\n2. **Chemical Reaction**:\n   - Ammonium perchlorate can be synthesized by reacting ammonia with perchloric acid in an aqueous solution.\n   - The",
+      "latency_s": 10.73
+    },
+    {
+      "question": "Discuss the environmental and safety concerns associated with perchlorates.",
+      "answer": "Perchlorates are a group of chemicals that are widely used in various industries, including aerospace, defense, and consumer products. They are also naturally occurring in some environments. However, their widespread use has led to significant environmental and safety concerns.\n\nEnvironmental Concerns:\n1. Water Contamination: Perchlorates can contaminate water sources, including groundwater, surface water, and drinking water. This contamination can occur due to improper disposal of perchlorate-containing waste or through industrial processes.\n2. Soil Contamination: Perchlorates can also contaminate soil, particularly in areas where they have been used for manufacturing or storage purposes.\n3",
+      "latency_s": 10.73
+    }
+  ]
+}

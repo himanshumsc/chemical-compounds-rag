@@ -1,0 +1,58 @@
+{
+  "compound_id": 178,
+  "compound_name": "1,3-Butadiene",
+  "source_file": "compound_178_13-Butadiene.json",
+  "main_entry_length": 4438,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0052_1,3-Butadiene_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of 1,3-butadiene. This compound consists of four carbon atoms and six hydrogen atoms, with a molecular formula of C₄H₆. It features two double bonds between carbon atoms, which are indicated by the gray sticks in the diagram.\n\nKey properties of 1,3-butadiene include:\n- It is a colorless gas with a mild gasoline-like odor.\n- Highly flammable and reactive, especially with oxygen.\n- Primarily used in the production of synthetic rubber.\n- It is produced through processes like steam cracking, where larger petroleum molecules are broken down.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:38"
+    },
+    {
+      "question": "What is the chemical formula of 1,3-butadiene, and what type of compound is it?",
+      "answer": "The chemical formula of 1,3-butadiene is CH2=CHCH=CH2. It is an alkene, which is a type of unsaturated hydrocarbon.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:26",
+      "char_limit": 1000,
+      "answer_length": 115
+    },
+    {
+      "question": "Explain how 1,3-butadiene is produced in the United States.",
+      "answer": "1,3-butadiene is produced in the United States through three processes. Two of these processes begin with four-carbon compounds: butane (CH3CH2CH2CH3) and butene (CH2=CHCH2CH3 and CH3CH=CHCH3). These compounds are treated to add one more double bond to the molecules, resulting in the formation of 1,3-butadiene (CH2=CHCH=CH2). The third and most common method is steam cracking. This involves exposing large petroleum molecules to very hot steam, causing them to break apart into smaller molecules. 1,3-butadiene is a by-product of this process and is separated from the major product, ethylene, after cracking is complete.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:30",
+      "char_limit": 1800,
+      "answer_length": 624
+    },
+    {
+      "question": "Discuss the industrial uses of 1,3-butadiene and the potential hazards associated with it.",
+      "answer": "1,3-butadiene is primarily used in the manufacture of polymers. It is often mixed with other polymers or polymerized with other monomers to create specialized copolymers. One common mixture is polystyrene-polybutadiene, which combines 1,3-butadiene with styrene. Additionally, 1,3-butadiene serves as a raw material in the production of fungicides such as Captan and Captofol, as well as in the manufacture of latex adhesives. It is also used in making domestic products like nylon carpet backing, appliance and electrical equipment, and luggage, as well as industrial products such as piping and conduits.\n\nHowever, 1,3-butadiene poses various potential hazards. It can irritate the respiratory system and cause symptoms such as fatigue, drowsiness, headache, vertigo, and loss of consciousness. In severe cases, it can lead to respiratory paralysis and death. It is also considered a potential carcinogen. These harmful effects are generally a risk only to individuals who work directly with 1,3-butadiene, and usually under unusual circumstances, while the average person is unlikely to encounter the compound.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:34",
+      "char_limit": 2000,
+      "answer_length": 1113
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4538,
+  "updated_at": "2025-11-30 13:53:35",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

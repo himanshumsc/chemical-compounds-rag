@@ -1,0 +1,27 @@
+{
+  "source_file": "70_Glucose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows glucose. Glucose is a simple sugar, a monosaccharide, which is an important source of energy for living organisms. Here are some key properties of glucose:\n\n1. **Chemical Formula**: Glucose has the chemical formula C₆H₁₂O₆.\n2. **Structure**: It consists of six carbon atoms, twelve hydrogen atoms, and six oxygen atoms arranged in a ring-like structure with hydroxyl groups attached to some of the carbon atoms.\n3. **Energy Source**: Glucose is broken down into simpler molecules (like pyruvate) through metabolic",
+      "latency_s": 16.63
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glucose?",
+      "answer": "The chemical formula for glucose is C₆H₁₂O₆. \n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nFor one molecule of glucose:\n- There are 6 carbon atoms: \\( 6 \\times 12.01 = 72.0",
+      "latency_s": 10.42
+    },
+    {
+      "question": "How does glucose occur naturally and what are its isomeric forms?",
+      "answer": "Glucose, also known as d-glucose or D-glucopyranose, is a simple sugar that occurs naturally in many foods and is essential for the energy metabolism of living organisms. It is a six-carbon sugar (hexose) with a pyranose ring structure.\n\n### Occurrence of Glucose Naturally\n\n1. **Plant Photosynthesis**: During photosynthesis, plants convert carbon dioxide and water into glucose using sunlight. This process is catalyzed by chlorophyll in the leaves.\n2. **Animal Metabolism**: Animals consume plant material and other sources of carbohydrates, which are broken down into glucose through digestion.",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Discuss the solubility of glucose in various solvents and its implications for biological systems.",
+      "answer": "Glucose, a simple sugar, is highly soluble in water due to its polar nature. This property allows it to dissolve easily in aqueous solutions, which is crucial for its role as an energy source in living organisms. However, glucose's solubility can vary depending on the solvent used.\n\n### Solubility in Water:\nIn water, glucose forms a solution where each molecule of glucose is surrounded by water molecules through hydrogen bonding. This interaction stabilizes the glucose molecules in the solution, making it highly soluble. The solubility of glucose in water is approximately 90 grams per 100 mL at room temperature.\n\n###",
+      "latency_s": 10.42
+    }
+  ]
+}

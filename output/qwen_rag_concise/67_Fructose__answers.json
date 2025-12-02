@@ -1,0 +1,59 @@
+{
+  "source_file": "67_Fructose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows fructose, a hexose sugar. Key properties: sweetener, used in food products, and synthesized from beet sugar or inulin.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "The chemical formula of fructose is C6H12O6, containing carbon, hydrogen, and oxygen.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Fructose and sucrose are both disaccharides but differ in their chemical structure. Fructose is a monosaccharide with a higher degree of unsaturation, making it sweeter than sucrose. Sucrose is composed of a glucose and a fructose molecule, linked through a glycosidic bond. This bond is located between the anomeric carbon of fructose and the anomeric carbon of glucose, resulting in a linear arrangement of atoms.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "Fructose is produced from the fermentation of carbohydrates. This process involves fermenting sugarcane or beet juice with yeast to produce ethanol and fructose. After fermentation, the solution undergoes distillation to remove ethanol and concentrate fructose. The resulting syrup can be used directly or refined further to obtain pure fructose.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

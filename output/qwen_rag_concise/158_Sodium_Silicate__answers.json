@@ -1,0 +1,59 @@
+{
+  "source_file": "158_Sodium_Silicate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows sodium silicate (Na2SiO3). Its key properties include: 1) Sometimes referred to as the simplest form of glass 2) Made by fusing sand and soda ash 3) Used in soap and detergent manufacturing 4) Improves cleaning ability 5) Less damaging to metal components than other soap ingredients.",
+      "latency_s": 41.0,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of sodium metasilicate, and what elements does it contain?",
+      "answer": "Na2SiO3; Sodium, silicon, oxygen",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the process of manufacturing sodium silicate.",
+      "answer": "Sodium silicate is typically produced by reacting sodium carbonate (soda ash) with silica (SiO2) in the presence of water. The reaction produces a colloidal solution of silicate compounds, which can be further processed to form solid sodium silicate products. This process is often used in the manufacturing of glass, ceramics, and various industrial materials.",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how the physical properties of sodium silicate vary and identify one key factor that influences these variations.",
+      "answer": "Sodium silicate's physical properties vary depending on its concentration and viscosity. Concentration influences its density and solubility, while viscosity impacts flow behavior and surface tension.",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:33:26",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:33:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

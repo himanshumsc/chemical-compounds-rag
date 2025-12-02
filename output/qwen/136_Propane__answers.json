@@ -1,0 +1,27 @@
+{
+  "source_file": "136_Propane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows propane (C₃H₈). Propane is a hydrocarbon, which means it is composed of carbon and hydrogen atoms. Specifically, it has three carbon atoms bonded to eight hydrogen atoms.\n\nKey properties of propane include:\n1. **Flammability**: Propane is highly flammable and is commonly used as a fuel for cooking, heating, and power generation.\n2. **Boiling Point**: Propane boils at approximately -42°C (-44°F), making it a liquid under normal atmospheric pressure.\n3. **Density**: Propane is less dense than water, which allows",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of propane?",
+      "answer": "The chemical formula for propane is \\( \\text{C}_3\\text{H}_8 \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nFor one molecule of propane (\\( \\text{C}_3\\text{H}_8 \\)):\n\n- There are 3 carbon atoms: \\( 3 \\times 12.01 \\, \\",
+      "latency_s": 10.55
+    },
+    {
+      "question": "Describe the solubility characteristics of propane in different solvents.",
+      "answer": "Propane, being a hydrocarbon, has distinct solubility characteristics that depend on the nature of the solvent. Solubility is the ability of one substance to dissolve in another, and it is influenced by factors such as the polarity of the solvent, the molecular size of the solute, and the intermolecular forces involved.\n\n### Solubility in Polar Solvents:\n- **Water**: Propane is not very soluble in water. The van der Waals forces between propane molecules are stronger than the hydrogen bonding interactions with water molecules. This makes propane slightly soluble in water.\n- **Ethanol (EtOH)**: Ethanol",
+      "latency_s": 10.55
+    },
+    {
+      "question": "Explain how propane is naturally formed and its common commercial form.",
+      "answer": "Propane, also known as propylene or propan-1-ol, is a hydrocarbon that is primarily used as a fuel for heating and cooking. It is a colorless, odorless gas at room temperature and pressure, but it can be liquefied by cooling or pressurizing.\n\n### Natural Formation of Propane\n\nPropane is not found in nature in its pure form; instead, it is produced during the process of natural gas formation. Here's a brief overview of how it is formed:\n\n1. **Natural Gas Formation**: Natural gas is primarily composed of methane (CH₄), which is formed from the",
+      "latency_s": 10.55
+    }
+  ]
+}

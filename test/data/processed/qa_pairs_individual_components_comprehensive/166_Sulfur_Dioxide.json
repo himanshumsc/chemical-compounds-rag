@@ -1,0 +1,58 @@
+{
+  "compound_id": 162,
+  "compound_name": "Sulfur Dioxide",
+  "source_file": "compound_162_Sulfur Dioxide.json",
+  "main_entry_length": 3094,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0870_Sulfur_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents sulfur dioxide (SO₂). It consists of one sulfur atom (yellow) and two oxygen atoms (red). \n\nKey properties of sulfur dioxide include:\n- It is a colorless gas with a pungent, suffocating odor.\n- It is soluble in water, forming sulfurous acid (H₂SO₃).\n- It acts as a reducing agent and is used in bleaching, as a preservative, and in the manufacture of other chemicals.\n- It is a byproduct of burning fossil fuels and industrial processes, and it can contribute to air pollution and acid rain.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:49"
+    },
+    {
+      "question": "What is the chemical formula of sulfur dioxide, and what elements does it contain?",
+      "answer": "The chemical formula of sulfur dioxide is SO2. It contains the elements sulfur and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:27",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Describe the dual role of sulfur dioxide as an oxidizing and reducing agent.",
+      "answer": "Sulfur dioxide (SO2) acts as both an oxidizing and a reducing agent due to its ability to interact with other substances by either providing oxygen or electrons or removing them. As an oxidizing agent, sulfur dioxide can provide oxygen to other substances or donate electrons, facilitating oxidation in chemical reactions. Conversely, as a reducing agent, it can remove oxygen from other substances or withdraw electrons, promoting reduction. This dual functionality allows sulfur dioxide to participate in various chemical processes, enhancing its utility in industrial and natural contexts.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:33",
+      "char_limit": 1800,
+      "answer_length": 592
+    },
+    {
+      "question": "Explain the process and significance of capturing sulfur dioxide as a byproduct during the smelting of metallic ores.",
+      "answer": "During the smelting of metallic ores, sulfur dioxide (SO2) is often produced as a byproduct. Smelting is a process where metals are extracted from their ores by heating them in air. Many ores are sulfides, which, when heated, release sulfur dioxide. Capturing sulfur dioxide during this process is significant because it allows for the collection of SO2 as a byproduct, which can then be utilized for various industrial purposes. About 45% of sulfur dioxide produced in the United States is used to manufacture other chemical compounds, such as sodium bisulfite, sulfuric acid, chlorine dioxide, sodium dithionate, and sodium thiosulfate. Additionally, sulfur dioxide serves as a bleaching agent for products like pulp and paper, textile fibers, and oils. Therefore, capturing SO2 not only helps in reducing air pollution but also provides an economic benefit by supplying a valuable industrial chemical.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:38",
+      "char_limit": 2000,
+      "answer_length": 904
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8047,
+  "updated_at": "2025-11-30 13:48:38",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

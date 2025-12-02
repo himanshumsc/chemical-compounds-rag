@@ -1,0 +1,36 @@
+{
+  "compound_id": 20,
+  "compound_name": "Beta-Carotene",
+  "source_file": "compound_020_Beta-Carotene.json",
+  "main_entry_length": 1584,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0160_Beta-Carotene_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Beta-Carotene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Beta-Carotene?",
+      "answer": "The chemical formula of Beta-Carotene is C40H56, and its molecular weight is 536.87 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the role of Beta-Carotene in photosynthetic and nonphotosynthetic organisms.",
+      "answer": "In photosynthetic organisms such as plants, algae, and photosynthetic bacteria, Beta-Carotene plays a crucial role in photosynthesis, which is the process by which these organisms convert water and carbon dioxide into carbohydrates and oxygen. In nonphotosynthetic organisms like certain bacteria and fungi, Beta-Carotene serves a protective function against the harmful effects of light and oxygen.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the solubility properties of Beta-Carotene and how these properties might affect its use in various applications.",
+      "answer": "Beta-Carotene is insoluble in water, slightly soluble in alcohol, and soluble in ether, acetone, benzene, and fats. These solubility properties mean that Beta-Carotene can be effectively used in applications where it needs to be dissolved in non-polar solvents or incorporated into fatty substances. This property is crucial for its use in food coloring and supplements, as it allows Beta-Carotene to integrate into lipid-based matrices or be dissolved in solvents that are compatible with these applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

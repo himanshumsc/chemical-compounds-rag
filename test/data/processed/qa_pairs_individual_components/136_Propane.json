@@ -1,0 +1,38 @@
+{
+  "compound_id": 132,
+  "compound_name": "Propane",
+  "source_file": "compound_132_Propane.json",
+  "main_entry_length": 1198,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0714_Propane_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:09",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of propane, a hydrocarbon with the chemical formula C₃H₈. Propane consists of three carbon atoms (black) and eight hydrogen atoms (white). It is a colorless, flammable gas at room temperature and is commonly used as a fuel for heating, cooking, and in vehicles. Propane is also a key component of liquefied petroleum gas (LPG). It is obtained from refining crude oil and processing natural gas. Propane is valued for its clean-burning properties and energy efficiency.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of propane?",
+      "answer": "The chemical formula of propane is C3H8, and its molecular weight is 44.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility characteristics of propane in different solvents.",
+      "answer": "Propane is slightly soluble in water but is more soluble in solvents like ethyl alcohol, ether, and benzene.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how propane is naturally formed and its common commercial form.",
+      "answer": "Propane forms naturally in petroleum and natural gas, both of which are fossil fuels created from the decay of marine organisms millions of years ago. Commercially, propane is often sold as a fuel in a liquefied form known as liquid propane gas, or LPG.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

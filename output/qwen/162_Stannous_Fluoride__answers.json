@@ -1,0 +1,27 @@
+{
+  "source_file": "162_Stannous_Fluoride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows stannous fluoride (SnF₂). The key properties of stannous fluoride include:\n\n1. **Effectiveness in Preventing Cavities**: Muhler and Day discovered that stannous fluoride was significantly more effective at preventing cavities than other fluorides they had tested.\n2. **Incorporation into Toothpaste**: The compound can be incorporated into toothpastes without affecting their other properties.\n3. **Commercial Production**: Stannous fluoride is made commercially by reacting stannous oxide (SnO) with hydrofluoric acid (H₂F₂) in an oxygen",
+      "latency_s": 16.65
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of stannous fluoride?",
+      "answer": "The chemical formula for stannous fluoride, also known as tin(II) fluoride, is SnF2.\n\nTo calculate the molecular weight of SnF2, we need to sum the atomic weights of each element in the formula:\n\n- The atomic weight of tin (Sn) is approximately 118.71 g/mol.\n- The atomic weight of fluorine (F) is approximately 19.00 g/mol.\n\nSince there are two fluorine atoms in the formula, we multiply the atomic weight of fluorine by 2:\n\\[ 2 \\times 19.00 \\, \\text{",
+      "latency_s": 10.62
+    },
+    {
+      "question": "Why is stannous fluoride considered more effective in preventing cavities compared to other fluoride compounds?",
+      "answer": "Stannous fluoride (SnF2) is often considered more effective in preventing cavities compared to other fluoride compounds due to several factors:\n\n1. **Solubility and Adsorption**: Stannous fluoride has a higher solubility in saliva than other forms of fluoride, such as sodium fluoride or potassium fluoride. This means that it can be more readily adsorbed onto the tooth surface, where it can exert its antimicrobial effects.\n\n2. **Antimicrobial Activity**: Stannous fluoride has been shown to have strong antimicrobial activity against bacteria that cause dental caries, particularly Streptococcus mutans. This bacter",
+      "latency_s": 10.62
+    },
+    {
+      "question": "Explain the dual mechanism by which stannous fluoride helps in preventing tooth decay.",
+      "answer": "Stannous fluoride, also known as tin(II) fluoride or tin(IV) fluoride, is a form of fluoride that has been used in dental products for its ability to prevent tooth decay. It works through two primary mechanisms:\n\n1. **Inhibition of Enamel Demineralization**: Fluoride ions, including those from stannous fluoride, can help remineralize enamel by replacing calcium and phosphate ions that have been lost due to acid erosion. This process is called remineralization. Stannous fluoride can enhance this remineralization process because it can more easily penetrate the enamel surface compared to other forms of fluoride",
+      "latency_s": 10.62
+    }
+  ]
+}

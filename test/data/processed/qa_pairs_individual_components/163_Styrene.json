@@ -1,0 +1,38 @@
+{
+  "compound_id": 159,
+  "compound_name": "Styrene",
+  "source_file": "compound_159_Styrene.json",
+  "main_entry_length": 2145,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0854_Styrene_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of styrene. Styrene is an organic compound with the formula C₆H₅CH=CH₂. It is a colorless, oily liquid that evaporates easily and has a sweet smell. Styrene is primarily used in the production of polystyrene, a versatile plastic that is used in various applications including packaging, insulation, and disposable containers. While useful, styrene can be hazardous; it is a potential health risk if inhaled or absorbed through the skin, necessitating careful handling.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:47"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of styrene?",
+      "answer": "The chemical formula of styrene is C6H5CH=CH2, and its molecular weight is 104.15 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "answer": "Polymerization is a chemical reaction where small molecules, like styrene, react with other molecules of the same kind to produce very large molecules, usually consisting of long chains. In the case of styrene, when it polymerizes, it forms polystyrene, a clear, colorless, hard plastic.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "answer": "The industrial preparation of styrene starts with the reaction between benzene (C6H6) and ethylene (CH2=CH2) to form ethylbenzene (C6H5CH2CH3). This ethylbenzene is then dehydrogenated over a catalyst of iron(III) oxides at about 600°C (1100°F). Dehydrogenation involves removing hydrogen atoms from the compound, resulting in the formation of styrene: C6H5CH2CH3 - H2 → C6H5CH=CH2.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

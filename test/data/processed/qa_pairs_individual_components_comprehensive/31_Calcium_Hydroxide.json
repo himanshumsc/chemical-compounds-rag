@@ -1,0 +1,58 @@
+{
+  "compound_id": 28,
+  "compound_name": "Calcium Hydroxide",
+  "source_file": "compound_028_Calcium Hydroxide.json",
+  "main_entry_length": 2405,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0198_Calcium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of calcium hydroxide, denoted as Ca(OH)₂. In the diagram, red atoms represent oxygen, white atoms represent hydrogen, and the turquoise atom represents calcium.\n\nKey properties of calcium hydroxide include:\n\n1. **Alkalinity**: It is a strong base and is used to neutralize acids.\n2. **Solubility**: It is slightly soluble in water, forming a solution known as limewater.\n3. **Uses**: Commonly used in building materials like mortar, plasters, and cements. It also helps in soil stabilization and pH adjustment.\n4. **Reactivity**: Reacts with carbon dioxide to...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:09"
+    },
+    {
+      "question": "What is the chemical formula of calcium hydroxide and what elements does it contain?",
+      "answer": "The chemical formula of calcium hydroxide is Ca(OH)2. It contains the elements calcium, oxygen, and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:58",
+      "char_limit": 1000,
+      "answer_length": 109
+    },
+    {
+      "question": "Explain why calcium hydroxide often becomes contaminated and how can this be prevented.",
+      "answer": "Calcium hydroxide often becomes contaminated because it readily absorbs carbon dioxide from the air, which transforms it into calcium carbonate (CaCO3). To prevent this contamination, calcium hydroxide should be stored in tightly sealed containers to limit its exposure to air.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:01",
+      "char_limit": 1800,
+      "answer_length": 277
+    },
+    {
+      "question": "Describe the role of calcium hydroxide in neutralizing acidic soils and the chemical process involved.",
+      "answer": "Calcium hydroxide, also known as slaked lime, plays a significant role in neutralizing acidic soils. It is a relatively inexpensive chemical used in processes where a base is needed. The neutralization process involves the reaction between calcium hydroxide and the hydrogen ions (H+) present in the acidic soil. The hydroxide ions (OH-) in the calcium hydroxide react with these hydrogen ions to form water, thereby reducing the acidity of the soil and resulting in a more neutral pH level. This adjustment is crucial for improving soil conditions to promote optimal plant growth. Calcium hydroxide is only slightly soluble in water, but it can be suspended as a finely divided powder in water, known as limewater or milk of lime, which facilitates its application in soil treatment.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:06",
+      "char_limit": 2000,
+      "answer_length": 784
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4862,
+  "updated_at": "2025-11-30 13:56:06",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

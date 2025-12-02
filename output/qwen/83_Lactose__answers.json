@@ -1,0 +1,27 @@
+{
+  "source_file": "83_Lactose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows lactose. Lactose is a disaccharide composed of two monosaccharides: glucose and galactose. In the diagram, red atoms represent oxygen, white atoms represent hydrogen, and black atoms represent carbon.\n\nKey properties of lactose include:\n1. **Chemical Composition**: It consists of one molecule of glucose and one molecule of galactose.\n2. **Isomers**: Lactose can exist as an α-lactose (alpha form) and β-lactose (beta form), which differ slightly in their physical and chemical properties due to the orientation of",
+      "latency_s": 16.6
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactose?",
+      "answer": "The chemical formula for lactose, also known as milk sugar, is C12H22O11. \n\nTo calculate the molecular weight of lactose, we sum the atomic weights of all the atoms in the formula:\n\n- Carbon (C): 12 atomic masses per molecule\n- Hydrogen (H): 1 atomic mass per molecule\n- Oxygen (O): 16 atomic masses per molecule\n\nSo, the molecular weight of lactose is calculated as follows:\n\\[ \\text{Molecular Weight} = (12 \\times 12) + (22 \\times 1) + (",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the solubility characteristics of lactose in different solvents.",
+      "answer": "Lactose, also known as milk sugar, is a disaccharide composed of glucose and galactose. Its solubility in various solvents can be influenced by factors such as temperature, pressure, and the nature of the solvent itself.\n\n### Solubility in Water:\nLactose is moderately soluble in water. At room temperature (25°C), approximately 10 grams of lactose can dissolve in 100 mL of water. This solubility increases with temperature; at 100°C, lactose becomes completely soluble in water. The solubility of lactose in water is around",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe the process of obtaining alpha-lactose monohydrate from lactose and why this form is commonly used.",
+      "answer": "Alpha-lactose monohydrate is a form of lactose that has one molecule of water bound to it. It is commonly used in various applications, including as a sweetener, in pharmaceuticals, and as a food additive. The process of obtaining alpha-lactose monohydrate from lactose involves several steps:\n\n### 1. **Isolation of Lactose**\n   - **Source**: Lactose can be obtained from milk or other dairy products.\n   - **Isolation**: Lactose is isolated by filtering out other components such as proteins, fats, and minerals.\n\n### 2.",
+      "latency_s": 10.37
+    }
+  ]
+}

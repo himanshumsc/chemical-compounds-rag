@@ -1,0 +1,36 @@
+{
+  "compound_id": 61,
+  "compound_name": "Ethylene Oxide",
+  "source_file": "compound_061_Ethylene Oxide.json",
+  "main_entry_length": 2831,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0368_Ethylene_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Ethylene Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula of ethylene oxide, and what elements does it contain?",
+      "answer": "The molecular formula of ethylene oxide is (CH2)2O. It contains the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the industrial methods used to produce ethylene oxide and the main differences between them.",
+      "answer": "Ethylene oxide was originally produced by the chlorhydrin process, which involves reacting ethylene chlorhydrin with an inorganic base like sodium hydroxide. However, this method has largely been replaced by the direct oxidation of ethylene gas, which is more efficient. The direct oxidation takes place over a silver catalyst at temperatures between 200°C and 300°C. Despite a slightly lower yield than the chlorhydrin process, the direct oxidation method is favored because it avoids the waste of chlorine.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the primary industrial uses of ethylene oxide and the potential hazards associated with its handling.",
+      "answer": "Ethylene oxide is primarily used in the manufacture of ethylene glycol, which is a key ingredient in antifreeze and is also used to produce plastics. About 60 percent of ethylene oxide is used for this purpose. It is also used to make higher glycols and in the synthesis of ethoxylates and ethanolamines, which are important for producing synthetic detergents. However, ethylene oxide is very unstable and highly flammable, posing significant explosion risks, thus requiring careful handling.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

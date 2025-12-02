@@ -1,0 +1,58 @@
+{
+  "compound_id": 70,
+  "compound_name": "Hydrogen Chloride",
+  "source_file": "compound_070_Hydrogen Chloride.json",
+  "main_entry_length": 1357,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0408_Hydrogen_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:49",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of hydrogen chloride (HCl). It consists of one hydrogen atom (white) bonded to one chlorine atom (green). Hydrogen chloride is a diatomic molecule and is a gas at room temperature. It is highly soluble in water, forming hydrochloric acid, a strong acid known for its complete ionization in solution. HCl is used in various applications, including chemical synthesis, pH control, and as a laboratory reagent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:29"
+    },
+    {
+      "question": "What is the chemical formula of hydrogen chloride and what elements does it consist of?",
+      "answer": "The chemical formula of hydrogen chloride is HCl. It consists of the elements hydrogen and chlorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:17",
+      "char_limit": 1000,
+      "answer_length": 100
+    },
+    {
+      "question": "Explain why hydrogen chloride is considered an inorganic acid and describe its physical state at room temperature.",
+      "answer": "Hydrogen chloride (HCl) is considered an inorganic acid because it is composed of hydrogen and chlorine, both of which are elements typically found in inorganic compounds. It does not contain carbon, which is a defining characteristic of organic compounds. The molecular formula, HCl, indicates that the compound is made up of hydrogen and chlorine, aligning with its classification as an inorganic acid.\n\nAt room temperature, hydrogen chloride is in a gaseous state. It is described as a colorless gas with a strong, suffocating odor. This aligns with the information that its melting point is -114.17°C, and its boiling point is -85°C, indicating that it remains a gas at standard room temperature conditions (approximately 20-25°C).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:19",
+      "char_limit": 1800,
+      "answer_length": 735
+    },
+    {
+      "question": "Discuss the historical significance of hydrogen chloride and its industrial importance based on the provided information.",
+      "answer": "Hydrogen chloride (HCl) is a compound that has been historically significant and remains industrially important. Historically, it has been known since as early as the eighth century, with the Arabian chemist Jabir ibn Hayyan describing its production from sodium chloride and sulfuric acid. It was first produced in a reasonably pure form by German chemist Johann Rudolf Glauber around 1625, and later, British chemist Joseph Priestly conducted pioneering work with it in the 1770s.\n\nIn terms of industrial importance, hydrogen chloride is a crucial inorganic acid used in various applications. It is most commonly available as hydrochloric acid, a significant industrial chemical. In 2004, over 5 million metric tons of hydrogen chloride were produced in the United States, making it the eighteenth most important chemical in the nation for that year. The compound is used in processes such as metal cleaning, and its production methods include reacting sodium chloride with sulfuric acid or iron(II) sulfate.\n\nHydrogen chloride is a colorless gas with a strong, suffocating odor, known for being corrosive and capable of reacting with many substances. It is very soluble in water and also soluble in alcohol and ether. Despite being non-flammable, its corrosive nature makes it a compound of interest in various chemical reactions and industrial processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:25",
+      "char_limit": 2000,
+      "answer_length": 1358
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4324,
+  "updated_at": "2025-11-30 14:05:25",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "5_Acetic_acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows acetic acid (CH₃COOH). Key properties of acetic acid include:\n\n1. **Chemical Formula**: CH₃COOH.\n2. **Molecular Structure**: It consists of one carbon atom (black), two oxygen atoms (red), and three hydrogen atoms (white).\n3. **Double Bond**: The oxygen atom at the top left shares a double bond with the nearby carbon atom.\n4. **Acidity**: Acetic acid is a weak carboxylic acid, which means it can donate a proton (H⁺) to form an acetate ion (CH",
+      "latency_s": 16.47
+    },
+    {
+      "question": "What is the chemical formula of acetic acid and what elements does it contain?",
+      "answer": "The chemical formula for acetic acid is \\( \\text{CH}_3\\text{COOH} \\).\n\nThis formula indicates that acetic acid contains the following elements:\n- Carbon (C)\n- Hydrogen (H)\n- Oxygen (O)\n\nSpecifically, each molecule of acetic acid consists of:\n- 2 carbon atoms (\\(\\text{C}_2\\))\n- 4 hydrogen atoms (\\(\\text{H}_4\\))\n- 2 oxygen atoms (\\(\\text{O}_2\\))\n\nSo, acetic acid is composed of carbon, hydrogen, and oxygen in a ratio of 2:4:",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain the role of acetic acid in the production of plastics and name two specific types of plastics that use acetic acid as a raw material.",
+      "answer": "Acetic acid, also known as ethanoic acid or vinegar acid, plays a significant role in the production of certain types of plastics due to its chemical properties and reactivity. It is primarily used as a raw material in the production of polyvinyl chloride (PVC) and polyethylene terephthalate (PET).\n\n1. **Polyvinyl Chloride (PVC)**: PVC is one of the most widely used plastics globally. It is produced by polymerizing vinyl chloride monomer (VCM), which is derived from acetic acid. The process involves the reaction of acetic acid with chlorine gas to form chlor",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the industrial method developed by Monsanto for producing acetic acid and mention an alternative method that is being researched for environmental benefits.",
+      "answer": "Monsanto, now part of Bayer, developed a significant industrial method for producing acetic acid using the oxidation of ethanol. This process involves passing ethanol over a catalyst at high temperatures (around 200°C) and pressures to convert it into acetic acid. The reaction can be summarized as:\n\n\\[ \\text{CH}_3\\text{CH}_2\\text{OH} + \\frac{1}{2}\\text{O}_2 \\rightarrow \\text{CH}_3\\text{COOH} + \\text{H}_2\\text{O} \\]\n\nThis method has been widely used in the",
+      "latency_s": 10.42
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 111,
+  "compound_name": "Phosphoric Acid",
+  "source_file": "compound_111_Phosphoric Acid.json",
+  "main_entry_length": 3916,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0616_Phosphoric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of phosphoric acid (H₃PO₄). In the diagram, red atoms represent oxygen, white atoms represent hydrogen, and the turquoise atom represents phosphorus. Phosphoric acid is a triprotic acid, meaning it can donate three hydrogen ions (H⁺) in solution. It is commonly used in fertilizers, accounting for about 90% of its production. It is typically produced by treating phosphate rock with sulfuric acid or by burning phosphorus to form phosphoric oxide, which is then dissolved in water.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:35"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phosphoric acid?",
+      "answer": "The chemical formula of phosphoric acid is H3PO4, and its molecular weight is 98.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:07",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Describe the physical state and properties of phosphoric acid at room temperature.",
+      "answer": "At room temperature, phosphoric acid typically occurs as a supercooled liquid, despite having a melting point of 42.4°C (108°F). As a liquid, it is colorless, odorless, and syrupy with a sparkling character. Although it is a solid just above room temperature, appearing as a white crystalline material, it has a strong tendency to absorb moisture from the air, which can affect its physical state.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:12",
+      "char_limit": 1800,
+      "answer_length": 397
+    },
+    {
+      "question": "Explain the process of how phosphoric acid is commercially produced starting from phosphate rock.",
+      "answer": "Phosphoric acid is commercially produced by treating phosphate rock with sulfuric acid (H2SO4). Phosphate rock is a naturally occurring rock that contains large amounts of calcium phosphate (Ca3(PO4)2). The reaction between phosphate rock and sulfuric acid yields phosphoric acid, although the product is generally not very pure. This level of purity, however, is sufficient for the production of fertilizers. For higher quality phosphoric acid, another method involves burning phosphorus or phosphate rock in an electric furnace to produce gaseous phosphoric oxide (diphosphorus pentoxide; P2O5). This oxide is then dissolved in water to form phosphoric acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:18",
+      "char_limit": 2000,
+      "answer_length": 660
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8197,
+  "updated_at": "2025-11-30 13:38:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

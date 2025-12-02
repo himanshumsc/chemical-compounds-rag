@@ -1,0 +1,58 @@
+{
+  "compound_id": 169,
+  "compound_name": "Triclocarban",
+  "source_file": "compound_169_Triclocarban.json",
+  "main_entry_length": 5056,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0910_Triclocarban_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is Triclocarban. It is an antimicrobial agent used in personal care products to inhibit bacterial growth. The structure features red (oxygen), white (hydrogen), black (carbon), green (chlorine), and blue (nitrogen) atoms. Triclocarban disrupts the enzyme ENR, vital for bacterial and fungal cell membrane production. Humans lack this enzyme, so it's considered harmless to them. However, concerns over its long-term effects on health and the environment have reduced its usage.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:05:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Triclocarban?",
+      "answer": "The chemical formula of Triclocarban is C6H3Cl2NHCONHC6H4Cl, and its molecular weight is 315.58 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:25",
+      "char_limit": 1000,
+      "answer_length": 102
+    },
+    {
+      "question": "Why is Triclocarban considered harmless to humans but effective as an antimicrobial agent against bacteria and fungi?",
+      "answer": "Triclocarban is considered harmless to humans because it targets an enzyme, enoyl-acyl-carrier-protein reductase (ENR), which is essential for the synthesis of cell membranes in bacteria and fungi. Humans do not possess this enzyme, so triclocarban does not disrupt human biology. As a result, triclocarban is effective as an antimicrobial agent against bacteria and fungi by disabling ENR, leading to the inability of these microorganisms to produce cell membranes, ultimately causing their death. This mechanism makes it an effective disinfectant while remaining non-toxic to humans.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:27",
+      "char_limit": 1800,
+      "answer_length": 585
+    },
+    {
+      "question": "Discuss the potential environmental and health concerns associated with the use of Triclocarban in antimicrobial products.",
+      "answer": "Triclocarban, an antimicrobial agent used in products like soaps, disinfectants, and textiles, presents several potential environmental and health concerns. Environmentally, it is considered a hazard due to its persistence and release into waterways after use. This characteristic implies that it can remain in the environment for extended periods, potentially impacting ecosystems.\n\nHealth-wise, while triclocarban is generally considered harmless to humans because it targets an enzyme not present in them, there are concerns about its long-term effects. One significant health concern is contact dermatitis, an allergic skin rash, especially in infants and small children. Its use in maternity wards is discouraged due to its association with newborn illnesses. Additionally, there's a potential risk of bacteria and fungi developing resistance to antimicrobial agents like triclocarban, which could happen if mutations in microorganisms make them resistant to the compound. This resistance could diminish the effectiveness of antimicrobial products over time.\n\nFurthermore, although the ingestion effects are not thoroughly studied, there are questions about its possible carcinogenic effects. Due to these concerns, the use of triclocarban and similar compounds, like triclosan, has seen a decline in the early twenty-first century. Public health experts argue that plain soap and water are as effective in disease prevention, reducing the need for antimicrobial soaps in healthy households.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:38",
+      "char_limit": 2000,
+      "answer_length": 1496
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7184,
+  "updated_at": "2025-11-30 13:50:38",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

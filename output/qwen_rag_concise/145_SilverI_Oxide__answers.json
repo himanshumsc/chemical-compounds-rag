@@ -1,0 +1,59 @@
+{
+  "source_file": "145_SilverI_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows silver(I) oxide (Ag2O). It is a catalyst, used in industrial operations and water purification, and is a skin, eye, and respiratory irritant.",
+      "latency_s": 39.62,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Oxide?",
+      "answer": "silver(I) oxide: Ag2O; molecular weight: 232.04 g/mol",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How is Silver(I) Oxide typically produced?",
+      "answer": "Silver(I) oxide typically is produced by combining silver with oxygen, resulting in the compound with the formula Ag2O. This reaction involves the addition of oxygen to silver, forming the silver oxide.",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the solubility and decomposition characteristics of Silver(I) Oxide and their implications for its use.",
+      "answer": "Silver(I) oxide is insoluble in water but soluble in strong acids and bases. It decomposes to form silver metal and oxygen gas, releasing heat. These properties limit its use primarily in specialized applications, such as in some chemical reactions or as a catalyst.",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:30:51",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:30:51",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

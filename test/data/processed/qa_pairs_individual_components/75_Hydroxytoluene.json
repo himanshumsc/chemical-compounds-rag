@@ -1,0 +1,38 @@
+{
+  "compound_id": 25,
+  "compound_name": "Hydroxytoluene",
+  "source_file": "compound_025_Hydroxytoluene.json",
+  "main_entry_length": 2738,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0184_Hydroxytoluene_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:39",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structures of Butylated Hydroxyanisole (BHA) on the left and Butylated Hydroxytoluene (BHT) on the right. \n\n**Key Properties:**\n\n- **BHA**: It's an antioxidant used as a food preservative. It prevents rancidity in fats and oils, extending shelf life.\n  \n- **BHT**: Similar to BHA, it is also an antioxidant and food preservative. It inhibits oxidation in various products.\n\nBoth compounds protect food and other products from spoilage by reacting with oxygen, preserving freshness and quality.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:33"
+    },
+    {
+      "question": "What are the chemical formulas and molecular weights of BHA and BHT?",
+      "answer": "The chemical formula for Butylated Hydroxyanisole (BHA) is C11H16O2, with a molecular weight of 180.24 g/mol. The chemical formula for Butylated Hydroxytoluene (BHT) is C15H24O, with a molecular weight of 220.35 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How do BHA and BHT function as food preservatives?",
+      "answer": "BHA and BHT function as food preservatives by acting as antioxidants. These compounds prevent oxygen from reacting with fats and oils, which would otherwise oxidize and become rancid, producing foul-smelling and potentially harmful products. By reacting with oxygen, BHA and BHT protect the food's fats and oils, thus extending the shelf life of food products.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the process of synthesizing BHA and BHT, including the reactants and conditions required.",
+      "answer": "BHA is synthesized through a reaction between p-methoxyphenol (CH3CH2OC6H4OH) and isobutene ((CH3)2C=CH2) or tert-butyl alcohol ((CH3)3COH) using a catalyst of silica (SiO2) or alumina (Al2O3) at temperatures around 150°C (302°F). BHT, on the other hand, is typically made by reacting p-cresol (CH3C6H4OH) with isobutene. These processes use specific catalysts and conditions to facilitate the desired chemical reactions that produce BHA and BHT.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

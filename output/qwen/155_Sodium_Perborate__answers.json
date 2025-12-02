@@ -1,0 +1,27 @@
+{
+  "source_file": "155_Sodium_Perborate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium perborate (NaBO₃). Sodium perborate is a chemical compound with the following key properties:\n\n1. **Composition**:\n   - Red atoms represent oxygen.\n   - Yellow atom represents boron.\n   - Turquoise atom represents sodium.\n\n2. **Structure**:\n   - The molecule consists of one boron atom bonded to three oxygen atoms.\n   - Sodium is bonded to the boron atom through a single bond.\n\n3. **Properties**:\n   - Sodium perborate is a mild and relatively safe oxidizing agent.\n   - It is used as an oxid",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the chemical formula for sodium perborate and what elements does it consist of?",
+      "answer": "The chemical formula for sodium perborate is NaBO2·nH2O, where n represents the number of water molecules associated with the perborate ion (B(OH)4). Sodium perborate is commonly used in laundry detergents and other cleaning products due to its ability to remove stains and kill bacteria.\n\nThe elements that make up sodium perborate include:\n\n1. **Sodium (Na)**: This is the alkali metal.\n2. **Boron (B)**: This is a non-metal element.\n3. **Oxygen (O)**: This is a non-metal element.\n4.",
+      "latency_s": 10.64
+    },
+    {
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "answer": "Sodium perborate (NaBO₃·nH₂O) is a commonly used oxidizing agent in various applications such as bleaching, dyeing, and textile processing. When it decomposes in water, the process can be complex and depends on factors like temperature, pH, and the presence of other substances.\n\n### Decomposition Reaction\n\nThe primary decomposition reaction of sodium perborate in water involves the release of oxygen gas (O₂). The general reaction can be represented as:\n\n\\[ \\text{NaBO}_3 \\cdot n\\text{H}_2\\text{O} \\rightarrow \\text{Na",
+      "latency_s": 10.64
+    },
+    {
+      "question": "Explain how sodium perborate is used in detergents and the chemical basis for its effectiveness as a bleaching agent.",
+      "answer": "Sodium perborate, also known as sodium tetraborate decahydrate or sodium borate, is a compound that is widely used in laundry detergents due to its ability to effectively clean clothes and whiten fabrics. It is also used in other household cleaning products and industrial processes.\n\n### Chemical Structure of Sodium Perborate\n\nThe chemical formula for sodium perborate is NaBO₃·nH₂O, where n can vary from 0 to 10 depending on the hydration state. The most common form is the decahydrate, which has ten water molecules associated with each borate ion. This",
+      "latency_s": 10.64
+    }
+  ]
+}

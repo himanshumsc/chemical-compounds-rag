@@ -1,0 +1,59 @@
+{
+  "source_file": "113_Petroleum.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows an aromatic hydrocarbon with a ring structure containing alternating single and double bonds. Key properties: thick, oily, dark yellow to brown-greenish black, strong, unpleasant odor.",
+      "latency_s": 39.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the primary components of petroleum, and how do they differ in terms of chemical bonding?",
+      "answer": "Petroleum primarily consists of hydrocarbons, which are compounds of carbon and hydrogen. They differ in chemical bonding, with simple hydrocarbons like alkanes having only single bonds between carbon atoms, while more complex hydrocarbons may have multiple bonds (double or triple) like alkenes and alkynes.",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the refining process of petroleum and the significance of different temperature fractions in this process.",
+      "answer": "Petroleum refining involves distillation, where crude oil is heated to separate its components into different fractions based on boiling points. Light distillates such as gasoline and kerosene boil first, followed by heavier fractions like diesel and lubricating oils. The remaining fractions include asphalt and wax. Each fraction's unique properties are utilized in various products, emphasizing the significance of temperature fractions in achieving desired outputs.",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the environmental impact of petroleum extraction and usage, particularly focusing on its role in energy production and transportation.",
+      "answer": "Petroleum extraction and usage significantly contribute to global warming due to greenhouse gas emissions. Extraction processes can lead to habitat destruction, spills, and air pollution. During transportation, vehicles emit carbon dioxide, a major contributor to climate change.",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:26:46",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:26:46",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

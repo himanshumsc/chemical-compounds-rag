@@ -1,0 +1,58 @@
+{
+  "compound_id": 102,
+  "compound_name": "Nitrous Oxide",
+  "source_file": "compound_102_Nitrous Oxide.json",
+  "main_entry_length": 1426,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0564_Nitrous_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image represents nitrous oxide (N₂O). In the diagram, the red atom is oxygen, and the blue atoms are nitrogen. The nitrogen atoms share a triple bond.\n\nKey properties of nitrous oxide include:\n\n1. **Chemical Formula**: N₂O\n2. **Common Name**: Laughing gas\n3. **Properties**: Colorless, non-flammable gas with a slightly sweet odor and taste.\n4. **Uses**: Primarily used as an anesthetic and analgesic in medicine and dentistry, and also as a propellant in the food industry.\n5. **Effects**: Known for its euphoric effects, leading to its recreational use.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:06"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Nitrous Oxide?",
+      "answer": "The chemical formula of Nitrous Oxide is N2O, and its molecular weight is 44.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:20",
+      "char_limit": 1000,
+      "answer_length": 86
+    },
+    {
+      "question": "Explain the solubility properties of Nitrous Oxide and its implications for usage.",
+      "answer": "Nitrous oxide (N2O) is slightly soluble in water and soluble in ethyl alcohol and ether. These solubility properties have practical implications for its usage. The slight solubility in water means that nitrous oxide can be used effectively in applications where minimal interaction with water is desired, such as when used as an anesthetic in medical settings. The solubility in organic solvents like ethyl alcohol and ether suggests that nitrous oxide can be utilized in chemical processes or reactions where these solvents are present, potentially facilitating its incorporation into various industrial or pharmacological formulations. Its solubility characteristics enable diverse applications, particularly where its gaseous state and inertness are advantageous.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:23",
+      "char_limit": 1800,
+      "answer_length": 766
+    },
+    {
+      "question": "Discuss the historical discovery and early experimentation of Nitrous Oxide.",
+      "answer": "Nitrous oxide, also known as laughing gas, was possibly first produced by the English chemist and physicist Robert Boyle, although he did not recognize it as a new compound. The discovery is typically credited to the English chemist Joseph Priestley, who produced and named it \"nitrous air\" in 1772. Early names for the compound included \"gaseous of azote\" and \"oxide of speton.\" Sir Humphry Davy, another English chemist and physicist, conducted the most extensive experiments on nitrous oxide, testing it on himself and friends. Davy discovered that the gas could reduce pain and discomfort and induce a sense of relaxation and well-being. This led to its use as an anesthetic in medical settings.",
+      "difficulty_level": "advanced",
+      "topic_category": "history",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:27",
+      "char_limit": 2000,
+      "answer_length": 699
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3963,
+  "updated_at": "2025-11-30 13:36:27",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

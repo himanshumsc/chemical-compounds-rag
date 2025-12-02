@@ -1,0 +1,27 @@
+{
+  "source_file": "115_Phosphoric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows phosphoric acid (H₃PO₄). Key properties of phosphoric acid include:\n\n1. **Chemical Composition**: Phosphoric acid consists of one phosphorus atom (P) bonded to four oxygen atoms (O), with each oxygen atom also bonded to a hydrogen atom (H).\n\n2. **Structure**: The phosphorus atom is surrounded by four oxygen atoms, forming a tetrahedral shape. Each oxygen atom is single-bonded to a hydrogen atom.\n\n3. **Acidity**: Phosphoric acid is a triprotic acid, meaning it can donate three protons",
+      "latency_s": 16.8
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phosphoric acid?",
+      "answer": "The chemical formula for phosphoric acid is \\( \\text{H}_3\\text{PO}_4 \\). \n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Hydrogen (H): 1.01 g/mol\n- Phosphorus (P): 30.97 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molecular weight of phosphoric acid (\\( \\text{H}_3\\text{PO}_4 \\)) is calculated as follows:\n\\[ \n3 \\times 1.01 \\, \\text",
+      "latency_s": 10.66
+    },
+    {
+      "question": "Describe the physical state and properties of phosphoric acid at room temperature.",
+      "answer": "Phosphoric acid, with the chemical formula H₃PO₄, is a colorless, viscous liquid at room temperature (25°C). It has a strong acidic nature due to its three ionizable protons, which can dissociate in water to form hydrogen ions (H⁺) and phosphate ions (H₂PO₄⁻, HPO₄²⁻, PO₄³⁻).\n\nKey physical properties of phosphoric acid at room temperature include:\n\n1. **Appearance**: It appears as a clear, colorless liquid.\n2. **Odor**: It has a faint, slightly sweet odor.\n3",
+      "latency_s": 10.66
+    },
+    {
+      "question": "Explain the process of how phosphoric acid is commercially produced starting from phosphate rock.",
+      "answer": "Phosphoric acid is a crucial chemical in various industries, including agriculture, food processing, and pharmaceuticals. It is produced from phosphate rock through a series of industrial processes. Here's an overview of the commercial production of phosphoric acid:\n\n### 1. **Phosphate Rock Extraction**\n   - **Source**: Phosphate rock is primarily found in sedimentary rocks that were formed from the remains of marine organisms.\n   - **Extraction**: Phosphate rock is extracted from mines using conventional mining techniques such as open-pit or underground mining.\n\n### 2. **Flotation and Washing**\n   - **Purpose**: To separate the phosphate",
+      "latency_s": 10.66
+    }
+  ]
+}

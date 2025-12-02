@@ -1,0 +1,58 @@
+{
+  "compound_id": 120,
+  "compound_name": "Polyurethane",
+  "source_file": "compound_120_Polyurethane.json",
+  "main_entry_length": 5044,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0660_Polyurethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:22",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of polyurethane. Key properties of polyurethane include its versatility and ability to be tailored for various applications. It can be rigid or flexible, making it useful for products like foams, adhesives, and fibers. Polyurethane is known for its durability, resistance to abrasion, and insulating properties. It was first widely used during World War II as a substitute for rubber and has since been developed into materials like spandex.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:56"
+    },
+    {
+      "question": "What are the elements present in the chemical structure of polyurethane?",
+      "answer": "The elements present in the chemical structure of polyurethane are carbon, hydrogen, oxygen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:10",
+      "char_limit": 1000,
+      "answer_length": 106
+    },
+    {
+      "question": "How are polyurethanes formed at the molecular level?",
+      "answer": "Polyurethanes are formed through a reaction known as rearrangement, involving a diisocyanate and a polyol. A diisocyanate is a compound containing two isocyanate groups (-N=C=O), while a polyol is an alcohol with two or more hydroxyl (-OH) groups. In the reaction, a hydrogen atom from the polyol detaches and attaches to a nitrogen atom in the diisocyanate. The remaining part of the polyol molecule then bonds with the carbon atom adjacent to the nitrogen that received the hydrogen. This process results in the formation of a new molecule with the same general structure as the original reactants. \n\nThis reaction can be repeated with additional diisocyanate and polyol molecules, leading to a polymer chain formation. A catalyst, commonly diazobicyclo[2.2.2]octane (DABCO), is used to initiate the reaction by encouraging the hydrogen atom to leave the polyol and move to the diisocyanate. Once the reaction starts, DABCO is no longer involved and can be recovered for reuse. Various forms of polyurethane, such as foams or fibers, can be produced by adding additional steps to this fundamental process, such as incorporating water and carbon dioxide to create foams.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:18",
+      "char_limit": 1800,
+      "answer_length": 1171
+    },
+    {
+      "question": "Discuss the different forms of polyurethane and their respective properties and applications.",
+      "answer": "Polyurethanes are versatile organic polymers formed through the reaction of a diisocyanate and a polyol. They exist in several forms, each with unique properties and applications:\n\n1. **Fibers**: These are moisture-proof, stretchable, and resistant to electric current. Polyurethane fibers are used in applications where these characteristics are beneficial, such as in clothing materials like spandex.\n\n2. **Foams**: Polyurethane foams can be flexible or rigid. Flexible foams are predominantly used in cushioning, such as in mattresses, upholstered furniture, and automobile seats. Semiflexible foams are used in carpet pads, sponges, and packaging. Rigid foams serve as thermal insulators and are widely used in construction, as well as in refrigerators and freezers.\n\n3. **Coatings**: These are hard, glossy, flexible, and adhere well to surfaces. They are resistant to abrasion, weathering, and most inorganic chemicals, making them suitable for protective coatings on various surfaces.\n\n4. **Elastomers**: These rubber-like materials are resistant to abrasion, weathering, and most organic solvents, making them ideal for applications requiring durability and flexibility.\n\nPolyurethane's creation involves a rearrangement reaction catalyzed by DABCO, with forms like foam made by adding water and carbon dioxide to create bubbles. Polyethylene glycol can be added to make flexible forms. Developed initially in 1937 by Otto Bayer, polyurethanes saw early use in military applications and have since expanded to various industries due to their diverse properties.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:24",
+      "char_limit": 2000,
+      "answer_length": 1569
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8092,
+  "updated_at": "2025-11-30 13:40:24",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

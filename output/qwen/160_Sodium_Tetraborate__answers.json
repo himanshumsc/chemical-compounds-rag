@@ -1,0 +1,27 @@
+{
+  "source_file": "160_Sodium_Tetraborate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Sodium Tetraborate (Na₂B₄O₇·10H₂O), also known as Borax. Here are some of its key properties:\n\n- **Chemical Formula**: Na₂B₄O₇·10H₂O\n- **Molecular Structure**: It consists of sodium ions (Na⁺) and tetraborate ions (B₄O₇²⁻). The tetraborate ion is a ring of four boron atoms (B) bonded to each other with oxygen bridges.\n- **Appearance**: Sodium tetrabor",
+      "latency_s": 16.57
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous sodium tetraborate?",
+      "answer": "Anhydrous sodium tetraborate, also known as disodium tetraborate or borax, has the chemical formula \\( \\text{Na}_2\\text{B}_4\\text{O}_7 \\).\n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Sodium (Na): Atomic weight ≈ 23.0 g/mol\n- Boron (B): Atomic weight ≈ 10.8 g/mol\n- Oxygen (O): Atomic weight ≈ 16.0 g/mol\n\nNow, let's calculate the molecular weight",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain the historical significance and early uses of sodium tetraborate.",
+      "answer": "Sodium tetraborate, also known as borax, is a compound with the chemical formula Na2B4O7·10H2O. It is a white crystalline powder that has been used for centuries in various applications due to its unique properties.\n\nHistorically, borax was first discovered in the ancient world. The Egyptians were among the earliest civilizations to use borax, which they obtained from natural deposits in the Dead Sea region. They used it in mummification processes and as a preservative for food. The Romans also recognized the value of borax and used it in glassmaking and as a flux in",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Discuss the decomposition and melting characteristics of sodium tetraborate decahydrate compared to its anhydrous form.",
+      "answer": "Sodium tetraborate decahydrate, also known as borax, is a hydrated salt with the chemical formula Na2B4O7·10H2O. It decomposes at high temperatures into its anhydrous form, sodium tetraborate (Na2B4O7), and water vapor. Understanding the decomposition and melting characteristics of both forms is crucial for various applications in chemistry and industry.\n\n### Decomposition Characteristics\n\n**Decomposition of Sodium Tetraborate Decahydrate:**\n- **Temperature:** Sodium tetraborate decahydrate decomposes at around 350°C",
+      "latency_s": 10.58
+    }
+  ]
+}

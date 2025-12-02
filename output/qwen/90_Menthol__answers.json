@@ -1,0 +1,27 @@
+{
+  "source_file": "90_Menthol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Menthol. Menthol is a chemical compound with the molecular formula C10H20O. It is a colorless, crystalline solid with a characteristic cool, refreshing taste and odor.\n\nKey properties of Menthol include:\n- **Cooling Effect**: Menthol is known for its cooling sensation when applied to the skin or ingested.\n- **Solubility**: It is slightly soluble in water but highly soluble in organic solvents such as ethanol and ether.\n- **Odor**: Menthol has a strong, minty odor.\n- **Taste**: Menthol has a cool",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of menthol?",
+      "answer": "The chemical formula for menthol is \\( \\text{C}_{10}\\text{H}_{20}\\text{O} \\).\n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, multiply each by the number of atoms in the formula:\n- \\( 10 \\times 12.01 = 120.1 \\) g/mol",
+      "latency_s": 10.35
+    },
+    {
+      "question": "Explain the solubility properties of menthol in different solvents.",
+      "answer": "Menthol, a crystalline compound with the chemical formula C10H20O, is a common ingredient in various products such as cough drops, lotions, and mouthwashes due to its cooling sensation and aromatic properties. Understanding its solubility in different solvents can be crucial for formulating these products effectively.\n\n### Solubility in Water\nMenthol is slightly soluble in water. This means that while it can dissolve in water, it does so only to a limited extent. The solubility of menthol in water is approximately 0.03 g per 100 mL at room temperature",
+      "latency_s": 10.35
+    },
+    {
+      "question": "Discuss the historical and medicinal significance of peppermint and menthol.",
+      "answer": "Peppermint and menthol have a rich history and have been used for centuries in various cultures for both their culinary and medicinal purposes.\n\nPeppermint is a hybrid plant that is a cross between spearmint and watermint. It has been cultivated since ancient times, with evidence of its use dating back to the time of the ancient Greeks and Romans. The peppermint plant was highly valued by the Greeks and Romans for its aromatic properties and was often used as a flavoring agent in food and drink. In fact, peppermint oil was one of the first essential oils to be extracted using steam distillation.\n\nMedicinally, peppermint",
+      "latency_s": 10.35
+    }
+  ]
+}

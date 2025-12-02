@@ -1,0 +1,38 @@
+{
+  "compound_id": 45,
+  "compound_name": "Collagen",
+  "source_file": "compound_045_Collagen.json",
+  "main_entry_length": 3506,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0290_Collagen_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't see a molecular structure diagram in the image provided. However, the text discusses collagen, a protein that forms strong, flexible structures in connective tissues. Collagen is composed of amino acids linked in long chains, with these chains intertwining to form large molecules. It's crucial for skin, tendons, and cartilage. Collagen is used in cosmetic procedures to reduce wrinkles, but its effects are typically not permanent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:48"
+    },
+    {
+      "question": "What elements make up collagen and what is its compound type?",
+      "answer": "Collagen is made up of the elements carbon, hydrogen, oxygen, and nitrogen. It is classified as an organic compound.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the molecular structure of collagen and the role of amino acids in its formation.",
+      "answer": "Collagen has a molecular structure consisting of three rope-like strands intertwined with each other. Each strand, called tropocollagen, is a polymer made up of amino acids, primarily glycine, proline, and hydroxyproline. The strands are held together by the action of vitamin C molecules. Collagen synthesis involves a complex series of reactions where amino acids, organic compounds containing carboxyl and amino groups, link to form long chains known as polypeptides. These chains intertwine to form procollagen, which is processed into collagen.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the different types of collagen and their specific roles in the body.",
+      "answer": "There are at least a dozen types of collagen, each with distinct functions. Type I collagen is the most abundant, forming long strands that criss-cross spaces between cells, predominantly found in tendons, bones, and scars. Type II collagen is a key component of cartilage. Type III collagen is present in granulation tissue during wound healing. Type IV collagen forms the basal lamina, which supports skin and internal surfaces. The other types of collagen have their specific roles, contributing to the body's structural integrity.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

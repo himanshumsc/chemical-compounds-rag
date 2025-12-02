@@ -1,0 +1,58 @@
+{
+  "compound_id": 108,
+  "compound_name": "Petrolatum",
+  "source_file": "compound_108_Petrolatum.json",
+  "main_entry_length": 5546,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0598_Petrolatum_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't see molecular structure diagrams in images. However, the text describes petrolatum, also known as Vaseline, which is a semi-solid mixture derived from the fractional distillation of crude oil. It is colorless, tasteless, and odorless, with a melting point range of about 38°C to 55°C. Petrolatum is used as an ointment for wounds and burns due to its healing properties and its resistance to spoilage.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:25"
+    },
+    {
+      "question": "What are the common names and solubility characteristics of petrolatum?",
+      "answer": "Petrolatum is commonly known by several names, including petroleum jelly, paraffin jelly, vasoliment, liquid paraffin, mineral oil, and paraffin oil. It is a mixture of hydrocarbons and is available in semi-solid or liquid form. \n\nRegarding solubility, petrolatum is insoluble in water and ethyl alcohol. However, it is soluble in benzene, chloroform, ether, carbon disulfide, and other organic solvents.",
+      "difficulty_level": "basic",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:15",
+      "char_limit": 1000,
+      "answer_length": 404
+    },
+    {
+      "question": "Explain why petrolatum is considered a mixture and not a compound.",
+      "answer": "Petrolatum is considered a mixture and not a compound because it consists of hydrocarbons that are not chemically combined. Mixtures, unlike compounds, have no definite composition and consist of varying amounts of substances. Petrolatum is a complex blend of hydrocarbons derived from the distillation of petroleum, specifically from the methane (alkane) family of hydrocarbons with the general formula CnH2n+2. This lack of chemical bonding and fixed composition differentiates petrolatum from a compound.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:18",
+      "char_limit": 1800,
+      "answer_length": 507
+    },
+    {
+      "question": "Describe some industrial applications of solid petrolatum and its role in those applications.",
+      "answer": "Solid petrolatum, such as Vaseline™, has several industrial applications due to its unique properties. It is used as a softener in the production of rubber products, enhancing their flexibility and durability. In the food processing industry, petrolatum is applied to coat raw fruits and vegetables, helping them retain moisture. It also serves as a defoaming agent in the production of beet sugar and yeasts, preventing excessive foaming during processing. Additionally, solid petrolatum is used for lubricating firearms and machine parts, providing a protective barrier that reduces friction and wear. It is also an ingredient in the preparation of shoe polishes and rust preventatives, where it helps maintain the condition of the materials by providing a moisture-resistant coating. These applications highlight petrolatum's versatility in various industrial settings.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:21",
+      "char_limit": 2000,
+      "answer_length": 872
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7569,
+  "updated_at": "2025-11-30 13:37:21",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

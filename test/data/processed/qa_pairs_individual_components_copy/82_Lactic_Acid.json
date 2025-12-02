@@ -1,0 +1,36 @@
+{
+  "compound_id": 77,
+  "compound_name": "Lactic Acid",
+  "source_file": "compound_077_Lactic Acid.json",
+  "main_entry_length": 4568,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0442_Lactic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:19",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Lactic Acid.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactic acid?",
+      "answer": "The chemical formula of lactic acid is CH3CHOHCOOH, and its molecular weight is 90.08 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the difference between D-lactic acid and L-lactic acid.",
+      "answer": "D-lactic acid and L-lactic acid are isomers, meaning they have the same molecular formula but different structural formulas and properties. The D form is produced during metabolic reactions in muscle tissue, while the L form is produced by yeast cells. The orientation of one group of atoms in the enzyme used for their production differs, resulting in the two distinct isomers.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe how the synthetic production of lactic acid is accomplished and what role do enzymes play in natural production.",
+      "answer": "Synthetic production of lactic acid begins with the addition of hydrogen cyanide (HCN) to acetaldehyde (CH3CHO), forming lactonitrile (CH3CH2OCN). The lactonitrile is then hydrolyzed using a strong acid like sulfuric acid to produce lactic acid. In contrast, natural production involves enzymes: muscle cells and yeast cells use specific enzymes during anaerobic respiration and fermentation, respectively, to convert glucose into lactic acid. The enzymes differ only in the orientation of one group of atoms, leading to the production of different isomers (D and L forms).",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 159,
+  "compound_name": "Styrene",
+  "source_file": "compound_159_Styrene.json",
+  "main_entry_length": 2145,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0854_Styrene_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of styrene. Styrene is an organic compound with the formula C₆H₅CH=CH₂. It is a colorless, oily liquid that evaporates easily and has a sweet smell. Styrene is primarily used in the production of polystyrene, a versatile plastic that is used in various applications including packaging, insulation, and disposable containers. While useful, styrene can be hazardous; it is a potential health risk if inhaled or absorbed through the skin, necessitating careful handling.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:47"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of styrene?",
+      "answer": "The chemical formula of styrene is C6H5CH=CH2, and its molecular weight is 104.15 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:49",
+      "char_limit": 1000,
+      "answer_length": 88
+    },
+    {
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "answer": "Polymerization is a chemical reaction in which small molecules, like styrene, react with other molecules of the same kind to form very large molecules, typically in the form of long chains. In the case of styrene, its polymerization is initiated when the double bond in the styrene monomer breaks apart, allowing it to link with other styrene molecules. As a result, polystyrene is formed, which is a clear, colorless, hard plastic. This polymer can be molded into various shapes and forms, such as the foam known as styrofoam. Polystyrene is widely used in insulation for electrical wires and devices, containers for hot and cold foods and drinks, and building insulation. Additionally, styrene can be polymerized with other monomers to produce specialized copolymers like styrene-butadiene rubber and acrylonitrile-butadiene-styrene resins. These compounds have numerous industrial applications, highlighting styrene's importance in manufacturing and materials science.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:57",
+      "char_limit": 1800,
+      "answer_length": 971
+    },
+    {
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "answer": "The industrial preparation of styrene involves two main steps. First, benzene (C6H6) reacts with ethylene (CH2=CH2) to form ethylbenzene (C6H5CH2CH3). This process is not elaborated in detail in the provided text. The second step involves the dehydrogenation of ethylbenzene to produce styrene (C6H5CH=CH2). This dehydrogenation process occurs over a catalyst of iron(III) oxides at high temperatures, approximately 600°C (1100°F). During dehydrogenation, hydrogen atoms are removed from ethylbenzene, resulting in the formation of styrene and hydrogen gas as a byproduct:\n\nC6H5CH2CH3 → C6H5CH=CH2 + H2\n\nThis reaction is crucial in the industrial production of styrene, which is primarily used in the manufacture of polystyrene and other styrene-based polymers.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:03",
+      "char_limit": 2000,
+      "answer_length": 761
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 9074,
+  "updated_at": "2025-11-30 13:48:04",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

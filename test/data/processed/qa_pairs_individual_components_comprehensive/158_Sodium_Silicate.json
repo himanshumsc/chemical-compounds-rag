@@ -1,0 +1,58 @@
+{
+  "compound_id": 154,
+  "compound_name": "Sodium Silicate",
+  "source_file": "compound_154_Sodium Silicate.json",
+  "main_entry_length": 2840,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0830_Sodium_Silicate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium silicate. Key properties include:\n\n- **Composition**: It consists of silicon (orange), oxygen (red), and sodium (turquoise) atoms.\n- **Structure**: The diagram indicates a silicon atom bonded to oxygen atoms, forming a silicate anion with sodium ions.\n- **Production**: Made by fusing sand (silicon dioxide) with soda ash (sodium carbonate) or sodium hydroxide.\n- **Uses**: Commonly used in soaps, detergents, and as a cleaning agent due to its effectiveness and reduced corrosiveness on metals.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:59"
+    },
+    {
+      "question": "What is the chemical formula of sodium metasilicate, and what elements does it contain?",
+      "answer": "The chemical formula of sodium metasilicate is Na2SiO3. It contains the elements sodium (Na), silicon (Si), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:48",
+      "char_limit": 1000,
+      "answer_length": 123
+    },
+    {
+      "question": "Describe the process of manufacturing sodium silicate.",
+      "answer": "Sodium silicates are manufactured by fusing sand (silicon dioxide) and soda ash (sodium carbonate) or sodium hydroxide in a gas-fired open hearth furnace. The process is similar to that used in steel manufacturing. The fusion results in lumps of sodium silicate, which are then broken apart and dissolved in a stream of hot steam. The final product's physical properties depend on the proportions of sand and soda ash used, the reaction temperature, and the amount of water remaining in the product.",
+      "difficulty_level": "intermediate",
+      "topic_category": "how_it_is_made",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:50",
+      "char_limit": 1800,
+      "answer_length": 499
+    },
+    {
+      "question": "Explain how the physical properties of sodium silicate vary and identify one key factor that influences these variations.",
+      "answer": "The physical properties of sodium silicate vary significantly depending on the relative proportions of sodium oxide (Na2O) and silicon dioxide (SiO2) present in the compound. Sodium silicate can range from white powders with varying degrees of solubility in water to greenish, glass-like solids, and to liquids with different viscosities. The viscosity of sodium silicate can vary from about 0.5 poise to more than 600,000 poise, indicating a wide range of fluidity. Other physical properties, such as solubility and state (solid to liquid), also differ based on these proportions.\n\nA key factor influencing these variations is the specific ratio of sodium oxide to silicon dioxide in the compound. This ratio determines the physical characteristics and behavior of the sodium silicates, affecting components such as solubility, viscosity, and overall appearance. Different formulations, such as sodium metasilicate (Na2SiO3) and other forms ranging from Na2O·3.75SiO2 to 2Na2O·SiO2 with water of hydration, exhibit distinct properties based on their chemical composition.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:57",
+      "char_limit": 2000,
+      "answer_length": 1072
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5024,
+  "updated_at": "2025-11-30 13:46:58",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

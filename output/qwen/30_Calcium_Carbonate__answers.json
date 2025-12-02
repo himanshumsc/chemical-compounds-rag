@@ -1,0 +1,27 @@
+{
+  "source_file": "30_Calcium_Carbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Calcium Carbonate (CaCO₃). Here are some of its key properties:\n\n1. **Composition**: Calcium Carbonate consists of one calcium atom (Ca), one carbon atom (C), and three oxygen atoms (O).\n2. **Structure**: The calcium atom is bonded to the carbon atom, which in turn is bonded to three oxygen atoms.\n3. **Common Uses**:\n   - **Antacid**: It neutralizes excess stomach acid (hydrochloric acid; HCl) and relieves symptoms like heartburn, upset stomach, and sour stomach.\n   - **Agriculture",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of calcium carbonate?",
+      "answer": "The chemical formula for calcium carbonate is CaCO₃. \n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Calcium (Ca) has an atomic weight of approximately 40.08 g/mol.\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nSince there are three oxygen atoms in CaCO₃, we multiply the atomic weight of oxygen by 3.\n\nNow, let's calculate the molecular weight:\n\n\\[ \\text",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Describe the solubility characteristics of calcium carbonate and how they affect its use in different environments.",
+      "answer": "Calcium carbonate (CaCO₃) is a widely occurring mineral that exhibits several solubility characteristics, which significantly influence its applications across various environments.\n\n### Solubility Characteristics:\n1. **Solubility in Water**: Calcium carbonate is sparingly soluble in water at room temperature. Its solubility product constant (Ksp) is approximately 4.5 × 10⁻⁹ at 25°C. This means that in pure water, only a small fraction of CaCO₃ dissolves to form calcium ions (Ca²⁺) and carbonate ions (CO₃²⁻).\n\n2. **Effect",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Explain the process by which calcium carbonate can be synthesized in the laboratory and how its physical form might vary depending on its crystal structure.",
+      "answer": "Calcium carbonate (CaCO₃) is a common compound found in nature, often as chalk, limestone, or marble. In the laboratory, it can be synthesized through various methods, each of which can result in different physical forms due to variations in crystal structure.\n\n### Synthesis Methods\n\n1. **Combustion of Calcium Carbonate:**\n   - This method involves heating calcium hydroxide (Ca(OH)₂) in an atmosphere of carbon dioxide (CO₂). The reaction is:\n     \\[\n     \\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{Ca",
+      "latency_s": 10.57
+    }
+  ]
+}

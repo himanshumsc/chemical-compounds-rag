@@ -1,0 +1,27 @@
+{
+  "source_file": "125_Polyvinyl_Chloride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Poly(vinyl chloride), also known as PVC. The key properties of PVC include:\n\n1. **Chemical Composition**: PVC consists of repeating units of vinyl chloride (CH₂-CHCl) linked together by covalent bonds.\n2. **Double Bond**: The gray stick represents a double bond between two carbon atoms, which is characteristic of vinyl chloride.\n3. **Plasticity**: PVC is a thermoplastic polymer that can be molded into various shapes due to its ability to dissolve in organic solvents.\n4. **Versatility**: PVC can be used in a wide range of",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What is the chemical formula for Polyvinyl Chloride and which elements does it contain?",
+      "answer": "The chemical formula for Polyvinyl Chloride (PVC) is \\(\\text{C}_2\\text{H}_3\\text{Cl}\\). However, PVC is not a single compound but a polymer, meaning it is composed of many repeating units of vinyl chloride (\\(\\text{CH}_2=\\text{CHCl}\\)).\n\nEach unit in the PVC polymer chain contains carbon (C), hydrogen (H), and chlorine (Cl) atoms. Therefore, the elements that PVC contains are:\n\n- Carbon (C)\n- Hydrogen (H)\n- Chlorine (Cl)\n\nSo, while the formula for the mon",
+      "latency_s": 12.08
+    },
+    {
+      "question": "Discuss the solubility properties of Polyvinyl Chloride and the solvents in which it is soluble.",
+      "answer": "Polyvinyl chloride (PVC) is a synthetic polymer that is widely used due to its flexibility, durability, and ease of processing. However, understanding its solubility properties is crucial for various applications, including manufacturing processes, recycling, and disposal.\n\n### Solubility Properties of PVC\n\n**Solubility:** PVC is not soluble in water or most common organic solvents at room temperature. This is because PVC is a hydrophobic polymer with a rigid backbone structure that does not readily interact with polar solvents like water. Additionally, PVC's chlorine atoms make it resistant to many common organic solvents.\n\n### Solvents in Which",
+      "latency_s": 12.08
+    },
+    {
+      "question": "Explain why Polyvinyl Chloride does not have a boiling point and describe its decomposition behavior.",
+      "answer": "Polyvinyl chloride (PVC) is a synthetic polymer that is widely used in various applications due to its flexibility, durability, and ease of processing. However, PVC does not have a boiling point in the traditional sense because it undergoes a process called decomposition or degradation when exposed to high temperatures.\n\n### Boiling Point vs. Decomposition\n\n1. **Boiling Point**: This refers to the temperature at which a liquid turns into a gas under standard atmospheric pressure. For most substances, this transition occurs over a range of temperatures, but for pure substances, there is a specific temperature where this phase change happens.\n\n2. **Decom",
+      "latency_s": 12.08
+    }
+  ]
+}

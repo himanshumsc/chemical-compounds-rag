@@ -1,0 +1,27 @@
+{
+  "source_file": "19_Amyl_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows amyl acetate. Key properties of amyl acetate include:\n\n1. **Chemical Formula**: Amyl acetate has the formula \\( \\text{C}_5\\text{H}_{10}\\text{O}_2 \\).\n2. **Appearance**: It is a colorless liquid with a characteristic banana-like odor.\n3. **Flavoring Agent**: It is commonly used as a flavoring agent in various products due to its fruity and rounded taste.\n4. **Manufacture**: Amyl acetate is produced by reacting acetic acid (\\( \\text{HC}_",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Amyl Acetate?",
+      "answer": "The chemical formula for Amyl Acetate is C₆H₁₂O₂.\n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12.01 g/mol × 6 = 72.06 g/mol\n- Hydrogen (H): 1.008 g/mol × 12 = 12.096 g/mol\n- Oxygen (O): 16.00 g/mol × 2 = 32.00 g/mol\n\nAdding these together gives us the molecular weight:",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Describe the process by which Amyl Acetate is industrially produced.",
+      "answer": "Amyl acetate, also known as pentyl acetate or 2-methylbutyl acetate, is an ester that is commonly used in perfumes and fragrances due to its pleasant odor. It is industrially produced through a chemical reaction involving acetic acid and amyl alcohol.\n\nThe industrial production of amyl acetate typically follows these steps:\n\n1. **Raw Materials**: The primary raw materials needed for the production of amyl acetate are acetic acid (ethanoic acid) and amyl alcohol (2-methylbutanol).\n\n2. **Reaction**: In a laboratory setting, the reaction between acetic",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Explain why different isomers of Amyl Acetate have varying boiling points and provide their values.",
+      "answer": "Isomers of Amyl Acetate refer to compounds that have the same molecular formula but differ in the arrangement of atoms within the molecule. Amyl Acetate, specifically, refers to a family of compounds with the general formula C₅H₁₀O₂, where the carbon chain can be arranged in different ways.\n\n### Isomers of Amyl Acetate:\n\n1. **2-Methyl-2-Butyl Acetate (2-Methylbutyl Acetate):**\n   - Structural Formula: CH₃-C(CH₃)-CH₂-COOCH₃\n   - Boiling Point:",
+      "latency_s": 10.38
+    }
+  ]
+}

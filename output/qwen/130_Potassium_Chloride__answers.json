@@ -1,0 +1,27 @@
+{
+  "source_file": "130_Potassium_Chloride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Chloride (KCl). Key properties of Potassium Chloride include:\n\n1. **Composition**: It consists of one potassium atom (positively charged) and one chlorine atom (negatively charged).\n2. **Charge**: The potassium atom has a positive charge, while the chlorine atom has a negative charge.\n3. **Appearance**: Potassium chloride appears as a white crystalline solid.\n4. **Solubility**: It is highly soluble in water, which is why it is commonly used in various applications such as in saltwater pools, as a dietary supplement, and in industrial processes",
+      "latency_s": 16.7
+    },
+    {
+      "question": "What is the chemical formula of Potassium Chloride and its molecular weight?",
+      "answer": "The chemical formula for Potassium Chloride (KCl) is simply KCl, which indicates one potassium ion (K⁺) and one chloride ion (Cl⁻).\n\nTo calculate the molecular weight of KCl:\n\n- The atomic weight of Potassium (K) is approximately 39.10 g/mol.\n- The atomic weight of Chlorine (Cl) is approximately 35.45 g/mol.\n\nAdding these together gives us the molecular weight of KCl:\n\\[ \\text{Molecular Weight of KCl} = 39.10 \\, \\text{g/mol} + 35.",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Describe the physical properties of Potassium Chloride and its solubility in various solvents.",
+      "answer": "Potassium chloride (KCl) is an ionic compound with several important physical properties, including its appearance, melting point, boiling point, density, and solubility.\n\n**Appearance:** Potassium chloride appears as white, crystalline powder or granules.\n\n**Melting Point:** The melting point of potassium chloride is approximately 770°C (1418°F).\n\n**Boiling Point:** Potassium chloride does not melt but decomposes into potassium vapor and chlorine gas at temperatures above 850°C (1562°F). This decomposition occurs before it reaches its theoretical boiling point.\n\n**Density:** The density",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Explain the significance of Potassium Chloride in agriculture and its natural occurrence.",
+      "answer": "Potassium Chloride (KCl) is an essential nutrient for plants, playing a crucial role in their growth and development. It is one of the three macronutrients that plants require in large quantities, along with nitrogen and phosphorus. The other two are calcium, magnesium, and sulfur.\n\n### Significance of Potassium Chloride in Agriculture\n\n1. **Stress Resistance**: Potassium helps plants resist stress from various environmental factors such as drought, salinity, and temperature extremes. It also enhances resistance to diseases and pests.\n   \n2. **Leaf Development**: Potassium promotes leaf size and number, which can increase photosynthesis",
+      "latency_s": 10.63
+    }
+  ]
+}

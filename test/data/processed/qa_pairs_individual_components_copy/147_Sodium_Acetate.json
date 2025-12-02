@@ -1,0 +1,36 @@
+{
+  "compound_id": 143,
+  "compound_name": "Sodium Acetate",
+  "source_file": "compound_143_Sodium Acetate.json",
+  "main_entry_length": 1796,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0770_Sodium_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Acetate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of sodium acetate and its molecular weight?",
+      "answer": "The chemical formula of sodium acetate is NaC2H3O2, and its molecular weight is 82.03 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the process of how sodium acetate is prepared using sodium hydroxide and acetic acid.",
+      "answer": "Sodium acetate is prepared by reacting sodium hydroxide (NaOH) with acetic acid (HC2H3O2). The chemical reaction is as follows: NaOH + HC2H3O2 → NaC2H3O2 + H2O. In this reaction, sodium acetate is formed along with water. The sodium acetate initially forms as a trihydrate and is recovered by evaporating the reacting solution.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss why sodium acetate is used in the textile industry and describe its physical properties that make it suitable for this application.",
+      "answer": "Sodium acetate is used in the textile industry as a mordant in the dyeing of fabrics and to stabilize and improve the finish of fabrics. Its suitability for these applications is due to its physical properties: it is a colorless, odorless crystalline solid that is very soluble in water, making it easy to apply and remove during the dyeing process. Additionally, sodium acetate's hygroscopic nature means it readily absorbs moisture, which can be beneficial in maintaining the desired consistency and quality of the fabric finish.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

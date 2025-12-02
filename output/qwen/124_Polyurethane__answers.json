@@ -1,0 +1,27 @@
+{
+  "source_file": "124_Polyurethane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polyurethane. The key properties of polyurethanes include:\n\n1. **Versatility**: Polyurethanes have a wide range of uses due to their diverse properties.\n2. **Chemical Composition**: Polyurethanes are composed of repeating units that include oxygen (red), hydrogen (white), carbon (black), and nitrogen (blue). The gray sticks represent double bonds.\n3. **Double Bonds**: These double bonds give polyurethanes flexibility and elasticity.\n\nPolyurethanes are used in various applications such as:\n- **Foam Insulation**: Used in insulation materials for",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What are the elements present in the chemical structure of polyurethane?",
+      "answer": "Polyurethane is a polymer that contains urethane groups, which are formed by the reaction between an isocyanate group (R-N=C=O) and a hydroxyl group (-OH). The general chemical structure of a segment of polyurethane can be represented as:\n\n\\[ \\text{R}-\\text{N}=\\text{C}=\\text{O} - \\text{O}-\\text{R} - \\text{O}-\\text{R} - \\text{O}-\\text{R} - \\text{O}-\\text{R} - \\text{O}-",
+      "latency_s": 12.08
+    },
+    {
+      "question": "How are polyurethanes formed at the molecular level?",
+      "answer": "Polyurethanes (PUs) are formed through a chemical reaction known as condensation polymerization, where two or more monomers react to form a polymer with a urethane group (-CO-NH-) in the backbone. This process involves several steps and can be divided into two main stages: the formation of isocyanate groups and the subsequent reaction with other functional groups.\n\n### Formation of Isocyanate Groups\n\n1. **Isocyanate Monomers**: Polyurethanes are typically synthesized from isocyanate monomers, which are derivatives of alkanes where one or both of the hydrogen atoms on the",
+      "latency_s": 12.08
+    },
+    {
+      "question": "Discuss the different forms of polyurethane and their respective properties and applications.",
+      "answer": "Polyurethane (PU) is a versatile class of polymers that can be formulated into various types with distinct properties, making them suitable for a wide range of applications. The primary difference in polyurethane lies in its structure, which can be categorized into two main types: rigid polyurethane and flexible polyurethane.\n\n1. Rigid Polyurethane:\n   - Structure: Rigid polyurethane is characterized by a high degree of cross-linking between the polymer chains, resulting in a rigid and inflexible material.\n   - Properties: Rigid polyurethane has excellent mechanical strength, durability, and resistance to deformation. It",
+      "latency_s": 12.08
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "source_file": "156_Sodium_Phosphate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents **sodium phosphate**. Sodium phosphate is a chemical compound commonly used in various applications due to its properties.\n\n### Chemical Compound: Sodium Phosphate\n\n**Chemical Formula**: Na₃PO₄\n\n**Elements**: Sodium (Na), Phosphorus (P), Oxygen (O)\n\n**Key Properties**:\n\n1. **Form**: Sodium phosphate can exist in various forms, such as disodium phosphate (DSP), tertiary sodium phosphate (TSP), etc. These forms are related to the degree of ionization and substitution of hydrogen atoms in phosphoric acid.\n2. **Appearance**: Often found as a solid.\n3. **Solubility**: Generally soluble in water, alcohol, and other organic solvents.\n4. **Melting Point**: Typically around 169–172°C (336–342°F), depending on the specific form.\n5. **Boiling Point**: Not applicable because it decomposes before boiling.\n6. **Uses**: Sodium phosphate is used in various applications, including:\n   - **Detergents and Cleaning Products**: Acts as a surfactant.\n   - **Food Additives**: Used as a buffering agent.\n   - **Pharmaceuticals**: Used in some medications as a component.\n   - **Paper Industry**: Used as a sizing agent.\n   - **Textile Industry**: Used as a sizing agent.\n   - **Fuel Industry**: Used as an additive",
+      "latency_s": 50.58,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What are the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate?",
+      "answer": "The provided context does not contain the specific information required to answer the user's question about the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate. The context primarily focuses on other chemical compounds and their properties, as well as the structure and classification of different types of compounds. It does not provide detailed information about sodium phosphate.\n\nTo provide a comprehensive response, we need specific information about sodium phosphate, including its different forms (monobasic, dibasic, and tribasic) and their chemical formulas. Sodium phosphate is a salt of phosphoric acid, which is a triprotic acid, meaning it can donate three protons.\n\nThe chemical formula for sodium phosphate can vary depending on the number of protons donated by phosphoric acid. Here are the chemical formulas for the different forms of sodium phosphate:\n\n1. **Monobasic Sodium Phosphate**: This form corresponds to the salt formed when one proton is donated by phosphoric acid. The chemical formula is:\n   \\[\n   \\text{NaPO}_3\n   \\]\n\n2. **Dibasic Sodium Phosphate**: This form corresponds to the salt formed when two protons are donated by phosphoric acid. The chemical formula is:\n   \\[\n   \\text{Na}_2\\text{PO}_4\n   \\]\n\n3. **Tribasic Sodium Phosphate**: This form corresponds to the salt formed when all three protons are donated by phosphoric acid. The chemical formula is:\n   \\[\n   \\text{Na}_3\\text{PO}_4\n   \\]\n\nIt's important to note that the most common form of sodium phosphate in commercial use is the dibasic form, sodium phosphate dihydrate (Na2HPO4·2H2O).\n\nIn terms of safety, sodium phosphate is relatively non-toxic, but like any chemical, it should be handled with care. It's important to follow the manufacturer's safety guidelines and ensure proper ventilation when handling.\n\nFor more detailed information, you may need to refer to a specific source or database that provides detailed information about the different forms of sodium phosphate, including their chemical formulas, properties, and uses. If you have access to such a source, you can provide further details to answer the question comprehensively.",
+      "latency_s": 40.05,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Explain how the different forms of sodium phosphate are produced from phosphoric acid.",
+      "answer": "The phosphoric acid (H3PO4) undergoes various reactions to produce different forms of sodium phosphate. Phosphoric acid is a diatomic acid that can react with sodium hydroxide (NaOH) to form sodium phosphate. The reaction can be represented by chemical formulas:\n\n\\[ \\text{H}_3\\text{PO}_4 + \\text{NaOH} \\rightarrow \\text{NaH}_2\\text{PO}_4 + \\text{H}_2\\text{O} \\]\n\nThis reaction produces sodium dihydrogen phosphate (NaH2PO4), which can further react with sodium hydroxide to form sodium monohydrogen phosphate (NaHPO4):\n\n\\[ \\text{NaH}_2\\text{PO}_4 + \\text{NaOH} \\rightarrow \\text{NaHPO}_4 + \\text{H}_2\\text{O} \\]\n\nSodium dihydrogen phosphate (NaH2PO4) is a weak acid and is often used as a buffer in various applications. Sodium monohydrogen phosphate (NaHPO4) is a salt formed when a strong acid (phosphoric acid) reacts with a strong base (sodium hydroxide). It can further react with more phosphoric acid to form sodium hydrogen phosphate (NaHSO4) or sodium dihydrogen phosphate (NaH2PO4) under different pH conditions.\n\n\\[ \\text{NaHPO}_4 + \\text{H}_3\\text{PO}_4 \\rightarrow \\text{NaHSO}_4 + \\text{H}_2\\text{O} \\]\n\n\\[ \\text{NaHPO}_4 + \\text{H}_3\\text{PO}_4 \\rightarrow \\text{NaH}_2\\text{PO}_4 + \\text{H}_2\\text{O} \\]\n\nSodium dihydrogen phosphate (NaH2PO4) and sodium monohydrogen phosphate (NaHPO4) are both used in various industries, including food, pharmaceuticals, and as buffering agents in biological systems. Sodium dihydrogen phosphate is often used in food products as a pH adjuster and a preservative, while sodium monohydrogen phosphate is used in pharmaceuticals for its buffering properties.\n\nIt is also important to note that these reactions can be influenced by temperature and concentration, as well as the presence of other ions",
+      "latency_s": 40.05,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Discuss the common uses and potential hazards associated with tribasic sodium phosphate.",
+      "answer": "The question asks for a discussion of the common uses and potential hazards associated with tribasic sodium phosphate. However, the provided context does not contain any information about tribasic sodium phosphate. The sources provided focus on other substances—1,3-butadiene, acetic acid, and 2,4,6-trinitrotoluene. Tribasic sodium phosphate is not mentioned in the given sources. Therefore, to provide a comprehensive answer, we would need additional information about this specific chemical.\n\nIf you have additional sources or information about tribasic sodium phosphate, please share them, and I can help you analyze its uses and hazards based on that information. Otherwise, there is currently no specific information available in the given context to discuss tribasic sodium phosphate.",
+      "latency_s": 40.05,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:17:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:17:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

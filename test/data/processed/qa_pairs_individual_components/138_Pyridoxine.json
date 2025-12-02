@@ -1,0 +1,38 @@
+{
+  "compound_id": 134,
+  "compound_name": "Pyridoxine",
+  "source_file": "compound_134_Pyridoxine.json",
+  "main_entry_length": 1454,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0724_Pyridoxine_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is pyridoxine, also known as vitamin B6. Key properties of pyridoxine include:\n\n1. **Chemical Structure**: It consists of a pyridine ring with hydroxyl, methyl, and hydroxymethyl groups. The red atoms are oxygen, white are hydrogen, black are carbon, and the blue atom is nitrogen.\n\n2. **Function**: Pyridoxine is essential for amino acid metabolism, neurotransmitter synthesis, and hemoglobin production.\n\n3. **Sources**: It is found in foods like fish, poultry, potatoes, and non-citrus fruits.\n\n4. **Deficiency**: A lack of pyridoxine can lead to anemia,...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:03"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of pyridoxine?",
+      "answer": "The chemical formula of pyridoxine is CH3C5HN(OH)(CH2OH)2, and its molecular weight is 169.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of pyridoxine based on the provided information.",
+      "answer": "Pyridoxine is very soluble in water, which means it can easily dissolve in water. It is only slightly soluble in ethyl alcohol and acetone, indicating that it does not dissolve as readily in these solvents as it does in water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical significance of pyridoxine in relation to vitamin B6 and its discovery.",
+      "answer": "Pyridoxine is one of three compounds classified under vitamin B6, the others being pyridoxal and pyridoxamine. Vitamin B6 was discovered in 1938 by five independent research groups who were investigating a cure for acrodynia in rats, a condition similar to the human disease pellagra. This highlights the importance of pyridoxine in nutritional science and its role as part of vitamin B6, which is crucial for addressing certain deficiency diseases.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

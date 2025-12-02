@@ -1,0 +1,27 @@
+{
+  "source_file": "8_Alpha-Tocopherol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Alpha Tocopherol (vitamin E). Key properties of Alpha Tocopherol include:\n\n1. **Chemical Composition**: Alpha Tocopherol consists of carbon, hydrogen, and oxygen atoms. The diagram indicates that red atoms represent oxygen, white atoms represent hydrogen, and black atoms represent carbon.\n\n2. **Antioxidant Function**: Alpha Tocopherol acts as an antioxidant in the human body. It neutralizes free radicals, which are highly reactive molecules with unpaired electrons. Free radicals can cause cellular damage leading to various health issues such as cardiovascular disease, cancer, and aging",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Alpha-Tocopherol?",
+      "answer": "Alpha-Tocopherol, also known as Vitamin E, has the chemical formula C29H48O. The molecular weight of Alpha-Tocopherol can be calculated by summing the atomic weights of its constituent elements:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molecular weight of Alpha-Tocopherol is approximately:\n\\[ \\text{Molecular Weight} = 29 \\times 12.01 + 48 \\times",
+      "latency_s": 10.35
+    },
+    {
+      "question": "Explain why synthetic Vitamin E is generally less potent than natural Vitamin E.",
+      "answer": "Synthetic Vitamin E, also known as dl-alpha-tocopherol, is produced in a laboratory setting and is chemically identical to the naturally occurring form of Vitamin E found in foods. However, there are several reasons why synthetic Vitamin E might be considered less potent or less effective than natural Vitamin E:\n\n1. **Stereochemistry**: Natural Vitamin E exists in eight different stereoisomers (RRR-, RRS-, RSS-, SSR-, SRR-, SRS-, RSS-, and SSS- tocopherols), while synthetic Vitamin E is a racemic mixture containing both RRR- and SRR- tocopherols. The",
+      "latency_s": 10.35
+    },
+    {
+      "question": "How does Alpha-Tocopherol function as an antioxidant, and why is this function important for human health?",
+      "answer": "Alpha-tocopherol, also known as vitamin E, functions as an antioxidant by neutralizing free radicals in the body. Free radicals are highly reactive molecules that can damage cells when they accumulate in large numbers. They are produced naturally during metabolism and can also be introduced into the body through environmental factors such as pollution or radiation.\n\nAlpha-tocopherol works as an antioxidant by donating electrons to these free radicals, thereby neutralizing them. This process helps to prevent oxidative stress, which can lead to various diseases including cardiovascular disease, cancer, and neurodegenerative disorders.\n\nThe importance of alpha-tocopherol's antioxidant function for human health",
+      "latency_s": 10.35
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "165_Sucrose_Polyester.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows sucrose octaooleate. It has many properties of fat, including its flavor, but passes through the digestive system without being absorbed or digested.",
+      "latency_s": 39.9,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the state and solubility of sucrose polyester?",
+      "answer": "Sucrose polyester is a solid material with good solubility in organic solvents.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is sucrose polyester considered to provide no calories when consumed?",
+      "answer": "Sucrose polyester is a synthetic polymer that mimics the structure of sucrose but lacks the ability to be metabolized by the body, thus providing no calories.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the historical development and intended purpose of sucrose polyester.",
+      "answer": "Sucrose polyester, a synthetic polymer, was developed by blending sucrose with polyester monomers. Initially, its primary purpose was to provide a biodegradable alternative to traditional plastics. Over time, it found use in biomedical materials, such as scaffolding for tissue engineering, due to its biocompatibility and ability to degrade into natural compounds.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:34:45",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:34:45",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

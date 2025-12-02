@@ -1,0 +1,58 @@
+{
+  "compound_id": 148,
+  "compound_name": "Sodium Fluoride",
+  "source_file": "compound_148_Sodium Fluoride.json",
+  "main_entry_length": 2472,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0798_Sodium_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:17",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium fluoride (NaF). In this diagram, the green sphere represents a fluorine atom, while the turquoise sphere represents a sodium atom. Sodium fluoride is an ionic compound formed by the combination of sodium ions (Na⁺) and fluoride ions (F⁻). It is commonly used to prevent tooth decay and is added to toothpaste and municipal water supplies. It is effective in strengthening tooth enamel and reducing dental caries.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:48"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Fluoride?",
+      "answer": "The chemical formula of Sodium Fluoride is NaF, and its molecular weight is 41.99 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:45",
+      "char_limit": 1000,
+      "answer_length": 88
+    },
+    {
+      "question": "What are the key differences in solubility of Sodium Fluoride in water compared to ethyl alcohol?",
+      "answer": "Sodium fluoride (NaF) is moderately soluble in water but insoluble in ethyl alcohol.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:47",
+      "char_limit": 1800,
+      "answer_length": 84
+    },
+    {
+      "question": "Explain the chemical reaction involved in producing Sodium Fluoride using hydrogen fluoride and sodium carbonate.",
+      "answer": "Sodium fluoride can be produced by treating hydrogen fluoride (HF) with sodium carbonate (Na2CO3). The chemical reaction involved is as follows:\n\n\\[ 2HF + Na2CO3 \\rightarrow 2NaF + H2O + CO2 \\]\n\nIn this reaction, hydrogen fluoride reacts with sodium carbonate to form sodium fluoride, water, and carbon dioxide. Sodium fluoride is the desired product, while water and carbon dioxide are byproducts.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:50",
+      "char_limit": 2000,
+      "answer_length": 398
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4373,
+  "updated_at": "2025-11-30 13:45:51",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

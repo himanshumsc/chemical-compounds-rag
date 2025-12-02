@@ -1,0 +1,47 @@
+{
+  "source_file": "126_Potassium_Bicarbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows the potassium bicarbonate (KHCO₃).\n\n### Key Properties:\n1. **Chemical Formula**: KHCO₃\n   - Red atoms are oxygen (O).\n   - White atoms are hydrogen (H).\n   - Black atom is carbon (C).\n   - Turquoise atom is potassium (K).\n\n2. **Molecular Weight**: 98.14 g/mol (calculated from the atomic weights of K, H, C, and O: 39.10, 1.01, 12.01, and 16.00, respectively).\n\n3. **Molecular Structure Type**: It is an ionic compound.\n   - Potassium is a strong alkali metal, which readily dissolves in water to form a solution of potassium ions (K⁺) and bicarbonate ions (HCO₃⁻).\n   - It dissolves in water due to the ionization reaction of the bicarbonate ion, creating a basic solution.\n\n4. **Key Properties**:\n   - **Solubility**: Soluble in water.\n   - **Acidity**: Acts as a weak base, donating a proton (H⁺) to form bicarbonate ion (HCO₃⁻).\n   - **Oxidation State**: Carbon is in the +4 oxidation state.\n\n5. **Uses**:\n   - **Medicinal Uses**:\n     - Used to relieve g",
+      "latency_s": 49.9,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bicarbonate?",
+      "answer": "Based on the information provided in the context, the chemical formula of Potassium Bicarbonate (also known as Potassium Bicarbonate or Potassium Bicarbonate) is:\n\n\\[ \\text{KHCO}_3 \\]\n\nPotassium Bicarbonate's molecular weight is calculated as follows:\n\n- Potassium (K): 39.10 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Carbon (C): 12.01 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molecular weight of \\(\\text{KHCO}_3\\) is:\n\\[ 39.10 + 1.01 + 12.01 + 3 \\times 16.00 = 100.09 \\, \\text{g/mol} \\]\n\n### Additional Information:\n- **Chemical Formula**: KHCO3\n- **Molecular Weight**: 100.09 g/mol\n- **CAS Number**: 584-08-7 (Potassium Bicarbonate)\n- **Common Names**: Bicarbonate of Potash, Potassium Bicarbonate, Potassium Bicarbonate, Potassium Bicarbonate\n\n### Properties:\n- **Appearance**: White powder\n- **Solubility**: Soluble in water.\n- **pH**: Slightly alkaline; its aqueous solution has a pH of about 8.3.\n- **Reactivity**: Not strongly reactive but can dissolve in water and react with acids.\n\n### Uses:\n- **Medicinal**: Used in external applications, such as in the treatment of mild burns and as an antacid in some formulations.\n- **Industrial**: Used in the production of various chemicals and in food processing.\n- **Agricultural**: Used in agriculture as a fertilizer or as a buffer in irrigation systems.\n\n### Safety Information:\n- **Toxicology**: Potassium Bicarbonate is generally considered safe for external use. However, ingestion or contact with the eyes may cause irritation and should be avoided.\n- **Handling**: Use protective gloves and eye wear when handling potassium bicarbonate to prevent any accidental contact.\n\n### References:\nThe information provided in the context does not contain additional details such as safety guidelines or specific uses, so these details are based on common knowledge and general guidelines for handling potassium bicarbonate.\n\nIf you need more specific safety information or additional uses",
+      "latency_s": 46.34,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Explain why Potassium Bicarbonate does not have a boiling point.",
+      "answer": "Potassium bicarbonate (KbCO3) does not have a boiling point in the traditional sense because it decomposes before it reaches a boiling point. To understand why, let's delve into the properties and behavior of potassium bicarbonate.\n\n### Properties and Behavior of Potassium Bicarbonate\nPotassium bicarbonate is a chemical compound with the formula KbCO3. Its molecular structure is such that it is highly unstable and prone to decomposition under heat. This decomposition occurs at a relatively low temperature, typically well below the boiling point of typical solvents or bases that potassium bicarbonate might be in contact with.\n\n### Decomposition Reaction\nThe decomposition of potassium bicarbonate usually involves the release of carbon dioxide (CO2) and the formation of potassium carbonate (K2CO3) and water (H2O). The reaction can be represented by the following equation:\n\\[ \\text{KbCO}_3 \\rightarrow \\text{K}_2\\text{CO}_3 + \\text{CO}_2 + \\text{H}_2\\text{O} \\]\n\nThis decomposition reaction is exothermic, meaning it releases heat, which further accelerates the decomposition process.\n\n### Mechanism of Decomposition\nThe decomposition process starts with the breaking of the bond between potassium and the rest of the molecule. This leads to the release of carbon dioxide, which can be observed as bubbles forming and rising from the solution. The remaining part of the molecule then reforms into potassium carbonate and water.\n\n### Why No Boiling Point?\nSince potassium bicarbonate decomposes before it can reach its boiling point (or even its boiling point in the context of pure compound decomposition), it does not have a boiling point in the conventional sense. The decomposition point is significantly lower than what would be considered a boiling point.\n\n### Safety Information\nPotassium bicarbonate is a relatively safe compound, but handling it requires caution due to its potential to decompose and release gases (carbon dioxide). It is important to avoid heating potassium bicarbonate under any conditions, especially in a closed system, as the decomposition can generate significant pressures leading to potential risks of explosion.\n\n### Summary\nPotassium bicarbonate does not have a boiling point because it decomposes before it can reach a temperature where a boiling process (involving phase change from liquid to gas) can occur. The decomposition is an exothermic process that releases carbon dioxide, potassium carbonate, and water, which further accelerates the decomposition. Handling and storing potassium bicarbonate",
+      "latency_s": 46.34,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Describe the process of how Potassium Bicarbonate is manufactured.",
+      "answer": "The provided context does not contain specific information about the manufacturing process of Potassium Bicarbonate. Therefore, I will provide a general overview of the process that can be inferred from the available information.\n\nPotassium Bicarbonate is a compound that has a molecular formula of KHC2O3·2H2O. It is an important salt in the food industry, often used as a raising agent in baking. Its properties include:\n\n- It is a white, crystalline powder.\n- It is slightly soluble in water.\n- It is an acidic salt.\n- It is used as a leavening agent in baking due to its ability to produce carbon dioxide gas upon heating, which causes the dough to rise.\n\nThe manufacturing process of Potassium Bicarbonate is based on the reaction of Potassium Carbonate with Carbon Dioxide gas:\n\n\\[ \\text{KHCO}_3 \\]\n\nThis reaction is exothermic and releases heat, which is why Potassium Bicarbonate can be used as a leavening agent in baking.\n\nHowever, without specific information on the manufacturing process, it's not possible to provide a detailed description of the steps involved in producing Potassium Bicarbonate. Additional information, such as the specific raw materials, the catalysts used, and the separation processes, would be necessary to provide a comprehensive answer.\n\nIf you have more specific information or references related to the manufacturing of Potassium Bicarbonate, please provide them so that I can give a more detailed and accurate response.",
+      "latency_s": 46.34,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:10:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:10:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

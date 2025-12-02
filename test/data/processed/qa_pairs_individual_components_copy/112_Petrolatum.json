@@ -1,0 +1,36 @@
+{
+  "compound_id": 108,
+  "compound_name": "Petrolatum",
+  "source_file": "compound_108_Petrolatum.json",
+  "main_entry_length": 5546,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0598_Petrolatum_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Petrolatum.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What are the common names and solubility characteristics of petrolatum?",
+      "answer": "Petrolatum is commonly known by several names, including petroleum jelly, paraffin jelly, vasoliment, liquid paraffin, mineral oil, and paraffin oil. It is insoluble in water and ethyl alcohol, but it is soluble in organic solvents such as benzene, chloroform, ether, and carbon disulfide.",
+      "difficulty_level": "basic",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain why petrolatum is considered a mixture and not a compound.",
+      "answer": "Petrolatum is considered a mixture rather than a compound because its components are not chemically combined, unlike in a compound. It does not have a definite composition and consists of varying amounts of hydrocarbons derived from the distillation of petroleum. These hydrocarbons belong to the methane (saturated or alkane) family with a general formula of CnH2n+2.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe some industrial applications of solid petrolatum and its role in those applications.",
+      "answer": "Solid petrolatum has various industrial applications. It is used as a softener in the production of rubber products to enhance flexibility. In the food processing industry, petrolatum coats raw fruits and vegetables to help retain moisture. It serves as a defoaming agent in the production of beet sugar and yeasts by reducing foam formation. Additionally, petrolatum is used for the lubrication of firearms and machine parts due to its ability to create a protective barrier.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

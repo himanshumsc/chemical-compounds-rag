@@ -1,0 +1,27 @@
+{
+  "source_file": "121_PolyStyrene-Butadiene-Styrene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Poly(styrene butadiene styrene), or SBS for short. Key properties of SBS include:\n\n1. **Soft and Plastic when Heated**: SBS becomes soft and plastic when heated, which allows products made from it to be formed into various shapes.\n2. **Resistance to Abrasion**: SBS is resistant to abrasion and does not readily break down when exposed to heat, light, and chemicals.\n3. **Chemical Stability**: It maintains its structure and performance well over a wide temperature range from -60°C to 150°C (-75°F",
+      "latency_s": 17.78
+    },
+    {
+      "question": "What are the main elements that make up Poly(Styrene-Butadiene-Styrene) and what is its state at room temperature?",
+      "answer": "Poly(styrene-butadiene-styrene), often abbreviated as SBS, is a type of block copolymer. It consists of three main elements:\n\n1. **Styrene (S)**: This is the monomer that forms the blocks in the middle of the polymer chain.\n2. **Butadiene (B)**: This is the monomer that forms the blocks on either side of the styrene blocks.\n\nThe structure of SBS can be represented as:\n\\[ \\text{B-S-B-S-B-S-B} \\]\nwhere B stands for butadiene and S stands for styrene.\n\n### State",
+      "latency_s": 10.68
+    },
+    {
+      "question": "Explain the structure of Poly(Styrene-Butadiene-Styrene) as a block copolymer and describe the roles of its segments.",
+      "answer": "Poly(styrene-butadiene-styrene), often abbreviated as SBS, is a type of block copolymer that consists of alternating blocks of styrene (S) and butadiene (B). The structure of SBS can be represented as:\n\n\\[ \\text{S-B-S-B-S-B-S-B-S-B-S-B-S-B-S-B-S-B-S-B-S-B-S} \\]\n\nHere's a detailed breakdown of the structure and the roles of its segments:\n\n### 1. **Styrene (S) Segments:**\n   - **Chemical Structure:** Styrene is a monomer with the",
+      "latency_s": 10.68
+    },
+    {
+      "question": "Describe the polymerization process and catalyst used in the production of Poly(Styrene-Butadiene-Styrene). Why is the reaction terminated, and how is it achieved?",
+      "answer": "Poly(Styrene-Butadiene-Styrene) (SBS) is a block copolymer that consists of alternating blocks of styrene (S) and butadiene (B). The polymerization process for SBS involves a combination of anionic polymerization and emulsion polymerization techniques.\n\n### Polymerization Process:\n\n1. **Anionic Polymerization of Styrene:**\n   - Styrene monomer is dissolved in a suitable solvent such as toluene or xylene.\n   - A strong base like sodium amide (Na-Am) is added to initiate the polymerization.\n   - The sodium amide",
+      "latency_s": 10.68
+    }
+  ]
+}

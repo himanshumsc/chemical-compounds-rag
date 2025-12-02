@@ -1,0 +1,58 @@
+{
+  "compound_id": 138,
+  "compound_name": "Silicon Dioxide",
+  "source_file": "compound_138_Silicon Dioxide.json",
+  "main_entry_length": 1612,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0746_Silicon_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:35",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is silicon dioxide (SiO₂). In the diagram, red atoms represent oxygen, and yellow atoms represent silicon. Silicon dioxide is a fundamental component of sand and quartz and is commonly found in nature. A notable form of silicon dioxide is silica gel, which is highly adsorbent. Silica gel can adsorb 30 to 50 percent of its weight in water, making it useful for removing moisture and gases like ammonia and alcohol from the air.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:15"
+    },
+    {
+      "question": "What is the chemical formula of Silicon Dioxide and what elements does it consist of?",
+      "answer": "The chemical formula of Silicon Dioxide is SiO2. It consists of the elements silicon and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:56",
+      "char_limit": 1000,
+      "answer_length": 96
+    },
+    {
+      "question": "Describe the different structural forms of Silicon Dioxide and how they differ.",
+      "answer": "Silicon dioxide (SiO2) exists in several structural forms, which are classified as crystalline, amorphous, or vitreous. \n\n1. **Crystalline Silicon Dioxide**: In these forms, the atoms are arranged in orderly patterns, taking shapes like cubes, rhombohedrons, or other geometric figures. Quartz is a common example of crystalline silicon dioxide.\n\n2. **Amorphous Silicon Dioxide**: Here, the silicon and oxygen atoms are arranged randomly without any clear pattern. This form lacks the ordered structure of crystalline forms.\n\n3. **Vitreous Silicon Dioxide**: This is a glassy form of silicon dioxide, which can be transparent, translucent, or opaque. It differs from the crystalline form as it does not have a regular atomic structure.\n\nThese forms can be converted from one to another through heating and changes in pressure. Each structural form of silicon dioxide has distinct physical characteristics due to differences in atomic arrangement.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:59",
+      "char_limit": 1800,
+      "answer_length": 946
+    },
+    {
+      "question": "Explain how silicon dioxide's solubility varies and under what conditions it can dissolve.",
+      "answer": "Silicon dioxide's solubility varies depending on its crystalline state. Generally, it is insoluble in water. However, it can dissolve in many acids and alkalis. The text indicates that the solubility is not uniform across all forms of silicon dioxide, suggesting that the crystalline structure influences its solubility properties.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:01",
+      "char_limit": 2000,
+      "answer_length": 331
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4719,
+  "updated_at": "2025-11-30 13:44:01",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

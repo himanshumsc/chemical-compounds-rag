@@ -1,0 +1,38 @@
+{
+  "compound_id": 48,
+  "compound_name": "Copper(II) Sulfate",
+  "source_file": "compound_048_Copper(II) Sulfate.json",
+  "main_entry_length": 2725,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0302_Copper(II)_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents Copper(II) sulfate. Key properties of Copper(II) sulfate include:\n\n- It is a blue crystalline solid that readily dissolves in water.\n- It is commonly used in agriculture as a soil additive, fumigant, and feed additive to prevent mineral deficiencies.\n- It acts as a fungicide, herbicide, and germicide.\n- Copper(II) sulfate is toxic and can have harmful effects on plants, animals, and humans, necessitating careful handling and application.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Sulfate?",
+      "answer": "The chemical formula for Copper(II) Sulfate is CuSO4, and its molecular weight is 159.61 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the color transition of Copper(II) Sulfate when it changes from its anhydrous to hydrated form and explain the significance of this property.",
+      "answer": "Copper(II) Sulfate is a white crystalline powder in its anhydrous state. It most commonly occurs as the pentahydrate, CuSO4·5H2O, which is a blue granular crystalline solid. When the pentahydrate is heated, it loses its water of hydration and returns to its white, powdery anhydrous state. This color transition is significant as it is used in devices and toys that indicate the presence or absence of moisture in the air.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how Copper(II) Sulfate is produced and discuss its potential environmental hazards.",
+      "answer": "Copper(II) Sulfate is produced in the laboratory and commercially by treating copper metal or one of the copper oxides (CuO or Cu2O) with sulfuric acid (H2SO4). It is used extensively in agriculture and industry due to its highly toxic character, which allows it to prevent the growth of mold, mildew, algae, and weeds. However, its use is sometimes avoided as it can have toxic effects on other plants, animals, and humans, posing potential environmental hazards.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

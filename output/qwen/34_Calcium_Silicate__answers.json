@@ -1,0 +1,27 @@
+{
+  "source_file": "34_Calcium_Silicate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Calcium Silicate (CaSiO₃). The key properties of Calcium Silicate include:\n\n1. **Composition**: It consists of one calcium atom (Ca), one silicon atom (Si), and three oxygen atoms (O).\n2. **Charge**: The compound has a net charge of 2-, indicating that it is an anion.\n3. **Bonding**: The orange stick represents a single bond between the silicon and each of the three oxygen atoms, while the red sticks represent double bonds between the calcium and two of the oxygen atoms.\n\nCalcium Silicate is commonly used as a building",
+      "latency_s": 16.59
+    },
+    {
+      "question": "What is the chemical formula for calcium silicate and what elements does it contain?",
+      "answer": "The chemical formula for calcium silicate is Ca2SiO4. This compound contains two elements: calcium (Ca) and silicon (Si), along with oxygen (O). Specifically, there are two calcium atoms, one silicon atom, and four oxygen atoms in each molecule of calcium silicate.",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Explain why calcium silicate does not have a boiling point and describe its solubility properties.",
+      "answer": "Calcium silicate, also known as calcium orthosilicate or calcium silicate hydrate (CSH), is a compound with the chemical formula Ca2SiO4·xH2O. It is a hydrated form of calcium silicate, where x represents the number of water molecules associated with each unit of Ca2SiO4.\n\n### Boiling Point:\nCalcium silicate does not have a boiling point in the traditional sense because it is a solid at room temperature and does not vaporize into a gas phase under normal conditions. Instead, it undergoes a transition to a liquid state when subjected to high temperatures, which",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Describe the process of synthesizing calcium silicate for commercial applications and state why synthetic preparation might be preferred over extraction from natural sources.",
+      "answer": "Synthesizing calcium silicate (CaSiO3) is a process that involves combining calcium and silicon in an appropriate ratio to form a compound with specific properties. This synthesis can be tailored for various commercial applications, such as in the production of refractory materials, glass, ceramics, and even as a component in some types of cement.\n\n### Process of Synthesizing Calcium Silicate\n\n1. **Materials**: The primary raw materials needed are calcium oxide (CaO), also known as lime, and silica (SiO2), which is typically obtained from quartz sand or other silicate minerals.\n\n2. **Mixing**: The calcium",
+      "latency_s": 10.39
+    }
+  ]
+}

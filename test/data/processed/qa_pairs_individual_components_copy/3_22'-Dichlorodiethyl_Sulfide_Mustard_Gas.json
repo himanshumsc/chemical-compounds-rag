@@ -1,0 +1,36 @@
+{
+  "compound_id": 175,
+  "compound_name": "2,2'-Dichlorodiethyl Sulfide (Mustard Gas)",
+  "source_file": "compound_175_22-Dichlorodiethyl_Sulfide_Mustard_Gas.json",
+  "main_entry_length": 1541,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0056_2,2'-Dichlorodiethyl_Sulfide_(Mustard_Gas)_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is 2,2'-Dichlorodiethyl Sulfide (Mustard Gas).",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of 2,2'-Dichlorodiethyl Sulfide and what elements does it contain?",
+      "answer": "The chemical formula of 2,2'-Dichlorodiethyl Sulfide is (CH2CH2Cl)2S. It contains the elements carbon (C), hydrogen (H), chlorine (Cl), and sulfur (S).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why 2,2'-Dichlorodiethyl Sulfide is referred to as 'mustard gas' despite being a liquid at room temperature.",
+      "answer": "2,2'-Dichlorodiethyl Sulfide is referred to as 'mustard gas' because of its use as a chemical warfare agent and its distinctive odor similar to mustard, garlic, or horseradish, which is due to impurities in the compound. Despite the name 'gas', it is actually a yellowish liquid at room temperature.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the solubility characteristics of 2,2'-Dichlorodiethyl Sulfide and its implications for its use as a chemical agent.",
+      "answer": "2,2'-Dichlorodiethyl Sulfide is insoluble in water but soluble in organic solvents such as alcohol, ether, acetone, benzene, and fats. This solubility profile means it can penetrate organic materials, including human skin and mucous membranes, making it an effective chemical warfare agent. Its insolubility in water also complicates decontamination efforts, as it does not easily wash away.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

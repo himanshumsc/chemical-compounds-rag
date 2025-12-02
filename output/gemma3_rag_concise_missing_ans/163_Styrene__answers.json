@@ -1,0 +1,280 @@
+{
+  "source_file": "163_Styrene.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Styrene (C6H5CH=CH2). A clear, colorless plastic. Key properties: used in polystyrene & styrofoam, dehydrogenation involves iron(III) oxides at high temperatures.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of styrene?",
+      "answer": "Based on Source 1, Styrene has a listing of 803. No formula is provided.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_11",
+          "score": 0.7222084403038025,
+          "text": "Stannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n",
+          "metadata": {
+            "chunk_id": "chunk_11",
+            "image_path": "",
+            "page_range": "12-12",
+            "has_image": false,
+            "text_length": 1359
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_99",
+          "score": 0.7052357196807861,
+          "text": "OTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "page_range": "100-100",
+            "text_length": 1359,
+            "chunk_id": "chunk_99"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.694186270236969,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "40-40",
+            "text_length": 1326,
+            "chunk_id": "chunk_39",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.6812527179718018,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "page_range": "9-9",
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_8",
+            "text_length": 2062
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.6750595271587372,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "text_length": 1328,
+            "image_path": "",
+            "has_image": false,
+            "page_range": "92-92",
+            "chunk_id": "chunk_91"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.722)]\nStannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n\n\n[Source 2 (Relevance: 0.705)]\nOTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n\n\n[Source 3 (Relevance: 0.694)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.681)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 5 (Relevance: 0.675)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n"
+    },
+    {
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "answer": "The provided text does not contain information about polymerization or styrene. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_47",
+          "score": 0.6980448067188263,
+          "text": "PRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "48-48",
+            "chunk_id": "chunk_47",
+            "has_image": false,
+            "text_length": 1258
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6944195628166199,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "has_image": false,
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_79",
+          "score": 0.6888372004032135,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "page_range": "80-80",
+            "chunk_id": "chunk_79",
+            "has_image": false,
+            "text_length": 1964,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6728518009185791,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1769,
+            "has_image": false,
+            "chunk_id": "chunk_76",
+            "page_range": "77-77"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.6627768278121948,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "chunk_id": "chunk_70",
+            "text_length": 1074,
+            "page_range": "71-71",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.698)]\nPRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n\n\n[Source 2 (Relevance: 0.694)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.689)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 4 (Relevance: 0.673)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 5 (Relevance: 0.663)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "answer": "Styrene is produced as a copolymer with butadiene (Source 4). It's a polymer of the compound styrene (C6H5CH=CH2). Source 4 doesn’t detail the *industrial preparation* of styrene itself, only its use. Sources 1 & 5 mention acetic acid, not styrene. Therefore, this information is not present in the provided sources.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_74",
+          "score": 0.7109436690807343,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1074,
+            "page_range": "75-75",
+            "has_image": false,
+            "chunk_id": "chunk_74"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_71",
+          "score": 0.6735565960407257,
+          "text": "• Stabilizer for hydrogen peroxide solutions, to prevent\nthe peroxide from breaking down too quickly;\n• Raw material in the production of other pharmaceutical\ncompounds;\n• Raw material in the manufacture of photographic che-\nmicals; and\n• Raw material in the production of azo dyes, dyes that\ncontain nitrogen atoms at the core of their molecules\nAcetaminophen is generally regarded as so safe that any-\none can purchase it without a prescription. The drug is not\nentirely without its hazards, however. People who take large\nquantities of acetaminophen are at some risk for liver\ndamage. That risk is especially great for anyone who drinks\nexcessive amounts of alcohol. Alcohol by itself damages the\nliver and, in conjunction with acetaminophen, that damage\ncan be serious. Some manufacturers now include a message\nInteresting Facts\nIn September 1982, seven\nindividuals in the Chicago\narea died after taking a form\nof Tylenol\u0002 called Extra\nStrength Tylenol\u0002. Officials\nlater found that someone had\nadded cyanide to the\nTylenol\u0002 bottles. It was the\npoison and not the pain killer\nthat had caused the deaths.\nThe crime was never solved,\nbut it led to the introduction\nof so called tamper proof\npackaging for virtually all\nmedicines.\nWords to Know\nANALGESIC A substance that relieves pain.\nSYNTHESIS A chemical reaction in which\nsome desired chemical product is made\nfrom simple beginning chemicals, or\nreactants.\nCHEMICAL COMPOUNDS\n21\nACETAMINOPHEN\n",
+          "metadata": {
+            "text_length": 1447,
+            "has_image": false,
+            "image_path": "",
+            "page_range": "72-72",
+            "chunk_id": "chunk_71"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6728953421115875,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "text_length": 1326,
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.6707725524902344,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "chunk_id": "chunk_53",
+            "image_path": "",
+            "page_range": "54-54",
+            "text_length": 1567,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6706627607345581,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "text_length": 1769,
+            "has_image": false,
+            "chunk_id": "chunk_76",
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.711)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 2 (Relevance: 0.674)]\n• Stabilizer for hydrogen peroxide solutions, to prevent\nthe peroxide from breaking down too quickly;\n• Raw material in the production of other pharmaceutical\ncompounds;\n• Raw material in the manufacture of photographic che-\nmicals; and\n• Raw material in the production of azo dyes, dyes that\ncontain nitrogen atoms at the core of their molecules\nAcetaminophen is generally regarded as so safe that any-\none can purchase it without a prescription. The drug is not\nentirely without its hazards, however. People who take large\nquantities of acetaminophen are at some risk for liver\ndamage. That risk is especially great for anyone who drinks\nexcessive amounts of alcohol. Alcohol by itself damages the\nliver and, in conjunction with acetaminophen, that damage\ncan be serious. Some manufacturers now include a message\nInteresting Facts\nIn September 1982, seven\nindividuals in the Chicago\narea died after taking a form\nof Tylenol\u0002 called Extra\nStrength Tylenol\u0002. Officials\nlater found that someone had\nadded cyanide to the\nTylenol\u0002 bottles. It was the\npoison and not the pain killer\nthat had caused the deaths.\nThe crime was never solved,\nbut it led to the introduction\nof so called tamper proof\npackaging for virtually all\nmedicines.\nWords to Know\nANALGESIC A substance that relieves pain.\nSYNTHESIS A chemical reaction in which\nsome desired chemical product is made\nfrom simple beginning chemicals, or\nreactants.\nCHEMICAL COMPOUNDS\n21\nACETAMINOPHEN\n\n\n[Source 3 (Relevance: 0.673)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.671)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 5 (Relevance: 0.671)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:50:26",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:50:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    3,
+    4
+  ]
+}

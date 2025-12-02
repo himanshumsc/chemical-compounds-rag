@@ -1,0 +1,59 @@
+{
+  "source_file": "141_Saccharin.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **saccharin**. It's the first artificial sweetener, discovered accidentally in 1879. Initially used as an antiseptic, it's now primarily known for its sweetening properties, second only to aspirin in popularity.",
+      "latency_s": 21.8,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of saccharin, and what are its constituent elements?",
+      "answer": "The provided text does not explicitly state the chemical formula of saccharin. However, it mentions saccharin was \"synthesized\" in 1879. The constituent elements are not listed.",
+      "latency_s": 46.89,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why saccharin is considered an effective sugar substitute.",
+      "answer": "According to Source 1, saccharin is considered an effective sugar substitute because it was discovered in 1879 and is the \"first artificial sweetener.\" It was synthesized accidentally by Johns Hopkins researchers.",
+      "latency_s": 46.89,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the historical context and implications of the discovery of saccharin.",
+      "answer": "Saccharin was accidentally synthesized in 1879 by Johns Hopkins researchers Constantine Fahlberg and Ira Remsen. It was the first artificial sweetener discovered. Early observations in 1901 showed fluorides could prevent tooth decay, potentially linking saccharin to dental health. While initially popular, its implications are tied to the rise of artificial sweeteners and their impact on food production and consumer habits.",
+      "latency_s": 46.89,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:45:19",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:45:19",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

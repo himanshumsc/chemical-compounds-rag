@@ -1,0 +1,58 @@
+{
+  "compound_id": 147,
+  "compound_name": "Sodium Cyclamate",
+  "source_file": "compound_147_Sodium Cyclamate.json",
+  "main_entry_length": 1528,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0792_Sodium_Cyclamate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium cyclamate. It is an artificial sweetener, specifically a salt of cyclamic acid (C₆H₁₁NHSO₃H). The key properties of sodium cyclamate include its use as a low-calorie sugar substitute in diet foods and drinks. It is often mixed with saccharin to enhance sweetness, as saccharin is about ten times sweeter. Sodium cyclamate was first marketed in 1950 and gained popularity for its use in various food products.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium cyclamate?",
+      "answer": "The chemical formula of sodium cyclamate is C6H11NHSO3Na, and its molecular weight is 201.22 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:37",
+      "char_limit": 1000,
+      "answer_length": 99
+    },
+    {
+      "question": "Why is sodium cyclamate considered an organic salt, and what are its solubility characteristics?",
+      "answer": "Sodium cyclamate is considered an organic salt because it is a compound that contains carbon and is formed from the reaction of an organic acid (cyclohexylsulfamic acid) with a base (sodium). Its chemical formula is C6H11NHSO3Na, which includes elements such as carbon, hydrogen, nitrogen, sulfur, oxygen, and sodium, indicating its organic nature. Sodium cyclamate is a solid with a molecular weight of 201.22 g/mol. In terms of solubility, it is soluble in water but insoluble in most organic solvents. This solubility characteristic makes it suitable for use as an artificial sweetener in various formulations, as it can dissolve in water-based products.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:40",
+      "char_limit": 1800,
+      "answer_length": 657
+    },
+    {
+      "question": "How did the discovery of sodium cyclamate occur, and what is its primary use today?",
+      "answer": "Sodium cyclamate was discovered in 1937 by Michael Sveda, a graduate student at the University of Illinois. The discovery occurred while Sveda was working on developing new drugs to treat fever. While smoking in the laboratory, he brushed some loose tobacco threads from his lips and noticed a very sweet taste. Curious about the source of the sweetness, Sveda investigated further and identified the compound responsible as belonging to a class known as cyclamates. Today, sodium cyclamate is primarily used as an artificial sweetener. It is a white, crystalline solid or powder with a sweetening power approximately 30 times that of table sugar. Its primary use is as an additive for diet foods and drinks, often mixed with saccharin to mask the metallic aftertaste saccharin can leave.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:44",
+      "char_limit": 2000,
+      "answer_length": 788
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3245,
+  "updated_at": "2025-11-30 13:45:44",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 158,
+  "compound_name": "Stannous Fluoride",
+  "source_file": "compound_158_Stannous Fluoride.json",
+  "main_entry_length": 2985,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0850_Stannous_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:56",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Stannous Fluoride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of stannous fluoride?",
+      "answer": "The chemical formula of stannous fluoride is SnF2, and its molecular weight is 156.71 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is stannous fluoride considered more effective in preventing cavities compared to other fluoride compounds?",
+      "answer": "Stannous fluoride was found to be significantly more effective at preventing cavities than other fluorides because it can be incorporated into toothpastes without affecting their other properties. This discovery was made by Joseph C. Muhler and Harry G. Day and was published in 1950.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the dual mechanism by which stannous fluoride helps in preventing tooth decay.",
+      "answer": "Stannous fluoride helps prevent tooth decay in two primary ways: First, it kills bacteria that cause tooth decay. Second, it reacts with other chemicals in the mouth to form new enamel, replacing enamel that has been destroyed by bacteria or worn away by mechanical processes. Additionally, it helps prevent gingivitis and bad breath.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

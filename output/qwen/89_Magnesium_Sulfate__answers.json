@@ -1,0 +1,27 @@
+{
+  "source_file": "89_Magnesium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Magnesium Sulfate Heptahydrate (MgSO₄·7H₂O). Here are some of its key properties:\n\n1. **Composition**:\n   - Red atoms represent oxygen.\n   - Turquoise atom represents magnesium.\n   - Yellow atom represents sulfur.\n   - Gray sticks indicate double bonds.\n\n2. **Properties**:\n   - **Formula**: MgSO₄·7H₂O.\n   - **Appearance**: It appears as white or off-white crystals.\n   - **Solubility**: Highly soluble in water.\n   - **Uses**:",
+      "latency_s": 16.5
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Sulfate?",
+      "answer": "The chemical formula for Magnesium Sulfate is \\( \\text{MgSO}_4 \\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Magnesium (Mg) has an atomic weight of approximately 24.31 g/mol.\n- Sulfur (S) has an atomic weight of approximately 32.07 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nThe formula \\( \\text{MgSO}_4 \\) contains:\n- 1 magnesium atom,\n-",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain the different hydrated forms of Magnesium Sulfate and their natural occurrences.",
+      "answer": "Magnesium sulfate is a compound with the chemical formula MgSO4, which can exist in various hydrated forms due to its ability to absorb water molecules. These hydrated forms are important in both natural environments and industrial applications. Here are some of the most common hydrated forms of magnesium sulfate:\n\n1. **Epsomite (MgSO4·7H2O)**:\n   - **Natural Occurrence**: Epsomite is one of the most common hydrated forms of magnesium sulfate found in nature. It is often found in evaporite deposits, particularly in arid regions where water evaporates leaving behind mineral salts.\n   - **Properties**: It",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Discuss the commercial and industrial applications of Magnesium Sulfate and its significance.",
+      "answer": "Magnesium sulfate, also known as Epsom salts, is a compound with the chemical formula MgSO4·7H2O. It has a wide range of applications in both commercial and industrial sectors due to its unique properties and benefits.\n\n### Commercial Applications\n\n1. **Healthcare:**\n   - **Medicinal Uses:** Magnesium sulfate is used in various medical applications, including the treatment of eclampsia (a severe complication of pregnancy), migraines, and muscle cramps.\n   - **Dietary Supplement:** It is often included in dietary supplements for its potential benefits in maintaining heart health and reducing blood pressure.",
+      "latency_s": 10.42
+    }
+  ]
+}

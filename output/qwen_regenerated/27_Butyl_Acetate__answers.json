@@ -1,0 +1,30 @@
+{
+  "source_file": "27_Butyl_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Butyl Acetate. In the diagram, red atoms represent oxygen, white atoms represent hydrogen, and black atoms represent carbon. Gray sticks indicate double bonds. \n\n**Key properties of Butyl Acetate:**\n\n1. **Structure and Composition:**\n   - Butyl Acetate is a chemical compound where an acetate (ester) group is bonded to a butyl (C4H9) chain.\n   - Its molecular formula is typically represented as C5H10O.\n\n2. **How It Is Made:**\n   - Butyl Acetate is synthesized by reacting acetic acid (CH3COOH) with the appropriate butyl alcohol (n-butyl alcohol, sec-butyl alcohol, or tert-butyl alcohol, respectively).\n\n3. **Common Uses and Potential Hazards:**\n   - It is primarily used as a solvent in the production of lacquers and paints; photographic film; resins; and coatings for furniture, fixtures, containers, and automobiles. This makes it an environmentally friendly replacement for hazardous solvents.\n   - Additionally, it is used as an odor enhancer in perfumes and in the synthesis of synthetic flavors, pharmaceuticals, and other organic compounds.\n\n4. **Safety and Hazards:**\n   - It is toxic and flammable, which means it can pose health risks if not handled properly. It should be stored and used in well-ventilated areas with appropriate safety equipment.",
+      "latency_s": 9.74
+    },
+    {
+      "question": "What is the molecular formula of butyl acetate and what elements does it consist of?",
+      "answer": "The molecular formula of butyl acetate is \\( \\text{C}_5\\text{H}_{10}\\text{O}_2 \\).\n\nIt consists of the elements carbon (C), hydrogen (H), and oxygen (O). Specifically, it contains 5 carbon atoms, 10 hydrogen atoms, and 2 oxygen atoms.",
+      "latency_s": 9.57
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl acetate and list its three isomeric forms.",
+      "answer": "Isomers are molecules that have the same chemical formula but differ in the arrangement of their atoms. This arrangement can lead to different physical and chemical properties.\n\nIn the context of butyl acetate (C₄H₉COOCH₃), there are different possible isomers due to the branching of the butyl group and the orientation of the acetate group. Butyl acetate is a common solvent and is used in a variety of industrial and commercial applications.\n\nThe three isomeric forms of butyl acetate are:\n\n1. **n-Butyl Acetate**:\n   - The structure of n-butyl acetate is CH₃CH₂CH₂CH₂COOCH₃. It has a straight chain of four carbon atoms with an acetate group (CH₃COO-) attached to the last carbon.\n   - This is the most common form found in nature and is typically produced during the degradation of butyric acid.\n\n2. **2-Butyl Acetate (sec-Butyl Acetate)**:\n   - The structure of 2-butyl acetate is CH₃CH₂CH(CH₃)COOCH₃. It has a straight chain of four carbon atoms with a branch at the second carbon. The acetate group is attached to the third carbon.\n   - This isomer is more stable than the n-butyl acetate due to the tertiary carbon in the butyl group.\n\n3. **2-Methyl-2-Butyl Acetate (tert-Butyl Acetate)**:\n   - The structure of 2-methyl-2-butyl acetate is (CH₃)₂C(CH₂CH₃)COOCH₃. It has a straight chain of four carbon atoms with a branch at the second carbon and a tertiary carbon in the butyl group. The acetate group is attached to the tertiary carbon.\n   - This isomer is less stable than the n-butyl acetate due to the tertiary carbon in the butyl group.\n\nUnderstanding these isomers is important in chemistry because it can affect the physical and chemical properties of the compound, such as solubility, reactivity, and boiling point. The specific isomer can also have different biological properties if used in biological applications.",
+      "latency_s": 9.57
+    },
+    {
+      "question": "Describe the industrial production process for butyl acetate and its primary uses.",
+      "answer": "Butyl acetate is a common organic compound that is used in a variety of applications. It is produced industrially through a process called esterification. The industrial production process for butyl acetate involves the reaction of butanoic acid and acetone in an acidic medium, such as sulfuric acid, to form butyl acetate.\n\nThe primary uses of butyl acetate include:\n\n1. Plasticizers: Butyl acetate is used as a plasticizer in the production of polyvinyl chloride (PVC) plastic. PVC is a widely used polymer that is used in the manufacturing of pipes, cables, and other products.\n\n2. Solvent: Butyl acetate is used as a solvent for various substances, including resins, oils, and paints.\n\n3. Coatings: Butyl acetate is used as a solvent for the production of coatings, such as polyurethane and vinyl chloride.\n\n4. Lubricants: Butyl acetate is used as a lubricant in the production of metalworking fluids.\n\n5. Adhesives: Butyl acetate is used as a solvent in the production of adhesives for various materials.\n\n6. Medicinal and pharmaceutical applications: Butyl acetate is used as a solvent in the production of medicines and pharmaceuticals.\n\nIn summary, butyl acetate is produced industrially through a process called esterification. Butyl acetate is used in a variety of applications, including as a plasticizer, solvent, coating, lubricant, adhesive, and in medicinal and pharmaceutical applications.",
+      "latency_s": 9.57
+    }
+  ],
+  "regenerated_at": "2025-11-23 00:04:53",
+  "regenerated_with": "vllm",
+  "max_tokens": 500
+}

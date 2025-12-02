@@ -1,0 +1,27 @@
+{
+  "source_file": "79_Isoprene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **isoprene**. Isoprene is a hydrocarbon with the chemical formula C₄H₆. It is a monomer that polymerizes to form natural rubber.\n\nKey properties of isoprene include:\n- **Chemical Formula**: C₄H₆.\n- **Structure**: It consists of four carbon atoms and six hydrogen atoms arranged in a specific way that allows for polymerization.\n- **Polymerization**: When isoprene units join together, they form long chains that make up natural rubber.\n- **Natural Occurrence**: Isoprene is found in various",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula of isoprene, and what elements does it contain?",
+      "answer": "The chemical formula for isoprene is C5H8. It contains two elements: carbon (C) and hydrogen (H).",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain why isoprene is classified as an alkadiene and as a member of the terpene family.",
+      "answer": "Isoprene, also known as 2-methyl-1,3-butadiene or 2-methylbuta-1,3-diene, is classified as an alkadiene because it contains two double bonds (C=C) in its structure. The term \"alkadiene\" refers to a hydrocarbon that has two double bonds.\n\nIsoprene belongs to the terpene family for several reasons:\n\n1. **Terpene Structure**: Terpenes are a class of natural organic compounds found in plants, animals, and microorganisms. They are characterized by their carbon skeletons, which are built from repeating units of",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Discuss the environmental impact of isoprene and its role in the synthesis of other compounds in the body.",
+      "answer": "Isoprene, also known as 2-methyl-1,3-butadiene or 2-methylbuta-1,3-diene, is a naturally occurring organic compound that plays a significant role in various biological processes. It is primarily produced by plants and microorganisms through a biochemical pathway called the methylmalonyl-CoA mutase pathway. Isoprene is a key precursor in the biosynthesis of many natural products, including terpenoids, which are a class of secondary metabolites found in plants.\n\n### Environmental Impact of Isoprene\n\n1. **Ozone Formation**: Isoprene is one of the",
+      "latency_s": 10.41
+    }
+  ]
+}

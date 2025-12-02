@@ -1,0 +1,38 @@
+{
+  "compound_id": 62,
+  "compound_name": "Folic Acid",
+  "source_file": "compound_062_Folic Acid.json",
+  "main_entry_length": 1556,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0372_Folic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is folic acid. Key properties of folic acid include:\n\n- **Chemical Composition**: It consists of carbon (black), hydrogen (white), oxygen (red), and nitrogen (blue) atoms.\n- **Function**: Folic acid is a B vitamin essential for DNA synthesis, repair, and methylation, as well as red blood cell formation.\n- **Health Benefits**: It prevents anemia and is crucial during pregnancy for preventing neural tube defects in developing embryos.\n- **Sources**: Found in leafy greens, legumes, and fortified foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:39"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of folic acid?",
+      "answer": "The chemical formula of folic acid is C19H19N7O6, and its molecular weight is 441.40 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is folic acid considered essential for the production of proteins and nucleic acids?",
+      "answer": "Folic acid is a member of the B vitamin group, which plays a crucial role in the production of proteins and nucleic acids. This is because it provides necessary components for the synthesis of these macromolecules, which are vital for cell division and growth.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the solubility characteristics of folic acid and their implications for its use in medical applications.",
+      "answer": "Folic acid is very slightly soluble in water and methyl alcohol, but insoluble in ethyl alcohol and acetone. These solubility characteristics mean that folic acid can be challenging to dissolve in certain solvents, which can affect how it is formulated in medical and dietary supplements. Its slight solubility in water allows for limited use in aqueous solutions, which is important for its absorption and utilization in biological systems.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

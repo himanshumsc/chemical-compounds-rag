@@ -1,0 +1,58 @@
+{
+  "compound_id": 65,
+  "compound_name": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane",
+  "source_file": "compound_065_Gamma-1,2,3,4,5,6-Hexachlorocyclohexane.json",
+  "main_entry_length": 4885,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0384_Gamma-1,2,3,4,5,6-Hexachlorocyclohexane_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:28",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Gamma 1,2,3,4,5,6-hexachlorocyclohexane. This compound is characterized by being non-flammable and stable in the presence of heat, light, strong acids, and carbon dioxide. It is primarily used as a pesticide in agriculture and as a treatment for head lice, scabies, and other external parasites. The compound is made by treating benzene with chlorine gas, replacing all six hydrogen atoms in the benzene ring with chlorine atoms.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:03"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane?",
+      "answer": "The chemical formula of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane is C6H6Cl6, and its molecular weight is 290.83 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:58",
+      "char_limit": 1000,
+      "answer_length": 117
+    },
+    {
+      "question": "Explain the isomeric nature of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane and identify the most commercially important isomer.",
+      "answer": "Gamma-1,2,3,4,5,6-hexachlorocyclohexane exists in four isomeric forms. Isomers are compounds with the same molecular formula but different structural formulas and distinct chemical and physical properties. Among these isomers, the gamma (γ) isomer is the most commercially important. It is commonly known as lindane and is used in various commercial products for applications such as pesticides in agriculture and treatments for head lice and scabies.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:02",
+      "char_limit": 1800,
+      "answer_length": 451
+    },
+    {
+      "question": "Discuss the commercial uses and potential health hazards associated with Gamma-1,2,3,4,5,6-Hexachlorocyclohexane.",
+      "answer": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane, also known as lindane, is an organochloride compound with significant commercial uses and potential health hazards. Commercially, approximately 80% of its production is utilized in agriculture, primarily for treating soil and seeds. It is also used in the wood and timber industries to protect trees from insects and as a mosquito control spray. In veterinary applications, the compound treats and prevents fleas and other external parasites on animals. Additionally, it is a key ingredient in products for treating head lice, scabies, and similar pests.\n\nDespite its widespread use, Gamma-1,2,3,4,5,6-Hexachlorocyclohexane poses several health risks. It is considered a potential carcinogen by the U.S. Environmental Protection Agency and is banned for medicinal use in many countries. In California, it is classified as a known carcinogen. The compound can cause skin irritation, rashes, nausea, vomiting, nervousness, irritability, accelerated heartbeat, convulsions, seizures, dizziness, and clumsiness. In rare cases, ingestion can lead to death. These health risks arise from the compound's ability to attack and incapacitate the nervous systems of pests and, to some extent, higher animals, including humans.\n\nDue to these potential hazards, the use of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane in agriculture is banned in over 50 nations, and its use remains controversial worldwide.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:06",
+      "char_limit": 2000,
+      "answer_length": 1430
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5420,
+  "updated_at": "2025-11-30 14:04:07",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 155,
+  "compound_name": "Sodium Sulfite",
+  "source_file": "compound_155_Sodium Sulfite.json",
+  "main_entry_length": 1189,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0836_Sodium_Sulfite_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the diagram is sodium sulfite. It consists of sodium (turquoise), sulfur (yellow), and oxygen (red) atoms. Sodium sulfite is primarily used in the pulp and paper industry as a pulping agent and to remove excess chlorine in bleaching processes. It is also employed in water and wastewater treatment to neutralize chlorine. Additionally, it is used in photography and as a food preservative, though its use in food is limited due to potential health hazards, including allergies and vitamin degradation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:03"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Sulfite?",
+      "answer": "The chemical formula for Sodium Sulfite is Na2SO3, and its molecular weight is 126.04 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the stability and solubility characteristics of Sodium Sulfite.",
+      "answer": "Sodium Sulfite is stable in dry air but decomposes in moist air to produce sulfur dioxide (SO2) and sodium hydroxide (NaOH). It is soluble in water and slightly soluble in ethyl alcohol.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of producing Sodium Sulfite and its main industrial application.",
+      "answer": "Sodium Sulfite is produced by reacting sulfur dioxide, soda ash (sodium carbonate; Na2CO3), and water to form sodium bisulfite (NaHSO3), which is then treated with excess soda ash to yield Sodium Sulfite. It is also a byproduct in the preparation of phenol (C6H5OH). The main industrial application of Sodium Sulfite is in the pulp and paper industry.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,36 @@
+{
+  "overall": {
+    "qwen_vs_gemma_bleu_4": {
+      "qwen_mean": 0.09059112949892242,
+      "gemma_mean": 0.04273268943944645,
+      "difference": 0.047858440059475975,
+      "qwen_better": true
+    }
+  },
+  "per_question_type": {
+    "Q1": {
+      "qwen_mean_bleu_4": 0.031723836592039326,
+      "gemma_mean_bleu_4": 0.030009487651731476,
+      "difference": 0.00171434894030785,
+      "qwen_better": true
+    },
+    "Q2": {
+      "qwen_mean_bleu_4": 0.21671224370352676,
+      "gemma_mean_bleu_4": 0.07602518187659224,
+      "difference": 0.14068706182693452,
+      "qwen_better": true
+    },
+    "Q3": {
+      "qwen_mean_bleu_4": 0.07320132288929693,
+      "gemma_mean_bleu_4": 0.046839992587781785,
+      "difference": 0.02636133030151514,
+      "qwen_better": true
+    },
+    "Q4": {
+      "qwen_mean_bleu_4": 0.040727114810826685,
+      "gemma_mean_bleu_4": 0.018056095641680286,
+      "difference": 0.0226710191691464,
+      "qwen_better": true
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "16_Ammonium_Nitrate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Ammonium Nitrate (NH₄NO₃)**. It's an inorganic compound used as fertilizer and in explosives. Key properties: white crystals, dissolves in water, releases oxygen when heated.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of ammonium nitrate and what elements does it consist of?",
+      "answer": "The provided text does not contain information about ammonium nitrate's chemical formula or elements. It mentions ammonium nitrate as a component of Amatol.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the process by which ammonium nitrate is commercially manufactured.",
+      "answer": "The provided text does not detail the commercial manufacturing process of ammonium nitrate. It only mentions ammonium nitrate as a component of Amatol, a combination with TNT often used in ordnance.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain why ammonium nitrate does not occur naturally and discuss its stability and decomposition characteristics.",
+      "answer": "Ammonium nitrate doesn't occur naturally in significant quantities. It's a manufactured compound (Source 1). It's used in explosives like Amatol (Source 1) due to its combination with TNT. While generally stable, ammonium nitrate can decompose explosively under heat, shock, or confinement (implied by its use in explosives). Its stability depends on factors like purity and storage conditions.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:51:41",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:51:41",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "66_Formaldehyde.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows formaldehyde (CH₂O). Key properties of formaldehyde include:\n\n1. **Chemical Composition**: It consists of one carbon atom, two hydrogen atoms, and one oxygen atom.\n2. **Structure**: The red sphere represents the oxygen atom, the black spheres represent the carbon atom, and the white spheres represent the hydrogen atoms. The gray sticks indicate double bonds between the carbon and oxygen atoms.\n3. **Occurrence**: Formaldehyde occurs naturally in the atmosphere at very low concentrations (about 10 parts per billion) as a by-product of plant and animal metabolism and through reactions involving methane",
+      "latency_s": 16.56
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of formaldehyde?",
+      "answer": "The chemical formula for formaldehyde is \\(\\text{CH}_2\\text{O}\\). The molecular weight of formaldehyde can be calculated by summing the atomic weights of its constituent elements:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Oxygen (O): 16.00 g/mol\n\nSo, the molecular weight of formaldehyde (\\(\\text{CH}_2\\text{O}\\)) is:\n\\[ 12.01 + 2 \\times 1.01 + 16.0",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Why is formaldehyde typically provided as a 37 percent solution with added methanol?",
+      "answer": "Formaldehyde, also known as methanal, is often provided as a 37% aqueous solution, commonly referred to as \"formalin.\" This concentration is chosen for several practical reasons:\n\n1. **Solubility and Stability**: Formaldehyde is highly soluble in water but can be difficult to handle due to its volatility and toxicity. By dissolving it in water, the solution becomes more stable and easier to store and transport.\n\n2. **Preparation of Formalin**: Methanol (CH₃OH) is added to the formaldehyde solution to reduce its volatility and improve its stability. Methanol acts as a stabilizer",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the process by which formaldehyde is commercially produced and explain why natural atmospheric formaldehyde is not used for industrial purposes.",
+      "answer": "Formaldehyde, a chemical compound with the formula CH2O, is produced industrially through two main processes: the oxidation of methanol (CH3OH) and the polymerization of acetaldehyde (CH3CHO). Here's a detailed description of each process:\n\n### 1. Oxidation of Methanol to Formaldehyde\n\nThe most common method for producing formaldehyde involves the oxidation of methanol in the presence of an acid catalyst at high temperatures and pressures.\n\n#### Chemical Reaction:\n\\[ \\text{CH}_3\\text{OH} + \\frac{1}{2}\\text{O}_2 \\rightarrow \\",
+      "latency_s": 10.42
+    }
+  ]
+}

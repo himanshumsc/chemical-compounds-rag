@@ -1,0 +1,36 @@
+{
+  "compound_id": 22,
+  "compound_name": "Butane",
+  "source_file": "compound_022_Butane.json",
+  "main_entry_length": 1345,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0170_Butane_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Butane.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of butane?",
+      "answer": "The chemical formula of butane is C4H10 and its molecular weight is 58.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the difference between the two isomeric forms of butane.",
+      "answer": "Butane exists in two isomeric forms: n-butane and iso-butane. In n-butane, the four carbon atoms are arranged in a continuous chain. In iso-butane, three carbon atoms are in a continuous chain, and the fourth carbon atom is attached to the middle atom in that chain. Both isomers have the same molecular formula, C4H10, but different structural arrangements.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the solubility and state of butane, and its implications for its use as a fuel.",
+      "answer": "Butane is a colorless gas at room temperature with a boiling point of -0.5°C (31°F), making it gaseous under standard conditions. It is slightly soluble in water but soluble in ethyl alcohol, ether, and chloroform, which indicates that it can be easily mixed with organic solvents. Its gaseous state and solubility properties make it ideal for use as a fuel, as it can be easily stored and transported in pressurized containers and used in various applications such as lighters and portable stoves. Its high flammability and explosive nature further enhance its efficiency as a fuel source.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

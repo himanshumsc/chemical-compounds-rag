@@ -1,0 +1,58 @@
+{
+  "compound_id": 155,
+  "compound_name": "Sodium Sulfite",
+  "source_file": "compound_155_Sodium Sulfite.json",
+  "main_entry_length": 1189,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0836_Sodium_Sulfite_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the diagram is sodium sulfite. It consists of sodium (turquoise), sulfur (yellow), and oxygen (red) atoms. Sodium sulfite is primarily used in the pulp and paper industry as a pulping agent and to remove excess chlorine in bleaching processes. It is also employed in water and wastewater treatment to neutralize chlorine. Additionally, it is used in photography and as a food preservative, though its use in food is limited due to potential health hazards, including allergies and vitamin degradation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:03"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Sulfite?",
+      "answer": "The chemical formula of Sodium Sulfite is Na2SO3, and its molecular weight is 126.04 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:59",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain the stability and solubility characteristics of Sodium Sulfite.",
+      "answer": "Sodium sulfite (Na2SO3) is a white powder or crystalline solid that is stable in dry air but tends to decompose in moist air, producing sulfur dioxide (SO2) and sodium hydroxide (NaOH). This indicates that its stability is affected by the presence of moisture. Sodium sulfite is soluble in water, which means it can dissolve readily, and it is slightly soluble in ethyl alcohol. These solubility characteristics are important for its applications, particularly in the paper and pulp industry, where it is used as a pulping agent and to remove excess chlorine used in bleaching.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:02",
+      "char_limit": 1800,
+      "answer_length": 577
+    },
+    {
+      "question": "Describe the process of producing Sodium Sulfite and its main industrial application.",
+      "answer": "Sodium sulfite (Na2SO3) is produced by reacting sulfur dioxide (SO2), soda ash (sodium carbonate, Na2CO3), and water. This reaction initially forms sodium bisulfite (NaHSO3), which is then treated with excess soda ash to yield sodium sulfite. Alternatively, it can also be obtained as a byproduct in the preparation of phenol (C6H5OH).\n\nThe main industrial application of sodium sulfite is in the pulp and paper industry, where it serves as a pulping agent to break down raw materials into pulp for paper production. It is also used to remove excess chlorine used in the bleaching process of wood. Sodium sulfite acts as an antichlor, which neutralizes excess chlorine in various industrial applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:04",
+      "char_limit": 2000,
+      "answer_length": 704
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3427,
+  "updated_at": "2025-11-30 13:47:05",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

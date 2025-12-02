@@ -1,0 +1,59 @@
+{
+  "source_file": "178_Zinc_Oxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **zinc oxide (ZnO)**.\n\nKey properties:\n\n*   Red atoms = oxygen\n*   Gray sticks = zinc\n*   Absorbs UV light\n*   Used in sunscreens, rubber, and plastics.\n*   Historically used in paints and pigments.",
+      "latency_s": 22.51,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of zinc oxide and what elements does it consist of?",
+      "answer": "The provided text does not contain information about zinc oxide.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does zinc oxide contribute to the longevity of white paints and pigments compared to other white paint compounds?",
+      "answer": "The provided text does not contain information about zinc oxide or its role in paint longevity. It details the production, uses, and properties of various chemical compounds like acetaminophen, aspirin, acetic acid, aluminum oxide, and mustard gas, but does not address pigments or paint.\n\n\n\nTherefore, I cannot answer your question based on the provided context.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the process and chemical reactions involved in the 'wet' method of producing zinc oxide.",
+      "answer": "The provided text does not contain information about the \"wet\" method of producing zinc oxide or the chemical reactions involved. It defines general chemical terms and provides some details about acetic acid, but lacks specifics on zinc oxide production.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:54:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:54:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

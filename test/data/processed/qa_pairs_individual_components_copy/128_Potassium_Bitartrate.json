@@ -1,0 +1,36 @@
+{
+  "compound_id": 124,
+  "compound_name": "Potassium Bitartrate",
+  "source_file": "compound_124_Potassium Bitartrate.json",
+  "main_entry_length": 2669,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0680_Potassium_Bitartrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Bitartrate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bitartrate?",
+      "answer": "The chemical formula of Potassium Bitartrate is KHC4H4O6, and its molecular weight is 188.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of Potassium Bitartrate in different solvents.",
+      "answer": "Potassium Bitartrate is somewhat soluble in cold water, very soluble in hot water, and insoluble in alcohol. This means it dissolves better in hot water compared to cold, and does not dissolve in alcohol.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how Potassium Bitartrate is produced and name one of its historical uses.",
+      "answer": "Potassium Bitartrate is produced by treating wine lees, the solid material left after grapes are crushed for wine, with hot water. This process dissolves the potassium bitartrate, and as the hot solution evaporates, crystals form and are then purified. Historically, it has been used by ancient people for a variety of household purposes including cooking, baking, and cleaning.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

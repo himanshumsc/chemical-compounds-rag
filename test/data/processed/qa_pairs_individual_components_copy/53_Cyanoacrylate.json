@@ -1,0 +1,36 @@
+{
+  "compound_id": 50,
+  "compound_name": "Cyanoacrylate",
+  "source_file": "compound_050_Cyanoacrylate.json",
+  "main_entry_length": 1505,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0310_Cyanoacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cyanoacrylate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molar mass of methyl cyanoacrylate?",
+      "answer": "The chemical formula of methyl cyanoacrylate is CH2=C(CN)COOCH3, and its molecular weight is 111.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility and reactivity of cyanoacrylate with water.",
+      "answer": "Cyanoacrylate reacts with water, leading to a polymerization reaction that forms strong bonds. It is also soluble in organic solvents like acetone, toluene, and methylene chloride.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process and significance of cyanoacrylate polymerization in adhesive applications.",
+      "answer": "Cyanoacrylate polymerization occurs when the ester reacts with water, forming polymers that bond materials together. This reaction happens quickly, allowing cyanoacrylate to be used in products like Super GlueTM to create strong bonds almost instantaneously. This property makes it valuable for applications requiring rapid adhesion.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

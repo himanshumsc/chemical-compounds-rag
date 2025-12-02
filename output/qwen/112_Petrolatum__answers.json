@@ -1,0 +1,27 @@
+{
+  "source_file": "112_Petrolatum.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image does not contain a molecular structure diagram; instead, it provides information about petrolatum, which is a semi-solid or liquid form of paraffin wax derived from petroleum. The text describes its physical properties such as color (white to yellowish to amber), odorlessness, tastelessness, melting range (38°C to 55°C), and its use as an ointment for wounds and burns due to its non-spoiling nature compared to animal and vegetable oils.\n\nIf you are referring to a specific chemical compound, the text does not provide a detailed molecular structure diagram but rather describes the general characteristics of petrolatum.",
+      "latency_s": 16.65
+    },
+    {
+      "question": "What are the common names and solubility characteristics of petrolatum?",
+      "answer": "Petrolatum, also known as petroleum jelly or vaseline, is a semi-solid, non-irritating, and non-toxic substance that is derived from petroleum. It is commonly used in cosmetics, pharmaceuticals, and as a topical ointment to soothe skin irritations.\n\n### Common Names:\n1. Petroleum Jelly\n2. Vaseline\n3. Petrolatum\n\n### Solubility Characteristics:\nPetrolatum is not soluble in water but is soluble in organic solvents such as alcohols, ethers, and ketones. This property makes it useful for various applications where it can be mixed with other substances",
+      "latency_s": 10.73
+    },
+    {
+      "question": "Explain why petrolatum is considered a mixture and not a compound.",
+      "answer": "Petrolatum, also known as petroleum jelly or Vaseline, is a semi-solid substance that is widely used in various applications such as cosmetics, medicine, and industrial lubricants. It is primarily composed of a complex mixture of hydrocarbons derived from the distillation of petroleum.\n\n### Why Petrolatum is Considered a Mixture:\n\n1. **Composition**: Petrolatum is made up of a wide range of hydrocarbons, including alkanes, cycloalkanes, and aromatic compounds. These components have different molecular weights and chemical properties, which means they are not chemically identical.\n   \n2. **Variable Composition**:",
+      "latency_s": 10.73
+    },
+    {
+      "question": "Describe some industrial applications of solid petrolatum and its role in those applications.",
+      "answer": "Solid petrolatum, also known as petroleum jelly or Vaseline, is a semi-solid form of petroleum that is widely used in various industrial applications due to its unique properties such as being non-toxic, non-irritating, and having excellent lubricating qualities. Here are some key industrial applications where solid petrolatum plays a significant role:\n\n1. **Metalworking and Machining**: Solid petrolatum is often used as a coolant and lubricant in metalworking processes like milling, drilling, and turning. It helps to reduce friction between the cutting tool and the workpiece, thereby preventing overheating and wear on both the tool and the material",
+      "latency_s": 10.73
+    }
+  ]
+}

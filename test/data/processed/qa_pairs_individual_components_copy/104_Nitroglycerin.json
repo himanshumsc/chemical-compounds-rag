@@ -1,0 +1,36 @@
+{
+  "compound_id": 101,
+  "compound_name": "Nitroglycerin",
+  "source_file": "compound_101_Nitroglycerin.json",
+  "main_entry_length": 1549,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0558_Nitroglycerin_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Nitroglycerin.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and the molecular weight of Nitroglycerin?",
+      "answer": "The chemical formula of Nitroglycerin is CH2NO2CHNOCH2NO2, and its molecular weight is 227.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does Nitroglycerin function as a vasodilator in medicine?",
+      "answer": "In medicine, Nitroglycerin acts as a vasodilator, meaning it causes blood vessels to relax and open up. This allows blood to flow more freely through them, which can help alleviate conditions related to restricted blood flow.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "What is the primary method for synthesizing Nitroglycerin as discovered by Ascanio Sobrero, and what are the roles of the reactants?",
+      "answer": "The primary method for synthesizing Nitroglycerin, developed by Ascanio Sobrero, involves adding nitric acid to glycerol with a small amount of concentrated sulfuric acid as a catalyst. Nitric acid acts as the nitrating agent, converting glycerol into Nitroglycerin, while sulfuric acid serves as a catalyst to facilitate the reaction.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

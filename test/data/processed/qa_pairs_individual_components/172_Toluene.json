@@ -1,0 +1,38 @@
+{
+  "compound_id": 168,
+  "compound_name": "Toluene",
+  "source_file": "compound_168_Toluene.json",
+  "main_entry_length": 4294,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0904_Toluene_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of toluene. Toluene is an aromatic hydrocarbon with the chemical formula C₇H₈. It consists of a benzene ring (a hexagon of carbon atoms with alternating double bonds) with a single methyl group (CH₃) attached. Key properties of toluene include being a clear, colorless liquid with a distinct smell, high solvency, and flammability. It's commonly used as an industrial solvent and in the production of chemicals like benzene and xylene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:09"
+    },
+    {
+      "question": "What is the chemical formula of toluene and what elements does it contain?",
+      "answer": "The chemical formula of toluene is C6H5CH3, and it contains the elements carbon and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process by which toluene is extracted from petroleum.",
+      "answer": "Toluene is extracted from petroleum through a process called catalytic reforming. In this process, hydrocarbons in the naphtha segment of petroleum are heated, often in the presence of a catalyst, to alter their molecular structure. The naphtha segment contains a complex mixture of hydrocarbons with boiling points between approximately 50°C and 200°C. Toluene is separated from these hydrocarbons by using a solvent such as sulfolane or tetraethylene glycol, which dissolves toluene while leaving other hydrocarbons undissolved.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "What are the major industrial applications of toluene and its role in the production of other chemicals?",
+      "answer": "Toluene is used extensively in industrial applications. It ranks among the top thirty compounds produced annually in the United States. About half of the produced toluene is used for the production of benzene, while 20% goes into producing xylene. Additionally, toluene is used in making other organic chemicals, such as toluene diisocyanate, which is important for manufacturing polyurethane foams and artificial rubber products. Toluene is also a solvent for paints, coatings, oils, rubber products, and plastics. It serves as a blending agent in aviation fuels and other high-octane gasoline mixtures. Furthermore, toluene is used in producing the explosive trinitrotoluene (TNT), which is valued for its controlled detonation properties.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

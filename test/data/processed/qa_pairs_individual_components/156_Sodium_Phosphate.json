@@ -1,0 +1,38 @@
+{
+  "compound_id": 152,
+  "compound_name": "Sodium Phosphate",
+  "source_file": "compound_152_Sodium Phosphate.json",
+  "main_entry_length": 4244,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0820_Sodium_Phosphate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:34",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium phosphate. In this compound, red atoms represent oxygen, the orange atom is phosphorus, and turquoise atoms are sodium. Gray sticks indicate double bonds. Sodium phosphate is used in various forms, such as disodium phosphate (Na₂HPO₄) and trisodium phosphate (Na₃PO₄). It's made by treating phosphoric acid with sodium compounds, replacing hydrogen atoms to form different sodium phosphates.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:58"
+    },
+    {
+      "question": "What are the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate?",
+      "answer": "The chemical formulas for the three forms of sodium phosphate are: Monobasic sodium phosphate is NaH2PO4, dibasic sodium phosphate is Na2HPO4, and tribasic sodium phosphate is Na3PO4.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how the different forms of sodium phosphate are produced from phosphoric acid.",
+      "answer": "The different forms of sodium phosphate are produced by replacing one or more hydrogen atoms in phosphoric acid (H3PO4) with sodium atoms. Monobasic sodium phosphate (NaH2PO4) is made by replacing one hydrogen atom, often using sodium hydroxide (NaOH). Dibasic sodium phosphate (Na2HPO4) is produced by replacing two hydrogen atoms, which can be achieved by reacting phosphoric acid with sodium carbonate (Na2CO3). Tribasic sodium phosphate (Na3PO4) is formed by replacing all three hydrogen atoms, typically using an excess of sodium hydroxide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the common uses and potential hazards associated with tribasic sodium phosphate.",
+      "answer": "Tribasic sodium phosphate (Na3PO4) is used in a variety of applications, including as a component in cleaning agents like detergents and industrial cleaners, for treating boiler water, in leather tanning, and in the manufacture of textiles and paper products. It also plays roles in sugar purification, as a dietary supplement, in paint removers, and in photographic processes. However, it poses health risks as a mild irritant to the skin, eyes, and respiratory system, with more serious health consequences compared to the monobasic or dibasic forms. Exposure can cause redness, itching, burns, pain, and blisters.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

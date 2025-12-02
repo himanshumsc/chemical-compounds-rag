@@ -1,0 +1,59 @@
+{
+  "source_file": "56_Dichlorodifluoromethane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows dichlorodifluoromethane (CFC). It's a nonflammable, non-toxic refrigerant used in refrigeration systems. It enables efficient and safe cooling.",
+      "latency_s": 39.8,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of Dichlorodifluoromethane, and what elements does it comprise?",
+      "answer": "The chemical formula of Dichlorodifluoromethane is CCl2F2. It comprises Carbon, Chlorine, and Fluorine.",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does dichlorodifluoromethane's solubility vary between water and other solvents like alcohol and ether?",
+      "answer": "Dichlorodifluoromethane (Freon-12) is highly soluble in water; however, it is insoluble in common organic solvents such as alcohol and ether.",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain why dichlorodifluoromethane is categorized as both a chlorofluorocarbon (CFC) and an alkyl halide.",
+      "answer": "Dichlorodifluoromethane is a chlorofluorocarbon (CFC) due to its carbon atom bonded to two chlorine atoms and two fluorine atoms. It is also an alkyl halide as it contains a methyl group (CH3) and halogen atoms (Cl, F).",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:41:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:41:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "1_13-Butadiene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows 1,3-Butadiene. This compound consists of four carbon atoms (black) and eight hydrogen atoms (white), with two double bonds indicated by the gray sticks connecting the carbon atoms.\n\nKey properties of 1,3-Butadiene include:\n1. **Double Bonds**: The presence of two double bonds makes it highly reactive in chemical reactions.\n2. **Synthetic Rubber**: It is used as a building block for synthetic rubbers due to its ability to polymerize into long chains.\n3. **Industrial Importance**: It is produced through various processes such as steam cracking of petroleum",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula of 1,3-butadiene, and what type of compound is it?",
+      "answer": "The chemical formula for 1,3-butadiene is C4H6. It is an unsaturated hydrocarbon, specifically an alkene (olefin), due to the presence of one carbon-carbon double bond in its structure. The double bond consists of one sigma (σ) bond and one pi (π) bond, which makes it more reactive compared to alkanes.",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Explain how 1,3-butadiene is produced in the United States.",
+      "answer": "1,3-Butadiene is a key chemical used in the production of synthetic rubber and other polymers. In the United States, it is primarily produced through the dehydrogenation of butane or butanol. Here's a detailed explanation of the process:\n\n### Production Process\n\n#### 1. **Butane Dehydrogenation**\n   - **Raw Material**: Butane, which is a byproduct of natural gas processing.\n   - **Process**: Butane is heated in the presence of a catalyst (typically a metal oxide such as vanadium pentoxide) at high temperatures (around 700°C to",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Discuss the industrial uses of 1,3-butadiene and the potential hazards associated with it.",
+      "answer": "### Industrial Uses of 1,3-Butadiene\n\n1,3-Butadiene is a versatile chemical that finds extensive use in various industries due to its unique properties. Here are some of its primary industrial applications:\n\n1. **Polymerization**: 1,3-Butadiene is a key monomer in the production of synthetic rubbers such as natural rubber (NR) and butyl rubber (BR). These rubbers are widely used in tires, seals, and other applications where flexibility and durability are required.\n\n2. **Ethylene Propylene Diene Monomer (EPDM)**: EPDM is another",
+      "latency_s": 10.38
+    }
+  ]
+}

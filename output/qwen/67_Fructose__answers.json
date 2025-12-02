@@ -1,0 +1,27 @@
+{
+  "source_file": "67_Fructose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows fructose. Fructose is a simple sugar molecule with the chemical formula C6H12O6. It consists of six carbon atoms (black), twelve hydrogen atoms (white), and six oxygen atoms (red). \n\nKey properties of fructose include:\n- It is a monosaccharide, meaning it cannot be broken down into simpler sugars.\n- It has a sweet taste, which makes it popular as a sweetener.\n- Fructose is metabolized differently than glucose; it is primarily metabolized by the liver, which can lead to increased triglycerides and potentially contribute to metabolic",
+      "latency_s": 16.56
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "The chemical formula for fructose is C6H12O6. It contains three elements: carbon (C), hydrogen (H), and oxygen (O).",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Fructose and sucrose are both sugars, but they have different structures due to their chemical composition.\n\n1. **Fructose**:\n   - Fructose is a monosaccharide (a single sugar molecule).\n   - It has the chemical formula C6H12O6.\n   - Fructose is a ketose sugar, meaning it contains a ketone group (-C=O) in its structure.\n   - The ketone group is located at the carbon atom that is number 2 in the ring structure of fructose.\n   - Fructose is sweet and is often found naturally in fruits and honey.\n\n2.",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "Fructose, also known as fruit sugar or levulose, is a simple sugar that is widely used in food and beverage industries due to its sweet taste and low glycemic index. The commercial production of fructose can be broadly categorized into two main processes: enzymatic hydrolysis of sucrose (commonly known as table sugar) and fermentation of glucose.\n\n### 1. Enzymatic Hydrolysis of Sucrose\n\nThis method involves breaking down sucrose into its constituent monosaccharides, glucose and fructose, using enzymes.\n\n#### Steps:\n- **Sucrose Production**: Sucrose is produced from sugar cane or",
+      "latency_s": 10.42
+    }
+  ]
+}

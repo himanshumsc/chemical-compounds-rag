@@ -1,0 +1,38 @@
+{
+  "compound_id": 118,
+  "compound_name": "Polystyrene",
+  "source_file": "compound_118_Polystyrene.json",
+  "main_entry_length": 4476,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0648_Polystyrene_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:14",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents polystyrene. Polystyrene is a synthetic aromatic polymer made from the monomer styrene, a liquid petrochemical. Its key properties include being lightweight, rigid, and transparent. It is an excellent insulator and is widely used in various applications, such as packaging materials, disposable cutlery, and insulation. Polystyrene is also notable for its ease of molding and cost-effectiveness, making it ubiquitous in everyday products.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:57"
+    },
+    {
+      "question": "What is the chemical formula and the basic structural unit of polystyrene?",
+      "answer": "The chemical formula of polystyrene is represented as -[-CH2C6H5-]-n, where 'n' indicates the number of repeating units. The basic structural unit consists of a long chain of repeating styrene units, each containing a vinyl group (CH2=CH-) attached to a phenyl group (C6H5-).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does polystyrene demonstrate its properties as a thermoplastic polymer, and what are its implications for practical applications?",
+      "answer": "Polystyrene is a thermoplastic polymer, meaning it can be repeatedly softened by heating and hardened by cooling. This property allows it to be easily shaped and molded, making it suitable for manufacturing a wide range of products such as sheets, plates, rods, beads, and foams. Its strong, transparent nature and resistance to mechanical impact and thermal and electrical insulation properties make it ideal for various commercial and industrial applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of polymerization of styrene to form polystyrene and the role of polymerization initiators in this process.",
+      "answer": "The polymerization of styrene to form polystyrene involves the breaking open of the double bond in the styrene molecule, allowing a hydrogen atom from another styrene molecule to add to one side of the bond while the rest of the molecule adds to the other side. This process can continue repeatedly, forming long chains of polystyrene. Polymerization initiators, such as benzoyl peroxide (C6H5COOOCOC6H5), are used to start this reaction by causing the first double bond to break. Once initiated, the reaction releases enough energy to continue on its own, allowing for the creation of the polymer.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

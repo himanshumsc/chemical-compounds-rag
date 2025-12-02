@@ -1,0 +1,58 @@
+{
+  "compound_id": 24,
+  "compound_name": "Butyl Mercaptan",
+  "source_file": "compound_024_Butyl Mercaptan.json",
+  "main_entry_length": 3793,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0180_Butyl_Mercaptan_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:14",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is butyl mercaptan. It is a compound composed of hydrogen (white atoms), carbon (black atoms), and selenium (turquoise atom), although typically sulfur is involved in mercaptans, not selenium. Butyl mercaptan is known for its strong skunk-like odor. It exists in three isomeric forms, which are mobile liquids. Despite previous beliefs, butyl mercaptans are not responsible for the distinctive odor of skunk spray, though some mercaptans are present in it.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:58"
+    },
+    {
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "answer": "The molecular formula of butyl mercaptan is C4H10S. It contains the elements carbon, hydrogen, and sulfur.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:19",
+      "char_limit": 1000,
+      "answer_length": 106
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl mercaptan and name its three isomers.",
+      "answer": "Isomers are different forms of a chemical compound that share the same molecular formula but have different structural formulas and distinct chemical and physical properties. In the context of butyl mercaptan, three isomers exist, each with the molecular formula C4H10S. These isomers are:\n\n1. **n-Butyl Mercaptan**: Also known as 1-butanethiol, 1-mercaptobutane, or n-butyl thioalcohol, with the expanded chemical formula CH3CH2CH2CH2SH.\n\n2. **sec-Butyl Mercaptan**: Also called 2-butanethiol or 1-methyl-1-propanethiol, with the expanded chemical formula CH3CH2CH(SH)CH3.\n\n3. **tert-Butyl Mercaptan**: Also known as 2-methyl-2-propanethiol, with the expanded chemical formula CH3C(CH3)(SH)CH3.\n\nThese isomers vary significantly in their melting and boiling points. For example, the melting points range from -115.67°C for n-butyl mercaptan to 0.5°C for tert-butyl mercaptan, and boiling points range from 64°C for tert-butyl mercaptan to 98.46°C for n-butyl mercaptan. Despite these differences, all three are mobile liquids with strong skunk-like odors and are highly toxic, flammable, and primarily used as solvents and in the preparation of other organic compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:25",
+      "char_limit": 1800,
+      "answer_length": 1170
+    },
+    {
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "answer": "Butyl mercaptan is produced primarily by reacting an iodobutane (such as CH3CH2CH2CH2I) with a sulfhydryl compound like KSH, where the sulfhydryl group (-SH) replaces the iodine to form the butyl mercaptan. There are three isomers: n-butyl, sec-butyl, and tert-butyl mercaptan, each with slightly different structures and properties.\n\nThese compounds are used mainly as solvents and in synthesizing other organic compounds, especially insecticides and herbicides. Additional applications include their use as additives in natural gas to detect leaks due to their strong odor, flavor and aroma enhancers in foods, and nutrients for bacterial culture maintenance.\n\nButyl mercaptans are highly toxic and flammable, posing health and safety risks primarily to workers handling them. Exposure to their vapors necessitates immediate medical attention. Despite their potent odor, they are not responsible for the skunk spray's distinctive smell, although they were once thought to be.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:29",
+      "char_limit": 2000,
+      "answer_length": 977
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5774,
+  "updated_at": "2025-11-30 13:55:30",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 112,
+  "compound_name": "Poly(Styrene-Butadiene-Styrene)",
+  "source_file": "compound_112_Poly(Styrene-Butadiene-Styrene).json",
+  "main_entry_length": 5193,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0622_Poly(Styrene-Butadiene-Styrene)_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Poly(Styrene-Butadiene-Styrene).",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What are the main elements that make up Poly(Styrene-Butadiene-Styrene) and what is its state at room temperature?",
+      "answer": "Poly(Styrene-Butadiene-Styrene) is composed of carbon and hydrogen elements. At room temperature, it is in a solid state.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the structure of Poly(Styrene-Butadiene-Styrene) as a block copolymer and describe the roles of its segments.",
+      "answer": "Poly(Styrene-Butadiene-Styrene) is a thermoplastic block copolymer consisting of repeating blocks of polystyrene and polybutadiene. The polystyrene segments provide strength and durability, while the polybutadiene segments offer flexibility. This structure allows SBS to exhibit the properties of being strong yet flexible.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the polymerization process and catalyst used in the production of Poly(Styrene-Butadiene-Styrene). Why is the reaction terminated, and how is it achieved?",
+      "answer": "The polymerization process for producing Poly(Styrene-Butadiene-Styrene) involves breaking the double bonds in styrene and butadiene monomers, which then join to form long polymer chains. A butyl lithium (C4H9Li) catalyst is used to initiate the reaction by breaking the initial double bonds. The reaction is terminated at a specific point to control the polymer length and properties, achieved by adding dichlorodimethylsilane (SiCl2(CH3)2), which reacts with the last monomer and prevents the addition of further monomers.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "52_Cumene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cumene (C6H10). Cumene is an organic compound with a benzene ring attached to a methyl group. Its key properties include:\n\n- **Chemical Formula**: C6H10\n- **Molecular Structure**: It consists of six carbon atoms forming a benzene ring, with one hydrogen atom attached to each carbon atom of the ring, and an additional carbon atom with three hydrogen atoms attached to it.\n- **Extraction**: Cumene can be extracted from petroleum or coal tar, which is the thick black material left after soft coal is converted to coke.\n- **",
+      "latency_s": 16.41
+    },
+    {
+      "question": "What is the chemical formula of cumene and its molecular weight?",
+      "answer": "Cumene, also known as methyl tert-butyl ether (MTBE), has the chemical formula \\( \\text{C}_9\\text{H}_{12} \\).\n\nTo calculate the molecular weight of cumene:\n\n1. **Carbon (C)**: The atomic weight of carbon is approximately 12.01 g/mol.\n2. **Hydrogen (H)**: The atomic weight of hydrogen is approximately 1.008 g/mol.\n\nNow, multiply these atomic weights by the number of atoms in the molecule:\n- Carbon: \\( 9 \\times 12.01 \\) g/mol",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain the primary industrial uses of cumene.",
+      "answer": "Cumene, also known as isopropylbenzene, is an aromatic hydrocarbon that is primarily used in the production of other chemicals and materials. Here are the primary industrial uses of cumene:\n\n1. Production of Toluene: Cumene is the precursor to toluene, which is widely used in the production of various chemicals such as phenol, acetone, and benzene.\n\n2. Production of Propylene: Propylene is a key chemical used in the production of polypropylene (PP), a thermoplastic polymer. PP is used in a wide range of applications including packaging, automotive parts, and",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Describe the chemical reaction used to synthesize cumene and the alternative sources from which it can be extracted.",
+      "answer": "Cumene is a chemical compound with the molecular formula C9H12, consisting of three methyl groups attached to a benzene ring. It is primarily used as a precursor in the production of phenol and terephthalic acid, which are key intermediates for the manufacture of polycarbonate plastics and polyester fibers.\n\n### Synthesis of Cumene\n\nThe primary method for synthesizing cumene involves the dehydrogenation of isopropylbenzene (also known as tert-butylbenzene or 2,2-dimethylphenyl) over a catalyst. This process is typically carried out using a",
+      "latency_s": 10.41
+    }
+  ]
+}

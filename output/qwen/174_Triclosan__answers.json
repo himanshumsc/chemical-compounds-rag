@@ -1,0 +1,27 @@
+{
+  "source_file": "174_Triclosan.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Triclosan. Key properties of Triclosan include:\n\n1. **Chemical Composition**: Triclosan is composed of carbon (black atoms), hydrogen (white atoms), oxygen (red atoms), and chlorine (green atoms). It contains double bonds (dark gray sticks) and single bonds (other sticks).\n\n2. **Synthesis**: Triclosan can be synthesized through two main procedures:\n   - First procedure: Reacting 2,4-dichlorophenol (C₆H₃ClOH) with another substance.\n   - Second procedure: React",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Triclosan?",
+      "answer": "Triclosan is a widely used antimicrobial agent in various consumer products, including soaps, toothpaste, and textiles. Its chemical name is 2,4,4'-trichloro-2'-hydroxybenzylamine.\n\nThe molecular formula for Triclosan is C12H7Cl3N.\n\nTo calculate the molecular weight of Triclosan, we need to sum the atomic weights of each element present in the molecule:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Chlorine (",
+      "latency_s": 10.35
+    },
+    {
+      "question": "How does Triclosan exhibit its antimicrobial properties?",
+      "answer": "Triclosan is an antimicrobial agent that exhibits its antimicrobial properties by interfering with the synthesis of proteins in bacterial cells, which is essential for their survival and growth. Here's a detailed explanation of how triclosan works:\n\n1. **Binding to Enzymes**: Triclosan binds to specific enzymes in bacteria, particularly those involved in fatty acid biosynthesis. These enzymes are crucial for the production of cell membrane components.\n\n2. **Inhibition of Enzyme Function**: By binding to these enzymes, triclosan prevents them from functioning properly. This interference disrupts the normal metabolic processes within the bacterial cell",
+      "latency_s": 10.35
+    },
+    {
+      "question": "Describe one method of synthesizing Triclosan and explain why it might be preferred in manufacturing.",
+      "answer": "Triclosan is a broad-spectrum antimicrobial agent that is widely used in consumer products such as soaps, toothpaste, and hand sanitizers. One of the methods for synthesizing Triclosan involves the condensation reaction between 2,4-dichlorophenol and 3-chloro-2-hydroxybenzyl chloride.\n\n### Synthesis Method:\n\n1. **Starting Materials:**\n   - 2,4-Dichlorophenol (2,4-DCP)\n   - 3-Chloro-2-hydroxybenzyl chloride\n\n2. **Reaction Conditions",
+      "latency_s": 10.35
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 99,
+  "compound_name": "Nitric Oxide",
+  "source_file": "compound_099_Nitric Oxide.json",
+  "main_entry_length": 2684,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0548_Nitric_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents nitric oxide (NO). It consists of one nitrogen atom (blue) and one oxygen atom (red). Nitric oxide is a colorless gas under normal conditions and plays a significant role in various chemical processes. It is produced naturally in lightning strikes and through the combustion of fossil fuels. Industrially, it is used to synthesize other nitrogen compounds. However, nitric oxide is also an environmental pollutant, contributing to air pollution and forming nitrogen dioxide when oxidized.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:00:55"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitric oxide?",
+      "answer": "The chemical formula of nitric oxide is NO, and its molecular weight is 36.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:53",
+      "char_limit": 1000,
+      "answer_length": 84
+    },
+    {
+      "question": "Explain how nitric oxide is formed in the atmosphere and its role in pollution.",
+      "answer": "Nitric oxide (NO) is formed in the atmosphere primarily through two processes. First, it is produced naturally by the reaction of nitrogen (N2) and oxygen (O2) in the air when energy from lightning strikes is sufficient to initiate the reaction: N2 + O2 → 2NO. Secondly, human activities contribute to its formation, particularly through the combustion of coal and oil products. Internal combustion engines, such as those in vehicles, generate temperatures over 2,000°C, which also allows nitrogen and oxygen in the air to react, forming nitric oxide as a byproduct.\n\nIn terms of pollution, nitric oxide is a significant environmental concern. It oxidizes readily in the atmosphere to form nitrogen dioxide (NO2), a primary component of air pollution. Nitrogen dioxide contributes to various environmental problems, including photochemical smog and acid rain, which can damage buildings, destroy trees, and harm aquatic life. Thus, nitric oxide plays a crucial role in atmospheric pollution, both as a direct pollutant and as a precursor to other harmful nitrogen compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:57",
+      "char_limit": 1800,
+      "answer_length": 1074
+    },
+    {
+      "question": "Describe the industrial uses of nitric oxide and its potential hazards.",
+      "answer": "Nitric oxide (NO) is primarily used industrially in the preparation of other nitrogen-containing compounds, such as nitrogen dioxide (NO2), nitric acid (HNO3), and nitrosyl chloride (NOCl). It is also employed in the bleaching of rayon, a synthetic fabric, and acts as a polymerization inhibitor with certain compounds like propylene and methyl ether to prevent the formation of large, complex molecules known as polymers.\n\nHowever, nitric oxide is considered an environmental pollutant. It readily oxidizes to form nitrogen dioxide, a significant contributor to air pollution. Nitrogen dioxide can lead to environmental problems, such as damage to buildings, destruction of trees, and harm to aquatic life. Consequently, nitric oxide's presence in the atmosphere, particularly as a byproduct of combustion processes like gasoline burning in engines, is a concern due to its role in air pollution.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:00",
+      "char_limit": 2000,
+      "answer_length": 897
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6075,
+  "updated_at": "2025-11-30 13:36:00",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "overall": {
+    "qwen_vs_gemma_rouge1": {
+      "qwen_mean": 0.4280381281458313,
+      "gemma_mean": 0.2953473521422301,
+      "difference": 0.13269077600360119,
+      "qwen_better": true
+    },
+    "qwen_vs_gemma_rouge2": {
+      "qwen_mean": 0.20250788756058277,
+      "gemma_mean": 0.10824941476537026,
+      "difference": 0.09425847279521252,
+      "qwen_better": true
+    },
+    "qwen_vs_gemma_rougeL": {
+      "qwen_mean": 0.3391874583385101,
+      "gemma_mean": 0.2158779598489942,
+      "difference": 0.12330949848951592,
+      "qwen_better": true
+    },
+    "qwen_vs_gemma_rougeLsum": {
+      "qwen_mean": 0.3493831831664369,
+      "gemma_mean": 0.2265262825999687,
+      "difference": 0.1228569005664682,
+      "qwen_better": true
+    }
+  },
+  "per_question_type": {
+    "Q1": {
+      "qwen_mean_rouge1_fmeasure": 0.34443904724145535,
+      "gemma_mean_rouge1_fmeasure": 0.32951062212272286,
+      "rouge1_difference": 0.014928425118732491,
+      "rouge1_qwen_better": true,
+      "qwen_mean_rouge2_fmeasure": 0.1324663318032327,
+      "gemma_mean_rouge2_fmeasure": 0.11740989194681598,
+      "rouge2_difference": 0.01505643985641672,
+      "rouge2_qwen_better": true,
+      "qwen_mean_rougeL_fmeasure": 0.26112107597419365,
+      "gemma_mean_rougeL_fmeasure": 0.23584672410680668,
+      "rougeL_difference": 0.025274351867386968,
+      "rougeL_qwen_better": true
+    },
+    "Q2": {
+      "qwen_mean_rouge1_fmeasure": 0.6302630581572699,
+      "gemma_mean_rouge1_fmeasure": 0.35324067495952044,
+      "rouge1_difference": 0.27702238319774947,
+      "rouge1_qwen_better": true,
+      "qwen_mean_rouge2_fmeasure": 0.37611397937045327,
+      "gemma_mean_rouge2_fmeasure": 0.15406656500400767,
+      "rouge2_difference": 0.2220474143664456,
+      "rouge2_qwen_better": true,
+      "qwen_mean_rougeL_fmeasure": 0.5698646013166252,
+      "gemma_mean_rougeL_fmeasure": 0.287495513767815,
+      "rougeL_difference": 0.2823690875488102,
+      "rougeL_qwen_better": true
+    },
+    "Q3": {
+      "qwen_mean_rouge1_fmeasure": 0.3914650515652084,
+      "gemma_mean_rouge1_fmeasure": 0.2784355750877722,
+      "rouge1_difference": 0.11302947647743616,
+      "rouge1_qwen_better": true,
+      "qwen_mean_rouge2_fmeasure": 0.17505991303092358,
+      "gemma_mean_rouge2_fmeasure": 0.10122976326202467,
+      "rouge2_difference": 0.07383014976889891,
+      "rouge2_qwen_better": true,
+      "qwen_mean_rougeL_fmeasure": 0.29426174806922967,
+      "gemma_mean_rougeL_fmeasure": 0.19461605160534584,
+      "rougeL_difference": 0.09964569646388383,
+      "rougeL_qwen_better": true
+    },
+    "Q4": {
+      "qwen_mean_rouge1_fmeasure": 0.3459853556193916,
+      "gemma_mean_rouge1_fmeasure": 0.220202536398905,
+      "rouge1_difference": 0.1257828192204866,
+      "rouge1_qwen_better": true,
+      "qwen_mean_rouge2_fmeasure": 0.12639132603772152,
+      "gemma_mean_rouge2_fmeasure": 0.060291438848632715,
+      "rouge2_difference": 0.0660998871890888,
+      "rouge2_qwen_better": true,
+      "qwen_mean_rougeL_fmeasure": 0.2315024079939918,
+      "gemma_mean_rougeL_fmeasure": 0.14555354991600922,
+      "rougeL_difference": 0.08594885807798258,
+      "rougeL_qwen_better": true
+    }
+  }
+}

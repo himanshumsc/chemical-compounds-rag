@@ -1,0 +1,58 @@
+{
+  "compound_id": 119,
+  "compound_name": "Polytetrafluoroethylene",
+  "source_file": "compound_119_Polytetrafluoroethylene.json",
+  "main_entry_length": 1448,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0654_Polytetrafluoroethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:19",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Polytetrafluoroethylene (PTFE). Its key properties include:\n\n1. **Low Coefficient of Friction**: PTFE has the lowest coefficient of friction among known substances, making it ideal for non-stick applications such as Teflon® coatings.\n\n2. **Chemical Resistance**: PTFE is highly resistant to chemical reactions, making it useful in various industrial applications.\n\n3. **Thermal Stability**: It can withstand high temperatures without breaking down.\n\n4. **Non-stick Surface**: PTFE's surface is slick, preventing substances from adhering to it easily.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:57"
+    },
+    {
+      "question": "What are the chemical elements that make up the compound Polytetrafluoroethylene?",
+      "answer": "Polytetrafluoroethylene is made up of the chemical elements carbon and fluorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:01",
+      "char_limit": 1000,
+      "answer_length": 80
+    },
+    {
+      "question": "Explain why Polytetrafluoroethylene does not have a boiling point.",
+      "answer": "Polytetrafluoroethylene (PTFE) does not have a boiling point because it is an organic polymer that exists in a solid state and is not a substance that transitions to a gaseous state under typical conditions. As a polymer, PTFE consists of repeating units of the monomer tetrafluoroethylene, forming long chains. Its nature as a thermoplastic polymer allows it to be repeatedly softened and hardened by heating and cooling, but it does not vaporize like a simple compound with a defined boiling point. The text specifies that PTFE's boiling point is \"Not applicable,\" indicating that, unlike small molecules, PTFE does not have a boiling point due to its polymeric structure, which does not transition to a gaseous phase.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:04",
+      "char_limit": 1800,
+      "answer_length": 720
+    },
+    {
+      "question": "Discuss the solubility properties of Polytetrafluoroethylene and its implications for industrial applications.",
+      "answer": "Polytetrafluoroethylene (PTFE), also known as Teflon and by other trade names, is an organic polymer made from the monomer tetrafluoroethylene. A key property of PTFE is its insolubility. According to the provided data, PTFE is insoluble in water, concentrated acids, other inorganic solvents, and almost all organic solvents. This insolubility is significant for its industrial applications. \n\nThe resistance to solvents makes PTFE an excellent material for use in environments where chemical stability is critical. It can be used as a coating for kitchen utensils, such as non-stick coatings on pots and pans, because it does not interact with food substances or cooking chemicals. Additionally, its insolubility makes it a suitable choice for fiber coatings and spray treatments for carpets and furniture, providing a protective shield that prevents water or oil-based stains from penetrating. \n\nThese properties, combined with its low friction coefficient, allow PTFE to be utilized in various industries where non-reactive, durable, and non-stick materials are required. The chemical inertness and stability of PTFE contribute to its wide application in coatings and protective layers in both consumer and industrial products.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:08",
+      "char_limit": 2000,
+      "answer_length": 1231
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3297,
+  "updated_at": "2025-11-30 13:40:08",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

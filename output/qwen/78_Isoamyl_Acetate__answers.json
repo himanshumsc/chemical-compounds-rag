@@ -1,0 +1,27 @@
+{
+  "source_file": "78_Isoamyl_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **isoamyl acetate**. \n\n### Key Properties of Isoamyl Acetate:\n1. **Chemical Formula**: It has the formula \\( \\text{C}_7\\text{H}_{14}\\text{O}_2 \\).\n2. **Molecular Structure**: The molecule consists of 7 carbon atoms, 14 hydrogen atoms, and 2 oxygen atoms.\n3. **Odor**: It has a sweet, fruity odor similar to that of bananas or almonds.\n4. **Solubility**: It is soluble in water and alcohol.\n5. **",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Isoamyl Acetate?",
+      "answer": "The chemical formula for Isoamyl Acetate is C<sub>7</sub>H<sub>15</sub>O<sub>2</sub>. \n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12.01 g/mol × 7 = 84.07 g/mol\n- Hydrogen (H): 1.008 g/mol × 15 = 15.12 g/mol\n- Oxygen (O): 16.00 g/mol × 2 = 32",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Explain the solubility properties of Isoamyl Acetate and its implications for industrial uses.",
+      "answer": "Isoamyl acetate, also known as pentyl acetate or 2-methylbutyl acetate, is an organic compound with the chemical formula C7H14O2. It is a colorless liquid with a sweet, fruity odor that is often used in perfumes and flavorings due to its pleasant aroma.\n\n### Solubility Properties:\nThe solubility of isoamyl acetate in water is relatively low, which makes it immiscible with water. This property is due to the presence of both polar (the oxygen atom) and nonpolar (the carbon chain) groups in the molecule. The",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Describe the process by which Isoamyl Acetate is commercially produced and how it relates to its isomers.",
+      "answer": "Isoamyl acetate, also known as amyl acetate or isoamyl alcohol acetate, is a colorless liquid with a sweet, fruity odor. It is widely used in perfumery, flavoring, and as a solvent. The production of isoamyl acetate involves a chemical reaction between isoamyl alcohol (2-methyl-1-pentanol) and acetic acid.\n\n### Commercial Production Process:\n\n1. **Isomeric Alcohol Synthesis:**\n   - **Starting Material:** 2-Methyl-1-pentanol (isoamyl alcohol) can be synthesized from 2-methyl-",
+      "latency_s": 10.3
+    }
+  ]
+}

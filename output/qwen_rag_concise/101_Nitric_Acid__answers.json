@@ -1,0 +1,59 @@
+{
+  "source_file": "101_Nitric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows nitric acid. It has 2 oxygen atoms, 1 hydrogen atom, and 1 nitrogen atom. Properties: strong acid, used in fertilizers, explosives, and inorganic synthesis.",
+      "latency_s": 42.07,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+      "answer": "Nitric acid is composed of nitrogen, oxygen, and hydrogen. Its chemical formula is HNO3.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+      "answer": "Nitric acid is a liquid at room temperature. It is highly soluble in water, forming a clear solution.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain why nitric acid is considered a strong oxidizing agent and describe its reaction with metals.",
+      "answer": "Nitric acid is a strong oxidizing agent because it readily removes electrons from other molecules, acting as an oxidizing agent. When nitric acid reacts with metals, it oxidizes the metal, often forming a salt, while reducing itself to nitrogen oxides.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:25:30",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:25:30",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

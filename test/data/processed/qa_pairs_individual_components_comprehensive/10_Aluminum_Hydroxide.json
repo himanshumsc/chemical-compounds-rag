@@ -1,0 +1,58 @@
+{
+  "compound_id": 6,
+  "compound_name": "Aluminum Hydroxide",
+  "source_file": "compound_006_Aluminum Hydroxide.json",
+  "main_entry_length": 2534,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0096_Aluminum_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is aluminum hydroxide. In the molecular structure, red atoms represent oxygen, white atoms represent hydrogen, and the turquoise atom represents aluminum.\n\nKey properties of aluminum hydroxide include:\n\n- It acts as a base and is commonly used as an antacid to neutralize stomach acid, alleviating symptoms like heartburn and indigestion.\n- It is used to treat peptic ulcers.\n- Industrially, it's a raw material for aluminum compounds and an additive in cosmetics, paper, plastics, and rubber to enhance bulk.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:16"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of aluminum hydroxide?",
+      "answer": "The chemical formula of aluminum hydroxide is Al(OH)3, and its molecular weight is 78.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:53",
+      "char_limit": 1000,
+      "answer_length": 95
+    },
+    {
+      "question": "Explain how aluminum hydroxide is used in medical applications and describe its effectiveness.",
+      "answer": "Aluminum hydroxide (Al(OH)3) is commonly used in medical applications as an effective antacid. It is a base that reacts with stomach acid, specifically hydrochloric acid (HCl), to alleviate symptoms such as heartburn, upset stomach, acid indigestion, and gastritis, which is an inflammation of the stomach lining. Additionally, aluminum hydroxide is used for the long-term treatment of peptic ulcers, which are open sores in the lining of the stomach or the first part of the small intestine. It is found in over-the-counter products like Maalox, Mylanta, and Gelusil. Studies have not shown that aluminum hydroxide poses health risks to humans, indicating its safety as a medical treatment.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:56",
+      "char_limit": 1800,
+      "answer_length": 691
+    },
+    {
+      "question": "Discuss the industrial production process of aluminum hydroxide from bauxite, including the role of sodium hydroxide.",
+      "answer": "Aluminum hydroxide is produced industrially from bauxite by treating it with a hot, concentrated solution of sodium hydroxide (NaOH). As the solution cools, aluminum hydroxide precipitates out as a gelatinous substance. This gelatinous precipitate can then be dried to yield aluminum hydroxide in the form of a white powder. This process involves the use of sodium hydroxide to separate aluminum hydroxide from bauxite, which is a rocky material containing aluminum hydroxide and other minerals. The role of sodium hydroxide is critical as it facilitates the dissolution of aluminum compounds, allowing aluminum hydroxide to be isolated as a precipitate when the solution cools.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:59",
+      "char_limit": 2000,
+      "answer_length": 678
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4496,
+  "updated_at": "2025-11-30 13:36:59",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

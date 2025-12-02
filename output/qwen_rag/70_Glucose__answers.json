@@ -1,0 +1,47 @@
+{
+  "source_file": "70_Glucose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows the chemical compound glucose. Here are its key properties:\n\n### Key Properties of Glucose:\n1. **Molecular Formula**: Glucose has the chemical formula C6H12O6.\n2. **Structure**: The diagram depicts glucose as a six-carbon sugar molecule with six hydroxyl (OH) groups attached, one at each carbon atom except at the carbon atom that serves as the anomic center (the carbon atom at the top of the diagram that is not attached to an oxygen atom).\n3. **Isomer**: Glucose is an isomer of galactose and fructose, differing in the arrangement of the hydroxyl groups.\n4. **Catabolism**: Glucose serves as a primary energy source in the body. It is broken down by glycolysis and further oxidized to produce energy in the citric acid cycle (Krebs cycle).\n5. **Monosaccharide**: Glucose is a simple sugar (monosaccharide).\n6. **Enantiomers**: Glucose exists as two enantiomers, D-glucose and L-glucose, where D-glucose is the more common form in the body.\n\n### Uses and Applications:\n1. **Energy Source**: Glucose is the body's primary fuel source and is used by all cells for energy production through cellular respiration.\n2. **Medical Applications**: Used in intravenous (IV) fluids as a source of rapidly",
+      "latency_s": 50.46,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glucose?",
+      "answer": "Glucose, also known as dextrose, is a simple sugar and an important source of energy for the body. The chemical formula of glucose is C6H12O6. This formula clearly indicates that one molecule of glucose consists of 6 carbon atoms, 12 hydrogen atoms, and 6 oxygen atoms.\n\nTo calculate the molecular weight of glucose, we need to sum the atomic weights of each element present in the molecular formula. Using standard atomic weights (carbon: 12.011, hydrogen: 1.0079, oxygen: 15.999):\n\n- 6 carbon atoms: \\( 6 \\times 12.011 = 72.066 \\)\n- 12 hydrogen atoms: \\( 12 \\times 1.0079 = 12.0948 \\)\n- 6 oxygen atoms: \\( 6 \\times 15.999 = 95.994 \\)\n\nAdding these values together gives the molecular weight of glucose:\n\n\\[ 72.066 + 12.0948 + 95.994 = 180.1548 \\]\n\nRounding to a reasonable precision, the molecular weight of glucose is approximately 180.15 g/mol.\n\nGlucose is used by the body as food and is metabolized by enzymes in the body to produce energy in the form of ATP (adenosine triphosphate). It is also used in various industrial applications, such as the production of ethanol and other chemicals.\n\nNo specific safety information is provided in the context regarding glucose, but it is important to note that glucose is a natural sugar and is generally considered safe when ingested. However, excessive intake can lead to health issues such as obesity and diabetes. Additionally, glucose solutions are commonly used in medical settings for intravenous administration to provide quick energy to individuals who have lost significant amounts of body fluids and energy due to illness or injury.\n\nIn the context, there is no information provided about other names for glucose or its specific trade names, which would be useful for understanding its availability and usage in different markets.",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "How does glucose occur naturally and what are its isomeric forms?",
+      "answer": "Glucose, a hexose sugar, occurs naturally in various foods and is a fundamental sugar in many biological processes. It is an aldehyde sugar, meaning it has a free aldehyde group (-CHO) at one end of its chain, which makes it highly reactive and essential for biological functions.\n\n### Occurrence and Natural Sources\nGlucose is primarily found in plants as a result of photosynthesis, where it is produced from sunlight, carbon dioxide, and water. In animals, it is produced from carbohydrates through digestion and metabolism. Common food sources rich in glucose include fruits, honey, corn, and potatoes.\n\n### Chemical Structure and Isomeric Forms\nGlucose has a molecular formula of C6H12O6. Because of its double bond, glucose can exist in two isomeric forms: alpha-D-glucose (α-D-glucose) and beta-D-glucose (β-D-glucose). These forms differ by the configuration of the hydroxyl group at the anomeric carbon (C1), which is the carbon atom attached to the aldehyde group.\n\n- **Alpha-D-glucose (α-D-glucose)**: The hydroxyl group at C1 is on the same side as the anomeric carbon's substituents (i.e., hydroxyl groups attached to C2, C3, C4, and C5). Its structure can be represented as:\n\n  ```\n  O\n  |\n  CH2-C(=O)-CH(OH)-CH(OH)-CH(OH)-CH(OH)\n  ```\n\n- **Beta-D-glucose (β-D-glucose)**: The hydroxyl group at C1 is on the opposite side of the anomeric carbon's substituents. Its structure can be represented as:\n\n  ```\n  O\n  |\n  CH2-C(=O)-CH(OH)-CH(OH)-CH(OH)-CH(OH)\n  ```\n\n### Biological Significance\nAlpha-D-glucose is the naturally occurring form of glucose in living cells. In the body, glucose functions primarily as a source of energy for cells through a process called glycolysis. This process breaks down glucose into pyruvate, releasing energy in the form of ATP (adenosine triphosphate).\n\n### Uses and Safety\nGlucose is used in various applications, including:\n- **Medical:** It is administered intravenously as a glucose solution to treat hypoglycemia (low blood",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Discuss the solubility of glucose in various solvents and its implications for biological systems.",
+      "answer": "Glucose, a simple carbohydrate with the formula C6H12O6, is soluble in water due to its polar nature. The hydroxyl (OH) groups on the glucose molecule confer polar properties, which allow it to dissolve into water through hydrogen bonding and the formation of multiple layers of water molecules around the glucose molecule. This solubility is crucial for biological systems because it enables glucose to be transported through the bloodstream and into cells, where it is used for energy production via cellular respiration.\n\nIn terms of solubility in other solvents, glucose is only sparingly soluble in alcohols, particularly in ethanol (C2H5OH), which has a structure similar to glucose at the end of its chain but is less water-like in its polar nature. Glucose is also somewhat soluble in glycerol (C3H8O3) and other polyols, but it is less soluble than in water due to the competing structure of the polyol molecules.\n\nThe solubility of glucose in these solvents and its implications for biological systems are significant:\n\n1. **Transport and Metabolic Processes**: Glucose is a key nutrient for many organisms, including humans, and its solubility in water allows it to be efficiently transported and metabolized. This is crucial for sustaining life and for the processes that occur within cells and tissues.\n\n2. **Intracellular Metabolism**: Glucose is the primary fuel for many cells, and its solubility in water facilitates its uptake and utilization. Cells can take up glucose directly from the bloodstream because of its solubility, which is crucial for maintaining energy levels and supporting various cellular functions.\n\n3. **Hemoglobin-Oxygen Transport**: In the human body, glucose is transported through the bloodstream to various tissues. Its solubility in water ensures that it can be carried efficiently in the blood, and its release into tissues is regulated by insulin and other hormones.\n\n4. **Cellular Respiration**: Glucose undergoes cellular respiration, which is the process by which cells break down glucose to release energy. The solubility of glucose in water allows this process to occur efficiently, as water provides the solvent necessary for the reactions and for the transport of the products of these reactions.\n\n5. **Impact on Organisms**: The solubility of glucose in water is essential for many organisms, including humans, for various metabolic processes. Without glucose's solubility in water, these processes would not be",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:32:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:32:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

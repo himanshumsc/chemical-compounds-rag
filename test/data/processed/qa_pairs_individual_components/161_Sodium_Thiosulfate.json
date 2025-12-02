@@ -1,0 +1,38 @@
+{
+  "compound_id": 157,
+  "compound_name": "Sodium Thiosulfate",
+  "source_file": "compound_157_Sodium Thiosulfate.json",
+  "main_entry_length": 2560,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0846_Sodium_Thiosulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:53",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the molecular structure diagram is sodium thiosulfate. Its key properties include:\n\n1. **Composition**: It consists of sodium (Na), sulfur (S), and oxygen (O) atoms. The sulfur atoms are yellow, oxygen atoms are red, and sodium atoms are turquoise in the diagram.\n\n2. **Uses**: Sodium thiosulfate is commonly used as an antichlor in the bleaching process, a photographic fixing agent, and in various industrial applications. It also serves as a food additive for maintaining acidity and sequestering.\n\n3. **Production**: It can be synthesized by adding powdered sulfur...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:09"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Thiosulfate?",
+      "answer": "The chemical formula for Sodium Thiosulfate is Na2S2O3, and its molecular weight is 158.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the role of Sodium Thiosulfate as an antichlor in industrial applications.",
+      "answer": "Sodium Thiosulfate is used as an antichlor, which means it reacts with and neutralizes excess chlorine used in industrial processes. In the production of pulp, paper, and textiles, chlorine is used to bleach these materials. After the bleaching process, Sodium Thiosulfate is added to remove any remaining chlorine from the reaction vat, ensuring that the final product is free of chlorine residues. The antichlor is then washed away with water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the chemical reaction involved in the direct production of Sodium Thiosulfate from sodium sulfite.",
+      "answer": "Sodium Thiosulfate can be produced directly by adding powdered sulfur to a solution of sodium sulfite and heating the reactants. The chemical reaction is as follows: Na2SO3 + S → Na2S2O3. In this reaction, sodium sulfite (Na2SO3) reacts with sulfur (S) to form Sodium Thiosulfate (Na2S2O3).",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

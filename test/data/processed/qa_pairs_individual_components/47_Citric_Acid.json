@@ -1,0 +1,38 @@
+{
+  "compound_id": 44,
+  "compound_name": "Citric Acid",
+  "source_file": "compound_044_Citric Acid.json",
+  "main_entry_length": 1496,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0284_Citric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of citric acid. Citric acid is an organic compound with the formula C₆H₈O₇. It's characterized by three carboxyl groups, making it a tricarboxylic acid, and is a key intermediate in the citric acid cycle (Krebs cycle), which is crucial for energy production in cells. Citric acid is also known for its antioxidant properties, helping neutralize free radicals and potentially reducing damage to healthy cells. It is commonly found in citrus fruits and is used as a preservative and flavoring agent in the food industry.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:48"
+    },
+    {
+      "question": "What is the chemical formula of citric acid and what elements does it consist of?",
+      "answer": "The chemical formula of citric acid is HOOCCH2C(OH)(COOH)CH2COOH. It consists of the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of citric acid and what this implies about its interactions with different solvents.",
+      "answer": "Citric acid is soluble in water, alcohol, ether, and other organic solvents. This implies that citric acid can interact well with polar as well as some non-polar solvents, allowing it to dissolve in a variety of substances. Its solubility in water and alcohol indicates its polar nature, which makes it useful in various chemical and biological processes.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the role of citric acid in metabolism and its significance in biological systems.",
+      "answer": "Citric acid plays a crucial role in metabolism by being a part of the set of chemical reactions that occur when cells break down fats, carbohydrates, and other compounds to produce energy and compounds needed to build new cells and tissues. It is integral to the series of reactions known as the citric acid cycle or Krebs cycle, which is essential for energy production in living organisms. This highlights its significance in both plant and animal tissues, contributing to fundamental biological processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

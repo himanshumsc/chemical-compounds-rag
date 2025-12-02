@@ -1,0 +1,27 @@
+{
+  "source_file": "143_Silver_Iodide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows silver iodide (AgI). Silver iodide is a chemical compound composed of silver ions (Ag⁺) and iodide ions (I⁻). Its key properties include:\n\n1. **Color**: Silver iodide appears as a white or pale yellow powder.\n2. **Solubility**: It is slightly soluble in water but highly soluble in organic solvents like ethanol.\n3. **Photographic Use**: Silver iodide is widely used in photography because it can be sensitized to light, allowing for the creation of photographic images.\n4. **Cloud Seeding**: It is also used in cloud",
+      "latency_s": 16.63
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Iodide?",
+      "answer": "The chemical formula for silver iodide is AgI. \n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the compound:\n\n- The atomic weight of silver (Ag) is approximately 107.87 g/mol.\n- The atomic weight of iodine (I) is approximately 126.90 g/mol.\n\nSo, the molecular weight of AgI is calculated as follows:\n\\[ \\text{Molecular Weight} = (\\text{Atomic Weight of Ag}) + (\\text{Atomic Weight of I}) \\]\n\\[ \\text{Molecular Weight} = 10",
+      "latency_s": 10.73
+    },
+    {
+      "question": "Explain the process by which Silver Iodide is used in photography.",
+      "answer": "Silver iodide (AgI) plays a crucial role in the development of photographic images, particularly in black and white film photography. Here's an overview of how it is used:\n\n1. **Sensitization**: Before exposure to light, the photographic film is coated with a layer of silver halide crystals, primarily silver bromide (AgBr), but also including silver chloride (AgCl) and silver iodide (AgI). These crystals are highly sensitive to light and are the primary source of the image.\n\n2. **Exposure**: When the film is exposed to light during the photographing process, the light interacts with the",
+      "latency_s": 10.73
+    },
+    {
+      "question": "Describe the chemical reaction used to synthesize Silver Iodide from silver nitrate and sodium iodide. Why is ruby red light used during this process?",
+      "answer": "The synthesis of silver iodide (AgI) from silver nitrate (AgNO₃) and sodium iodide (NaI) can be described by the following chemical equation:\n\n\\[ \\text{AgNO}_3 + \\text{NaI} \\rightarrow \\text{AgI} + \\text{NaNO}_3 \\]\n\nThis is a double displacement reaction where silver ions (Ag⁺) from silver nitrate react with iodide ions (I⁻) from sodium iodide, forming solid silver iodide (AgI), which precipitates out of solution, and sodium nitrate (NaNO₃), which",
+      "latency_s": 10.73
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "41_Cellulose_Nitrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cellulose nitrate. Cellulose nitrate is a chemical compound with the formula (C6H7NO2)n, where n represents the degree of substitution of hydroxyl groups on the cellulose molecule by nitric acid.\n\nKey properties of cellulose nitrate include:\n\n1. **Chemical Composition**: It consists of carbon (C), hydrogen (H), nitrogen (N), and oxygen (O) atoms.\n   - Red spheres represent oxygen atoms.\n   - White spheres represent hydrogen atoms.\n   - Black spheres represent carbon atoms.\n   - Blue spheres represent nitrogen atoms.\n\n2.",
+      "latency_s": 16.54
+    },
+    {
+      "question": "What is the chemical formula and primary elements present in cellulose nitrate?",
+      "answer": "Cellulose nitrate, also known as nitrocellulose, is a polymer that is formed by the reaction of cellulose with nitric acid. The chemical formula for cellulose nitrate can be represented as (C6H7NO2)n, where n represents the degree of substitution, meaning the number of nitrate groups attached to each glucose unit in the cellulose chain.\n\nThe primary elements present in cellulose nitrate include:\n\n1. **Carbon (C)**: From the cellulose backbone.\n2. **Hydrogen (H)**: Also from the cellulose backbone.\n3. **Nitrogen (N",
+      "latency_s": 10.36
+    },
+    {
+      "question": "How does the nitrogen content affect the solubility properties of cellulose nitrate?",
+      "answer": "The solubility properties of cellulose nitrate are significantly influenced by its nitrogen content, which is determined by the ratio of nitric acid to cellulose during the nitration process. Here's how the nitrogen content affects these properties:\n\n1. **Solubility**: Cellulose nitrate is a polymer that forms a solution in organic solvents such as acetone and chloroform when it contains a certain amount of nitrogen. The solubility increases with an increase in the nitrogen content because more nitric acid is used in the nitration process. This results in a higher degree of substitution on the cellulose molecules, leading to",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Describe the discovery of cellulose nitrate and its initial observation by Christian Friedrich Schönbein.",
+      "answer": "Christian Friedrich Schönbein, a German chemist who later became known as Friedrich Wöhler, made a significant discovery in 1846 that led to the development of celluloid, an early form of plastic. This discovery was not only groundbreaking but also had profound implications for the future of materials science and manufacturing.\n\nSchönbein's discovery began with his curiosity about the properties of wood. At the time, he was experimenting with various substances derived from wood, including cellulose, which is the main component of plant fibers. Cellulose is a complex carbohydrate found in the cell walls of plants and algae. Schönbein",
+      "latency_s": 10.36
+    }
+  ]
+}

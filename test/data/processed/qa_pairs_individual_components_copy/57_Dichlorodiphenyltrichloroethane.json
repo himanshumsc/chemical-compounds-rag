@@ -1,0 +1,36 @@
+{
+  "compound_id": 54,
+  "compound_name": "Dichlorodiphenyltrichloroethane",
+  "source_file": "compound_054_Dichlorodiphenyltrichloroethane.json",
+  "main_entry_length": 1558,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0334_Dichlorodiphenyltrichloroethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Dichlorodiphenyltrichloroethane.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dichlorodiphenyltrichloroethane (DDT)?",
+      "answer": "The chemical formula of Dichlorodiphenyltrichloroethane (DDT) is (ClC6H4)2CHCCl3. Its molecular weight is 354.49 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the solubility properties of Dichlorodiphenyltrichloroethane (DDT).",
+      "answer": "Dichlorodiphenyltrichloroethane (DDT) is insoluble in water, slightly soluble in ethyl alcohol, and soluble in ether, acetone, and benzene. These solubility properties indicate that DDT is more compatible with organic solvents than with polar solvents like water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how Dichlorodiphenyltrichloroethane (DDT) contributed to public health efforts during World War II.",
+      "answer": "During World War II, Dichlorodiphenyltrichloroethane (DDT) was used widely to control insect populations. It was effective in killing insects such as houseflies, mosquitoes, lice, and beetles, which are vectors for infectious diseases. This helped medical workers prevent diseases such as bubonic plague, dengue fever, malaria, and typhus, among others, thereby significantly contributing to public health efforts.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

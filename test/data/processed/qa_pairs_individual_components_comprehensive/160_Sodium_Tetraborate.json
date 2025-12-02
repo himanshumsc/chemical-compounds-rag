@@ -1,0 +1,58 @@
+{
+  "compound_id": 156,
+  "compound_name": "Sodium Tetraborate",
+  "source_file": "compound_156_Sodium Tetraborate.json",
+  "main_entry_length": 4176,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0840_Sodium_Tetraborate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium tetraborate decahydrate, commonly known as borax. This compound's formula is \\( \\text{Na}_2\\text{B}_4\\text{O}_7 \\cdot 10\\text{H}_2\\text{O} \\). Key properties include:\n\n- It is an odorless white crystalline solid or powder.\n- It loses water of hydration upon heating, and further heating causes it to fuse into a glass-like solid.\n- It naturally occurs as the minerals tincal and kernite.\n- Major reserves are found in Boron, California, as well as in Tibet, Russia, Chile, and Turkey.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous sodium tetraborate?",
+      "answer": "The chemical formula of anhydrous sodium tetraborate is Na2B4O7, and its molecular weight is 201.22 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:14",
+      "char_limit": 1000,
+      "answer_length": 106
+    },
+    {
+      "question": "Explain the historical significance and early uses of sodium tetraborate.",
+      "answer": "Sodium tetraborate, also known as borax, has historical significance dating back at least 800 BCE. It was used in Chinese and Islamic civilizations primarily for making glass and in jewelry work. Although there are claims that borax may have been known as long as 4,000 years ago, these are not well-documented since ancient people did not use the term \"borax.\" The compound became more widely used in Europe during the Middle Ages after significant deposits were discovered in the United States in the late 19th century. The first major discovery was in Nevada in 1879, and the largest deposits were later found in the desert regions of southern California. These findings made borax more accessible and affordable, contributing to its broader use.\n\nHistorically, the compound was very expensive and not widely used until these discoveries. Borax was primarily used in glass manufacturing due to its ability to produce strong and heat-resistant glass, such as the well-known Pyrex brand. Sodium tetraborate is also essential in the production of fiberglass insulation and textiles. Additionally, it has been used in the manufacture of soaps, detergents, and personal care products. Despite its historical uses, it is important to note that sodium tetraborate is a mild irritant to the skin, eyes, and respiratory tract.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:19",
+      "char_limit": 1800,
+      "answer_length": 1320
+    },
+    {
+      "question": "Discuss the decomposition and melting characteristics of sodium tetraborate decahydrate compared to its anhydrous form.",
+      "answer": "Sodium tetraborate, commonly known as borax, exists in two forms: the anhydrous form (Na2B4O7) and the decahydrate form (Na2B4O7·10H2O). The anhydrous form has a melting point of 743°C (1370°F) and a boiling point of 1575°C (2867°F). In contrast, the decahydrate form decomposes at about 75°C (170°F) rather than having a distinct melting point. Upon heating, the decahydrate loses its water of hydration and subsequently fuses to form a glass-like solid at higher temperatures. This difference in behavior is due to the presence of water molecules in the crystal structure of the decahydrate, which are expelled upon heating, leading to decomposition rather than melting.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:25",
+      "char_limit": 2000,
+      "answer_length": 672
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6284,
+  "updated_at": "2025-11-30 13:47:25",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 12,
+  "compound_name": "Ammonium Nitrate",
+  "source_file": "compound_012_Ammonium Nitrate.json",
+  "main_entry_length": 2407,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0124_Ammonium_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:25",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of ammonium nitrate (NH₄NO₃). The compound consists of ammonium ions (NH₄⁺) and nitrate ions (NO₃⁻). Key properties include:\n\n1. Use as a fertilizer: It is a major source of nitrogen essential for plant growth.\n2. Explosive potential: It can act as an oxidizing agent, providing oxygen for combustion in explosives.\n3. Reaction with nitric acid: Formed by reacting ammonia (NH₃) with nitric acid (HNO₃), releasing heat.\n4. Solubility: Soluble in water, forming white crystals upon evaporation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:05:29"
+    },
+    {
+      "question": "What is the chemical formula of ammonium nitrate and what elements does it consist of?",
+      "answer": "The chemical formula of ammonium nitrate is NH4NO3. It consists of the elements nitrogen (N), hydrogen (H), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process by which ammonium nitrate is commercially manufactured.",
+      "answer": "Ammonium nitrate is commercially made by passing ammonia gas (NH3) and a water solution of nitric acid (HNO3) through a pipe. The ammonia combines with the nitric acid to form ammonium nitrate (NH4NO3). This reaction releases large amounts of heat, so the equipment used must be very strong. The resulting solution of ammonium nitrate in water is allowed to evaporate, leaving behind pure white crystals of the compound.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain why ammonium nitrate does not occur naturally and discuss its stability and decomposition characteristics.",
+      "answer": "Ammonium nitrate does not occur naturally because it is highly soluble in water, which causes it to be washed out of the soil by rain and surface water. The compound is stable at lower temperatures but tends to decompose explosively when heated to temperatures above 200°C (390°F). This decomposition characteristic is significant in its use in explosives, where it provides the oxygen needed for other materials to burn rapidly.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

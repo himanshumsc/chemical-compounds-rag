@@ -1,0 +1,278 @@
+{
+  "source_file": "124_Polyurethane.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts polyurethane. It's a polymer made by reacting a polyol with a disocyanate. Key properties include its wide range of uses (adhesives, fibers like spandex), and it was first used during WWII for rubber & glass joining, and insulation.",
+      "latency_s": 20.93,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What are the elements present in the chemical structure of polyurethane?",
+      "answer": "The provided text does not mention polyurethane or its chemical structure. Therefore, the elements present in the chemical structure of polyurethane cannot be determined from this context.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_79",
+          "score": 0.7646946609020233,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "chunk_id": "chunk_79",
+            "image_path": "",
+            "page_range": "80-80",
+            "text_length": 1964,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.7265474200248718,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "page_range": "54-54",
+            "text_length": 1567,
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_53"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7257393598556519,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "40-40",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7040156424045563,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "has_image": false,
+            "page_range": "1-1",
+            "text_length": 162,
+            "chunk_id": "chunk_0",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.7015617489814758,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "chunk_id": "chunk_91",
+            "image_path": "",
+            "has_image": false,
+            "page_range": "92-92",
+            "text_length": 1328
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.765)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 2 (Relevance: 0.727)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 3 (Relevance: 0.726)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.704)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.702)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n"
+    },
+    {
+      "question": "How are polyurethanes formed at the molecular level?",
+      "answer": "The provided text doesn’t contain information on how polyurethanes are formed. It discusses acetylene, carbohydrates, carboxylic acids, and other compounds, but not polyurethanes. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_79",
+          "score": 0.7699254900217056,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "chunk_id": "chunk_79",
+            "has_image": false,
+            "text_length": 1964,
+            "image_path": "",
+            "page_range": "80-80"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7490768432617188,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "page_range": "40-40",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_73",
+          "score": 0.7177018225193024,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "text_length": 1443,
+            "page_range": "74-74",
+            "image_path": "",
+            "chunk_id": "chunk_73",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_47",
+          "score": 0.7145204246044159,
+          "text": "PRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n",
+          "metadata": {
+            "text_length": 1258,
+            "page_range": "48-48",
+            "chunk_id": "chunk_47",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.7143881022930145,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_70",
+            "text_length": 1074,
+            "page_range": "71-71"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.770)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 2 (Relevance: 0.749)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.718)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 4 (Relevance: 0.715)]\nPRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n\n\n[Source 5 (Relevance: 0.714)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n"
+    },
+    {
+      "question": "Discuss the different forms of polyurethane and their respective properties and applications.",
+      "answer": "The provided text does not contain information about polyurethane. It discusses Aluminum Hydroxide, 1,3-Butadiene, Acetic Acid, and Acetylene. Therefore, I cannot answer your question about polyurethane.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_97",
+          "score": 0.637275218963623,
+          "text": "• In abrasives designed for use with plastics and brass;\n• An additive for glass products that adds strength and\nresistance to attack by chemicals and weathering and to\nheat shock;\n• As the world’s most popular flame retardant.\nStudies have not shown that aluminum hydroxide poses\nhealth risks of any kind to human beings.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Aluminum Hydroxide.’’ Chemical Land 21.\nhttp://www.chemicalland21.com/industrialchem/inorganic/\naloh3.htm (accessed on September 18, 2005).\n‘‘Aluminum Hydroxide.’’ Drugs.com.\nhttp://www.drugs.com/MTM/aluminum_hydroxide.html\n(accessed on September 18, 2005).\nInteresting Facts\nAluminum hydroxide is one of\nthe most common adjuvants\nused in vaccines today. An\nadjuvant is a substance added\nto a vaccine to increase the\nefficiency with which it\nprevents disease. The mechan\nisms by which adjuvants such\nas aluminum hydroxide achieve\nthis objective are not always\nknown.\nWords to Know\nADJUVANT A substance added to a vaccine\nto increase the efficiency with which it\nprevents disease.\nANTACID A medicine used for the treatment\nof upset stomach, acid indigestion, and\nrelated symptoms.\nPRECIPITATE A solid material that settles\nout of a solution, often as the result of a\nchemical reaction.\nCHEMICAL COMPOUNDS\n47\nALUMINUM HYDROXIDE\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_97",
+            "text_length": 1293,
+            "image_path": "",
+            "page_range": "98-98"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.6200011372566223,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1567,
+            "page_range": "54-54",
+            "chunk_id": "chunk_53",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_75",
+          "score": 0.6032072603702545,
+          "text": "Researchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n",
+          "metadata": {
+            "text_length": 1976,
+            "page_range": "76-76",
+            "chunk_id": "chunk_75",
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_79",
+          "score": 0.6006712317466736,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "chunk_id": "chunk_79",
+            "page_range": "80-80",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1964
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.5934525430202484,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "text_length": 1074,
+            "chunk_id": "chunk_74",
+            "image_path": "",
+            "page_range": "75-75",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.637)]\n• In abrasives designed for use with plastics and brass;\n• An additive for glass products that adds strength and\nresistance to attack by chemicals and weathering and to\nheat shock;\n• As the world’s most popular flame retardant.\nStudies have not shown that aluminum hydroxide poses\nhealth risks of any kind to human beings.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Aluminum Hydroxide.’’ Chemical Land 21.\nhttp://www.chemicalland21.com/industrialchem/inorganic/\naloh3.htm (accessed on September 18, 2005).\n‘‘Aluminum Hydroxide.’’ Drugs.com.\nhttp://www.drugs.com/MTM/aluminum_hydroxide.html\n(accessed on September 18, 2005).\nInteresting Facts\nAluminum hydroxide is one of\nthe most common adjuvants\nused in vaccines today. An\nadjuvant is a substance added\nto a vaccine to increase the\nefficiency with which it\nprevents disease. The mechan\nisms by which adjuvants such\nas aluminum hydroxide achieve\nthis objective are not always\nknown.\nWords to Know\nADJUVANT A substance added to a vaccine\nto increase the efficiency with which it\nprevents disease.\nANTACID A medicine used for the treatment\nof upset stomach, acid indigestion, and\nrelated symptoms.\nPRECIPITATE A solid material that settles\nout of a solution, often as the result of a\nchemical reaction.\nCHEMICAL COMPOUNDS\n47\nALUMINUM HYDROXIDE\n\n\n[Source 2 (Relevance: 0.620)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 3 (Relevance: 0.603)]\nResearchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.601)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 5 (Relevance: 0.593)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:41:17",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:41:17",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:56",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 1,
+  "filtered_answers_indices": [
+    4
+  ]
+}

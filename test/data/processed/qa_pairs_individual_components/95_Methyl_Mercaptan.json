@@ -1,0 +1,38 @@
+{
+  "compound_id": 90,
+  "compound_name": "Methyl Mercaptan",
+  "source_file": "compound_090_Methyl Mercaptan.json",
+  "main_entry_length": 2737,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0506_Methyl_Mercaptan_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:11",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is methyl mercaptan. Its molecular structure includes white atoms representing hydrogen, a black atom for carbon, and a yellow atom for sulfur. Methyl mercaptan is primarily used in the synthesis of organic compounds like pesticides, fungicides, and the amino acid methionine. It is also used as an odorant to add a noticeable smell to otherwise odorless gases for safety purposes. Despite being natural, it is hazardous, potentially irritating the eyes, skin, nose, throat, and lungs upon inhalation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:27"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Methyl Mercaptan?",
+      "answer": "The chemical formula of Methyl Mercaptan is CH3SH, and its molecular weight is 48.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the primary use of Methyl Mercaptan and why it is important for safety in certain applications.",
+      "answer": "Methyl Mercaptan is primarily used in the synthesis of other organic compounds such as pesticides, fungicides, jet fuel components, plastics, and the amino acid methionine. Additionally, it is used as an odorant due to its noticeable and offensive odor. This is important for safety because it can be added to odorless gases like propane and natural gas, making leaks detectable before they pose a fire or explosion hazard.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the chemical reaction process used to synthesize Methyl Mercaptan.",
+      "answer": "Methyl Mercaptan is synthesized through a direct reaction between methanol (CH3OH) and hydrogen sulfide gas (H2S). In this process, the hydroxyl group (-OH) from methanol combines with one hydrogen from hydrogen sulfide to form water, leaving methyl mercaptan as the major product.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

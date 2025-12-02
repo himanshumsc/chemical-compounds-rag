@@ -1,0 +1,27 @@
+{
+  "source_file": "150_Sodium_Chloride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium chloride (NaCl). Sodium chloride is a compound composed of one sodium atom (Na) and one chlorine atom (Cl), bonded together by an ionic bond. Here are some key properties of sodium chloride:\n\n1. **Appearance**: It appears as a white crystalline solid.\n2. **Formula**: NaCl.\n3. **Molecular Weight**: The molar mass of NaCl is approximately 58.44 g/mol.\n4. **Melting Point**: Sodium chloride has a high melting point of about 801°C (1,474°F).\n5",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Chloride?",
+      "answer": "The chemical formula for Sodium Chloride (commonly known as table salt) is NaCl. \n\nTo calculate its molecular weight, we need to sum the atomic weights of sodium (Na) and chlorine (Cl):\n\n- The atomic weight of sodium (Na) is approximately 23.0 g/mol.\n- The atomic weight of chlorine (Cl) is approximately 35.45 g/mol.\n\nSo, the molecular weight of NaCl is:\n\n\\[ \\text{Molecular Weight} = 23.0 \\, \\text{g/mol} + 35.45 \\, \\text{g/mol",
+      "latency_s": 10.59
+    },
+    {
+      "question": "How is Sodium Chloride naturally sourced and processed for use?",
+      "answer": "Sodium chloride, commonly known as table salt or rock salt, is one of the most widely used substances in the world due to its essential role in human nutrition and its numerous industrial applications. Here’s an overview of how sodium chloride is naturally sourced and processed for use:\n\n### Natural Sources\n\n1. **Sea Water**: The primary natural source of sodium chloride is sea water. When seawater evaporates, it leaves behind a residue that is rich in sodium chloride.\n2. **Saline Wells**: In some regions, there are underground saline formations from which sodium chloride can be extracted through drilling.\n\n### Processing Methods\n\n#### Evaporation Method (",
+      "latency_s": 10.59
+    },
+    {
+      "question": "Explain the industrial significance of Sodium Chloride beyond its use as a food additive.",
+      "answer": "Sodium chloride, commonly known as table salt or rock salt, has a wide range of industrial applications beyond its use as a food additive. Here are some key industrial significances:\n\n1. **Water Softening**: Sodium chloride is used in water softening processes to remove calcium and magnesium ions from hard water. This process involves passing the water through a bed of sodium chloride beads, which exchange their sodium ions for the calcium and magnesium ions in the water.\n\n2. **De-icing Agent**: Sodium chloride is widely used as a de-icer on roads and pavements during winter months. It works by lowering the freezing point of water,",
+      "latency_s": 10.59
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "152_Sodium_Fluoride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium fluoride (NaF). Sodium fluoride is a compound composed of one sodium atom (green) and one fluorine atom (turquoise). It is used in dental health due to its ability to prevent tooth decay. Sodium fluoride is often added to toothpaste and municipal water supplies to reduce the rate of dental caries (cavities). Its effectiveness in preventing tooth decay has been supported by over 50 years of research.",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Fluoride?",
+      "answer": "The chemical formula for Sodium Fluoride (NaF) is simply NaF, as it consists of one sodium ion (Na+) and one fluoride ion (F-).\n\nTo calculate the molecular weight of NaF, we need to sum the atomic weights of its constituent elements:\n\n- The atomic weight of Sodium (Na) is approximately 22.99 g/mol.\n- The atomic weight of Fluorine (F) is approximately 18.99 g/mol.\n\nSo, the molecular weight of NaF is calculated as follows:\n\\[ \\text{Molecular Weight of NaF} = 22.9",
+      "latency_s": 10.59
+    },
+    {
+      "question": "What are the key differences in solubility of Sodium Fluoride in water compared to ethyl alcohol?",
+      "answer": "The solubility of sodium fluoride (NaF) in water and ethyl alcohol (ethanol, C2H5OH) differs significantly due to the nature of these solvents and the chemical properties of sodium fluoride.\n\n### Solubility in Water:\n- **Solubility**: Sodium fluoride is highly soluble in water.\n- **Reasons**:\n  - Sodium fluoride forms strong ionic bonds with water molecules through hydrogen bonding and electrostatic interactions.\n  - The polar nature of both sodium fluoride and water facilitates easy dissolution.\n- **Applications**: Sodium fluoride is commonly used in dental products like toothpaste because it helps prevent tooth decay",
+      "latency_s": 10.59
+    },
+    {
+      "question": "Explain the chemical reaction involved in producing Sodium Fluoride using hydrogen fluoride and sodium carbonate.",
+      "answer": "The production of sodium fluoride (NaF) from hydrogen fluoride (HF) and sodium carbonate (Na₂CO₃) involves a series of chemical reactions that can be simplified into two main steps:\n\n1. **Formation of Sodium Fluoride from Hydrogen Fluoride:**\n   - Hydrogen fluoride (HF) is a weak acid, and when it reacts with water, it forms hydrofluoric acid (HF) and hydrogen ions (H⁺).\n   - However, for the purpose of this reaction, we consider HF as a reactant directly.\n   - The reaction between hydrogen fluoride and sodium carbonate can be represented as follows",
+      "latency_s": 10.59
+    }
+  ]
+}

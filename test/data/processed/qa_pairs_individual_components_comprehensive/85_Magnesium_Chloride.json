@@ -1,0 +1,58 @@
+{
+  "compound_id": 81,
+  "compound_name": "Magnesium Chloride",
+  "source_file": "compound_081_Magnesium Chloride.json",
+  "main_entry_length": 2736,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0462_Magnesium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:36",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts the molecular structure of magnesium chloride hexahydrate. In the diagram, green atoms represent chlorine, and the turquoise atom represents magnesium. Magnesium chloride (MgCl₂) is often found as a hexahydrate (MgCl₂·6H₂O) in its crystalline form. It is commonly used in the production of magnesium metal through electrolysis, as well as in fireproofing, disinfectants, deicing, and as a binder for dust control. It can also be part of Sorel cement, which includes magnesium oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:07"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Chloride?",
+      "answer": "The chemical formula of Magnesium Chloride is MgCl2, and its molecular weight is 95.21 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:05",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Explain the deliquescent property of Magnesium Chloride and its transformation into a hydrated form.",
+      "answer": "Magnesium chloride (MgCl2) is a white crystalline solid with a notable deliquescent property, meaning it can absorb moisture from the air. This absorption of moisture leads to its transformation into a hydrated form, specifically magnesium chloride hexahydrate (MgCl2·6H2O). Deliquescence occurs when a substance takes on moisture from the atmosphere to the point of dissolving in the water it absorbs. This characteristic of magnesium chloride makes it an important industrial chemical. The transformation into the hydrated form is due to its strong affinity for water, which is a key feature of deliquescent substances.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:08",
+      "char_limit": 1800,
+      "answer_length": 621
+    },
+    {
+      "question": "Describe the industrial process used to produce magnesium metal from Magnesium Chloride.",
+      "answer": "The industrial process used to produce magnesium metal from magnesium chloride involves the electrolysis of molten magnesium chloride. This process, developed by the American chemist and inventor Herbert Henry Dow in 1916, remains the primary method for magnesium metal production. Magnesium chloride is first extracted from seawater, brine, or minerals like carnallite and bischofite. The extraction involves treating these sources with lime, calcined dolomite, or caustic soda to create magnesium hydroxide, which is then treated with hydrochloric acid to produce magnesium chloride, usually obtained as crystalline hexahydrate. The pure compound can also be produced by heating magnesium ammonium chloride, leading to the sublimation of ammonium chloride and leaving behind anhydrous magnesium chloride, which is then used in the electrolysis process to obtain magnesium metal.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:10",
+      "char_limit": 2000,
+      "answer_length": 880
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4526,
+  "updated_at": "2025-11-30 14:09:10",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

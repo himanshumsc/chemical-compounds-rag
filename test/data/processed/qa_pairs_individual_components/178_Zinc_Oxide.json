@@ -1,0 +1,38 @@
+{
+  "compound_id": 174,
+  "compound_name": "Zinc Oxide",
+  "source_file": "compound_174_Zinc Oxide.json",
+  "main_entry_length": 2817,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0936_Zinc_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is zinc oxide (ZnO). Key properties of zinc oxide include:\n\n1. **UV Absorption**: It effectively absorbs ultraviolet (UV) light, making it a common ingredient in sunscreens and sunblocks to protect against sunburn.\n\n2. **Stability in Paints**: Zinc oxide is used in paints and pigments, known as Chinese white or zinc white, due to its ability to maintain luster and purity without reacting with hydrogen sulfide in the air.\n\n3. **Use in Rubber and Plastics**: It protects rubber and plastic products from UV light, preventing decomposition, and aids in...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:29"
+    },
+    {
+      "question": "What is the chemical formula of zinc oxide and what elements does it consist of?",
+      "answer": "The chemical formula of zinc oxide is ZnO. It consists of the elements zinc (Zn) and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does zinc oxide contribute to the longevity of white paints and pigments compared to other white paint compounds?",
+      "answer": "Zinc oxide contributes to the longevity of white paints and pigments by not reacting readily with hydrogen sulfide in the air, which prevents the paints from darkening. This property helps white paints and pigments retain their luster and purity longer than most other types of white paints.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process and chemical reactions involved in the 'wet' method of producing zinc oxide.",
+      "answer": "In the 'wet' method of producing zinc oxide, zinc compounds are leached out of ores and converted to basic zinc carbonate (ZnCO3·2Zn(OH)2). Leaching is a process where soluble salts are dissolved out of the soil, ore, or other materials. The basic zinc carbonate is then decomposed by heat, which yields pure zinc oxide along with carbon dioxide (CO2) and water (H2O) as byproducts. The chemical reaction for this process is: ZnCO3·2Zn(OH)2 → 3ZnO + CO2 + 2H2O.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

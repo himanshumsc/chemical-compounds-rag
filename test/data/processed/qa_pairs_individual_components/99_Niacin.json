@@ -1,0 +1,38 @@
+{
+  "compound_id": 96,
+  "compound_name": "Niacin",
+  "source_file": "compound_096_Niacin.json",
+  "main_entry_length": 4534,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0534_Niacin_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:35",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is niacin, also known as vitamin B3 or nicotinic acid. It is a water-soluble vitamin essential for human health. Niacin is crucial for converting nutrients into energy, maintaining healthy skin, and supporting the nervous and digestive systems. It is synthesized in the human body from the amino acid tryptophan and is found in foods like dairy products, meat, and grains. Niacin deficiency can lead to pellagra, characterized by diarrhea, dermatitis, and dementia.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:37"
+    },
+    {
+      "question": "What is the chemical formula of niacin, and what elements does it contain?",
+      "answer": "The chemical formula of niacin is C6H5NO2. It contains the elements carbon (C), hydrogen (H), nitrogen (N), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the difference between nicotinic acid and nicotinamide, given they are both forms of niacin.",
+      "answer": "Nicotinic acid and nicotinamide are both forms of niacin, also known as vitamin B3. The primary structural difference between the two is that in nicotinic acid, there is a hydroxyl group (-OH), while in nicotinamide, this hydroxyl group is replaced by an amino group (-NH2). Despite this difference, both forms are essential to cell metabolism.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe how a diet primarily consisting of corn products can lead to pellagra, despite corn being a good source of niacin.",
+      "answer": "Corn is indeed a good source of niacin. However, the niacin present in corn is chemically inactivated, which means it cannot be absorbed by the body in its natural form. This inactivation poses a risk for pellagra in populations whose diets are primarily based on corn, as they do not receive adequate niacin. To make niacin bioavailable, corn must be treated with an alkaline material, such as limestone or wood ashes, which Native Americans traditionally did, preventing pellagra. Without such treatment, the body lacks the niacin it needs, leading to pellagra.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

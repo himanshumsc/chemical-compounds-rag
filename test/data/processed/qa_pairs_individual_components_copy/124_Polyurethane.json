@@ -1,0 +1,36 @@
+{
+  "compound_id": 120,
+  "compound_name": "Polyurethane",
+  "source_file": "compound_120_Polyurethane.json",
+  "main_entry_length": 5044,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0660_Polyurethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:22",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Polyurethane.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What are the elements present in the chemical structure of polyurethane?",
+      "answer": "Polyurethane contains the elements carbon, hydrogen, oxygen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How are polyurethanes formed at the molecular level?",
+      "answer": "Polyurethanes are formed through a rearrangement reaction between diisocyanates and polyols. A hydrogen atom from the polyol attaches to one of the nitrogen atoms in the diisocyanate molecule. The remaining part of the polyol then bonds with the carbon atom adjacent to the nitrogen that received the hydrogen. This results in the formation of a single molecule with the general structure of the original reactants.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the different forms of polyurethane and their respective properties and applications.",
+      "answer": "Polyurethane is available in various forms, each with distinct properties and uses. Fibers made from polyurethane are moisture-proof, stretchable, and resistant to electric current. Foams can be rigid or flexible and are excellent thermal insulators, with densities ranging from 32 to 800 kilograms per cubic meter. Coatings are hard, glossy, flexible, adhesive, and resistant to abrasion and weathering. Elastomeric polyurethanes are resistant to abrasion and organic solvents. These properties allow polyurethanes to be used in diverse applications such as cushioning in furniture and automobile seats, insulation in constructions, and protective clothing.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

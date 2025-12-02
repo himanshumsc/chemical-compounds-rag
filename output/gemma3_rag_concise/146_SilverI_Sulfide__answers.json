@@ -1,0 +1,59 @@
+{
+  "source_file": "146_SilverI_Sulfide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Silver(I) sulfide (Ag₂S). Key properties: Forms a black, metallic inlay. Used in ceramics for glassy sheen. Irritant to skin & respiratory system. Can cause bluish-black color upon absorption.",
+      "latency_s": 21.47,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Sulfide?",
+      "answer": "The provided text does not contain information about Silver(I) Sulfide. It details Aluminum compounds (trifluoride, hydroxide, oxide) and related terms.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How is Silver(I) Sulfide naturally and synthetically produced?",
+      "answer": "The provided text does not contain information on the production of Silver(I) Sulfide, either naturally or synthetically. It defines chemical terms and describes the production of Acetaminophen, 1,3-Butadiene, and Acetic Acid.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the primary uses and potential hazards associated with Silver(I) Sulfide.",
+      "answer": "The provided text does not contain information about Silver(I) Sulfide. It discusses 1,3-Butadiene and Acetic Acid, detailing their uses (polymer manufacturing, fungicides, adhesives, fumigants, organic compound production) and hazards (respiratory irritation, fatigue, potential carcinogenicity in 1,3-Butadiene; gastrointestinal/respiratory irritation with concentrated Acetic Acid).",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:46:41",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:46:41",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

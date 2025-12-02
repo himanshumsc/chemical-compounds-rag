@@ -1,0 +1,59 @@
+{
+  "source_file": "155_Sodium_Perborate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Sodium perborate. It's an oxidizing agent used in detergents for bleaching and stain removal. It releases oxygen when dissolved, making it effective for whitening fabrics and removing stains.",
+      "latency_s": 18.97,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula for sodium perborate and what elements does it consist of?",
+      "answer": "I am unable to find information about sodium perborate in the provided text.",
+      "latency_s": 42.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "answer": "There is no information about sodium perborate decomposition in water within the provided text. The documents define various chemical terms and provide information on specific compounds like 1,3-butadiene, but do not detail the reaction of sodium perborate.",
+      "latency_s": 42.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how sodium perborate is used in detergents and the chemical basis for its effectiveness as a bleaching agent.",
+      "answer": "Sodium perborate acts as a bleaching agent in detergents. It decomposes in water to release hydrogen peroxide (H₂O₂). The chemical basis for its bleaching action is the oxidizing power of H₂O₂ which breaks down colored stains, rendering them colorless. It's a relatively stable source of peroxide, releasing it gradually during the wash cycle.",
+      "latency_s": 42.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:49:03",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:49:03",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

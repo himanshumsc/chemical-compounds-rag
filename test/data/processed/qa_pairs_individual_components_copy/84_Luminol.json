@@ -1,0 +1,36 @@
+{
+  "compound_id": 80,
+  "compound_name": "Luminol",
+  "source_file": "compound_080_Luminol.json",
+  "main_entry_length": 1499,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0458_Luminol_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Luminol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of Luminol and which elements does it contain?",
+      "answer": "The chemical formula of Luminol is C8H7N3O2. It contains the elements carbon (C), hydrogen (H), nitrogen (N), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the phenomenon that occurs when luminol is combined with hydrogen peroxide and how it relates to forensic science.",
+      "answer": "When luminol is combined with hydrogen peroxide, it undergoes a chemical reaction that emits a bluish-green glow, a process known as chemiluminescence. This reaction requires a catalyst, such as a small amount of metal like copper or iron. In forensic science, this reaction is significant because blood can act as the catalyst, allowing investigators to detect trace amounts of blood at crime scenes by spraying a mixture of luminol and hydrogen peroxide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss why the boiling point of Luminol is listed as 'not applicable' and what this indicates about its stability at high temperatures.",
+      "answer": "The boiling point of Luminol is listed as 'not applicable' because it decomposes before reaching a boiling point. This indicates that Luminol is not stable at high temperatures and will break down into other substances rather than transitioning into a gaseous state.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

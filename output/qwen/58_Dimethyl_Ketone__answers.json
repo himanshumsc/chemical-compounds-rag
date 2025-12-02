@@ -1,0 +1,27 @@
+{
+  "source_file": "58_Dimethyl_Ketone.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows dimethyl ketone (also known as acetone). Key properties of dimethyl ketone include:\n\n1. **Chemical Formula**: It has the formula \\( \\text{C}_3\\text{H}_6\\text{O} \\).\n2. **Structure**: The molecule consists of three carbon atoms, six hydrogen atoms, and one oxygen atom. The oxygen atom is bonded to two methyl groups (each with one carbon and three hydrogen atoms).\n3. **Physical Properties**:\n   - **Boiling Point**: Approximately 56°C.\n   - **Melting Point**: Not",
+      "latency_s": 16.66
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dimethyl Ketone?",
+      "answer": "The chemical formula for Dimethyl Ketone (also known as Methyl Ethyl Ketone or MEK) is \\( \\text{C}_4\\text{H}_8\\text{O} \\).\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (\\(\\text{C}\\)): 12.01 g/mol\n- Hydrogen (\\(\\text{H}\\)): 1.008 g/mol\n- Oxygen (\\(\\text{O}\\)): 16.00 g/mol\n\nNow, multiply the atomic weight by the number of atoms of",
+      "latency_s": 10.46
+    },
+    {
+      "question": "Describe the solubility and state properties of Dimethyl Ketone.",
+      "answer": "Dimethyl Ketone, also known as dimethyl formamide (DMF), is a polar organic solvent with several unique properties that make it useful in various applications.\n\n### Solubility:\n- **Soluble in Water:** DMF is highly soluble in water due to its polar nature. This makes it useful for dissolving many ionic compounds.\n- **Soluble in Organic Solvents:** DMF is also highly soluble in other organic solvents such as alcohols, ethers, ketones, esters, and aromatic hydrocarbons.\n- **Miscibility:** DMF can be mixed with most organic solvents without forming a",
+      "latency_s": 10.46
+    },
+    {
+      "question": "Explain the process by which Dimethyl Ketone is produced using the Hock process.",
+      "answer": "The Hock process, also known as the Hock synthesis or the Hock rearrangement, is a chemical reaction used to produce dimethyl ketone (DMK) from acetaldehyde. The process involves a series of steps that convert acetaldehyde into DMK through a series of rearrangements and eliminations.\n\n### Step-by-Step Process:\n\n1. **Starting Material: Acetaldehyde**\n   - Acetaldehyde is the starting material for the Hock process. Its chemical formula is CH₃CHO.\n\n2. **First Rearrangement:**\n   - In the first step, acetaldehyde undergoes a",
+      "latency_s": 10.46
+    }
+  ]
+}

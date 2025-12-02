@@ -1,0 +1,38 @@
+{
+  "compound_id": 51,
+  "compound_name": "Cyanocobalamin",
+  "source_file": "compound_051_Cyanocobalamin.json",
+  "main_entry_length": 1581,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0316_Cyanocobalamin_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the diagram is cyanocobalamin, a form of vitamin B12. Key properties of cyanocobalamin include:\n\n1. **Complex Structure**: It contains a cobalt atom (yellow) at its core, surrounded by a corrin ring.\n2. **Essential Nutrient**: Vital for red blood cell formation, neurological function, and DNA synthesis.\n3. **Water-Soluble**: Easily absorbed and excreted by the body.\n4. **Therapeutic Use**: Used to treat vitamin B12 deficiency and related anemia.\n5. **Synthetic Origin**: Commonly produced for supplements and fortified foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:10"
+    },
+    {
+      "question": "What is the chemical formula of cyanocobalamin, and which elements does it contain?",
+      "answer": "The chemical formula of cyanocobalamin is C63H88CoN14O14P. It contains the elements carbon (C), hydrogen (H), cobalt (Co), nitrogen (N), oxygen (O), and phosphorus (P).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of cyanocobalamin and its physical state.",
+      "answer": "Cyanocobalamin is soluble in water and alcohol but insoluble in acetone, ether, and chloroform. It appears as dark red crystals or a red powder and is solid at room temperature. It is odorless and tasteless, and when heated, it darkens above 200°C (392°F) but does not melt further.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the role of cyanocobalamin in the human body and the consequences of its deficiency.",
+      "answer": "Cyanocobalamin, also known as vitamin B12, is crucial for the synthesis of DNA in cells and the proper functioning of red blood cells and nerves. A deficiency in vitamin B12 can lead to pernicious anemia, characterized by smaller, fewer, and less hemoglobin-rich red blood cells. This condition can cause general weakness, nervous disorders, gastrointestinal disturbances, and, if untreated, may result in death.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

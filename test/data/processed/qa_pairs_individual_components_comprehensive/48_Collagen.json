@@ -1,0 +1,58 @@
+{
+  "compound_id": 45,
+  "compound_name": "Collagen",
+  "source_file": "compound_045_Collagen.json",
+  "main_entry_length": 3506,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0290_Collagen_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't see a molecular structure diagram in the image provided. However, the text discusses collagen, a protein that forms strong, flexible structures in connective tissues. Collagen is composed of amino acids linked in long chains, with these chains intertwining to form large molecules. It's crucial for skin, tendons, and cartilage. Collagen is used in cosmetic procedures to reduce wrinkles, but its effects are typically not permanent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:48"
+    },
+    {
+      "question": "What elements make up collagen and what is its compound type?",
+      "answer": "Collagen is composed of the elements carbon, hydrogen, oxygen, and nitrogen. It is classified as an organic compound.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:41",
+      "char_limit": 1000,
+      "answer_length": 117
+    },
+    {
+      "question": "Describe the molecular structure of collagen and the role of amino acids in its formation.",
+      "answer": "Collagen is an organic compound and the most abundant protein in the animal kingdom, primarily found in the connective tissues of mammals. Its molecular structure consists of three intertwined strands forming a helix, known as tropocollagen. These strands are polymers made from amino acids, with glycine, proline, and hydroxyproline being the most common. Amino acids are organic compounds containing both carboxyl (-COOH) and amino (-NH2) groups. In collagen formation, amino acids link to form long chains called polypeptides. These polypeptide chains then intertwine in groups of three to form procollagen, which is later processed into collagen. The strands are held together by vitamin C molecules, emphasizing the critical role of amino acids in providing the structural integrity and function of collagen.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:46",
+      "char_limit": 1800,
+      "answer_length": 813
+    },
+    {
+      "question": "Discuss the different types of collagen and their specific roles in the body.",
+      "answer": "Collagen is a crucial protein in the animal kingdom, making up about one-third of the protein in a mammal's body. It is a primary component of connective tissues such as skin, joints, ligaments, muscles, tendons, and bones. There are at least a dozen types of collagen, each with specific roles in the body:\n\n- **Type I Collagen**: This is the most abundant form. It forms long strands that criss-cross spaces between cells and is found throughout the body, particularly in tendons, bones, and scars. Its structure provides strength and support.\n\n- **Type II Collagen**: Found in cartilage, this type is crucial for the structure and function of joints. It provides tensile strength and resilience to the tissue.\n\n- **Type III Collagen**: Present in granulation tissue, which forms during the healing of wounds. It aids in tissue repair and provides a scaffolding for new tissue growth.\n\n- **Type IV Collagen**: Comprises the basal lumina, which supports skin and internal surfaces. It forms a mesh-like structure that provides support and filtration.\n\nThe different types of collagen have slight variations in their physical and chemical structures, which enable them to fulfill their specific functions within the body.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:51",
+      "char_limit": 2000,
+      "answer_length": 1221
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5689,
+  "updated_at": "2025-11-30 13:59:51",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 172,
+  "compound_name": "Vanillin",
+  "source_file": "compound_172_Vanillin.json",
+  "main_entry_length": 1385,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0924_Vanillin_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the molecular structure diagram is vanillin. Vanillin is the primary constituent of vanilla extract, known for its distinctive aroma and flavor. The molecule consists of oxygen (red atoms), hydrogen (white atoms), and carbon (black atoms), featuring a benzene ring (striped sticks) and a double bond (gray stick). It is commonly used as a flavoring agent in foods and fragrances. Vanillin can be naturally extracted from vanilla pods or synthesized from lignin, a byproduct of the wood pulp industry.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:20"
+    },
+    {
+      "question": "What is the chemical formula of vanillin and what elements does it contain?",
+      "answer": "The chemical formula of vanillin is (CH3O)(OH)C6H3CHO. It contains the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:51:04",
+      "char_limit": 1000,
+      "answer_length": 109
+    },
+    {
+      "question": "Why is vanillin classified as an ether in organic chemistry, and what are its solubility properties?",
+      "answer": "Vanillin is classified as an ether in organic chemistry because it is chemically the methyl ether of 4-hydroxybenzoic acid. An ether is a type of organic compound that contains an oxygen atom connected to two alkyl or aryl groups, and in vanillin, this is represented by the methoxy group (CH3O) attached to the benzene ring.\n\nRegarding its solubility properties, vanillin is slightly soluble in water but soluble in glycerol, ethyl alcohol, ether, and acetone.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:51:07",
+      "char_limit": 1800,
+      "answer_length": 461
+    },
+    {
+      "question": "Discuss the historical significance of vanillin as a spice and how it is naturally obtained.",
+      "answer": "Vanillin is a white crystalline solid known for its pleasant, sweet aroma and characteristic vanilla-like flavor. It is the primary compound responsible for the familiar taste of vanilla, a spice that has been used as a food additive for hundreds of years. Historically, vanilla was likely first used as a flavoring by the inhabitants of South and Central America before Europeans arrived in the sixteenth century. Spanish explorers then brought vanilla back to Europe, where it quickly gained popularity as a food additive and flavoring. Since then, vanilla has become one of the world’s most popular spices.\n\nVanillin is chemically the methyl ether of 4-hydroxybenzoic acid, containing a carboxyl (-COOH) group and a hydroxyl (-OH) group. It is slightly soluble in water and more soluble in glycerol, ethyl alcohol, ether, and acetone. The compound has a melting point of 81.5°C (179°F) and a boiling point of 285°C (545°F).\n\nVanilla is naturally obtained from the seed pod of the tropical orchid Vanilla planifolia through a lengthy and expensive process. The pods are cured, soaked in alcohol, and processed to produce pure vanilla extract, with vanillin as its primary constituent. This natural source of vanillin contributes significantly to its historical and ongoing significance as a widely used spice and flavoring agent.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:51:11",
+      "char_limit": 2000,
+      "answer_length": 1331
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3377,
+  "updated_at": "2025-11-30 13:51:11",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

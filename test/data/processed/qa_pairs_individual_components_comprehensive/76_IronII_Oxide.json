@@ -1,0 +1,58 @@
+{
+  "compound_id": 72,
+  "compound_name": "Iron(II) Oxide",
+  "source_file": "compound_072_Iron(II) Oxide.json",
+  "main_entry_length": 1158,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0418_Iron(II)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:56",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of iron(II) oxide (FeO). In this diagram, the red atom represents oxygen, and the orange atom represents iron, connected by a double bond.\n\nKey properties of iron(II) oxide include:\n\n1. **Use in Industry**: It's a raw material in steel production and serves as a catalyst in various industrial processes.\n2. **Health Hazards**: Inhaling its fumes or dust can cause irritation and lead to metal fume fever or siderosis, a lung condition.\n3. **Presence on Mars**: It contributes to the dark, nearly black color of some Martian rocks.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:38"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(II) Oxide?",
+      "answer": "The chemical formula of Iron(II) Oxide is FeO, and its molecular weight is 71.84 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:48",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "What are the solubility properties of Iron(II) Oxide and how does it react with other compounds?",
+      "answer": "Iron(II) oxide (FeO) is insoluble in water and all ordinary organic solvents, but it is soluble in acids. It readily reacts with oxygen in the air to form iron(III) oxide and with carbon dioxide to form iron(II) carbonate (FeCO3).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:50",
+      "char_limit": 1800,
+      "answer_length": 230
+    },
+    {
+      "question": "How is Iron(II) Oxide prepared synthetically and what impurity may be present in the product?",
+      "answer": "Iron(II) oxide is prepared synthetically by heating iron(II) oxalate (FeC2O4). The product of this reaction may be contaminated with triiron tetroxide (Fe3O4) as an impurity.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:52",
+      "char_limit": 2000,
+      "answer_length": 174
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2285,
+  "updated_at": "2025-11-30 14:05:52",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

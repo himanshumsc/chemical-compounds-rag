@@ -1,0 +1,27 @@
+{
+  "source_file": "96_Monosodium_Glutamate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Monosodium Glutamate (MSG). Key properties of MSG include:\n\n1. **Chemical Composition**: MSG is composed of glutamic acid combined with sodium. The diagram indicates that it contains:\n   - Oxygen atoms (red)\n   - Hydrogen atoms (white)\n   - Carbon atoms (black)\n   - Nitrogen atom (blue)\n   - Sodium atom (turquoise)\n\n2. **Taste Enhancer**: MSG is known for its ability to enhance the flavor of food, particularly by adding a savory or umami taste.\n\n3. **Solubility**: MSG dissolves easily",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Monosodium Glutamate?",
+      "answer": "Monosodium Glutamate (MSG) has the chemical formula \\( \\text{C}_8\\text{H}_{14}\\text{N}_2\\text{O}_5\\text{Na} \\).\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 6.015 g/mol × 8 = 48.12 g/mol\n- Hydrogen (H): 1.008 g/mol × 14 = 14.112 g/mol\n- Nitrogen (N): 14",
+      "latency_s": 10.44
+    },
+    {
+      "question": "How is Monosodium Glutamate produced commercially and what is the key process involved?",
+      "answer": "Monosodium Glutamate (MSG) is a common food additive that enhances the flavor of food, often referred to as \"umami.\" It is produced commercially through several methods, but the most common industrial process involves fermentation.\n\n### Key Process Involved in Commercial MSG Production:\n\n1. **Microbial Fermentation:**\n   - **Organism:** MSG is primarily produced using the bacterium Bacillus glutamicus or its genetically modified strains.\n   - **Process:** The bacteria are grown in a nutrient-rich medium containing glucose and other sugars. As they grow, they produce glutamic acid, which is then converted into MSG by adding",
+      "latency_s": 10.44
+    },
+    {
+      "question": "What are the potential hazards of consuming Monosodium Glutamate, and how does its concentration affect its flavor-enhancing properties?",
+      "answer": "Monosodium Glutamate (MSG) is a common food additive used to enhance the flavor of foods. It is derived from glutamic acid, an amino acid found in many proteins. MSG has been widely used in food products for decades, but concerns about its safety have led to debates over its consumption.\n\n### Potential Hazards of Consuming MSG\n\n1. **Migraine Headaches**: Some people report experiencing migraines or exacerbation of existing migraines after consuming MSG. This phenomenon is known as \"MSG headache\" or \"Chinese restaurant syndrome.\" The exact mechanism behind this reaction is not fully understood, but it may be related",
+      "latency_s": 10.44
+    }
+  ]
+}

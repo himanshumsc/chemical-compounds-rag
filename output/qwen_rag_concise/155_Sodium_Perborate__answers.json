@@ -1,0 +1,59 @@
+{
+  "source_file": "155_Sodium_Perborate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows Sodium perborate. It is a mild oxidizing agent used as a bleaching agent in detergents. Key properties: mild oxidizing agent, effective in removing stains, keeping white fabrics white, and preserving original colors of colored cloth.",
+      "latency_s": 41.0,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula for sodium perborate and what elements does it consist of?",
+      "answer": "Sodium perborate (NaBO3) consists of sodium, boron, and oxygen.",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "answer": "Sodium perborate decomposes in water to produce sodium bisulfite, hydrogen peroxide, and oxygen. The reaction is: 3NaBO2 + H2O → NaHSO3 + H2O2 + O2.",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how sodium perborate is used in detergents and the chemical basis for its effectiveness as a bleaching agent.",
+      "answer": "Sodium perborate is used in detergents as a bleaching agent due to its ability to rapidly generate hypochlorite ions (ClO-) upon contact with water. This process involves an acid-base reaction where sodium perborate (NaBO3) reacts with water (H2O) to form sodium hypochlorite (NaClO). Sodium hypochlorite is a strong oxidizing agent that can break down organic stains and bleach colored fabrics by oxidizing their molecular bonds. The effectiveness of sodium perborate as a bleaching agent in detergents is based on its ability to produce hypochlorite ions, which enhance the stain-removal and whitening properties of the detergent.",
+      "latency_s": 25.4,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:33:26",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:33:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

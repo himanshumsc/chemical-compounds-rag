@@ -1,0 +1,58 @@
+{
+  "compound_id": 35,
+  "compound_name": "Carbon Monoxide",
+  "source_file": "compound_035_Carbon Monoxide.json",
+  "main_entry_length": 4853,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0234_Carbon_Monoxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows carbon monoxide (CO). It consists of one carbon atom (black) and one oxygen atom (red) connected by a triple bond. Carbon monoxide is a colorless, odorless, and tasteless gas that is highly toxic to humans and animals when inhaled, as it interferes with oxygen transport in the blood. It is produced by the incomplete combustion of carbon-containing fuels and is used industrially as a reducing agent and in the production of chemicals like methanol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Carbon Monoxide?",
+      "answer": "The chemical formula of Carbon Monoxide is CO, and its molecular weight is 28.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:36",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "Why is carbon monoxide considered a toxic gas and what conditions lead to its formation?",
+      "answer": "Carbon monoxide is considered a toxic gas because it bonds to hemoglobin in the bloodstream 200 times more efficiently than oxygen, effectively excluding oxygen and leading to the toxic effects observed in the body. It is a colorless, odorless, tasteless gas, making it difficult to detect without specialized equipment, which contributes to its risk as a common environmental poison. Carbon monoxide is responsible for thousands of deaths and hospital emergency room visits each year in the United States.\n\nThe formation of carbon monoxide occurs under conditions of incomplete combustion. This can happen when a carbon-containing fuel, such as charcoal, natural gas, or wood, burns with an inadequate supply of oxygen, at low temperatures, or under certain other conditions. Incomplete combustion results in the production of carbon monoxide along with carbon dioxide and water. Enclosed, poorly vented spaces like the interiors of houses, garages, and cars are typical environments where an inadequate supply of oxygen can lead to the production of carbon monoxide. The gas is produced from fuel-burning appliances, such as space heaters, furnaces, stoves, and vehicles, and is also a component of cigarette smoke.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:43",
+      "char_limit": 1800,
+      "answer_length": 1217
+    },
+    {
+      "question": "Describe one method of commercial production of carbon monoxide and its industrial application.",
+      "answer": "One method of commercial production of carbon monoxide involves passing air over hot coke, graphite, or anthracite coal to produce \"producer gas,\" a mixture of carbon dioxide, carbon monoxide, hydrogen, and water vapor. The carbon monoxide component can be separated from the other gases in this mixture. \n\nAn industrial application of carbon monoxide is in the synthesis of organic compounds. For example, carbon monoxide is involved in Fischer-Tropsch reactions, where it is first reduced with hydrogen gas and then converted into various organic compounds containing oxygen. Additionally, carbon monoxide is used in the production of acetic acid, a significant industrial chemical used for synthesizing polymers and other organic products.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:48",
+      "char_limit": 2000,
+      "answer_length": 742
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 9256,
+  "updated_at": "2025-11-30 13:57:48",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

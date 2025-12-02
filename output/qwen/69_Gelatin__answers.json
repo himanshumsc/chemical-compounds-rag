@@ -1,0 +1,27 @@
+{
+  "source_file": "69_Gelatin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image does not contain a molecular structure diagram. Instead, it provides information about gelatin, including how it is made and its common uses. Gelatin is a protein derived from collagen, which is found in animal tissues such as skin, ligaments, tendons, cartilage, and bones. It is produced by boiling these tissues to break down the collagen into smaller molecules that can form a gel-like substance when cooled.\n\nKey properties of gelatin include:\n1. **Collagen Source**: Gelatin is primarily composed of collagen, a structural protein.\n2. **Gelling Ability**: When dissolved in water and cooled, gelatin forms",
+      "latency_s": 16.51
+    },
+    {
+      "question": "What elements are present in gelatin, and what is its state at room temperature?",
+      "answer": "Gelatin is primarily composed of proteins derived from collagen, which is a structural protein found in connective tissues such as skin, bones, tendons, and ligaments. The main components of gelatin include:\n\n1. **Proteins**: Gelatin is rich in various types of proteins, including:\n   - **Collagen**: The primary component of gelatin.\n   - **Glycoproteins**: These contain carbohydrates attached to the protein backbone.\n\n2. **Amino Acids**: Gelatin contains all essential amino acids, which are necessary for the body's functions and growth.\n\n3. **Trace Elements**: Gelatin",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Explain why gelatin is classified as a mixture rather than a compound.",
+      "answer": "Gelatin is classified as a mixture because it consists of multiple components that are not chemically bonded to each other, unlike what would be found in a compound.\n\n### Characteristics of Mixtures:\n1. **Heterogeneous Composition**: The components of a mixture can be different types of substances with distinct properties.\n2. **No Chemical Bonding**: The components are physically mixed together and can be separated by physical means (e.g., filtration, distillation).\n3. **Variable Composition**: The ratio of the components in a mixture can vary from one sample to another.\n\n### Characteristics of Compounds:\n1. **Homogeneous Composition**: The",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Describe the process of making gelatin from animal parts and differentiate between Type A and Type B gelatin.",
+      "answer": "Gelatin is derived from collagen, which is a protein found in connective tissues such as skin, bones, tendons, and cartilage. The process of making gelatin involves several steps:\n\n1. **Collagen Extraction**: Animal parts like bones, skin, and connective tissues are first cleaned and then boiled or steamed to extract the collagen. This process can be done using hot water (boiling) or steam (dry distillation).\n\n2. **Hydrolysis**: The extracted collagen is then hydrolyzed, meaning it is broken down into smaller peptides and amino acids through the action of acids or enzymes. This",
+      "latency_s": 10.43
+    }
+  ]
+}

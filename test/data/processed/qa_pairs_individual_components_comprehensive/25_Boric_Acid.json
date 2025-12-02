@@ -1,0 +1,58 @@
+{
+  "compound_id": 21,
+  "compound_name": "Boric Acid",
+  "source_file": "compound_021_Boric Acid.json",
+  "main_entry_length": 4110,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0166_Boric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image represents boric acid. It's composed of hydrogen (white atoms), oxygen (red atoms), and boron (yellow atom). Boric acid is a weak acid with antiseptic, antifungal, and insecticidal properties. It is often used in medical and household applications, such as eye washes, antiseptics, and pest control. It is also used in the production of glass, ceramics, and as a pH buffer in swimming pools.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:48"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of boric acid?",
+      "answer": "The chemical formula of boric acid is H3BO3, and its molecular weight is 61.83 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:43",
+      "char_limit": 1000,
+      "answer_length": 85
+    },
+    {
+      "question": "Explain how the solubility of boric acid in water changes with temperature.",
+      "answer": "The solubility of boric acid in water increases with temperature. In cold water, approximately 5 grams of boric acid dissolve in 100 mL of water. However, at 100°C (212°F), the solubility of boric acid increases significantly, allowing 25 grams to dissolve in the same volume of water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:48",
+      "char_limit": 1800,
+      "answer_length": 285
+    },
+    {
+      "question": "Discuss the historical and modern uses of boric acid and its potential hazards.",
+      "answer": "Boric acid, historically known since the time of the Greeks, has been used as an antiseptic, a food preservative, and a cleaning agent. Wilhelm Homberg first prepared boric acid in Europe in 1702 by treating natural borax with acid, a method that led to a product he called sedative salt. The compound's chemical structure was determined in 1808 by French researchers Louis-Joseph Gay-Lussac and Louis-Jacques Thénard.\n\nIn modern times, the largest application of boric acid is in the production of heat-resistant borosilicate glass, glass fibers, porcelain enamels, crockery, and laboratory glassware. In 2004, approximately 80% of boric acid used in the United States was for these purposes. Additionally, boric acid serves as an antiseptic in eyewashes, ointments, and mouthwashes, a food preservative, and a fungicide on citrus fruit crops. Other uses include the production of flame retardant materials, as a pesticide against various insects and pests, as a flux in welding and brazing, and in the synthesis of other boron compounds. It is also used in the manufacture of latex paints and for nickel plating of metallic products.\n\nDespite its many uses, boric acid poses potential hazards. It is toxic if swallowed, causing symptoms such as nausea, vomiting, diarrhea, and stomach cramps. Due to its toxicity, its use in talcum and diaper powders was banned after it was discovered that accidental ingestion or entry through an open wound could be harmful. In the U.S., a residue limit of 8 parts per million is set for fruits treated with boric acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:55",
+      "char_limit": 2000,
+      "answer_length": 1557
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6129,
+  "updated_at": "2025-11-30 13:54:55",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

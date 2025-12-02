@@ -1,0 +1,59 @@
+{
+  "source_file": "150_Sodium_Chloride.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Sodium chloride (NaCl), also known as salt. It's abundant in seawater and formed through evaporation. Found in mineral halite. Key properties: dissolves in water, essential for life.",
+      "latency_s": 20.48,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Chloride?",
+      "answer": "The provided text does not contain information about Sodium Chloride.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How is Sodium Chloride naturally sourced and processed for use?",
+      "answer": "The provided text does not contain information about Sodium Chloride (table salt). It details uses and properties of other chemical compounds like Vitamin E, Acetic Acid, Mustard Gas, and 1,3-Butadiene. Therefore, I cannot answer your question based on this context.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the industrial significance of Sodium Chloride beyond its use as a food additive.",
+      "answer": "The provided text doesn't contain information about Sodium Chloride (NaCl). It details Carbohydrates, Carboxyl Groups, Carcinogens, Catalysts, and several organic compounds like 1,3-butadiene, acetic acid, and acetylene, but lacks any mention of Sodium Chloride's industrial significance beyond food.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:47:55",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:47:55",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

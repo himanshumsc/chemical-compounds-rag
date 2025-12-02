@@ -1,0 +1,38 @@
+{
+  "compound_id": 87,
+  "compound_name": "Mercury(II) Sulfide",
+  "source_file": "compound_087_Mercury(II) Sulfide.json",
+  "main_entry_length": 2532,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0490_Mercury(II)_Sulfide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is mercury(II) sulfide (HgS). It consists of mercury and sulfur atoms, with the turquoise atom representing mercury and the yellow atom representing sulfur. Mercury(II) sulfide is known for its vibrant red or black color, depending on the form. The red form, known as vermillion or cinnabar, is commonly used as a pigment. It can be synthesized by heating mercury with sulfur or other chemical reactions. Historically, it has been used in traditional medicine and art, but it is toxic and should be handled with care.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Mercury(II) Sulfide?",
+      "answer": "The chemical formula of Mercury(II) Sulfide is HgS, and its molecular weight is 232.66 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility characteristics of Mercury(II) Sulfide and its behavior upon heating.",
+      "answer": "Mercury(II) Sulfide is insoluble in water, alcohol, and most acids but is soluble in aqua regia. When red mercury(II) sulfide is heated to about 250°C, it begins to change color and converts to the black form at 386°C. Both forms sublime at 583.5°C, changing directly from solid to gas without melting. Upon cooling, red mercury(II) sulfide reverts to its original color.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the synthesis process of Mercury(II) Sulfide and how its different forms are produced.",
+      "answer": "Red mercury(II) sulfide is commercially obtained from the mineral cinnabar. It can also be synthetically produced by heating mercury and sulfur in a gaseous state or by reacting mercury with potassium pentasulfide (K2S5). This synthetic form is known as English vermillion or vermillion. Black mercury(II) sulfide can be produced by reacting sodium thiosulfate (Na2S2O3) with sodium mercurichloride (Na2HgCl4).",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

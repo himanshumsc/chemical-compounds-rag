@@ -1,0 +1,36 @@
+{
+  "compound_id": 32,
+  "compound_name": "Calcium Sulfate",
+  "source_file": "compound_032_Calcium Sulfate.json",
+  "main_entry_length": 1226,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0216_Calcium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:07",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Calcium Sulfate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous calcium sulfate?",
+      "answer": "The chemical formula of anhydrous calcium sulfate is CaSO4, and its molecular weight is 136.14 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the difference between the anhydrous and hydrated forms of calcium sulfate.",
+      "answer": "Calcium sulfate occurs in three forms: anhydrous calcium sulfate (CaSO4), calcium sulfate dihydrate (CaSO4·2H2O), and calcium sulfate hemihydrate (CaSO4·1/2H2O). The anhydrous form is available as insoluble anhydrite and soluble anhydrite, while the dihydrate and hemihydrate forms are known as mineral white or plaster of Paris, respectively. The physical properties of these forms differ; for example, anhydrous calcium sulfate is a fine white powder or crystalline solid, while the dihydrate can be a powder or white lumps. However, their chemical properties are essentially the same.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Given its solubility characteristics, why might anhydrous calcium sulfate be used in industrial applications?",
+      "answer": "Anhydrous calcium sulfate is insoluble in water and most organic solvents, making it useful in applications where a non-reactive filler or additive is required. Its stability and insolubility can be advantageous in construction materials, such as drywall, where it adds strength and fire resistance without dissolving in moisture present in the environment.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

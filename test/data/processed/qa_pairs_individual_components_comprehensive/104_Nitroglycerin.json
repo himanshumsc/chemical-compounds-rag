@@ -1,0 +1,58 @@
+{
+  "compound_id": 101,
+  "compound_name": "Nitroglycerin",
+  "source_file": "compound_101_Nitroglycerin.json",
+  "main_entry_length": 1549,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0558_Nitroglycerin_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is nitroglycerin. Nitroglycerin is a highly explosive compound that consists of carbon (black atoms), hydrogen (white atoms), nitrogen (blue atoms), and oxygen (red atoms). It is known for its use in explosives, such as dynamite, and has significant applications in construction and demolition. Additionally, nitroglycerin is used medically as a vasodilator to treat heart conditions like angina by relaxing blood vessels and improving blood flow.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:06"
+    },
+    {
+      "question": "What is the chemical formula and the molecular weight of Nitroglycerin?",
+      "answer": "The chemical formula of Nitroglycerin is CH2NO2CHNOCH2NO2, and its molecular weight is 227.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:14",
+      "char_limit": 1000,
+      "answer_length": 100
+    },
+    {
+      "question": "How does Nitroglycerin function as a vasodilator in medicine?",
+      "answer": "Nitroglycerin functions as a vasodilator in medicine by causing blood vessels to relax and open up, which allows blood to flow more freely through them. This effect is beneficial in treating heart problems, as it helps to improve blood circulation. The compound is administered in the form of a medicine that decomposes in the body to release nitroglycerin, which then acts to dilate the blood vessels. This mechanism of action can alleviate conditions such as angina by reducing the workload on the heart and increasing the oxygen supply to the heart muscle.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:16",
+      "char_limit": 1800,
+      "answer_length": 559
+    },
+    {
+      "question": "What is the primary method for synthesizing Nitroglycerin as discovered by Ascanio Sobrero, and what are the roles of the reactants?",
+      "answer": "The primary method for synthesizing nitroglycerin, as discovered by Ascanio Sobrero, involves adding nitric acid to glycerol with a small amount of concentrated sulfuric acid as a catalyst. In this synthesis process, nitric acid acts as a nitrating agent, donating nitro groups to the glycerol molecule, while sulfuric acid serves as a catalyst to facilitate the reaction. This method, developed in 1847, remains the primary means of producing nitroglycerin.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:18",
+      "char_limit": 2000,
+      "answer_length": 458
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4364,
+  "updated_at": "2025-11-30 13:36:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

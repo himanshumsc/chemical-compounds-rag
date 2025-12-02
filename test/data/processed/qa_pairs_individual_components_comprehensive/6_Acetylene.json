@@ -1,0 +1,58 @@
+{
+  "compound_id": 2,
+  "compound_name": "Acetylene",
+  "source_file": "compound_002_Acetylene.json",
+  "main_entry_length": 2904,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0078_Acetylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the diagram is acetylene, also known as ethyne. It consists of two carbon atoms connected by a triple bond, with each carbon atom also bonded to a hydrogen atom. This gives acetylene the formula C₂H₂. Key properties of acetylene include its ability to burn with a very hot flame, making it useful for welding and cutting metals. It is also a building block in the synthesis of various chemicals, such as vinyl chloride and acrylic compounds. Acetylene is highly flammable and must be handled with care due to its explosive potential when mixed with air.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:04"
+    },
+    {
+      "question": "What is the molecular formula of Acetylene and what elements does it consist of?",
+      "answer": "The molecular formula of Acetylene is CH=CH. It consists of the elements carbon and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:24",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Explain why acetylene is highly flammable and how this property is utilized.",
+      "answer": "Acetylene is highly flammable due to its chemical structure, consisting of two carbon atoms joined by a triple bond with hydrogen atoms, making it an unsaturated hydrocarbon. This configuration is inherently unstable, leading to its flammability and potential explosiveness. This property is crucially utilized in torches that burn at very high temperatures. The high energy release during combustion makes acetylene ideal for applications requiring intense heat, such as cutting and welding metals.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:28",
+      "char_limit": 1800,
+      "answer_length": 499
+    },
+    {
+      "question": "Describe the historical development in the production of Acetylene, including the roles of calcium carbide and the BASF process.",
+      "answer": "The historical development of acetylene production began in 1836 when British chemist Edmund Davy discovered acetylene by accidentally combining water with potassium carbide (KCH2) while attempting to make potassium metal. This method was impractical due to the high cost of potassium carbide. The turning point came in 1862 when German chemist Frederich Wöhler discovered calcium carbide (CaC2), which was far less expensive and made the production of acetylene more feasible, leading to increased demand for its use in lamps and other applications.\n\nInitially, acetylene was produced by the action of water on calcium carbide. However, this method was eventually abandoned in favor of more efficient synthesis techniques. One such method is the Wulff process, which involves the cracking of hydrocarbons from petroleum by heating them with very hot steam. This breaks the hydrocarbons into smaller compounds, including acetylene.\n\nAn improvement on the Wulff process was developed by German chemist Walter Reppe, known as the BASF process. In this method, hydrocarbons from petroleum are treated with an oxidizing agent, causing them to break apart and form smaller compounds, one of which is acetylene. This process is named after the BASF chemical corporation, where Reppe worked, and has played a significant role in the modern production of acetylene.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:33",
+      "char_limit": 2000,
+      "answer_length": 1357
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5209,
+  "updated_at": "2025-11-30 14:04:33",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

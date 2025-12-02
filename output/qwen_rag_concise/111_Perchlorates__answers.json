@@ -1,0 +1,59 @@
+{
+  "source_file": "111_Perchlorates.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows perchlorate ion (ClO4-). Key properties: strong oxidizer, high molecular weight, used in explosives, and hazardous in handling.",
+      "latency_s": 39.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the chemical formulas for the most important perchlorates?",
+      "answer": "The most important perchlorates typically are perchloric acid (HClO4) and its salts, such as sodium perchlorate (NaClO4).",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does the method of production differ between ammonium perchlorate and potassium perchlorate?",
+      "answer": "Ammonium perchlorate is produced by combining ammonia with perchloric acid in a reaction that yields the salt. Potassium perchlorate, on the other hand, is produced by reacting potassium hydroxide with perchloric acid in a process that forms the potassium salt.",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the environmental and safety concerns associated with perchlorates.",
+      "answer": "Perchlorates are salts of perchloric acid (ClO₄⁻) and are used in rocket fuels and explosives. They are highly water-soluble and can leach into groundwater, causing contamination. Unlike other salts, perchlorates are not easily broken down in the environment. Perchlorate can interfere with the thyroid gland, particularly in pregnant women and young children, potentially affecting thyroid function and causing developmental issues. Perchlorate pollution in water supplies has been linked to thyroid hormone abnormalities, which can lead to developmental problems in children.",
+      "latency_s": 25.64,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:26:46",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:26:46",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

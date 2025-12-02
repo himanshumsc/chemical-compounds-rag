@@ -1,0 +1,27 @@
+{
+  "source_file": "40_Cellulose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cellulose. Cellulose is a natural polymer composed of glucose units linked together by glycosidic bonds. The diagram indicates that red atoms represent oxygen, white atoms represent hydrogen, and black atoms represent carbon.\n\nKey properties of cellulose include:\n1. **Biodegradable**: It can be broken down by microorganisms into simpler compounds.\n2. **Insoluble in Water**: Unlike many other carbohydrates, cellulose does not dissolve easily in water.\n3. **Stiffness and Strength**: Cellulose provides stiffness and strength to plant cell walls, which is crucial for the structural integrity",
+      "latency_s": 16.54
+    },
+    {
+      "question": "What is the chemical formula for cellulose and what does the subscript 'n' signify?",
+      "answer": "The chemical formula for cellulose is \\(\\text{C}_{6}\\text{H}_{10}\\text{O}_{5}\\). The subscript 'n' in the formula \\((\\text{C}_{6}\\text{H}_{10}\\text{O}_{5})_{n}\\) signifies that cellulose is a polymer, meaning it is composed of many repeating units of \\(\\text{C}_{6}\\text{H}_{10}\\text{O}_{5}\\), which is the monomer unit of cellulose.\n\nIn simpler terms:\n- \\(\\text{C}_{6}\\text{H",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Describe the solubility properties of cellulose and explain why it behaves that way.",
+      "answer": "Cellulose is a complex carbohydrate polymer found in the cell walls of plants and algae. It is composed of many glucose units linked together by glycosidic bonds. Cellulose is highly insoluble in water and most common organic solvents, which makes it an important component of plant cell walls.\n\nThe solubility of cellulose in water is very low due to its hydrophobic nature. Cellulose molecules are made up of long chains of glucose units, which are hydrophilic (water-loving) on one end but hydrophobic (water-repelling) on the other. The hydrophobic ends repel",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Cellulose is described as providing structural support for plants. Discuss how its structure contributes to this function and compare its occurrence in various natural sources.",
+      "answer": "Cellulose is a complex carbohydrate that serves as the primary structural component of plant cell walls, contributing significantly to their rigidity and strength. Its structure is composed of long chains of glucose molecules linked together by β-1,4 glycosidic bonds. This linear arrangement of glucose units gives cellulose its characteristic properties.\n\n### Structure Contribution to Function\n\nThe structure of cellulose plays a crucial role in its ability to provide structural support:\n\n1. **Linear Chain**: The long, unbranched chains of glucose units allow for extensive hydrogen bonding between adjacent chains, which strengthens the overall structure.\n2. **Hydrogen Bonding",
+      "latency_s": 10.36
+    }
+  ]
+}

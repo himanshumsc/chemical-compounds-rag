@@ -1,0 +1,58 @@
+{
+  "compound_id": 29,
+  "compound_name": "Calcium Oxide",
+  "source_file": "compound_029_Calcium Oxide.json",
+  "main_entry_length": 3335,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0202_Calcium_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is calcium oxide (CaO). In the molecular structure diagram, the red atom represents oxygen, and the green atom represents calcium, with the gray stick indicating a double bond.\n\nKey properties of calcium oxide include:\n\n1. **Production**: Made by heating limestone (calcium carbonate, CaCO₃), which releases carbon dioxide (CO₂) and leaves calcium oxide.\n\n2. **Uses**: Primarily used in metallurgy, especially in steel production, where it helps remove impurities. It is also used in pollution control devices to clean emissions.\n\n3. **Hazards**: Calcium...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:09"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of calcium oxide?",
+      "answer": "The chemical formula of calcium oxide is CaO, and its molecular weight is 56.08 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:09",
+      "char_limit": 1000,
+      "answer_length": 86
+    },
+    {
+      "question": "Explain how calcium oxide reacts with water and the implications of this reaction.",
+      "answer": "Calcium oxide (CaO), also known as quicklime, reacts with water to form calcium hydroxide (Ca(OH)₂). This reaction is exothermic, meaning it releases a significant amount of heat. The process can be represented by the chemical equation: \n\nCaO + H₂O → Ca(OH)₂ + heat.\n\nThis reaction highlights the caustic nature of calcium oxide. The heat generated can cause burns or damage to the skin, eyes, nose, and respiratory system if not handled properly. This reaction is utilized in various industrial applications, including the preparation of calcium hydroxide, which is used in construction and as a neutralizing agent in pollution control devices.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:14",
+      "char_limit": 1800,
+      "answer_length": 645
+    },
+    {
+      "question": "Describe the role of calcium oxide in metallurgy and its chemical function during the steel-making process.",
+      "answer": "Calcium oxide (CaO), also known as quicklime, plays a crucial role in metallurgy, particularly in the steel-making process. When added to the furnace where steel is produced, calcium oxide reacts with impurities such as sulfur, phosphorus, and silica present in the mixture. This reaction forms a complex mixture known as slag, a nonmetallic waste byproduct. The slag, being lighter, can be poured off from the top of the molten steel. This process helps in purifying the steel by removing unwanted impurities, thereby improving its quality. About 40 percent of all calcium oxide produced in the United States is used in metallurgical applications, highlighting its significance in the industry.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:18",
+      "char_limit": 2000,
+      "answer_length": 695
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6621,
+  "updated_at": "2025-11-30 13:56:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

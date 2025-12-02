@@ -1,0 +1,58 @@
+{
+  "compound_id": 82,
+  "compound_name": "Magnesium Hydroxide",
+  "source_file": "compound_082_Magnesium Hydroxide.json",
+  "main_entry_length": 2633,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0466_Magnesium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:39",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of magnesium hydroxide. It consists of magnesium (turquoise), oxygen (red), and hydrogen (white) atoms. Magnesium hydroxide is a basic compound commonly used as an antacid, known as milk of magnesia. It reacts with stomach acid to reduce heartburn and discomfort. It's prepared by reacting magnesium chloride with sodium hydroxide or by treating seawater with lime. It forms a precipitate that settles out of solution.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:08"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Hydroxide?",
+      "answer": "The chemical formula of Magnesium Hydroxide is Mg(OH)2, and its molecular weight is 58.33 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:12",
+      "char_limit": 1000,
+      "answer_length": 96
+    },
+    {
+      "question": "Describe the solubility and decomposition properties of Magnesium Hydroxide.",
+      "answer": "Magnesium hydroxide, with the formula Mg(OH)2, is described as virtually insoluble in water and alcohol but soluble in dilute acids and solutions of ammonium salts. It decomposes at 350°C (660°F) and does not have an applicable boiling point.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:13",
+      "char_limit": 1800,
+      "answer_length": 242
+    },
+    {
+      "question": "Explain the process by which Magnesium Hydroxide is produced from seawater.",
+      "answer": "Magnesium hydroxide is produced from seawater through a reaction involving lime (calcium oxide, CaO) and magnesium chloride (MgCl2), which is present in small amounts in seawater. In this process, seawater is treated with lime, and the calcium oxide reacts with the magnesium chloride to produce magnesium hydroxide. This magnesium hydroxide then settles out of the solution as a precipitate.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:15",
+      "char_limit": 2000,
+      "answer_length": 392
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4259,
+  "updated_at": "2025-11-30 14:09:15",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

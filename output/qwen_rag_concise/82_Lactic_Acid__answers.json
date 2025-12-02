@@ -1,0 +1,59 @@
+{
+  "source_file": "82_Lactic_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown is lactic acid, with key properties being its production from yeast fermentation of glucose, role in muscle cells during anaerobic respiration, and its temporary accumulation during exercise.",
+      "latency_s": 39.85,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactic acid?",
+      "answer": "Lactic acid: CH3CHOHCOOH; molecular weight: 90.09 g/mol",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the difference between D-lactic acid and L-lactic acid.",
+      "answer": "D-lactic acid and L-lactic acid are isomers of lactic acid. They differ in the spatial arrangement of their atoms. D-lactic acid is the D-isomer (D-form), while L-lactic acid is the L-isomer (L-form). Their structures are mirror images of each other, but they have different biological properties.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe how the synthetic production of lactic acid is accomplished and what role do enzymes play in natural production.",
+      "answer": "Lactic acid is produced synthetically by fermenting sugars or starches using microorganisms, typically bacteria or fungi, in a controlled environment. The process involves converting carbohydrates into lactic acid through fermentation. Enzymes play a crucial role in natural production, catalyzing the conversion of sugars into lactic acid by breaking down glucose to pyruvate and then lactate. This process is essential for lactic acid-producing bacteria to produce lactic acid as a byproduct of carbohydrate metabolism.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:45:27",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:45:27",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

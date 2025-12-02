@@ -1,0 +1,38 @@
+{
+  "compound_id": 113,
+  "compound_name": "Polycarbonates",
+  "source_file": "compound_113_Polycarbonates.json",
+  "main_entry_length": 4432,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0626_Polycarbonates_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of polycarbonate. Polycarbonates are a group of thermoplastic polymers known for their durability, impact resistance, and transparency. They are commonly used in applications like electrical devices, CDs, DVDs, and bottles due to their lightweight nature and resistance to shattering. Polycarbonates are made by reacting phosgene with bisphenol A, resulting in the formation of long polymer chains with carbonate groups.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:36"
+    },
+    {
+      "question": "What are the key elements that make up polycarbonates, and what is their state at room temperature?",
+      "answer": "Polycarbonates are composed of carbon, hydrogen, and oxygen, and they exist as solids at room temperature. These elements form a class of organic polymers known for their strong, lightweight, and durable characteristics.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How are polycarbonates typically synthesized from phosgene and bisphenol A?",
+      "answer": "Polycarbonates are synthesized by reacting phosgene (COCl2) with compounds containing two phenol groups, such as bisphenol A. The reaction involves the removal of hydrogen chloride (HCl) as the hydrogen atom from the hydroxyl group (-OH) in phenol reacts with the chlorine atom from phosgene. This results in the formation of long polymer chains of polycarbonate, where the phosgene remnant links with the phenol remnant.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the advantages of using polycarbonates over glass in various applications.",
+      "answer": "Polycarbonates offer several advantages over glass, making them suitable for a wide range of applications. They are strong, lightweight, and resistant to heat and physical shock, which makes them ideal for use in safety and athletic goggles, building components, and car instrument panels. Unlike glass, polycarbonates are shatterproof and have greater resistance to ultraviolet radiation. These properties enable their use in consumer electronics, data storage devices, automobile parts, and safety equipment such as helmets and bulletproof windows.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

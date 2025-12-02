@@ -1,0 +1,58 @@
+{
+  "compound_id": 83,
+  "compound_name": "Magnesium Oxide",
+  "source_file": "compound_083_Magnesium Oxide.json",
+  "main_entry_length": 2807,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0470_Magnesium_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:43",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of magnesium oxide (MgO). The black atom represents magnesium, and the red atom represents oxygen, with the stick indicating a double bond.\n\nKey properties of magnesium oxide include:\n\n- High melting point, making it suitable for use in refractory materials.\n- Chemically inert when dead-burned, useful in industrial applications like cement kilns.\n- Retains some reactivity when hard-burned, applicable in fertilizers and animal feed.\n- Dense and inert when fused, useful in high-temperature applications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:07"
+    },
+    {
+      "question": "What is the chemical formula for Magnesium Oxide and what elements does it contain?",
+      "answer": "The chemical formula for Magnesium Oxide is MgO. It contains the elements magnesium and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:17",
+      "char_limit": 1000,
+      "answer_length": 95
+    },
+    {
+      "question": "Describe the different methods used to prepare Magnesium Oxide and how they affect its chemical reactivity.",
+      "answer": "Magnesium oxide (MgO) can be prepared using several methods, each affecting its chemical reactivity:\n\n1. **Dead-burning**: Magnesium hydroxide [Mg(OH)₂] or magnesium carbonate (MgCO₃) is heated to temperatures between 1,500°C and 2,000°C (3,000°F to 4,000°F). This process yields a product that is largely chemically unreactive.\n\n2. **Hard-burning (or caustic-burned)**: The hydroxide or carbonate is heated to temperatures between 1,000°C and 1,500°C (2,000°F and 3,000°F). This method results in a compound with some chemical reactivity.\n\n3. **Light-burning**: The temperature is maintained between 700°C and 1,000°C (1,500°F and 2,000°F), producing a more chemically reactive product.\n\n4. **Fusion**: The hydroxide or carbonate is heated to temperatures exceeding 2,650°C (4,800°F), resulting in a very dense and inert product.\n\nEach method influences the reactivity of magnesium oxide, with higher temperatures generally producing less reactive forms.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:19",
+      "char_limit": 1800,
+      "answer_length": 955
+    },
+    {
+      "question": "How are the specific forms of Magnesium Oxide used in various industries, and what are the hazards associated with its use?",
+      "answer": "Magnesium oxide (MgO) is used in various industries depending on its form, which is determined by its production method and reactivity. \n\n1. **Dead-burned MgO**: This form is largely chemically unreactive and is used as refractory brick in cement kilns, furnaces, crucibles, and equipment for steel manufacturing.\n\n2. **Hard-burned MgO**: With some retained chemical reactivity, this form is used in the production of fertilizers and animal feed, as well as in the extraction of uranium oxide from uranium.\n\n3. **Light-burned MgO**: This form has even more reactivity and is used in applications requiring higher reactivity levels.\n\n4. **Fusion MgO**: This form is very dense and inert, used when a non-reactive material is needed.\n\nMagnesium oxide is also employed in other applications, such as a component of fire extinguishers, in the manufacture of Sorel cement (oxychloride cement), as a binder, in dusting powders, cosmetics, pharmaceuticals, and particularly in antacids for treating heartburn, upset stomach, or acid indigestion.\n\n**Hazards**: Contact with magnesium oxide dust or fumes can irritate the skin, eyes, or respiratory system. Symptoms of exposure may include fatigue and lethargy, which are the primary health concerns associated with its use.\n\nThis summary is derived exclusively from the provided chemical compounds database information.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:23",
+      "char_limit": 2000,
+      "answer_length": 1361
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4507,
+  "updated_at": "2025-11-30 14:09:24",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

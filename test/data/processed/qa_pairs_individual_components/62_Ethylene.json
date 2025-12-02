@@ -1,0 +1,38 @@
+{
+  "compound_id": 59,
+  "compound_name": "Ethylene",
+  "source_file": "compound_059_Ethylene.json",
+  "main_entry_length": 1480,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0358_Ethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows the molecular structure of ethylene (C₂H₄). Ethylene is a simple hydrocarbon composed of two carbon atoms connected by a double bond, with each carbon atom also bonded to two hydrogen atoms. This configuration makes ethylene an unsaturated hydrocarbon and a member of the alkene family.\n\nKey properties of ethylene include:\n- It is a colorless gas with a faint sweet odor.\n- It is highly flammable.\n- Ethylene acts as a plant hormone, influencing growth and fruit ripening.\n- It is widely used in the chemical industry, particularly in the production of polyethylene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethylene?",
+      "answer": "The chemical formula of Ethylene is CH2=CH2, and its molecular weight is 28.05 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Ethylene is classified as an unsaturated hydrocarbon.",
+      "answer": "Ethylene is classified as an unsaturated hydrocarbon because it contains a carbon-carbon double bond (C=C) in its molecular structure. This double bond is characteristic of alkenes, which are a type of unsaturated hydrocarbon, meaning they have fewer hydrogen atoms attached to the carbon chain compared to saturated hydrocarbons, which only have single bonds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the role of Ethylene as a plant hormone and provide an example of its historical use.",
+      "answer": "Ethylene acts as a plant hormone that influences various aspects of plant growth and development, such as fruit ripening, flower wilting, and leaf fall. Historically, its effects were utilized by the ancient Chinese, who burned incense in closed containers to promote the ripening of pears. This practice took advantage of ethylene's natural ability to stimulate fruit ripening, long before the chemical mechanism was understood.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

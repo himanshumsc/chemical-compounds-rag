@@ -1,0 +1,38 @@
+{
+  "compound_id": 4,
+  "compound_name": "Alpha-Tocopherol",
+  "source_file": "compound_004_Alpha-Tocopherol.json",
+  "main_entry_length": 5130,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0088_Alpha-Tocopherol_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:53",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of alpha-tocopherol, a form of vitamin E. Key properties of alpha-tocopherol include:\n\n1. **Antioxidant**: It acts as a powerful antioxidant, protecting cells from damage caused by free radicals, which are reactive molecules that can lead to cell damage and contribute to diseases.\n\n2. **Fat-Soluble**: Being fat-soluble, it is stored in the body's fatty tissues and liver.\n\n3. **Role in Reproduction and Health**: It was discovered to be essential for reproduction in rats and plays a role in maintaining skin and eye health, as well as strengthening...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:19"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Alpha-Tocopherol?",
+      "answer": "The chemical formula of Alpha-Tocopherol is C29H50O, and its molecular weight is 430.69 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why synthetic Vitamin E is generally less potent than natural Vitamin E.",
+      "answer": "Synthetic Vitamin E is generally less potent than natural Vitamin E because it consists of two stereoisomers, while natural Vitamin E exists in only one stereoisomeric form. Stereoisomers are compounds with the same number and types of atoms but with different spatial orientations. In synthetic Vitamin E, only one of the two stereoisomers is biologically active, namely the one found in natural Vitamin E. Therefore, synthetic Vitamin E tends to be about half as biologically active as its natural counterpart.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "How does Alpha-Tocopherol function as an antioxidant, and why is this function important for human health?",
+      "answer": "Alpha-Tocopherol functions as an antioxidant by reacting with and neutralizing free radicals, which are atoms or groups of atoms with a single unpaired electron, making them highly reactive. Free radicals can cause cell damage, leading to cardiovascular disease, cancer, and aging. By neutralizing free radicals, Alpha-Tocopherol helps prevent these harmful effects, thereby playing a crucial role in maintaining human health.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

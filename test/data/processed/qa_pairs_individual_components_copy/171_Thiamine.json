@@ -1,0 +1,36 @@
+{
+  "compound_id": 167,
+  "compound_name": "Thiamine",
+  "source_file": "compound_167_Thiamine.json",
+  "main_entry_length": 1453,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0898_Thiamine_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:33",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Thiamine.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Thiamine?",
+      "answer": "The chemical formula of Thiamine is C12H17ClN4OS, and its molecular weight is 300.82 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is thiamine considered a water-soluble vitamin and what are its solubility characteristics?",
+      "answer": "Thiamine is considered a water-soluble vitamin because it dissolves in water. According to the provided information, thiamine is soluble in water and partially soluble in ethyl alcohol, indicating its ability to dissolve in polar solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how thiamine was discovered and its historical significance in relation to the disease beriberi.",
+      "answer": "Thiamine was discovered by Japanese scientist Suzuki Umetaro in the early twentieth century while he was investigating the disease beriberi. Beriberi had been a problem for humans for thousands of years and was characterized by symptoms such as nausea. Umetaro found that the disease could be cured by a diet containing rice bran, from which he isolated a compound initially named aberic acid, later known as thiamine. This discovery was significant because it provided a cure for beriberi by identifying a specific dietary component responsible for alleviating the disease.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

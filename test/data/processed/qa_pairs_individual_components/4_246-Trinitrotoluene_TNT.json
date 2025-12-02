@@ -1,0 +1,38 @@
+{
+  "compound_id": 177,
+  "compound_name": "2,4,6-Trinitrotoluene (TNT)",
+  "source_file": "compound_177_246-Trinitrotoluene_TNT.json",
+  "main_entry_length": 1536,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0066_2,4,6-Trinitrotoluene_(TNT)_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:22",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is 2,4,6-Trinitrotoluene, commonly known as TNT. TNT is a pale yellow solid and is well-known for its explosive properties. It is relatively stable to shock and friction, which makes it safe to handle and transport. TNT is used extensively in military munitions and demolition. Its explosive power is due to the rapid release of gas and heat when it decomposes. It was first used in World War I and remains a widely used explosive today.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:57"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of 2,4,6-Trinitrotoluene (TNT)?",
+      "answer": "The molecular formula of 2,4,6-Trinitrotoluene (TNT) is C6H2(CH3)(NO2)3, and its molecular weight is 227.13 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why TNT is considered a relatively safe explosive to handle compared to other explosives.",
+      "answer": "TNT is considered relatively safe to handle because it is insensitive to shock. This means that it does not explode easily if dropped or jarred. A detonator or blasting cap, which is a more sensitive explosive, is required to trigger an explosion. This property allows workers to handle it with less risk of accidental detonation.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss how TNT's solubility properties affect its applications and handling.",
+      "answer": "TNT is insoluble in water but soluble in alcohol, ether, acetone, and benzene. These solubility properties influence its applications and handling in several ways. Being insoluble in water means that TNT does not dissolve in moist environments, which is beneficial for its stability as an explosive. Its solubility in organic solvents allows for its purification and processing during manufacturing. These properties must be considered to ensure safe handling and effective use in explosive formulations.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

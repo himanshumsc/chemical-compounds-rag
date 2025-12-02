@@ -1,0 +1,36 @@
+{
+  "compound_id": 140,
+  "compound_name": "Silver Nitrate",
+  "source_file": "compound_140_Silver Nitrate.json",
+  "main_entry_length": 1449,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0756_Silver_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Silver Nitrate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Nitrate?",
+      "answer": "The chemical formula of Silver Nitrate is AgNO3, and its molecular weight is 169.87 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility characteristics of Silver Nitrate and its behavior in the presence of light.",
+      "answer": "Silver Nitrate is soluble in water, glycerol, and hot ethyl alcohol, and moderately soluble in acetone. When pure, it is not affected by light. However, trace amounts of organic impurities can catalyze the conversion of silver ions (Ag+) to grayish neutral silver atoms (AgO), giving the salt a grayish tint.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "How has Silver Nitrate been historically used in medicine, and what are some of its current applications?",
+      "answer": "Historically, Silver Nitrate was used by the Greeks and Romans to treat wounds and cuts with aqueous solutions. In 1881, Carl Crede introduced the use of a 2 percent solution to prevent gonorrheal infection in newborns' eyes. Currently, Silver Nitrate is used in the synthesis of other silver compounds, as a catalyst in industrial chemical reactions, as an antiseptic and germicide, and in photographic processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

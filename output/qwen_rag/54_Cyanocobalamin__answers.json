@@ -1,0 +1,47 @@
+{
+  "source_file": "54_Cyanocobalamin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cyanocobalamin, also known as vitamin B12. This compound is central to the discussion of its discovery and importance in treating pernicious anemia, as detailed in the context provided.\n\n### Key Properties of Cyanocobalamin:\n\n1. **Chemical Composition**:\n   - Cyanocobalamin (CN-CoV) is a complex molecule with the following atomic elements:\n     - **Nitrogen (N)**: Blue atoms\n     - **Cobalt (Co)**: Yellow atom\n     - **Phosphorus (P)**: Green atom\n     - **Carbon (C)**: Black atoms\n     - **Hydrogen (H)**: White atoms\n     - **Oxygen (O)**: Red atoms\n\n   - Cyanocobalamin contains a cobalt-porphyrin complex, which is crucial for its biological activity.\n\n2. **Structural Features**:\n   - Cyanocobalamin has a benzene ring, indicated by the striped sticks.\n   - Double bonds are indicated by gray sticks.\n   - The blue atom (nitrogen) is part of the cyanide group, which is bound to the cobalt center.\n\n### Historical Context and Discovery:\n\n- **Early Research on Pernicious Anemia**:\n  - In the 1920s, American physician George Hoyt Whipple (1878-1976) found that",
+      "latency_s": 49.97,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What is the chemical formula of cyanocobalamin, and which elements does it contain?",
+      "answer": "Based on the provided context, cyanocobalamin is an organic compound with the chemical formula C29H50O. It contains the elements carbon (C), hydrogen (H), and oxygen (O).\n\n### Additional Information:\nCyanocobalamin is a form of vitamin B12. It is used in the body to help convert food into energy and to make new cells. Cyanocobalamin is also used as a medicine to prevent or treat vitamin B12 deficiency.\n\n### Safety Information:\nCyanocobalamin is considered safe when taken as directed. However, always consult with a healthcare professional before starting any new medication or supplement regimen.\n\n### Uses:\n- Preventing Vitamin B12 Deficiency\n- Treating Vitamin B12 Deficiency\n\n### Chemical Formula:\nC29H50O\n\nThis formula indicates that cyanocobalamin is composed of 29 carbon atoms, 50 hydrogen atoms, and 1 oxygen atom.",
+      "latency_s": 43.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Describe the solubility properties of cyanocobalamin and its physical state.",
+      "answer": "The chemical compound cyanocobalamin is not described in the provided database information. The database primarily contains information about acetic acid, which is a carboxylic acid, and other chemical compounds and related terms. There is no explicit mention of cyanocobalamin in the given contexts.\n\nSince cyanocobalamin is not present in the provided information, the solubility properties and physical state of cyanocobalamin cannot be described based on the available data. To accurately answer the question, the information about cyanocobalamin would need to be sourced from a different, more specific database or reference.\n\nIf you need information about cyanocobalamin specifically, it would be helpful to have access to a database or reference that includes detailed information about this compound, including its chemical formula, solubility properties, physical state, uses, and safety information. Cyanocobalamin is an important vitamin B12 derivative and is a part of the B12 coenzyme family, which plays essential roles in various biochemical reactions in the body. It is typically found in foods rich in vitamin B12 or in dietary supplements.",
+      "latency_s": 43.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Explain the role of cyanocobalamin in the human body and the consequences of its deficiency.",
+      "answer": "Cyanocobalamin, also known as vitamin B12, plays a crucial role in the human body, primarily due to its essential function in the metabolism of nucleic acids and proteins. It is involved in the synthesis of DNA, RNA, and proteins, which are essential for cell division and growth. Additionally, cyanocobalamin is vital for the production of red blood cells, as it is necessary for the synthesis of methyl groups, which are integral in the production of methionine. Methionine is a crucial amino acid for the formation of S-adenosylmethionine (SAM), which is essential for maintaining the function of the nervous system, as well as for the methylation processes in the body.\n\nThe chemical structure of cyanocobalamin can be represented as:\n\n\\[\n\\text{Cocobalamin} = \\text{Cobalt(III) }\\left[\\text{C_5H_10N_5}\\right] \\left[\\text{C_10H_20N_5}\\right]\n\\]\n\nHere, the cobalt is the central ion, and the two coenzyme molecules (Cbl and Co) are coordinated to it. Cyanocobalamin is also important for the regulation of homocysteine, which is a sulfur-containing amino acid that can be converted into methionine. Any deficiency in vitamin B12 can lead to elevated levels of homocysteine, which in turn can cause problems such as atherosclerosis, heart disease, and neurological disorders.\n\nThe consequence of cyanocobalamin deficiency in the human body is a condition known as pernicious anemia. Pernicious anemia is characterized by a lack of red blood cells due to a deficiency in intrinsic factor, which is a protein required for the absorption of cyanocobalamin. Without adequate cyanocobalamin, the body cannot produce sufficient red blood cells, leading to a condition where the body's tissues are not adequately oxygenated. This can result in a variety of symptoms, including fatigue, weakness, shortness of breath, dizziness, and rapid heartbeat.\n\nAdditionally, cyanocobalamin deficiency can lead to nerve damage, particularly in the peripheral nerves. Symptoms associated with peripheral neuropathy include numbness, tingling, and pain in the hands and feet. In severe cases, it can lead to muscle weakness and atrophy, as well as cognitive",
+      "latency_s": 43.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:28:57",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:28:57",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 78,
+  "compound_name": "Lactose",
+  "source_file": "compound_078_Lactose.json",
+  "main_entry_length": 2434,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0448_Lactose_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:23",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is lactose. Lactose is a disaccharide sugar composed of glucose and galactose units. It is commonly found in milk and dairy products. Key properties of lactose include its role as a major carbohydrate in milk, its use in the preparation of baby foods and food for convalescents, and its ability to be converted between alpha and beta isomers. Lactose is also used in the dairy industry to feed foals. It is important for individuals with lactose intolerance to manage their intake, as they lack the enzyme lactase needed to digest it properly.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:59"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactose?",
+      "answer": "The chemical formula of lactose is C12H22O11, and its molecular weight is 342.30 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:52",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "Explain the solubility characteristics of lactose in different solvents.",
+      "answer": "Lactose is very soluble in water, slightly soluble in ethyl alcohol, and insoluble in organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:54",
+      "char_limit": 1800,
+      "answer_length": 103
+    },
+    {
+      "question": "Describe the process of obtaining alpha-lactose monohydrate from lactose and why this form is commonly used.",
+      "answer": "Alpha-lactose monohydrate is obtained from lactose by dissolving lactose in water and treating it with activated carbon to remove any color. When the water evaporates from the solution, alpha-lactose monohydrate remains. This form is commonly used because it is typically how lactose is made available commercially. Additionally, alpha-lactose tends to occur as the monohydrate, C12H22O11·H2O, which is the most common form of lactose produced and utilized.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:56",
+      "char_limit": 2000,
+      "answer_length": 457
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4889,
+  "updated_at": "2025-11-30 14:08:56",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

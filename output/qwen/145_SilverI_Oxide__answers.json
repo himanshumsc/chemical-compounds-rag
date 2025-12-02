@@ -1,0 +1,27 @@
+{
+  "source_file": "145_SilverI_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **Silver(I) Oxide** (Ag₂O). Here are its key properties:\n\n1. **Structure**: Silver(I) oxide consists of two silver atoms (Ag) bonded to one oxygen atom (O), with each silver atom having a +1 oxidation state and the oxygen atom having a -2 oxidation state.\n\n2. **Properties**:\n   - **Appearance**: It appears as a white powder.\n   - **Solubility**: It is insoluble in water but soluble in dilute acids.\n   - **Uses**: \n     - It is used in glassmaking to give a yellow",
+      "latency_s": 16.75
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Oxide?",
+      "answer": "The chemical formula for Silver(I) Oxide is Ag₂O.\n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the formula:\n\n- The atomic weight of Silver (Ag) is approximately 107.87 g/mol.\n- The atomic weight of Oxygen (O) is approximately 16.00 g/mol.\n\nSince there are two Silver atoms and one Oxygen atom in the formula Ag₂O, the calculation would be as follows:\n\n\\[ \\text{Molecular Weight} = (2 \\times 107.87 \\, \\text{g/mol})",
+      "latency_s": 10.68
+    },
+    {
+      "question": "How is Silver(I) Oxide typically produced?",
+      "answer": "Silver(I) oxide, also known as silver hydroxide or silver hydroxide, is not typically produced in large quantities for commercial use because it is relatively unstable and can decompose into metallic silver and water under certain conditions. However, it can be prepared in the laboratory under controlled conditions.\n\nHere's a general method to produce silver(I) oxide:\n\n1. **Materials Needed:**\n   - Silver metal (Ag)\n   - Sodium hydroxide (NaOH)\n   - Water\n\n2. **Procedure:**\n   - Dissolve a small amount of sodium hydroxide in water to make a solution.\n   - Add this",
+      "latency_s": 10.68
+    },
+    {
+      "question": "Discuss the solubility and decomposition characteristics of Silver(I) Oxide and their implications for its use.",
+      "answer": "Silver(I) oxide, also known as silver hydroxide or silver hydroxide, is a chemical compound with the formula AgOH. It is a white solid that is highly soluble in water and other polar solvents. However, it decomposes into silver metal and water when heated.\n\n### Solubility Characteristics:\n- **Soluble in Water:** Silver(I) oxide dissolves in water to form a solution of silver ions (Ag+) and hydroxide ions (OH-). This reaction can be represented by the equation:\n  \\[\n  \\text{AgOH} + \\text{H}_2\\text{O",
+      "latency_s": 10.68
+    }
+  ]
+}

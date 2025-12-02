@@ -1,0 +1,36 @@
+{
+  "compound_id": 129,
+  "compound_name": "Potassium Iodide",
+  "source_file": "compound_129_Potassium Iodide.json",
+  "main_entry_length": 2713,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0702_Potassium_Iodide_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Iodide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Iodide?",
+      "answer": "The chemical formula for Potassium Iodide is KI, and its molecular weight is 166.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process of how Potassium Iodide can be made using iodine and potassium hydroxide.",
+      "answer": "Potassium Iodide can be prepared by adding elemental iodine (I2) to a solution of potassium hydroxide (KOH). The reaction is as follows: I2 + 6KOH → 5KI + KIO3 + 3H2O. The potassium iodide (KI) is separated from potassium iodate (KIO3) by fractional crystallization, where the solution is warmed and then cooled, resulting in the crystallization of the compounds at different temperatures. The potassium iodate can further be decomposed by heating to produce additional potassium iodide: 2KIO3 → 2KI + 3O2.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain how Potassium Iodide acts as a protective agent against radiation exposure.",
+      "answer": "Potassium Iodide is used as a treatment for radiation exposure because it offers protection against the radioactive isotope iodine-131, which is released during nuclear explosions or accidents. Iodine-131 is hazardous as it accumulates in the thyroid gland, potentially leading to thyroid cancer. Taking potassium iodide saturates the thyroid with non-radioactive iodine, thereby reducing the uptake of iodine-131 and protecting the thyroid from radiation damage.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

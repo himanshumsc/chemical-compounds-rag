@@ -1,0 +1,58 @@
+{
+  "compound_id": 13,
+  "compound_name": "Ammonium Sulfate",
+  "source_file": "compound_013_Ammonium Sulfate.json",
+  "main_entry_length": 1944,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0128_Ammonium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows ammonium sulfate, a chemical compound with the formula \\((\\text{NH}_4)_2\\text{SO}_4\\). The diagram illustrates its ionic structure, consisting of ammonium ions (\\(\\text{NH}_4^+\\)) and sulfate ions (\\(\\text{SO}_4^{2-}\\)). Key properties of ammonium sulfate include its use as a fertilizer, providing essential nitrogen and sulfur for plant growth. It is also used in water treatment to control acidity. It appears as a white crystalline solid, is highly soluble in water, and is non-flammable.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ammonium sulfate?",
+      "answer": "The chemical formula of ammonium sulfate is (NH4)2SO4, and its molecular weight is 132.14 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:58",
+      "char_limit": 1000,
+      "answer_length": 96
+    },
+    {
+      "question": "Explain why ammonium sulfate is primarily used in fertilizers.",
+      "answer": "Ammonium sulfate is primarily used in fertilizers because it supplies two essential nutrients that plants need for proper growth: nitrogen and sulfur. This compound is an inorganic salt with the formula (NH4)2SO4, and it is a colorless to white crystalline solid. Its ability to provide both nitrogen and sulfur makes it an effective fertilizer, as these elements are crucial for plant development. As noted in the provided information, more than 95 percent of the ammonium sulfate produced is used in fertilizer production, highlighting its significance in agriculture.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:01",
+      "char_limit": 1800,
+      "answer_length": 570
+    },
+    {
+      "question": "Describe how ammonium sulfate is produced using gypsum, ammonia, and carbon dioxide.",
+      "answer": "Ammonium sulfate can be produced using gypsum, ammonia, and carbon dioxide. In this method, gypsum (CaSO4·2H2O) is treated with ammonia (NH3) and carbon dioxide (CO2) to generate ammonium sulfate ((NH4)2SO4). The process involves a chemical reaction where gypsum reacts with ammonia and carbon dioxide, leading to the formation of ammonium sulfate as one of the products. This method offers an alternative approach to the primary method, which involves the direct reaction between ammonia gas and sulfuric acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:03",
+      "char_limit": 2000,
+      "answer_length": 511
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3734,
+  "updated_at": "2025-11-30 13:53:04",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

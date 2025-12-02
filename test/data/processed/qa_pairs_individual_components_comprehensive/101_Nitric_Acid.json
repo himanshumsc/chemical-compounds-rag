@@ -1,0 +1,58 @@
+{
+  "compound_id": 98,
+  "compound_name": "Nitric Acid",
+  "source_file": "compound_098_Nitric Acid.json",
+  "main_entry_length": 1512,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0544_Nitric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows nitric acid (HNO₃). Key properties of nitric acid include:\n\n1. **Composition**: It consists of one nitrogen atom (blue), three oxygen atoms (red), and one hydrogen atom (white).\n\n2. **Structure**: It has a planar geometry with a nitrogen atom central to the molecule, forming bonds with the hydrogen and oxygen atoms.\n\n3. **Acidic Nature**: Nitric acid is a strong acid and a powerful oxidizing agent.\n\n4. **Industrial Use**: It is crucial in the production of fertilizers, explosives, and in various chemical syntheses.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:00:56"
+    },
+    {
+      "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+      "answer": "The primary elements that make up nitric acid are hydrogen, nitrogen, and oxygen. Its chemical formula is HNO3.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:42",
+      "char_limit": 1000,
+      "answer_length": 111
+    },
+    {
+      "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+      "answer": "Nitric acid (HNO3) is described as a colorless to yellowish liquid with a distinctive acrid, suffocating, or choking odor. It is classified as an inorganic acid. The acid tends to decompose when exposed to light, producing nitrogen dioxide (NO2), which gives it a yellowish tinge. Its molecular weight is 63.01 g/mol, with a melting point of -41.6°C (-42.9°F) and a boiling point of 83°C (180°F), at which it decomposes.\n\nRegarding solubility, nitric acid is miscible with water, meaning it can mix in all proportions with water. However, it decomposes in ethyl alcohol and reacts violently with most organic solvents. This indicates that while it readily dissolves in water, its interactions with other solvents can be quite different, often leading to decomposition or violent reactions.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:47",
+      "char_limit": 1800,
+      "answer_length": 789
+    },
+    {
+      "question": "Explain why nitric acid is considered a strong oxidizing agent and describe its reaction with metals.",
+      "answer": "Nitric acid (HNO3) is considered one of the strongest oxidizing agents because it can readily accept electrons from other substances, facilitating oxidation reactions. As described in the provided context, nitric acid attacks almost all metals, except for gold and platinum. This is due to its ability to decompose and release nitrogen dioxide (NO2), a reactive species that contributes to its oxidizing power.\n\nWhen nitric acid reacts with metals, it typically results in the formation of metal nitrates, nitric oxide (NO), and nitrogen dioxide (NO2). The reaction involves the transfer of electrons from the metal to the nitric acid, oxidizing the metal and reducing the nitric acid. This process is characterized by the release of gases like NO and NO2, which is indicative of its strong oxidizing nature. Additionally, the text indicates that nitric acid decomposes when exposed to light, producing NO2, further highlighting its role as a potent oxidizing agent.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:51",
+      "char_limit": 2000,
+      "answer_length": 966
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8402,
+  "updated_at": "2025-11-30 13:35:51",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

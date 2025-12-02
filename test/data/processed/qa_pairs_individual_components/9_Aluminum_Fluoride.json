@@ -1,0 +1,38 @@
+{
+  "compound_id": 5,
+  "compound_name": "Aluminum Fluoride",
+  "source_file": "compound_005_Aluminum Fluoride.json",
+  "main_entry_length": 2455,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0092_Aluminum_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:57",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents aluminum fluoride (AlF₃). The red atom is aluminum, and the green atoms are fluorine. \n\nKey properties of aluminum fluoride include:\n\n1. It is primarily used in the production of aluminum metal, where it lowers the melting point and enhances conductivity during the electrolysis of aluminum oxide.\n2. It serves as a catalyst in organic synthesis.\n3. It is used in the wine and beer-making industries to suppress fermentation processes.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:43"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Aluminum Fluoride?",
+      "answer": "The chemical formula of Aluminum Fluoride is AlF3, and its molecular weight is 83.98 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does Aluminum Fluoride behave in terms of solubility in various solvents?",
+      "answer": "Aluminum Fluoride is slightly soluble in cold water, soluble in hot water, and insoluble in alcohol, acetone, and most organic solvents. It is highly stable and even resists the action of strong solvents like hot concentrated sulfuric acid.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the significance of Aluminum Fluoride in the production of aluminum metal and its other industrial applications.",
+      "answer": "Aluminum Fluoride is primarily used in the production of aluminum metal. It plays a crucial role in reducing the temperature required for aluminum extraction from its compounds by improving the conductivity of the molten compound when an electric current is passed through it. Additionally, it serves as a catalyst in the synthesis of organic compounds and is used to suppress fermentation in the wine and beer-making industries.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

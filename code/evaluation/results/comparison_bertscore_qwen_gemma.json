@@ -1,0 +1,80 @@
+{
+  "overall": {
+    "qwen_vs_gemma_f1": {
+      "qwen_mean": 0.3973289127419101,
+      "gemma_mean": 0.17513145092731536,
+      "difference": 0.22219746181459477,
+      "qwen_better": true
+    },
+    "qwen_vs_gemma_precision": {
+      "qwen_mean": 0.5011682106349408,
+      "gemma_mean": 0.24375491514013886,
+      "difference": 0.2574132954948019,
+      "qwen_better": true
+    },
+    "qwen_vs_gemma_recall": {
+      "qwen_mean": 0.3084451700119286,
+      "gemma_mean": 0.11427713147750847,
+      "difference": 0.19416803853442016,
+      "qwen_better": true
+    }
+  },
+  "per_question_type": {
+    "Q1": {
+      "qwen_mean_f1": 0.32009036915790123,
+      "gemma_mean_f1": 0.2869252270333511,
+      "f1_difference": 0.03316514212455013,
+      "f1_qwen_better": true,
+      "qwen_mean_precision": 0.4733042917894513,
+      "gemma_mean_precision": 0.40305472000533443,
+      "precision_difference": 0.0702495717841169,
+      "precision_qwen_better": true,
+      "qwen_mean_recall": 0.19370020719590397,
+      "gemma_mean_recall": 0.18722273910017895,
+      "recall_difference": 0.006477468095725025,
+      "recall_qwen_better": true
+    },
+    "Q2": {
+      "qwen_mean_f1": 0.6692449431866407,
+      "gemma_mean_f1": 0.19026183903418753,
+      "f1_difference": 0.4789831041524532,
+      "f1_qwen_better": true,
+      "qwen_mean_precision": 0.7291658391673745,
+      "gemma_mean_precision": 0.22750953783861916,
+      "precision_difference": 0.5016563013287554,
+      "precision_qwen_better": true,
+      "qwen_mean_recall": 0.6165774199546555,
+      "gemma_mean_recall": 0.15957867901829814,
+      "recall_difference": 0.4569987409363574,
+      "recall_qwen_better": true
+    },
+    "Q3": {
+      "qwen_mean_f1": 0.3212239841166674,
+      "gemma_mean_f1": 0.13496033893440315,
+      "f1_difference": 0.18626364518226426,
+      "f1_qwen_better": true,
+      "qwen_mean_precision": 0.4160162287167786,
+      "gemma_mean_precision": 0.1819365916183752,
+      "precision_difference": 0.23407963709840343,
+      "precision_qwen_better": true,
+      "qwen_mean_recall": 0.2385219436902762,
+      "gemma_mean_recall": 0.09192167389944976,
+      "recall_difference": 0.14660026979082647,
+      "recall_qwen_better": true
+    },
+    "Q4": {
+      "qwen_mean_f1": 0.278756354506431,
+      "gemma_mean_f1": 0.08837839870731963,
+      "f1_difference": 0.19037795579911138,
+      "f1_qwen_better": true,
+      "qwen_mean_precision": 0.38618648286615864,
+      "gemma_mean_precision": 0.16251881109822666,
+      "precision_difference": 0.22366767176793198,
+      "precision_qwen_better": true,
+      "qwen_mean_recall": 0.18498110920687866,
+      "gemma_mean_recall": 0.01838543389210704,
+      "recall_difference": 0.16659567531477162,
+      "recall_qwen_better": true
+    }
+  }
+}

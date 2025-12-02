@@ -1,0 +1,58 @@
+{
+  "compound_id": 33,
+  "compound_name": "Camphor",
+  "source_file": "compound_033_Camphor.json",
+  "main_entry_length": 4058,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0222_Camphor_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents camphor. Camphor is a terpenoid with the chemical formula C₁₀H₁₆O. It appears as a white, waxy solid with a strong, aromatic odor. Camphor is known for its medicinal properties and has been traditionally used throughout Asia to treat ailments like upset stomachs and rheumatism. It is extracted from the Cinnamomum camphora tree and is also used in topical analgesics, embalming, and as an insect repellent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:20"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "answer": "The chemical formula of camphor is C10H16O, and its molecular weight is 152.23 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:53",
+      "char_limit": 1000,
+      "answer_length": 85
+    },
+    {
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "answer": "Natural camphor is obtained from the camphor tree, Cinnamomum camphora, which is native to various parts of the world. The compound can be extracted from every part of the tree, including the trunk, branches, roots, and leaves. The extraction process involves steam distillation and crystallization, resulting in the dextrorotary (or \"+\" form) isomer of camphor. \n\nThe difference between natural and synthetic camphor lies in the isomer composition. Natural camphor consists of only the dextrorotary form, whereas synthetic camphor contains both the dextrorotary and levorotatory (or \"-\") isomers. This difference in isomer composition does not affect the chemical properties of camphor but may have a modest effect on its biological properties. Synthetic camphor is produced from turpentine oil, which is converted into a cyclic isomer, a-pinene, and then oxidized to form camphor.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:58",
+      "char_limit": 1800,
+      "answer_length": 882
+    },
+    {
+      "question": "Discuss the historical and modern medicinal uses of camphor. Why has its use changed over time?",
+      "answer": "Historically, camphor has been used throughout Asia for various medicinal purposes. It was employed to treat ailments like upset stomachs and rheumatism and was also used in the embalming of the dead and the manufacture of soap. The Japanese utilized camphor in varnish and ink preparation, to dilute paint, burn for light, and protect clothing from moths.\n\nIn modern times, camphor's primary medicinal use is in lotions and ointments to relieve mild pain and discomfort due to arthritis, rheumatism, and sore muscles. It acts as a mild analgesic and antiseptic. Camphor is found in products like Absorbine Arthritic Pain Lotion, Ben-Gay, Campho-phenique, Panalgesic, Sloan’s Liniment, and Vicks VapoRub. Its pronounced odor may also help open nasal passages.\n\nThe shift in camphor's usage over time is likely due to the lack of substantial medical evidence supporting many of its historical applications. Consequently, its use today is more focused on topical applications for pain relief and antiseptic purposes, where it has been shown to be effective. Additionally, the development of synthetic camphor has ensured a steady supply for commercial demand, although the dual isomeric nature of synthetic camphor has only minor effects on its biological properties.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:04",
+      "char_limit": 2000,
+      "answer_length": 1265
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6899,
+  "updated_at": "2025-11-30 13:57:05",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

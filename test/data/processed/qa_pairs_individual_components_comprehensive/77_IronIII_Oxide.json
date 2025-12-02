@@ -1,0 +1,58 @@
+{
+  "compound_id": 73,
+  "compound_name": "Iron(III) Oxide",
+  "source_file": "compound_073_Iron(III) Oxide.json",
+  "main_entry_length": 2750,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0422_Iron(III)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents iron(III) oxide (Fe₂O₃). Key properties of iron(III) oxide include:\n\n- Composition: It consists of iron and oxygen atoms.\n- Appearance: Typically a reddish-brown solid.\n- Uses: Widely used in the manufacture of iron and steel, pigments, and as a catalyst.\n- Production: Commonly synthesized by reacting iron(II) sulfate with sodium hydroxide, followed by oxidation, or by heating iron compounds.\n- Hazards: Generally considered safe but can cause dust-related respiratory issues if inhaled.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(III) oxide?",
+      "answer": "The chemical formula of Iron(III) oxide is Fe2O3, and its molecular weight is 159.69 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:54",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain the ferromagnetic property of Iron(III) oxide as mentioned in the compound information.",
+      "answer": "Iron(III) oxide, also known as ferric oxide, has ferromagnetic properties. Ferromagnetism is the ability of a substance to become highly magnetic and retain its magnetism. This property allows Iron(III) oxide to be magnetized and remain magnetized, distinguishing it from materials that are only temporarily magnetized when exposed to a magnetic field. The compound's ferromagnetic characteristic is a key aspect of its physical properties.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:58",
+      "char_limit": 1800,
+      "answer_length": 440
+    },
+    {
+      "question": "Describe the process of how Iron(III) oxide is reduced to iron metal in a blast furnace.",
+      "answer": "In a blast furnace, iron(III) oxide (Fe2O3) is reduced to iron metal through a process that involves carbon and heat. The furnace introduces a blast of air, which reacts with carbon to form carbon monoxide (CO). This carbon monoxide then reacts with the iron(III) oxide, reducing it to liquid iron metal and producing carbon dioxide (CO2) as a byproduct. This method of reduction has been refined over centuries and was in use as early as the first century BCE in China. The process allows the extraction of iron from its ore, making it a foundational technique in iron and steel manufacturing.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:06:02",
+      "char_limit": 2000,
+      "answer_length": 594
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4334,
+  "updated_at": "2025-11-30 14:06:02",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

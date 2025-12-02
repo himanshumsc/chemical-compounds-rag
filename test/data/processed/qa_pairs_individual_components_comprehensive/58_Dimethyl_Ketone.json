@@ -1,0 +1,58 @@
+{
+  "compound_id": 55,
+  "compound_name": "Dimethyl Ketone",
+  "source_file": "compound_055_Dimethyl Ketone.json",
+  "main_entry_length": 2593,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0340_Dimethyl_Ketone_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:47",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is acetone, also known as dimethyl ketone. It consists of three carbon atoms, six hydrogen atoms, and one oxygen atom (C₃H₆O).\n\nKey properties of acetone include:\n\n- **Solvent Capabilities**: Acetone is a highly effective solvent, capable of dissolving a wide array of organic substances, making it valuable in industries for paints, varnishes, and plastics.\n- **Volatility**: It is a volatile and flammable liquid, leading to rapid evaporation.\n- **Uses**: Commonly used in nail polish remover and as a precursor in the synthesis of other chemicals.\n-...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:18"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dimethyl Ketone?",
+      "answer": "The chemical formula of Dimethyl Ketone, also known as acetone, is CH3COCH3. Its molecular weight is 58.08 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:23",
+      "char_limit": 1000,
+      "answer_length": 113
+    },
+    {
+      "question": "Describe the solubility and state properties of Dimethyl Ketone.",
+      "answer": "Dimethyl ketone, also known as acetone, is a clear, colorless liquid that is highly volatile and flammable. It is miscible with water, alcohol, ether, benzene, and chloroform.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:25",
+      "char_limit": 1800,
+      "answer_length": 175
+    },
+    {
+      "question": "Explain the process by which Dimethyl Ketone is produced using the Hock process.",
+      "answer": "Dimethyl ketone, commonly known as acetone, can be produced via the Hock process. In this method, cumene (chemical formula C6H5CH(CH3)2) undergoes oxidation to form cumene hydroperoxide (C6H5C(CH3)2COOH). This intermediate is then reduced to yield acetone and phenol (C6H5OH). This process is one of the primary industrial methods for acetone production.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:28",
+      "char_limit": 2000,
+      "answer_length": 354
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3772,
+  "updated_at": "2025-11-30 14:01:28",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 166,
+  "compound_name": "Theobromine",
+  "source_file": "compound_166_Theobromine.json",
+  "main_entry_length": 4006,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0894_Theobromine_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of theobromine. Theobromine is a compound primarily found in cocoa beans and chocolate. It is an alkaloid similar to caffeine, with stimulant properties, though milder. The compound contributes to the bitter flavor of dark chocolate. Theobromine has various effects on the body, including acting as a vasodilator, diuretic, and heart stimulant. It is also known to be toxic to some animals, like dogs, due to slower metabolism compared to humans.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:10"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of theobromine?",
+      "answer": "The chemical formula of theobromine is C7H8N4O2, and its molecular weight is 180.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does theobromine affect the body differently than caffeine?",
+      "answer": "Theobromine's effects on the human body are similar to those of caffeine, but about ten times weaker. Unlike caffeine, theobromine is not addictive, has no effect on the central nervous system, and provides only gentle stimulation to the kidneys. The effects of theobromine are longer-lasting compared to caffeine. Caffeine increases alertness and emotional stress, and it may have serious effects on the central nervous system and the kidneys.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process by which theobromine is typically extracted from cocoa bean hulls.",
+      "answer": "Theobromine is usually extracted from the hulls of cocoa beans left after chocolate production. The hulls are crushed and then treated with an absorbent, such as water or liquid carbon dioxide, which dissolves the theobromine. Afterward, the water or carbon dioxide is allowed to evaporate, permitting the crystallization of the pure theobromine compound.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

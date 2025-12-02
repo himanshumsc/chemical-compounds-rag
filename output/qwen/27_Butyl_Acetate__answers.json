@@ -1,0 +1,27 @@
+{
+  "source_file": "27_Butyl_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Butyl Acetate. Key properties of Butyl Acetate include:\n\n1. **Structure**: It consists of carbon (black), hydrogen (white), and oxygen (red) atoms. The gray sticks indicate double bonds.\n2. **Formation**: All three isomers of butyl acetate are made by reacting acetic acid (CH₃COOH) with the appropriate butyl alcohol: n-butyl alcohol, sec-butyl alcohol, or tert-butyl alcohol.\n3. **Uses**:\n   - Primarily used as a solvent in the production of lacquers and paints",
+      "latency_s": 16.41
+    },
+    {
+      "question": "What is the molecular formula of butyl acetate and what elements does it consist of?",
+      "answer": "Butyl acetate, also known as 1-butanol acetate or n-butyric acid ethyl ester, has the molecular formula \\( \\text{C}_5\\text{H}_{10}\\text{O}_2 \\).\n\nThe elements that make up butyl acetate are:\n\n- Carbon (C)\n- Hydrogen (H)\n- Oxygen (O)\n\nTo break it down further:\n- There are 5 carbon atoms.\n- There are 10 hydrogen atoms.\n- There are 2 oxygen atoms.\n\nSo, the molecular formula for butyl acetate is \\( \\text{C}_5\\",
+      "latency_s": 10.32
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl acetate and list its three isomeric forms.",
+      "answer": "Isomers are molecules that have the same molecular formula but differ in their structural arrangement or connectivity of atoms. This difference in structure leads to different physical and chemical properties, which can affect how they interact with other substances.\n\nIn the context of butyl acetate (C4H9CO2CH3), we are dealing with an ester compound where the butyl group (C4H9) is attached to the carboxylic acid group (CO2CH3). Butyl acetate has several isomers due to the different ways the butyl group can be arranged around the central carbon atom of the ester.\n\nThe three",
+      "latency_s": 10.32
+    },
+    {
+      "question": "Describe the industrial production process for butyl acetate and its primary uses.",
+      "answer": "Butyl acetate is an organic compound with the chemical formula C4H8O2, which is commonly known as butyl ethanoate or butyl acetate. It is a colorless liquid with a sweet odor and is widely used in various industries due to its solubility properties.\n\n### Production Process\n\nThe industrial production of butyl acetate primarily involves two main methods:\n\n1. **From Butanol:**\n   - **Step 1:** Butanol (butyl alcohol) is produced from n-butane through fermentation or hydration of butene.\n   - **Step 2:** Butanol undergoes esterification",
+      "latency_s": 10.32
+    }
+  ]
+}

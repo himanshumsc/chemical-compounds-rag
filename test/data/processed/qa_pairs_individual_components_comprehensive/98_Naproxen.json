@@ -1,0 +1,58 @@
+{
+  "compound_id": 95,
+  "compound_name": "Naproxen",
+  "source_file": "compound_095_Naproxen.json",
+  "main_entry_length": 1369,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0528_Naproxen_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:30",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of Naproxen. Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) commonly used to reduce pain, inflammation, and fever. Its structure includes the addition of a propanoyl group to 2-methoxynaphthalene. Naproxen is notable for being a chiral compound, which means it has two enantiomers that are non-superimposable mirror images. The S-enantiomer is the active form used in medications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:38"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Naproxen?",
+      "answer": "The chemical formula of Naproxen is C14H14O3, and its molecular weight is 230.26 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:52",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "Why is Naproxen classified as a non-steroidal anti-inflammatory drug (NSAID), and what are its primary uses?",
+      "answer": "Naproxen is classified as a non-steroidal anti-inflammatory drug (NSAID) because it reduces pain, fever, and inflammation without the use of steroids. It achieves this by inhibiting the action of an enzyme necessary for producing these effects in the body. Naproxen is a white to off-white odorless crystalline solid, and its primary uses are as an analgesic (pain reliever) and an antipyretic (fever-reducing compound). It is sold under various commercial names such as Aleve, Anaprox, and Naprosyn, among others. Naproxen is also available as a sodium salt, which is more readily absorbed in the gastrointestinal tract.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:54",
+      "char_limit": 1800,
+      "answer_length": 621
+    },
+    {
+      "question": "Describe the solubility characteristics of Naproxen and explain how these properties might influence its formulation as a pharmaceutical product.",
+      "answer": "Naproxen is insoluble in water but soluble in methyl alcohol and chloroform. These solubility characteristics influence its formulation as a pharmaceutical product, as its insolubility in water affects how it can be administered and absorbed in the body. To enhance absorption in the gastrointestinal tract, naproxen is often formulated as a sodium salt, which is more readily absorbed. This consideration is crucial in the development of effective and bioavailable oral dosage forms for this non-steroidal anti-inflammatory drug (NSAID).",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:56",
+      "char_limit": 2000,
+      "answer_length": 538
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3254,
+  "updated_at": "2025-11-30 14:10:57",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

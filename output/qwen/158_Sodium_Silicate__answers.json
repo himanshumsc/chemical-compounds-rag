@@ -1,0 +1,27 @@
+{
+  "source_file": "158_Sodium_Silicate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium silicate (Na2SiO3). The key properties of sodium silicate include:\n\n1. **Composition**: Sodium silicate consists of sodium ions (Na+), silicon atoms (Si), and oxygen atoms (O). Specifically, it has two sodium ions for every one silicon atom and three oxygen atoms.\n\n2. **Structure**: The silicon atom is bonded to four oxygen atoms, forming a tetrahedral arrangement around the silicon. Each oxygen atom is also bonded to a sodium ion.\n\n3. **Double Bond**: The gray stick indicates a double bond between the silicon and one of the oxygen",
+      "latency_s": 16.64
+    },
+    {
+      "question": "What is the chemical formula of sodium metasilicate, and what elements does it contain?",
+      "answer": "The chemical formula for sodium metasilicate is \\(\\text{Na}_2\\text{SiO}_3\\). This compound contains the following elements:\n\n- Sodium (Na)\n- Silicon (Si)\n- Oxygen (O)\n\nIn this formula:\n- Sodium (Na) has an atomic number of 11.\n- Silicon (Si) has an atomic number of 14.\n- Oxygen (O) has an atomic number of 8.\n\nSo, \\(\\text{Na}_2\\text{SiO}_3\\) indicates that there are two sodium atoms, one silicon atom, and three oxygen atoms in each molecule",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Describe the process of manufacturing sodium silicate.",
+      "answer": "Manufacturing sodium silicate, also known as water glass or silicic acid, involves a chemical reaction between sodium hydroxide (NaOH) and silicon dioxide (SiO2). Here's a step-by-step description of the process:\n\n### Materials Needed:\n1. **Sodium Hydroxide (NaOH)**: Also known as caustic soda.\n2. **Silicon Dioxide (SiO2)**: Usually obtained from sand or silica.\n\n### Process Steps:\n\n#### 1. Preparation of Sodium Hydroxide Solution:\n- **Causticization**: Sodium carbonate (Na2CO3), commonly known as",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Explain how the physical properties of sodium silicate vary and identify one key factor that influences these variations.",
+      "answer": "Sodium silicate, also known as water glass or silicic acid, is a complex mixture of sodium silicates with varying degrees of polymerization. Its physical properties can be influenced by several factors, including the method of preparation, concentration, pH, and temperature.\n\n### Physical Properties of Sodium Silicate\n\n1. **Viscosity**: Sodium silicate solutions have high viscosity due to their high molecular weight and the presence of long-chain polymers. The viscosity increases with higher concentrations of silicate ions and decreases with increasing temperature.\n\n2. **Density**: The density of sodium silicate solutions is typically around 1.3 g/cm³",
+      "latency_s": 10.57
+    }
+  ]
+}

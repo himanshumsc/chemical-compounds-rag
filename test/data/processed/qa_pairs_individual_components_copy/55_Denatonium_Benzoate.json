@@ -1,0 +1,36 @@
+{
+  "compound_id": 52,
+  "compound_name": "Denatonium Benzoate",
+  "source_file": "compound_052_Denatonium Benzoate.json",
+  "main_entry_length": 4406,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0322_Denatonium_Benzoate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:28",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Denatonium Benzoate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Denatonium Benzoate?",
+      "answer": "The chemical formula of Denatonium Benzoate is C28H34N2O3, and its molecular weight is 446.58 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Denatonium Benzoate is considered an effective deterrent in various applications.",
+      "answer": "Denatonium Benzoate is regarded as having the most bitter taste of any compound known, which acts as an effective deterrent because its taste is intolerable to most people at concentrations above 30 parts per million. This property is utilized to prevent ingestion of toxic substances like methanol, discourage thumb sucking and nail biting, and repel animals from crops and trees.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the solubility properties of Denatonium Benzoate and how they might affect its use in different applications.",
+      "answer": "Denatonium Benzoate is soluble in water and alcohol but insoluble in ether. This solubility profile allows it to be effectively used in aqueous and alcoholic solutions for applications such as deterring ingestion of liquids like methanol or being applied in solutions to nails or other surfaces. Its insolubility in ether suggests it would not be useful in applications requiring non-polar solvents.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

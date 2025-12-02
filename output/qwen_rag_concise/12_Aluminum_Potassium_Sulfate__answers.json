@@ -1,0 +1,59 @@
+{
+  "source_file": "12_Aluminum_Potassium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows Aluminum Potassium Sulfate (Alum). It contains red oxygen, yellow sulfur, turquoise potassium, and orange aluminum atoms. Properties: used in deodorants, antiseptics, and medicine; effective as an astringent; extracted from alunite and kalinite minerals.",
+      "latency_s": 40.85,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of aluminum potassium sulfate and what elements does it contain?",
+      "answer": "Aluminum Potassium Sulfate: Chemical Formula Al2(SO4)3, Elements aluminum, potassium, sulfur, oxygen",
+      "latency_s": 32.11,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the solubility properties of aluminum potassium sulfate and how it changes with temperature.",
+      "answer": "Aluminum Potassium Sulfate (Al2K(SO4)4·12H2O) is highly soluble in water, becoming more soluble as temperature increases. Solubility in many organic solvents (like alcohol, acetone) is low.",
+      "latency_s": 32.11,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the historical and modern uses of aluminum potassium sulfate and the reasons for its effectiveness in these applications.",
+      "answer": "Aluminum potassium sulfate, known as alum, has a long history in various applications, including water purification, dyeing, and tanning due to its ability to coagulate colloidal particles. Historically, it was used in textile dyeing and tanning processes for its ability to fix dyes and impart finishes. Modern uses include water treatment, where it coagulates colloids and prevents scaling. Its efficiency comes from its ability to adsorb impurities and colloidal particles, effectively removing them from the water. Its effectiveness in these applications is due to its chemical properties and capacity to form complex compounds.",
+      "latency_s": 32.11,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:29:31",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:29:31",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

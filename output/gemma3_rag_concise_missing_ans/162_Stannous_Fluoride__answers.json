@@ -1,0 +1,280 @@
+{
+  "source_file": "162_Stannous_Fluoride.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **stannous fluoride**. It's a compound with tin (Sn) and fluorine (F) atoms. It's used in toothpaste to prevent gingivitis and tooth decay, releasing fluoride to kill bacteria and remineralize enamel. It has a somewhat bitter taste.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of stannous fluoride?",
+      "answer": "Based on the provided data, the chemical formula for stannous fluoride is not explicitly stated. However, it is listed with an index number of 799.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_11",
+          "score": 0.8139521330595016,
+          "text": "Stannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n",
+          "metadata": {
+            "text_length": 1359,
+            "page_range": "12-12",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_11"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.7425745129585266,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_91",
+            "text_length": 1328,
+            "image_path": "",
+            "page_range": "92-92"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.729143351316452,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7095465064048767,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1769,
+            "page_range": "77-77",
+            "chunk_id": "chunk_76",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.6992583870887756,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "chunk_id": "chunk_0",
+            "image_path": "",
+            "page_range": "1-1",
+            "text_length": 162,
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.814)]\nStannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n\n\n[Source 2 (Relevance: 0.743)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n\n\n[Source 3 (Relevance: 0.729)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.710)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 5 (Relevance: 0.699)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC"
+    },
+    {
+      "question": "Why is stannous fluoride considered more effective in preventing cavities compared to other fluoride compounds?",
+      "answer": "The provided text does not contain information explaining why stannous fluoride is more effective than other fluoride compounds in preventing cavities. It only lists stannous fluoride and its associated numerical code (799) within a chemical compounds database.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_11",
+          "score": 0.7217170000076294,
+          "text": "Stannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n",
+          "metadata": {
+            "text_length": 1359,
+            "chunk_id": "chunk_11",
+            "has_image": false,
+            "page_range": "12-12",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.6337730288505554,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "page_range": "58-58",
+            "text_length": 1914,
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_57"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_90",
+          "score": 0.6168466210365295,
+          "text": "In addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_90",
+            "image_path": "",
+            "text_length": 1358,
+            "page_range": "91-91"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6127157807350159,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "has_image": false,
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.6093766689300537,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_53",
+            "text_length": 1567,
+            "image_path": "",
+            "page_range": "54-54"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.722)]\nStannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n\n\n[Source 2 (Relevance: 0.634)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 3 (Relevance: 0.617)]\nIn addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n\n\n[Source 4 (Relevance: 0.613)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.609)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain the dual mechanism by which stannous fluoride helps in preventing tooth decay.",
+      "answer": "The provided text does not contain information about the mechanism of action of stannous fluoride in preventing tooth decay. It only lists it in the chemical compounds database with an associated number (799).",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_11",
+          "score": 0.6745938360691071,
+          "text": "Stannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "12-12",
+            "text_length": 1359,
+            "chunk_id": "chunk_11",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.657994955778122,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "chunk_id": "chunk_57",
+            "page_range": "58-58",
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1914
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_90",
+          "score": 0.6337255835533142,
+          "text": "In addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1358,
+            "chunk_id": "chunk_90",
+            "page_range": "91-91",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6179369688034058,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "text_length": 1326,
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6013762950897217,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "image_path": "",
+            "text_length": 1769,
+            "has_image": false,
+            "chunk_id": "chunk_76"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.675)]\nStannous Fluoride . . . . . . . . . . . . . . . . . . 799\nStyrene . . . . . . . . . . . . . . . . . . . . . . . . . 803\nSucrose . . . . . . . . . . . . . . . . . . . . . . . . . 807\nSucrose Polyester . . . . . . . . . . . . . . . . . . . .813\nSulfur Dioxide . . . . . . . . . . . . . . . . . . . . . .819\nSulfuric Acid . . . . . . . . . . . . . . . . . . . . . . 825\nTannic Acid. . . . . . . . . . . . . . . . . . . . . . . .831\nTestosterone . . . . . . . . . . . . . . . . . . . . . . 837\nTheobromine . . . . . . . . . . . . . . . . . . . . . . 843\nThiamine . . . . . . . . . . . . . . . . . . . . . . . . 847\nToluene . . . . . . . . . . . . . . . . . . . . . . . . . 853\nTriclocarban . . . . . . . . . . . . . . . . . . . . . . 859\nTriclosan . . . . . . . . . . . . . . . . . . . . . . . . 863\nUrea . . . . . . . . . . . . . . . . . . . . . . . . . . . 867\nVanillin . . . . . . . . . . . . . . . . . . . . . . . . . 873\nWater. . . . . . . . . . . . . . . . . . . . . . . . . . . 879\nZinc Oxide . . . . . . . . . . . . . . . . . . . . . . . 885\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nCHEMICAL COMPOUNDS\nxi\nContents\n\n\n[Source 2 (Relevance: 0.658)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 3 (Relevance: 0.634)]\nIn addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n\n\n[Source 4 (Relevance: 0.618)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.601)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:50:26",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:50:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    3,
+    4
+  ]
+}

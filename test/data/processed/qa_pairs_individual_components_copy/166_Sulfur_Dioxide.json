@@ -1,0 +1,36 @@
+{
+  "compound_id": 162,
+  "compound_name": "Sulfur Dioxide",
+  "source_file": "compound_162_Sulfur Dioxide.json",
+  "main_entry_length": 3094,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0870_Sulfur_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sulfur Dioxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of sulfur dioxide, and what elements does it contain?",
+      "answer": "The chemical formula of sulfur dioxide is SO2. It contains the elements sulfur and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the dual role of sulfur dioxide as an oxidizing and reducing agent.",
+      "answer": "Sulfur dioxide can act as both an oxidizing agent and a reducing agent. As an oxidizing agent, it can provide oxygen to other substances or accept electrons. As a reducing agent, it can remove oxygen from other substances or donate electrons. This dual functionality makes it a versatile chemical in various reactions.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process and significance of capturing sulfur dioxide as a byproduct during the smelting of metallic ores.",
+      "answer": "Sulfur dioxide is produced as a byproduct during the smelting of metallic ores, a process where metal is extracted from its ore by heating in air. Since many ores are sulfides, the smelting process results in the formation of sulfur dioxide. Capturing this sulfur dioxide is significant because it prevents the gas from being released into the atmosphere, where it would contribute to air pollution. Instead, it can be collected and used in various industrial applications, such as the production of chemical compounds like sulfuric acid and sodium bisulfite.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

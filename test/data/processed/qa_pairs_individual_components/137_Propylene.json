@@ -1,0 +1,38 @@
+{
+  "compound_id": 133,
+  "compound_name": "Propylene",
+  "source_file": "compound_133_Propylene.json",
+  "main_entry_length": 1293,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0720_Propylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of propylene, also known as propene. It is a hydrocarbon with the chemical formula C₃H₆. Key properties of propylene include:\n\n1. **Structure**: It consists of three carbon atoms and six hydrogen atoms, with a double bond between two of the carbon atoms.\n2. **Physical State**: It is a colorless gas at room temperature.\n3. **Reactivity**: The presence of the double bond makes it more reactive than alkanes, allowing it to undergo addition reactions.\n4. **Uses**: It is used in the production of polypropylene, a common plastic, and as a raw material in...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:03"
+    },
+    {
+      "question": "What is the chemical formula of propylene and what type of compound is it classified as?",
+      "answer": "The chemical formula of propylene is CH2=CHCH3. It is classified as an alkene, which is an unsaturated hydrocarbon.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of propylene and how it relates to its molecular structure.",
+      "answer": "Propylene is slightly soluble in water but very soluble in ethyl alcohol and ether. This solubility behavior is due to its nonpolar molecular structure, which makes it more compatible with other nonpolar solvents like ethyl alcohol and ether, rather than polar solvents like water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the commercial production process of propylene and explain the role of a catalyst in this process.",
+      "answer": "Propylene is produced commercially through the thermal or catalytic cracking of hydrocarbons. In catalytic cracking, a catalyst is used to increase the rate of the chemical reaction without undergoing any permanent chemical change itself. This process involves breaking down larger hydrocarbon molecules into smaller ones, such as propylene, through the application of heat or the use of a catalyst.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

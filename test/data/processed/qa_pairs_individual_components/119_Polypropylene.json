@@ -1,0 +1,38 @@
+{
+  "compound_id": 116,
+  "compound_name": "Polypropylene",
+  "source_file": "compound_116_Polypropylene.json",
+  "main_entry_length": 5063,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0638_Polypropylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:57",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is polypropylene. It is a polymer made by the polymerization of propylene monomers (CH₃CH=CH₂). Key properties of polypropylene include:\n\n1. **Lightweight**: It has a low density, making it ideal for various applications.\n2. **High Resistance**: It is resistant to chemical solvents, acids, and bases.\n3. **Durability**: Polypropylene is tough and resilient, providing good impact resistance.\n4. **Versatile**: It can be used in various forms, such as fibers, films, and molded products.\n5. **Thermoplastic**: It softens when heated, allowing it to be...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:45"
+    },
+    {
+      "question": "What is the chemical formula and compound type of polypropylene?",
+      "answer": "Polypropylene is an organic polymer with the chemical formula -[-CH(CH3)CH2-]-n. It consists of carbon and hydrogen elements.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is polypropylene considered a thermoplastic polymer, and how does this property affect its usability?",
+      "answer": "Polypropylene is considered a thermoplastic polymer because it can be repeatedly heated and cooled, transitioning from a solid to a liquid and back again. This property allows it to be molded and extruded into various shapes and forms, making it versatile for applications such as fibers, fabrics, and containers.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the role of catalysts in the production of crystalline polypropylene and name one type of catalyst used.",
+      "answer": "In the production of crystalline polypropylene, catalysts are crucial for controlling the polymerization process to ensure that all methyl groups extend in the same direction from the main chain, creating a crystalline structure with desirable properties. Titanium chloride, a metal halide, is one type of catalyst used to achieve this effect. More recently, metallocenes have also been used as efficient catalysts for producing crystalline polypropylene.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

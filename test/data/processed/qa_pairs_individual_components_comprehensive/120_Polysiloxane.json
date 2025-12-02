@@ -1,0 +1,58 @@
+{
+  "compound_id": 117,
+  "compound_name": "Polysiloxane",
+  "source_file": "compound_117_Polysiloxane.json",
+  "main_entry_length": 1447,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0642_Polysiloxane_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:02",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of polysiloxane. Polysiloxanes consist of a backbone of alternating silicon (turquoise atoms) and oxygen (red atoms) atoms, with organic groups attached to the silicon. These compounds exhibit a range of physical states, from liquids to semi-solid, rubber-like materials. They are generally chemically inert, resistant to heat, and have versatile applications due to their stability and flexibility. Polysiloxanes are commonly used in products like lubricants, adhesives, and sealants.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:46"
+    },
+    {
+      "question": "What elements are always present in the structure of polysiloxane, and which elements are almost always present?",
+      "answer": "In the structure of polysiloxane, the elements that are always present are silicon and oxygen. Elements that are almost always present are carbon and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:21",
+      "char_limit": 1000,
+      "answer_length": 159
+    },
+    {
+      "question": "Explain the structural difference between a linear and a cyclic polysiloxane molecule.",
+      "answer": "Based on the provided information, polysiloxanes are compounds with a silicon-oxygen backbone arranged either in a linear or cyclic (ring) pattern. \n\n- **Linear Polysiloxane Molecules:** These have a straight chain structure where the silicon-oxygen units (-Si-O-Si-O-Si-) are connected in a continuous, non-repeating line. This arrangement allows for a potentially infinite chain length, depending on the specific polymer.\n\n- **Cyclic Polysiloxane Molecules:** These are structured in a closed loop or ring, meaning the silicon-oxygen units form a circular arrangement. This configuration results in a defined, finite number of repeating units, creating a distinct ring structure.\n\nIn both types, each silicon atom has two additional oxygen atoms attached, and many polysiloxanes have alkyl groups (such as methyl groups) attached to the silicon atoms, replacing one or more of the oxygens not part of the backbone. These variations allow for different properties and applications of polysiloxanes.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:26",
+      "char_limit": 1800,
+      "answer_length": 999
+    },
+    {
+      "question": "How do modifications to the organosiloxane polymers influence the properties and applications of polysiloxanes?",
+      "answer": "Modifications to organosiloxane polymers, achieved by incorporating various alkyl groups in different chain lengths and conformations, result in a wide array of products. These modifications allow for the adjustment of the properties of polysiloxanes, making them versatile in their applications. The polymers are known to be chemically inert and resistant to heat, traits that are influenced by the types of alkyl groups attached. Organosiloxanes, commonly referred to as silicones, can vary in their physical state from solids to liquids and possess differing solubility properties. The ability to modify these polymers results in a range of materials from gels to semi-solid, rubber-like substances, each with distinct characteristics suitable for various uses.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:28",
+      "char_limit": 2000,
+      "answer_length": 764
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3107,
+  "updated_at": "2025-11-30 13:39:29",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

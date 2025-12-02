@@ -1,0 +1,59 @@
+{
+  "source_file": "147_Sodium_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows sodium acetate trihydrate. It has red atoms as oxygen, white as hydrogen, black as carbon, and turquoise as sodium. Key properties: used in textiles, mordant for dyeing, stabilizes fabric finish. Anhydrous salt prepared by heating hydrate.",
+      "latency_s": 40.32,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of sodium acetate and its molecular weight?",
+      "answer": "Sodium acetate has the formula NaC2H3O2 and a molecular weight of 81.00 g/mol.",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the process of how sodium acetate is prepared using sodium hydroxide and acetic acid.",
+      "answer": "Sodium acetate is prepared by reacting sodium hydroxide (NaOH) with acetic acid (CH3COOH). The reaction produces sodium acetate (CH3COONa) as a salt. This process typically involves dissolving acetic acid in water, adding sodium hydroxide, and allowing the reaction to proceed, often requiring heating to drive the reaction to completion.",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss why sodium acetate is used in the textile industry and describe its physical properties that make it suitable for this application.",
+      "answer": "Sodium acetate is used in the textile industry as a fabric softener and sizing agent due to its ability to form a thin film on fabric fibers, which enhances softness and reduces static. Its physical properties, such as solubility in water and organic solvents, make it suitable for application in textile treatments.",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:32:09",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:32:09",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

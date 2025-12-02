@@ -1,0 +1,27 @@
+{
+  "source_file": "39_Carbon_Tetrachloride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Carbon Tetrachloride (CCl₄). Key properties of Carbon Tetrachloride include:\n\n1. **Chemical Composition**: It consists of one carbon atom bonded to four chlorine atoms.\n2. **Physical State**: It is a colorless liquid at room temperature.\n3. **Boiling Point**: It has a boiling point of approximately 76.8°C.\n4. **Solubility**: It is highly soluble in organic solvents but insoluble in water.\n5. **Reactivity**: It is relatively inert under normal conditions but can react with strong bases or",
+      "latency_s": 16.47
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Carbon Tetrachloride?",
+      "answer": "The chemical formula for Carbon Tetrachloride (CCl₄) is CCl₄.\n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the molecule:\n\n- Carbon (C): The atomic weight of carbon is approximately 12.01 g/mol.\n- Chlorine (Cl): The atomic weight of chlorine is approximately 35.45 g/mol.\n\nSince there is one carbon atom and four chlorine atoms in CCl₄, the calculation is as follows:\n\n\\[ \\text{Molecular Weight} = (1 \\times 12.01 \\,",
+      "latency_s": 10.47
+    },
+    {
+      "question": "Why is Carbon Tetrachloride classified as a halogenated hydrocarbon?",
+      "answer": "Carbon tetrachloride, with the chemical formula \\( \\text{CCl}_4 \\), is classified as a halogenated hydrocarbon because it contains both carbon and chlorine atoms. Specifically:\n\n1. **Hydrocarbon**: The term \"hydrocarbon\" refers to any compound that consists of only carbon and hydrogen atoms. However, in the case of carbon tetrachloride, while it does contain carbon, it also contains chlorine.\n\n2. **Halogenated**: The prefix \"halo-\" comes from the Greek word for \"salt,\" indicating that the compound contains one or more halogen atoms (fluorine",
+      "latency_s": 10.47
+    },
+    {
+      "question": "Discuss the historical applications of Carbon Tetrachloride and the reasons for the decline in its usage.",
+      "answer": "Carbon tetrachloride (CCl₄) is a chlorinated hydrocarbon with the chemical formula CCl₄. It was once widely used due to its unique properties, including its non-flammability, low toxicity, and high boiling point. However, its use has significantly declined over time due to several critical issues related to environmental and health concerns.\n\n### Historical Applications\n\n1. **Solvent**: One of the earliest and most significant uses of carbon tetrachloride was as an industrial solvent. It was used in the production of synthetic fibers, dyes, and plastics because it could dissolve many organic compounds that",
+      "latency_s": 10.47
+    }
+  ]
+}

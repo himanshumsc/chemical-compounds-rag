@@ -1,0 +1,36 @@
+{
+  "compound_id": 3,
+  "compound_name": "Acetylsalicylic Acid",
+  "source_file": "compound_003_Acetylsalicylic Acid.json",
+  "main_entry_length": 1443,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0082_Acetylsalicylic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:46",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Acetylsalicylic Acid.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Acetylsalicylic Acid?",
+      "answer": "The chemical formula of Acetylsalicylic Acid is CH3COOC6H4COOH, and its molecular weight is 180.17 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why the boiling point of Acetylsalicylic Acid is not applicable.",
+      "answer": "The boiling point of Acetylsalicylic Acid is not applicable because it decomposes before reaching a boiling point. Specifically, it melts at 135°C (275°F) and begins to decompose, making it impossible to measure a boiling point under normal conditions.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical significance of Acetylsalicylic Acid and its origins.",
+      "answer": "Acetylsalicylic Acid, more commonly known as aspirin, is derived from salicylic acid, which has been used for its analgesic properties for over 3,500 years. These properties were first documented in Egyptian scrolls around 1550 BCE. The use of willow tree bark, which contains salicylic acid, was recommended by ancient authorities such as Hippocrates, the famous Greek physician, Aulus Cornelius Celsus, a Roman encyclopedist, Pliny the Elder, a Roman philosopher, and Pedanius Dioscorides, a Greek physician.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}
