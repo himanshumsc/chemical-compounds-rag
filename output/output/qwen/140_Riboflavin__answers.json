@@ -1,0 +1,27 @@
+{
+  "source_file": "140_Riboflavin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Riboflavin (Vitamin B2). Key properties of Riboflavin include:\n\n1. **Chemical Composition**: It consists of carbon (black atoms), hydrogen (white atoms), oxygen (red atoms), and nitrogen (blue atoms).\n2. **Structure**: The molecule contains a benzene ring, which is indicated by the striped sticks.\n3. **Function**: Riboflavin is essential for various biological processes, including energy production in cells and maintaining healthy skin, eyes, and mucous membranes.\n4. **Sources**: It is naturally synthesized by plants and microorganisms. Foods",
+      "latency_s": 16.65
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of riboflavin?",
+      "answer": "Riboflavin, also known as Vitamin B2, has the chemical formula \\( \\text{C}_{17}\\text{H}_{20}\\text{N}_{4}\\text{O}_{6} \\).\n\nTo calculate the molecular weight of riboflavin, we sum the atomic weights of all the atoms in its formula:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Nitrogen (N): 14.01 g/mol\n- Oxygen (O): 16.00 g/mol",
+      "latency_s": 10.51
+    },
+    {
+      "question": "How does riboflavin interact with light and what is its stability under different conditions?",
+      "answer": "Riboflavin, also known as vitamin B2, is a water-soluble vitamin that plays a crucial role in many biological processes, including energy production, cell growth, and maintenance of healthy skin and eyes. Riboflavin is sensitive to light, particularly ultraviolet (UV) light, which can cause it to degrade or lose its activity.\n\n### Interaction with Light:\n1. **Photodegradation**: Riboflavin is highly susceptible to photodegradation when exposed to UV light. This process involves the breaking of chemical bonds within the molecule due to the absorption of UV light. The primary sites of degradation are the",
+      "latency_s": 10.51
+    },
+    {
+      "question": "Describe the synthesis process of riboflavin using Bacillus subtilis or Ashbya gossifyii.",
+      "answer": "Riboflavin, also known as vitamin B2, is a water-soluble vitamin that plays a crucial role in various biological processes, including energy production and redox reactions. The synthesis of riboflavin can be achieved through the use of microorganisms such as Bacillus subtilis and Ashbya gossypii. These bacteria have been engineered to produce riboflavin efficiently.\n\n### Synthesis Process Using Bacillus subtilis\n\n1. **Strain Selection**: Bacillus subtilis is a Gram-positive bacterium that naturally produces riboflavin. However, it may not produce sufficient quantities for",
+      "latency_s": 10.51
+    }
+  ]
+}

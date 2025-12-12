@@ -1,0 +1,36 @@
+{
+  "compound_id": 85,
+  "compound_name": "Magnesium Sulfate",
+  "source_file": "compound_085_Magnesium Sulfate.json",
+  "main_entry_length": 4135,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0480_Magnesium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:52",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Magnesium Sulfate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Sulfate?",
+      "answer": "The chemical formula for Magnesium Sulfate is MgSO4, and its molecular weight is 120.40 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the different hydrated forms of Magnesium Sulfate and their natural occurrences.",
+      "answer": "Magnesium Sulfate occurs as an anhydrous salt and in several hydrated forms, including MgSO4·H2O, MgSO4·4H2O, MgSO4·5H2O, MgSO4·6H2O, and MgSO4·7H2O. The heptahydrate form, MgSO4·7H2O, is commonly known as Epsom salts. Each hydrate has its mineral form: kieserite (MgSO4·H2O), starkeyite (MgSO4·4H2O), pentahydrite (MgSO4·5H2O), hexahydrite (MgSO4·6H2O), and epsomite (MgSO4·7H2O). These hydrates lose water upon heating, with the heptahydrate losing water at various temperatures.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the commercial and industrial applications of Magnesium Sulfate and its significance.",
+      "answer": "Magnesium Sulfate, particularly in its heptahydrate form known as Epsom salts, has several commercial and industrial uses. It is used medicinally to reduce inflammation and swelling when added to bathwater. In agriculture, it is used in animal feed and fertilizers to provide essential magnesium. In the textile industry, it serves various roles such as weighting and sizing silk, acting as a mordant, and fireproofing fabrics. Additionally, Magnesium Sulfate is used in the production of ceramics, in the preparation of oxysulfate cement, and in electroplating processes. These applications highlight its versatility and importance across different sectors.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,57 @@
+2025-11-23 04:42:36,322 [INFO] ======================================================================
+2025-11-23 04:42:36,322 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-23 04:42:36,322 [INFO] ======================================================================
+2025-11-23 04:42:36,322 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-23 04:42:36,322 [INFO] Output directory: /home/himanshu/dev/output/qwen_rag
+2025-11-23 04:42:36,322 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-23 04:42:36,322 [INFO] Max tokens: 500
+2025-11-23 04:42:36,322 [INFO] vLLM available: True
+2025-11-23 04:42:36,322 [INFO] ChromaDB available: True
+2025-11-23 04:42:36,322 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-23 04:42:36,322 [INFO] Test limit: 3
+2025-11-23 04:42:36,322 [INFO] ======================================================================
+2025-11-23 04:42:36,322 [INFO] Initializing model...
+2025-11-23 04:42:37,359 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-23 04:42:37,360 [INFO] vLLM is REQUIRED - no Transformers fallback available
+2025-11-23 04:42:37,360 [INFO] Environment variables set: VLLM_SKIP_MM_PROFILE=1, SKIP_MM_PROFILE=1
+2025-11-23 04:42:37,360 [INFO] Starting vLLM initialization (this may take 20-30 seconds)...
+2025-11-23 04:43:02,102 [INFO] vLLM initialized successfully for all question types
+2025-11-23 04:43:02,102 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-23 04:43:06,051 [INFO] ChromaDB search system initialized successfully
+2025-11-23 04:43:06,051 [INFO] Model initialized. Using vLLM: True, RAG: True
+2025-11-23 04:43:06,052 [INFO] TEST MODE: Processing 3 files
+2025-11-23 04:43:06,053 [INFO] Total files to process: 3
+2025-11-23 04:43:06,053 [INFO] 
+Processing batch 1 (3 files)
+2025-11-23 04:43:06,053 [INFO] Loading: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-23 04:43:06,053 [INFO] Loading: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-23 04:43:06,054 [INFO] Loading: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-23 04:43:07,422 [INFO]   Batch Q1: Generating 3 vision questions with RAG...
+2025-11-23 04:43:39,005 [INFO]     Q1[0] done: 30.03s (RAG: True, chunks: 5)
+2025-11-23 04:43:39,005 [INFO]     Q1[1] done: 30.03s (RAG: True, chunks: 5)
+2025-11-23 04:43:39,006 [INFO]     Q1[2] done: 30.03s (RAG: True, chunks: 5)
+2025-11-23 04:43:39,006 [INFO]   Batch Q2-Q4: Generating 9 text questions with RAG...
+2025-11-23 04:43:59,804 [INFO]     Q2[0] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,804 [INFO]     Q3[0] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,804 [INFO]     Q4[0] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,804 [INFO]     Q2[1] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,804 [INFO]     Q3[1] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,804 [INFO]     Q4[1] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,805 [INFO]     Q2[2] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,805 [INFO]     Q3[2] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,805 [INFO]     Q4[2] done: 20.40s (RAG: True, chunks: 5)
+2025-11-23 04:43:59,805 [INFO]   ✓ Saved 100_Nicotine__answers.json
+2025-11-23 04:43:59,806 [INFO]   ✓ Saved 101_Nitric_Acid__answers.json
+2025-11-23 04:43:59,806 [INFO]   ✓ Saved 102_Nitric_Oxide__answers.json
+2025-11-23 04:43:59,806 [INFO] 
+======================================================================
+2025-11-23 04:43:59,806 [INFO] REGENERATION SUMMARY
+2025-11-23 04:43:59,806 [INFO] ======================================================================
+2025-11-23 04:43:59,807 [INFO] Total files: 3
+2025-11-23 04:43:59,807 [INFO] Successful: 3
+2025-11-23 04:43:59,807 [INFO] Failed: 0
+2025-11-23 04:43:59,807 [INFO] Total time: 53.75s (0.90 min)
+2025-11-23 04:43:59,807 [INFO] Average per file: 17.92s
+2025-11-23 04:43:59,807 [INFO] vLLM used: True
+2025-11-23 04:43:59,807 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_rag/rag_regeneration_summary.json
+2025-11-23 04:43:59,807 [INFO] ======================================================================

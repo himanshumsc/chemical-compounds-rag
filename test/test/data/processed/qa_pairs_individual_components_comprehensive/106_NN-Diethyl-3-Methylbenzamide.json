@@ -1,0 +1,58 @@
+{
+  "compound_id": 93,
+  "compound_name": "N,N-Diethyl-3-Methylbenzamide",
+  "source_file": "compound_093_N,N-Diethyl-3-Methylbenzamide.json",
+  "main_entry_length": 4468,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0520_N,N-Diethyl-3-Methylbenzamide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:23",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is N,N-diethyl-3-methylbenzamide, commonly known as DEET. It's an effective insect repellent, widely regarded as the \"gold standard.\" DEET is used in various formulations like solutions, lotions, creams, gels, sprays, and towelettes. It was initially developed for military use and became available to the public in 1957. DEET works by interfering with the receptors insects use to detect human presence, effectively masking the human scent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:07"
+    },
+    {
+      "question": "What is the chemical formula of N,N-Diethyl-3-Methylbenzamide, and what elements does it contain?",
+      "answer": "The chemical formula of N,N-Diethyl-3-Methylbenzamide is C6H4(CH3)CON(C2H5)2. It contains the elements carbon, hydrogen, nitrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:28",
+      "char_limit": 1000,
+      "answer_length": 142
+    },
+    {
+      "question": "Describe the solubility characteristics of N,N-Diethyl-3-Methylbenzamide.",
+      "answer": "N,N-Diethyl-3-Methylbenzamide, commonly known as DEET, is insoluble in water but soluble in alcohol, ether, benzene, and most other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:29",
+      "char_limit": 1800,
+      "answer_length": 149
+    },
+    {
+      "question": "Explain the process by which N,N-Diethyl-3-Methylbenzamide (DEET) repels insects and discuss its safety considerations.",
+      "answer": "N,N-Diethyl-3-Methylbenzamide, commonly known as DEET, repels insects by blocking receptors on a mosquito's antennae that help it detect carbon dioxide and lactic acid emitted through skin perspiration and breath. Without these chemical cues, insects cannot locate their prey, effectively preventing bites. DEET does not kill insects but repels them for several hours after application.\n\nDEET is regarded as a safe product when used as directed. It is rapidly absorbed through the skin, with up to 56% penetrating within six hours, and is metabolized by the liver and excreted in the urine within twelve hours. However, if inhaled or ingested, DEET can cause serious health effects such as headaches, seizures, and brain swelling, although such symptoms are rare. The compound is not recommended for use on babies under two months old, and the EPA has advised caution when using it.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:32",
+      "char_limit": 2000,
+      "answer_length": 882
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4766,
+  "updated_at": "2025-11-30 13:36:32",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

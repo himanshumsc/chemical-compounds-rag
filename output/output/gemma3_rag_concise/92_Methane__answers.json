@@ -1,0 +1,59 @@
+{
+  "source_file": "92_Methane.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **methane**. It's a hydrocarbon (carbon & hydrogen) found in natural gas. It's formed via the Sabatier process (hydrogen + carbon dioxide). Key properties: abundant, used as fuel, and a component of natural gas.",
+      "latency_s": 24.0,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methane?",
+      "answer": "According to Source 3, the chemical formula for methane is CH4, and its molecular weight is not provided.",
+      "latency_s": 45.48,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Discuss the solubility properties of methane and its density relative to air.",
+      "answer": "The provided text does not contain information on methane's solubility or density relative to air. It discusses solubility generally (Source 4), stating that most reactions occur when reactants are dissolved, and mentions water as a common solvent for inorganic compounds. It details production methods and interesting facts about several compounds, but not methane specifically.",
+      "latency_s": 45.48,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how methane is formed and how it is found in nature.",
+      "answer": "Methane (CH₄) is formed through decomposition of organic matter in the absence of oxygen – a process called anaerobic decomposition. This occurs in environments like swamps, marshes, and the guts of animals.\n\nIt's found naturally in:\n\n*   **Natural gas deposits:** Formed deep underground over millions of years.\n*   **Hydrates:** Ice-like structures containing methane, found in permafrost and ocean sediments.\n*   **Biogenic sources:** Released from wetlands, rice paddies, and livestock.",
+      "latency_s": 45.48,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:13:00",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:13:00",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

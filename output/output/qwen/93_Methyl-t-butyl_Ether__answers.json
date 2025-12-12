@@ -1,0 +1,27 @@
+{
+  "source_file": "93_Methyl-t-butyl_Ether.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Methyl t Butyl Ether (MTBE). Key properties of MTBE include:\n\n1. **Chemical Composition**: MTBE consists of carbon (black atoms), hydrogen (white atoms), and oxygen (red atom).\n2. **Structure**: It has a central carbon atom bonded to four methyl groups (CH3) and one tert-butyl group (C(CH3)2).\n3. **Role in Fuels**: MTBE is added to gasoline as an oxygenate to improve combustion efficiency and reduce pollutants.\n4. **Production**: MTBE production increased significantly from about 500 million",
+      "latency_s": 16.45
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Methyl-t-butyl Ether?",
+      "answer": "The chemical formula for Methyl-t-butyl Ether (MTBE) is C5H12O. \n\nTo calculate its molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 6.015 g/mol × 5 = 30.075 g/mol\n- Hydrogen (H): 1.008 g/mol × 12 = 12.096 g/mol\n- Oxygen (O): 15.999 g/mol × 1 = 15.999 g/mol\n\nAdding these together",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the significance of Methyl-t-butyl Ether's azeotropic mixture with water.",
+      "answer": "Methyl-t-butyl ether (MTBE) is a volatile organic compound that has been widely used as an oxygenate in gasoline to improve its octane rating and reduce carbon monoxide emissions. However, MTBE has also been found to be highly soluble in water and can contaminate groundwater if released into the environment.\n\nThe significance of MTBE's azeotropic mixture with water lies in its ability to form a homogeneous solution with water at specific temperatures and pressures. This property makes it difficult to separate MTBE from water through conventional distillation methods, which can lead to contamination of water supplies.\n\nAn azeotropic mixture occurs when two",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Discuss the historical context and environmental impact that led to the use of Methyl-t-butyl Ether as a gasoline additive.",
+      "answer": "Methyl-t-butyl Ether (MTBE) was widely used as an oxygenate in gasoline, particularly in the United States, from the 1970s until its phase-out in 2009 due to environmental concerns. Here's a detailed look at the historical context and environmental impact that led to its use:\n\n### Historical Context\n\n1. **Air Quality Regulations**: In the 1970s, the Clean Air Act in the United States required the reduction of hydrocarbons and carbon monoxide emissions from vehicles. MTBE was added to gasoline because it increased the octane rating of gasoline, which is",
+      "latency_s": 10.37
+    }
+  ]
+}

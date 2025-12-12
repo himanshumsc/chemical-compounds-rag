@@ -1,0 +1,36 @@
+{
+  "compound_id": 151,
+  "compound_name": "Sodium Perborate",
+  "source_file": "compound_151_Sodium Perborate.json",
+  "main_entry_length": 2515,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0816_Sodium_Perborate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Perborate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula for sodium perborate and what elements does it consist of?",
+      "answer": "The chemical formula for sodium perborate is NaBO3. It consists of sodium (Na), boron (B), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "answer": "When dissolved in water, sodium perborate decomposes to yield hydrogen peroxide (H2O2) and sodium borate (Na2B4O7). The hydrogen peroxide further breaks down to release nascent oxygen, which is highly reactive.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain how sodium perborate is used in detergents and the chemical basis for its effectiveness as a bleaching agent.",
+      "answer": "Sodium perborate is used in detergents because it acts as a mild and relatively safe oxidizing agent. When dissolved in water, it decomposes to produce hydrogen peroxide, which releases nascent oxygen. This nascent oxygen is highly reactive and can oxidize substances, leading to bleaching and the destruction of microorganisms. This oxidation process makes detergents more effective in removing stains, preserving the whiteness of fabrics, and maintaining the colors of colored cloth.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 28,
+  "compound_name": "Calcium Hydroxide",
+  "source_file": "compound_028_Calcium Hydroxide.json",
+  "main_entry_length": 2405,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0198_Calcium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of calcium hydroxide, denoted as Ca(OH)₂. In the diagram, red atoms represent oxygen, white atoms represent hydrogen, and the turquoise atom represents calcium.\n\nKey properties of calcium hydroxide include:\n\n1. **Alkalinity**: It is a strong base and is used to neutralize acids.\n2. **Solubility**: It is slightly soluble in water, forming a solution known as limewater.\n3. **Uses**: Commonly used in building materials like mortar, plasters, and cements. It also helps in soil stabilization and pH adjustment.\n4. **Reactivity**: Reacts with carbon dioxide to...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:09"
+    },
+    {
+      "question": "What is the chemical formula of calcium hydroxide and what elements does it contain?",
+      "answer": "The chemical formula of calcium hydroxide is Ca(OH)2. It contains the elements calcium (Ca), oxygen (O), and hydrogen (H).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why calcium hydroxide often becomes contaminated and how can this be prevented.",
+      "answer": "Calcium hydroxide absorbs carbon dioxide readily from the air, which causes it to change into calcium carbonate (CaCO3). This reaction results in contamination of the compound. To prevent this contamination, calcium hydroxide should be stored in tightly sealed containers to minimize exposure to air.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the role of calcium hydroxide in neutralizing acidic soils and the chemical process involved.",
+      "answer": "Calcium hydroxide is used to neutralize acidic soils, making them more suitable for plant growth. The hydroxide ions (OH-) from calcium hydroxide react with the hydrogen ions (H+) present in acidic soil, forming water (H2O). This reaction reduces the acidity of the soil, resulting in a more neutral pH level that is conducive to plant growth.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

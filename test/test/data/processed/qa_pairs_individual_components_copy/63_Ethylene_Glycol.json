@@ -1,0 +1,36 @@
+{
+  "compound_id": 60,
+  "compound_name": "Ethylene Glycol",
+  "source_file": "compound_060_Ethylene Glycol.json",
+  "main_entry_length": 4121,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0364_Ethylene_Glycol_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:07",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Ethylene Glycol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethylene glycol?",
+      "answer": "The chemical formula of ethylene glycol is CH2OHCH2OH, and its molecular weight is 62.07 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why ethylene glycol is used in radiator coolants instead of plain water.",
+      "answer": "Ethylene glycol is used in radiator coolants because it raises the boiling point of the coolant. This allows airplanes to fly faster with smaller radiators without the risk of the radiator boiling over, which was a problem when using plain water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the primary industrial method for producing ethylene glycol and discuss its efficiency.",
+      "answer": "The primary industrial method for producing ethylene glycol involves the hydration of ethylene oxide. This process can be conducted at about 195°C without a catalyst or at 50°C to 70°C using a strong acid catalyst. Both methods result in a yield of at least 90 percent, making it an efficient method of production.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

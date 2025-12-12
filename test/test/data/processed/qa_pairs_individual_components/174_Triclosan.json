@@ -1,0 +1,38 @@
+{
+  "compound_id": 170,
+  "compound_name": "Triclosan",
+  "source_file": "compound_170_Triclosan.json",
+  "main_entry_length": 2702,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0914_Triclosan_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Triclosan. It's an antibacterial and antifungal agent used in various consumer products such as soaps, toothpaste, and other cleaning products. Triclosan is effective in controlling bacteria and is commonly used in hospitals to prevent infections. However, its widespread use raised concerns about environmental impact and potential contribution to antibiotic resistance. Triclosan can inhibit the growth of bacteria that cause dental cavities and other infections.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:18"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Triclosan?",
+      "answer": "The molecular formula of Triclosan is C6H3ClOH-O-C6H3Cl2, and its molecular weight is 289.54 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does Triclosan exhibit its antimicrobial properties?",
+      "answer": "Triclosan exhibits its antimicrobial properties by inhibiting the action of the enzyme enoyl-acyl carrier-protein reductase (ENR), which is necessary for bacteria and fungi to synthesize fatty acids needed for cell membrane construction. Without the ability to manufacture cell walls, these microorganisms die. This enzyme is not present in humans, so Triclosan does not affect the human body.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe one method of synthesizing Triclosan and explain why it might be preferred in manufacturing.",
+      "answer": "One method of synthesizing Triclosan involves reacting 1,4-dichloro-2-nitrobenzene (C6H3Cl2NO3) with 2,4-dichlorophenol (C6H3ClOH). This method might be preferred in manufacturing due to the straightforward availability of the starting materials and potentially fewer steps compared to other synthetic routes. This could lead to a more efficient production process.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

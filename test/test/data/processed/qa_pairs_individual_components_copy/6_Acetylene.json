@@ -1,0 +1,36 @@
+{
+  "compound_id": 2,
+  "compound_name": "Acetylene",
+  "source_file": "compound_002_Acetylene.json",
+  "main_entry_length": 2904,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0078_Acetylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Acetylene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula of Acetylene and what elements does it consist of?",
+      "answer": "The molecular formula of Acetylene is CH=CH. It consists of carbon and hydrogen elements.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why acetylene is highly flammable and how this property is utilized.",
+      "answer": "Acetylene is highly flammable due to its unsaturated hydrocarbon structure with a triple bond between carbon atoms, which makes it highly reactive. This property is utilized in torches that burn at very high temperatures, making it useful in applications such as welding and cutting metals.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the historical development in the production of Acetylene, including the roles of calcium carbide and the BASF process.",
+      "answer": "Originally, acetylene was produced by reacting water with calcium carbide, a method that became popular due to the affordability of calcium carbide discovered by Frederich Wöhler in 1862. Later, more efficient methods were developed, including the Wulff process and the BASF process, which involve the cracking of hydrocarbons from petroleum. In these processes, hydrocarbons are broken down into smaller compounds, including acetylene, by heating with steam or using an oxidizing agent.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 19,
+  "compound_name": "Benzoic Acid",
+  "source_file": "compound_019_Benzoic Acid.json",
+  "main_entry_length": 1270,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0156_Benzoic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:51",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of benzoic acid. Benzoic acid is an aromatic carboxylic acid with the chemical formula C₇H₆O₂. Key properties include:\n\n1. **Structure**: A benzene ring (six carbon atoms) with a carboxyl group (-COOH) attached.\n2. **Physical State**: Solid at room temperature, appearing as white crystalline powder.\n3. **Solubility**: Slightly soluble in water but more soluble in organic solvents.\n4. **Uses**: Commonly used as a food preservative, in the manufacture of various chemicals, and in the production of dyes and plastics.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of benzoic acid?",
+      "answer": "The chemical formula of benzoic acid is C6H5COOH, and its molecular weight is 122.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:25",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Describe the solubility properties and physical state of benzoic acid.",
+      "answer": "Benzoic acid is an organic acid with the chemical formula C6H5COOH. It exists in a solid state, specifically in the form of white crystalline needles or thin plates. Regarding its solubility properties, benzoic acid is slightly soluble in water but is soluble in alcohol, ether, and acetone.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:27",
+      "char_limit": 1800,
+      "answer_length": 291
+    },
+    {
+      "question": "Explain how benzoic acid can be produced from natural sources and its occurrence in nature.",
+      "answer": "Benzoic acid occurs naturally in many plants, including most types of berries and gum benzoin, a plant found in Java, Sumatra, and Borneo. Gum benzoin can contain up to 20% benzoic acid. Additionally, benzoic acid is excreted by most animals (excluding fowl) as hippuric acid. It can be prepared from natural sources such as gum benzoin, which contains high concentrations of the compound.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:32",
+      "char_limit": 2000,
+      "answer_length": 389
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3995,
+  "updated_at": "2025-11-30 13:54:32",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

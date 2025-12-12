@@ -1,0 +1,62 @@
+2025-11-22 17:00:24,998 [INFO] ======================================================================
+2025-11-22 17:00:24,998 [INFO] QWEN Answer Regeneration with vLLM Optimization
+2025-11-22 17:00:24,998 [INFO] ======================================================================
+2025-11-22 17:00:24,998 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-22 17:00:24,998 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-22 17:00:24,998 [INFO] Max tokens: 500
+2025-11-22 17:00:24,998 [INFO] vLLM available: True
+2025-11-22 17:00:24,998 [INFO] Test limit: 1
+2025-11-22 17:00:24,999 [INFO] ======================================================================
+2025-11-22 17:00:24,999 [INFO] Initializing model...
+2025-11-22 17:01:15,073 [INFO] Model initialized. Using vLLM for ALL questions: True
+2025-11-22 17:01:15,074 [INFO] TEST MODE: Processing 1 files
+2025-11-22 17:01:15,074 [INFO] Total files to process: 1
+2025-11-22 17:01:15,074 [INFO] 
+Processing batch 1 (1 files)
+2025-11-22 17:01:15,075 [INFO] Processing: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-22 17:01:15,075 [INFO]   Q1: Generating with image using vLLM...
+2025-11-22 17:01:44,382 [INFO]     Q1 done: 23.68s
+2025-11-22 17:01:44,382 [INFO]   Q2-Q4: Generating 3 text-only questions...
+2025-11-22 17:01:44,385 [ERROR]     Q2-Q4 batch error: EngineCore encountered an issue. See stack trace (above) for the root cause.
+Traceback (most recent call last):
+  File "/home/himanshu/dev/code/multimodal_qa_runner_vllm.py", line 424, in regenerate_from_existing_answers
+    text_results = wrapper.generate_text_only_batch(text_questions, max_new_tokens=max_new_tokens)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/multimodal_qa_runner_vllm.py", line 222, in generate_text_only_batch
+    outputs = self.vllm_llm.generate(templated_prompts, self.vllm_sampling_params)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 440, in generate
+    self._validate_and_add_requests(
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1613, in _validate_and_add_requests
+    raise e
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1601, in _validate_and_add_requests
+    request_id = self._add_request(
+                 ^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1708, in _add_request
+    self.llm_engine.add_request(
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/llm_engine.py", line 259, in add_request
+    self.engine_core.add_request(request)
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 742, in add_request
+    self._send_input(EngineCoreRequestType.ADD, request)
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 715, in _send_input
+    self.ensure_alive()
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 558, in ensure_alive
+    raise EngineDeadError()
+vllm.v1.engine.exceptions.EngineDeadError: EngineCore encountered an issue. See stack trace (above) for the root cause.
+
+2025-11-22 17:01:44,387 [ERROR]     Q2 individual error: EngineCore encountered an issue. See stack trace (above) for the root cause.
+2025-11-22 17:01:44,388 [ERROR]     Q3 individual error: EngineCore encountered an issue. See stack trace (above) for the root cause.
+2025-11-22 17:01:44,389 [ERROR]     Q4 individual error: EngineCore encountered an issue. See stack trace (above) for the root cause.
+2025-11-22 17:01:44,389 [INFO]   ✓ Updated 100_Nicotine__answers.json
+2025-11-22 17:01:44,389 [INFO] 
+======================================================================
+2025-11-22 17:01:44,390 [INFO] REGENERATION SUMMARY
+2025-11-22 17:01:44,390 [INFO] ======================================================================
+2025-11-22 17:01:44,390 [INFO] Total files: 1
+2025-11-22 17:01:44,390 [INFO] Successful: 1
+2025-11-22 17:01:44,390 [INFO] Failed: 0
+2025-11-22 17:01:44,390 [INFO] Total time: 29.31s (0.49 min)
+2025-11-22 17:01:44,390 [INFO] Average per file: 29.31s
+2025-11-22 17:01:44,390 [INFO] vLLM used: True
+2025-11-22 17:01:44,390 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_regenerated/regeneration_summary.json
+2025-11-22 17:01:44,390 [INFO] ======================================================================

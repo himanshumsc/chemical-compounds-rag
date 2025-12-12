@@ -1,0 +1,27 @@
+{
+  "source_file": "57_Dichlorodiphenyltrichloroethane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Dichlorodiphenyltrichloroethane (DDT). Key properties of DDT include:\n\n1. **Chemical Composition**: \n   - Black atoms represent carbon.\n   - Green atoms represent chlorine.\n   - White atoms represent hydrogen.\n\n2. **Structure**:\n   - DDT has two benzene rings attached to a central ethane-like structure with three chlorine atoms.\n   - The double-stripped sticks indicate double bonds within the benzene rings.\n   - Single bonds are represented by white sticks.\n\n3. **Historical Use**:\n   - DDT was",
+      "latency_s": 16.66
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dichlorodiphenyltrichloroethane (DDT)?",
+      "answer": "Dichlorodiphenyltrichloroethane, commonly known as DDT, has the chemical formula C₁₂H₉Cl₄. \n\nTo calculate its molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol × 12 = 144.12 g/mol\n- Hydrogen (H): 1.008 g/mol × 9 = 9.072 g/mol\n- Chlorine (Cl): 35.45 g/mol × 4 = 1",
+      "latency_s": 10.46
+    },
+    {
+      "question": "Discuss the solubility properties of Dichlorodiphenyltrichloroethane (DDT).",
+      "answer": "Dichlorodiphenyltrichloroethane, commonly known as DDT, is a synthetic organic compound that was widely used as an insecticide in the 20th century. Its solubility properties are crucial for understanding its behavior in various environments and its potential impact on ecosystems.\n\n### Solubility in Water\nDDT is poorly soluble in water. It has a partition coefficient (log P) of approximately 5.4, which indicates that it is more soluble in non-polar solvents than in polar ones. This low solubility in water makes DDT less likely to dissolve into water bodies",
+      "latency_s": 10.46
+    },
+    {
+      "question": "Explain how Dichlorodiphenyltrichloroethane (DDT) contributed to public health efforts during World War II.",
+      "answer": "Dichlorodiphenyltrichloroethane, or DDT, is a synthetic organic compound that was widely used as an insecticide and pesticide in the 20th century. During World War II, its use was particularly significant for several reasons:\n\n1. **Mosquito Control**: One of the most critical contributions of DDT during World War II was its use in mosquito control. Mosquitoes were vectors for diseases such as malaria, dengue fever, and yellow fever, which could spread rapidly in the crowded conditions of military camps and bases. The widespread use of DDT helped reduce the mosquito population,",
+      "latency_s": 10.46
+    }
+  ]
+}

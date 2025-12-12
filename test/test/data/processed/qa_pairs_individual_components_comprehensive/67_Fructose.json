@@ -1,0 +1,58 @@
+{
+  "compound_id": 64,
+  "compound_name": "Fructose",
+  "source_file": "compound_064_Fructose.json",
+  "main_entry_length": 2271,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0380_Fructose_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of fructose. Fructose is a simple sugar, or monosaccharide, with the chemical formula C₆H₁₂O₆. It is characterized by its sweetness and is commonly found in fruits, honey, and root vegetables. Fructose is often used in food products as a sweetener and preservative, notably in high-fructose corn syrup (HFCS). It is highly soluble in water and has a key role in various metabolic pathways. However, excessive consumption can lead to health issues like obesity and insulin resistance.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:39"
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "The chemical formula of fructose is C6H12O6. It contains the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:46",
+      "char_limit": 1000,
+      "answer_length": 99
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Fructose and sucrose differ structurally in the number of sugar rings they contain. Fructose is a monosaccharide, meaning it has a single sugar ring. It is composed of five of six carbon atoms arranged in a ring, with hydrogen atoms and hydroxy (-OH) groups attached, forming a carbohydrate with the formula C6H12O6. In contrast, sucrose is a disaccharide, which means it consists of two sugar rings. This fundamental structural difference distinguishes fructose from sucrose in terms of molecular composition and categorization as a sugar.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:51",
+      "char_limit": 1800,
+      "answer_length": 540
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "Fructose is commercially produced by the hydrolysis of beet sugar or inulin, a polysaccharide found in the roots of plants such as dahlias, Jerusalem artichokes, and chicory. Hydrolysis is a process that breaks down materials into simpler elements by reacting them with water. After hydrolysis, the mixture is treated with lime (calcium oxide; CaO) to extract the fructose. The fructose is then refined by removing any impurities left from the preparation process.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:54",
+      "char_limit": 2000,
+      "answer_length": 464
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5403,
+  "updated_at": "2025-11-30 14:03:55",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

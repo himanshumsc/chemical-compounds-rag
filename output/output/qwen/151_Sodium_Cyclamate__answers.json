@@ -1,0 +1,27 @@
+{
+  "source_file": "151_Sodium_Cyclamate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Sodium Cyclamate. Sodium Cyclamate is an organic salt of cyclamic acid (C₆H₁₁NHSO₃H). Its key properties include:\n\n1. **Sweetness**: Sodium Cyclamate is known for being a sweetener.\n2. **Chemical Composition**:\n   - Red atoms represent oxygen.\n   - White atoms represent hydrogen.\n   - Black atoms represent carbon.\n   - Blue atom represents nitrogen.\n   - Yellow atom represents sulfur.\n   - Turquoise atom represents sodium.\n3. **Double Bonds**: Gray sticks indicate double bonds.\n4. **Sweetness Comparison",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium cyclamate?",
+      "answer": "The chemical formula for sodium cyclamate is:\n\n\\[ \\text{NaC}_{3}\\text{H}_{7}\\text{N}_{2}\\text{O}_{3} \\]\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Sodium (Na): 22.99 g/mol\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Nitrogen (N): 14.01 g/mol\n- Oxygen (O): 16.00 g",
+      "latency_s": 10.59
+    },
+    {
+      "question": "Why is sodium cyclamate considered an organic salt, and what are its solubility characteristics?",
+      "answer": "Sodium cyclamate is considered an organic salt because it is formed by the reaction of an organic acid (cyclamate) with a base (sodium hydroxide). The organic acid has a carboxylic acid group (-COOH), which can donate a proton (H+) to a base, resulting in the formation of an anion and a cation.\n\nThe solubility characteristics of sodium cyclamate depend on several factors, including temperature, pH, and the presence of other substances in solution. Sodium cyclamate is soluble in water, but its solubility decreases as the temperature increases. This means that sodium cyclamate is",
+      "latency_s": 10.59
+    },
+    {
+      "question": "How did the discovery of sodium cyclamate occur, and what is its primary use today?",
+      "answer": "The discovery of sodium cyclamate as a sweetener occurred in the 1940s. It was discovered by Dr. James R. Shawcross, who was working at the National Institute for Medical Research in London. Shawcross was experimenting with various compounds to find a new sweetener when he stumbled upon sodium cyclamate.\n\nSodium cyclamate is a synthetic compound that is about 30 times sweeter than sugar. It was initially marketed as a sugar substitute for diabetics and those who needed to control their calorie intake. However, it was later found to be carcinogenic in animal studies, leading to its ban in many",
+      "latency_s": 10.59
+    }
+  ]
+}

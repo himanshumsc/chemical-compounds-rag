@@ -1,0 +1,58 @@
+{
+  "compound_id": 10,
+  "compound_name": "Ammonium Chloride",
+  "source_file": "compound_010_Ammonium Chloride.json",
+  "main_entry_length": 4366,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0114_Ammonium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:18",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is ammonium chloride (NH₄Cl). Its molecular structure consists of a positively charged ammonium ion (NH₄⁺) and a negatively charged chloride ion (Cl⁻). \n\nKey properties of ammonium chloride include:\n\n1. Solubility: It is highly soluble in water.\n2. Occurrence: Found naturally in arid regions, often near volcanic vents.\n3. Formation: Produced from the reaction of ammonia (NH₃) and hydrogen chloride (HCl).\n4. Uses: Commonly used in fertilizers, as a food additive, and in pharmaceuticals.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ammonium chloride?",
+      "answer": "The chemical formula of ammonium chloride is NH4Cl, and its molecular weight is 53.49 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:06",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Explain how ammonium chloride is naturally formed around volcanic vents.",
+      "answer": "Ammonium chloride is naturally formed around volcanic vents when hydrogen chloride (HCl) in volcanic gases reacts with ammonia (NH3) produced by the decay of plants and animals. This reaction results in the formation of ammonium chloride, which then settles onto the ground. Due to its high solubility in water, ammonium chloride is found in arid regions where there is little rain, allowing it to remain on the ground.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:11",
+      "char_limit": 1800,
+      "answer_length": 419
+    },
+    {
+      "question": "Describe the role of ammonium chloride in dry cell batteries and discuss its importance.",
+      "answer": "Ammonium chloride plays a crucial role in dry cell batteries as part of the electrolyte, which is a moist solid material that makes up the body of the battery. The electrolyte in a dry cell battery consists of a pasty mixture of ammonium chloride with water. This electrolyte facilitates the flow of electrons by allowing them to move from the anode (the metal bottom of the battery) to the cathode (the metal knob at the top of the battery) through an external circuit and back through the electrolyte. This movement of electrons is essential for the battery to provide power to the device it is connected to. The use of ammonium chloride in dry cell batteries is significant because it enables the battery to function efficiently by maintaining the necessary chemical reactions needed for electricity production.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:15",
+      "char_limit": 2000,
+      "answer_length": 814
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6529,
+  "updated_at": "2025-11-30 13:45:16",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

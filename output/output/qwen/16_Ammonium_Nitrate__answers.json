@@ -1,0 +1,27 @@
+{
+  "source_file": "16_Ammonium_Nitrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows ammonium nitrate (NH₄NO₃). Key properties of ammonium nitrate include:\n\n1. **Composition**: It consists of nitrogen, hydrogen, and oxygen atoms.\n   - Nitrogen: 2 atoms (blue)\n   - Hydrogen: 4 atoms (white)\n   - Oxygen: 3 atoms (red)\n\n2. **Formation**: Ammonium nitrate is formed by the reaction between ammonia (NH₃) and nitric acid (HNO₃), as indicated by the chemical equation NH₃ + HNO₃ → NH₄NO",
+      "latency_s": 16.54
+    },
+    {
+      "question": "What is the chemical formula of ammonium nitrate and what elements does it consist of?",
+      "answer": "The chemical formula for ammonium nitrate is \\(\\text{NH}_4\\text{NO}_3\\).\n\nThis compound consists of the following elements:\n- Nitrogen (N)\n- Hydrogen (H)\n- Oxygen (O)\n\nSpecifically, each molecule of ammonium nitrate contains:\n- 2 nitrogen atoms (\\(\\text{N}\\))\n- 4 hydrogen atoms (\\(\\text{H}\\))\n- 3 oxygen atoms (\\(\\text{O}\\))\n\nSo, the composition can be summarized as:\n- 2 nitrogen atoms\n- 4 hydrogen atoms\n- 3 oxygen atoms\n\nThus, the chemical",
+      "latency_s": 10.5
+    },
+    {
+      "question": "Describe the process by which ammonium nitrate is commercially manufactured.",
+      "answer": "The commercial production of ammonium nitrate involves several steps, primarily focusing on the synthesis of ammonia and then combining it with nitrogen to form ammonium nitrate. Here's an overview of the process:\n\n### 1. **Ammonia Synthesis (N2 + H2 → NH3)**\n   - **Catalyst:** The Haber-Bosch process is used for ammonia synthesis. This process requires hydrogen gas and nitrogen gas, which are passed over a catalyst (usually iron) at high pressure (150-250 atmospheres) and temperature (400-500°C).\n   -",
+      "latency_s": 10.5
+    },
+    {
+      "question": "Explain why ammonium nitrate does not occur naturally and discuss its stability and decomposition characteristics.",
+      "answer": "Ammonium nitrate (NH₄NO₃) is a compound that is widely used in fertilizers, explosives, and other industrial applications due to its high nitrogen content. However, it does not occur naturally in significant quantities because the conditions required for its formation are not common in nature.\n\n### Formation Conditions:\n- **Temperature**: Ammonium nitrate forms at temperatures above 10°C.\n- **Pressure**: It requires relatively low pressure, typically around atmospheric pressure.\n- **Presence of Nitrogen Sources**: The presence of ammonia or nitric acid is necessary for its formation.\n\n### Natural Occurrence:\nGiven these conditions,",
+      "latency_s": 10.5
+    }
+  ]
+}

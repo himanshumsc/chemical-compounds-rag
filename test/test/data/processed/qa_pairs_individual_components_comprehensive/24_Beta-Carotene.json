@@ -1,0 +1,58 @@
+{
+  "compound_id": 20,
+  "compound_name": "Beta-Carotene",
+  "source_file": "compound_020_Beta-Carotene.json",
+  "main_entry_length": 1584,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0160_Beta-Carotene_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is beta-carotene. Key properties of beta-carotene include:\n\n1. **Provitamin A**: It is a provitamin, meaning it can be converted into vitamin A in the body, which is essential for maintaining strong bones, teeth, and healthy skin and hair.\n\n2. **Antioxidant**: Beta-carotene acts as an antioxidant, helping to neutralize free radicals that can cause cellular damage and may reduce the risk of certain diseases, including heart disease and cancer.\n\n3. **Natural Source**: It is sourced from plants and is responsible for the orange color in carrots and...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Beta-Carotene?",
+      "answer": "The chemical formula of Beta-Carotene is C40H56, and its molecular weight is 536.87 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:34",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Explain the role of Beta-Carotene in photosynthetic and nonphotosynthetic organisms.",
+      "answer": "Beta-carotene plays a significant role in both photosynthetic and nonphotosynthetic organisms. In photosynthetic organisms such as plants, algae, and photosynthetic bacteria, beta-carotene is critical for photosynthesis, the process by which these organisms convert water and carbon dioxide into carbohydrates and oxygen. This conversion is essential for the production of energy and sustenance in plants. \n\nIn nonphotosynthetic organisms, including certain bacteria and fungi, beta-carotene serves a protective function. It helps shield these organisms from the harmful effects of light and oxygen, which can be damaging. Thus, while beta-carotene aids in energy production in photosynthetic organisms, it provides protection in nonphotosynthetic organisms.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:38",
+      "char_limit": 1800,
+      "answer_length": 758
+    },
+    {
+      "question": "Discuss the solubility properties of Beta-Carotene and how these properties might affect its use in various applications.",
+      "answer": "Beta-carotene, with the formula C40H56, is a hydrocarbon compound that is insoluble in water but slightly soluble in alcohol. It is soluble in ether, acetone, benzene, and fats. These solubility properties influence its applications significantly. Since beta-carotene is insoluble in water, it cannot be directly used in aqueous-based systems, which affects how it is formulated in nutritional supplements and food products. Its solubility in fats makes it favorable for use in fat-containing food products and supplements, allowing it to be incorporated into the diet effectively. The solubility in organic solvents like ether, acetone, and benzene is useful for its extraction and purification from natural sources, such as when it is obtained by crushing sources like carrots and using a solvent to dissolve organic components. These properties are crucial for its use in various applications, particularly in the food and supplement industries, where its role as a provitamin A source and its pigmentation properties are valued.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:42",
+      "char_limit": 2000,
+      "answer_length": 1032
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3347,
+  "updated_at": "2025-11-30 13:54:42",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

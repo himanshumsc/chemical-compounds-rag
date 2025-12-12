@@ -1,0 +1,58 @@
+{
+  "compound_id": 54,
+  "compound_name": "Dichlorodiphenyltrichloroethane",
+  "source_file": "compound_054_Dichlorodiphenyltrichloroethane.json",
+  "main_entry_length": 1558,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0334_Dichlorodiphenyltrichloroethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of Dichlorodiphenyltrichloroethane (DDT). DDT is an organochlorine compound known for its use as an insecticide. Key properties include:\n\n1. **Chemical Composition**: DDT is composed of carbon (black), chlorine (green), and hydrogen (white) atoms.\n\n2. **Use**: It was widely used to control mosquito populations and reduce the spread of malaria, as well as in agriculture to protect crops.\n\n3. **Environmental Impact**: Concerns about its persistence in the environment and bioaccumulation led to its ban in many countries, following revelations of its...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:20"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dichlorodiphenyltrichloroethane (DDT)?",
+      "answer": "The chemical formula of Dichlorodiphenyltrichloroethane (DDT) is (ClC6H4)2CHCCl3, and its molecular weight is 354.49 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:16",
+      "char_limit": 1000,
+      "answer_length": 123
+    },
+    {
+      "question": "Discuss the solubility properties of Dichlorodiphenyltrichloroethane (DDT).",
+      "answer": "Dichlorodiphenyltrichloroethane (DDT) is insoluble in water, indicating that it does not dissolve in water. It is slightly soluble in ethyl alcohol, meaning it has limited solubility in this solvent. However, DDT is soluble in ether, acetone, and benzene, suggesting it dissolves well in these organic solvents. This solubility profile reflects DDT's chemical nature as a halogenated hydrocarbon, which tends to be more soluble in organic solvents than in water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:19",
+      "char_limit": 1800,
+      "answer_length": 462
+    },
+    {
+      "question": "Explain how Dichlorodiphenyltrichloroethane (DDT) contributed to public health efforts during World War II.",
+      "answer": "During World War II, Dichlorodiphenyltrichloroethane (DDT) significantly contributed to public health efforts by effectively controlling insects that were vectors for various infectious diseases. Swiss chemist Paul Hermann Müller discovered in 1939 that DDT could kill a wide range of insects, including the common housefly, mosquito, louse, and Colorado beetle. This property made DDT a powerful tool for medical workers in preventing diseases such as bubonic plague, dengue fever, elephantitis, encephalitis, leishmaniasis, malaria, sleeping sickness, typhus, yaws, and yellow fever, which are transmitted by these insects. As a result, DDT was widely used during the war to control insect populations in both military and civilian settings, thus playing a crucial role in safeguarding public health by reducing the spread of these diseases.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:22",
+      "char_limit": 2000,
+      "answer_length": 843
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2913,
+  "updated_at": "2025-11-30 14:01:22",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

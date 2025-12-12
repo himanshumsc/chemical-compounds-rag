@@ -1,0 +1,36 @@
+{
+  "compound_id": 76,
+  "compound_name": "Isopropyl Alcohol",
+  "source_file": "compound_076_Isopropyl Alcohol.json",
+  "main_entry_length": 2195,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0438_Isopropyl_Alcohol_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:15",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Isopropyl Alcohol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of isopropyl alcohol?",
+      "answer": "The chemical formula of isopropyl alcohol is CH3CHOHCH3, and its molecular weight is 60.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why isopropyl alcohol is commonly used as a rubbing alcohol in medical settings.",
+      "answer": "Isopropyl alcohol is commonly used as rubbing alcohol, typically as a 70 percent solution in water, because of its ability to kill bacteria on the skin and prevent infection. This makes it effective for cleaning a person's skin before an injection is given.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the industrial process used to produce isopropyl alcohol and identify the catalyst involved.",
+      "answer": "The industrial production of isopropyl alcohol involves the treatment of propene (propylene; CH2CH=CH2) with hydrolyzed sulfuric acid as a catalyst. This method was invented in 1920 by researchers at the Standard Oil Company (now Exxon).",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

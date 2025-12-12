@@ -1,0 +1,59 @@
+{
+  "source_file": "174_Triclosan.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows triclosan, a chemical compound with the formula C12H9Cl3O2. It is used in soaps and other cleaning products for controlling bacteria.",
+      "latency_s": 40.54,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Triclosan?",
+      "answer": "Triclosan is not mentioned in the provided chemical compounds database.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does Triclosan exhibit its antimicrobial properties?",
+      "answer": "Triclosan is an antimicrobial agent that works by interfering with the synthesis of proteins in bacterial cells. It binds to the enzyme fatty acid synthase, which is essential for bacterial cell wall synthesis. By inhibiting this enzyme, Triclosan disrupts the bacterial cell wall, leading to cell death. This mechanism also affects eukaryotic cells but is less toxic to them due to the presence of different fatty acid synthase enzymes.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe one method of synthesizing Triclosan and explain why it might be preferred in manufacturing.",
+      "answer": "Triclosan synthesis often involves the condensation of 2,4-dichlorophenol with 3-amino-2-methylpropanoic acid. This method is preferred due to its efficiency and the ability to achieve high yields, crucial for large-scale production.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:36:04",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:36:04",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

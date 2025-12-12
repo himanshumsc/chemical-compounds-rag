@@ -1,0 +1,27 @@
+{
+  "source_file": "36_Camphor.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows camphor. Camphor is a white crystalline solid with a distinctive odor. It is composed of carbon (black atoms), hydrogen (white atoms), and oxygen (red atom). Camphor has been historically used as a medicine in Asia for treating various ailments such as upset stomachs and rheumatism. Its extraction can be obtained from the Cinnamomum camphora tree, which includes parts like the trunk, branches, roots, and leaves.",
+      "latency_s": 16.61
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "answer": "Camphor is an organic compound with the chemical formula C10H16O. The molecular weight of camphor can be calculated by summing the atomic weights of its constituent elements:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molecular weight of camphor is calculated as follows:\n\\[ \\text{Molecular Weight} = (10 \\times 12.01) + (16 \\times 1.008",
+      "latency_s": 10.41
+    },
+    {
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "answer": "Camphor is a crystalline substance with a distinctive odor that is commonly used in various applications such as insect repellents, perfumes, and as a flavoring agent. It can be obtained from both natural sources and through chemical synthesis.\n\n### Natural Camphor:\nNatural camphor is primarily derived from the leaves of the camphor tree (Cinnamomum camphora), which is native to East Asia. The process of obtaining natural camphor involves:\n\n1. **Harvesting**: The leaves are harvested from mature trees.\n2. **Extraction**: The leaves are crushed and then treated with water or",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Discuss the historical and modern medicinal uses of camphor. Why has its use changed over time?",
+      "answer": "Camphor, chemically known as 1-Methylethylbenzene or 1-Methyl-4-phenylmethane, is a white crystalline solid with a distinctive odor. Historically, camphor has been used in various cultures for its aromatic properties and perceived medicinal benefits.\n\n### Historical Uses\n\n#### Ancient Civilizations\nThe use of camphor can be traced back to ancient civilizations. The Chinese have used it for centuries, primarily for its aromatic properties and as an insect repellent. The Egyptians also used camphor in embalming practices due to its preservative qualities.\n\n#### Traditional Medicine",
+      "latency_s": 10.41
+    }
+  ]
+}

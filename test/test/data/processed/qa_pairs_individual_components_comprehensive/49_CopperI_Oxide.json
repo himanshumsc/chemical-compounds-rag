@@ -1,0 +1,58 @@
+{
+  "compound_id": 46,
+  "compound_name": "Copper(I) Oxide",
+  "source_file": "compound_046_Copper(I) Oxide.json",
+  "main_entry_length": 3038,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0294_Copper(I)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:06",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows copper(I) oxide. This compound consists of one copper atom (Cu) and one oxygen atom (O). Key properties of copper(I) oxide include:\n\n1. **Color**: It appears as a red or brick-red solid.\n2. **Oxidation State**: Copper is in the +1 oxidation state.\n3. **Uses**: It serves as a pigment in porcelain glazes and stained glass, and is used in antifouling paints and fungicides.\n4. **Applications**: It is also utilized in photoelectric cells, which generate electric current when exposed to light.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(I) Oxide?",
+      "answer": "The chemical formula of Copper(I) Oxide is Cu2O. Its molecular weight is 143.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:53",
+      "char_limit": 1000,
+      "answer_length": 86
+    },
+    {
+      "question": "Describe the stability and transformation behavior of Copper(I) Oxide in different air conditions.",
+      "answer": "Copper(I) oxide (Cu2O) is a stable compound in dry air and does not burn. However, in moist air, it undergoes a slow transformation to copper(II) oxide (CuO). This transformation occurs because the presence of moisture facilitates further oxidation of copper(I) oxide. The compound retains its stability in dry environments, preventing this transformation, but exposure to moisture initiates the gradual change to copper(II) oxide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:55",
+      "char_limit": 1800,
+      "answer_length": 431
+    },
+    {
+      "question": "Explain the process and precautions involved in synthesizing Copper(I) Oxide industrially from copper metal.",
+      "answer": "Copper(I) oxide (Cu2O) can be synthesized industrially by exposing copper metal to a high concentration of oxygen at an elevated temperature. This process involves careful control to ensure that the copper metal does not oxidize fully into copper(II) oxide (CuO). Another method of synthesizing copper(I) oxide is through the electrolysis of a sodium chloride solution using copper electrodes.\n\nPrecautions during the synthesis include monitoring the oxygen concentration and temperature to prevent complete oxidation to copper(II) oxide. These conditions must be controlled meticulously to achieve the desired compound, as the transformation from copper to copper(I) oxide can easily proceed to copper(II) oxide if not properly managed.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:59",
+      "char_limit": 2000,
+      "answer_length": 737
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4217,
+  "updated_at": "2025-11-30 13:59:59",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

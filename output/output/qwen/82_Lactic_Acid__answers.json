@@ -1,0 +1,27 @@
+{
+  "source_file": "82_Lactic_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows lactic acid. Key properties of lactic acid include:\n\n1. **Chemical Composition**: Lactic acid consists of carbon (C), hydrogen (H), and oxygen (O) atoms.\n2. **Structure**: It has a three-carbon backbone with one carboxyl group (-COOH) and one hydroxyl group (-OH).\n3. **Production**: Lactic acid is produced through fermentation of glucose by yeast or anaerobic respiration in muscle cells.\n4. **Usage**: It is used in various industries including food processing, pharmaceuticals, and as a starting material for",
+      "latency_s": 16.6
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactic acid?",
+      "answer": "The chemical formula for lactic acid is \\( \\text{CH}_3\\text{CH(OH)COOH} \\). This can also be written as \\( \\text{C}_3\\text{H}_6\\text{O}_3 \\).\n\nTo find the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, calculate the total weight for each type of atom:\n-",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the difference between D-lactic acid and L-lactic acid.",
+      "answer": "D-lactic acid and L-lactic acid are both forms of lactic acid, which is a naturally occurring substance in the body that plays an important role in various biological processes. The difference between them lies in their molecular structure.\n\nLactic acid is a chiral molecule, meaning it has two enantiomers: L-lactic acid and D-lactic acid. Chirality refers to the property of a molecule where its mirror image cannot be superimposed on the original molecule. In other words, these two forms of lactic acid are mirror images of each other.\n\nThe difference in chirality arises from the arrangement of atoms around the",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe how the synthetic production of lactic acid is accomplished and what role do enzymes play in natural production.",
+      "answer": "### Synthetic Production of Lactic Acid\n\nLactic acid can be produced synthetically through various chemical processes, but one of the most common methods involves fermentation using microorganisms. This process typically involves:\n\n1. **Microbial Fermentation**: Microorganisms such as bacteria (e.g., *Lactobacillus*, *Clostridium*) or yeast are used to convert sugars into lactic acid. The process starts with the conversion of glucose or other sugars into pyruvate via glycolysis. Pyruvate then undergoes lactate fermentation, where it is reduced to lactic acid.\n\n2. **Enzymatic",
+      "latency_s": 10.37
+    }
+  ]
+}

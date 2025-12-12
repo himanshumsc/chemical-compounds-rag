@@ -1,0 +1,36 @@
+{
+  "compound_id": 81,
+  "compound_name": "Magnesium Chloride",
+  "source_file": "compound_081_Magnesium Chloride.json",
+  "main_entry_length": 2736,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0462_Magnesium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:36",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Magnesium Chloride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Chloride?",
+      "answer": "The chemical formula of Magnesium Chloride is MgCl2, and its molecular weight is 95.21 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the deliquescent property of Magnesium Chloride and its transformation into a hydrated form.",
+      "answer": "Magnesium Chloride is a strongly deliquescent substance, meaning it absorbs moisture from the air. This property allows it to transform into its hydrated form, magnesium chloride hexahydrate (MgCl2·6H2O), by taking on moisture from the environment to the extent of dissolving in its own water of hydration.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the industrial process used to produce magnesium metal from Magnesium Chloride.",
+      "answer": "Magnesium metal is produced from Magnesium Chloride through a process known as electrolysis, specifically the Dow process. This involves the electrolysis of molten magnesium chloride, which was developed by Herbert Henry Dow in 1916. It remains the primary method for producing magnesium metal.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

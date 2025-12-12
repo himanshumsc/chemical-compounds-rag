@@ -1,0 +1,58 @@
+{
+  "compound_id": 69,
+  "compound_name": "Hexane",
+  "source_file": "compound_069_Hexane.json",
+  "main_entry_length": 2712,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0404_Hexane_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of hexane. Hexane is an alkane with the chemical formula C₆H₁₄. It consists of six carbon atoms and fourteen hydrogen atoms. Hexane is a colorless liquid at room temperature and has a low boiling point, making it highly volatile. It is commonly used as a solvent in various industrial applications, including the extraction of vegetable oils, as a cleaning agent, and in the production of glues and inks. However, hexane poses health hazards such as respiratory issues and neurological effects if inhaled.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:37"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hexane?",
+      "answer": "The chemical formula of hexane is C6H14, and its molecular weight is 86.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:04",
+      "char_limit": 1000,
+      "answer_length": 81
+    },
+    {
+      "question": "Explain why hexane is considered a saturated hydrocarbon and what implications this has for its chemical structure.",
+      "answer": "Hexane is considered a saturated hydrocarbon because its molecules are composed solely of carbon and hydrogen atoms connected by single bonds. Saturated hydrocarbons, also known as alkanes, have no double or triple bonds between carbon atoms, which limits the ability of the molecule to react with other substances compared to unsaturated hydrocarbons. This structural characteristic implies that all the carbon atoms in hexane are fully \"saturated\" with hydrogen atoms, fulfilling the maximum possible hydrogen content. The chemical formula for hexane is C6H14, indicating that it contains six carbon atoms and fourteen hydrogen atoms, arranged in a linear chain. This saturated nature of hexane contributes to its stability and its classification as an alkane. The implications of being a saturated hydrocarbon include a relatively lower reactivity compared to unsaturated hydrocarbons, which makes hexane a useful solvent in industrial applications due to its stability and non-polar nature.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:10",
+      "char_limit": 1800,
+      "answer_length": 994
+    },
+    {
+      "question": "Describe the process by which hexane is obtained from petroleum and explain why its low boiling point is significant in this process.",
+      "answer": "Hexane is obtained from petroleum through a process called fractional distillation. Petroleum is a complex mixture of hydrocarbons, and fractional distillation is used to separate these components based on their boiling points. In this process, petroleum is heated in tall towers, causing its components to boil off at different temperatures. As a liquid with a low boiling point, hexane boils off and rises to the upper levels of the tower, where it condenses and is collected as part of petroleum ether or ligroin. Hexane is then further separated from other constituents through a second distillation, boiling off and condensing at its specific boiling point of 68.73°C (155.7°F). The low boiling point of hexane is significant because it allows hexane to vaporize and be collected efficiently at higher levels of the distillation tower, facilitating its separation from other petroleum components.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:15",
+      "char_limit": 2000,
+      "answer_length": 901
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6111,
+  "updated_at": "2025-11-30 14:05:15",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

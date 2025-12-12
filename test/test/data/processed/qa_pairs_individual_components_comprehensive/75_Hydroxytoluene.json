@@ -1,0 +1,58 @@
+{
+  "compound_id": 25,
+  "compound_name": "Hydroxytoluene",
+  "source_file": "compound_025_Hydroxytoluene.json",
+  "main_entry_length": 2738,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0184_Hydroxytoluene_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:39",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structures of Butylated Hydroxyanisole (BHA) on the left and Butylated Hydroxytoluene (BHT) on the right. \n\n**Key Properties:**\n\n- **BHA**: It's an antioxidant used as a food preservative. It prevents rancidity in fats and oils, extending shelf life.\n  \n- **BHT**: Similar to BHA, it is also an antioxidant and food preservative. It inhibits oxidation in various products.\n\nBoth compounds protect food and other products from spoilage by reacting with oxygen, preserving freshness and quality.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:33"
+    },
+    {
+      "question": "What are the chemical formulas and molecular weights of BHA and BHT?",
+      "answer": "The chemical formula for Butylated Hydroxyanisole (BHA) is C11H16O2, with a molecular weight of 180.24 g/mol. The chemical formula for Butylated Hydroxytoluene (BHT) is C15H24O, with a molecular weight of 220.35 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:38",
+      "char_limit": 1000,
+      "answer_length": 218
+    },
+    {
+      "question": "How do BHA and BHT function as food preservatives?",
+      "answer": "BHA (Butylated Hydroxyanisole) and BHT (Butylated Hydroxytoluene) function as food preservatives by acting as antioxidants. They prevent oxygen from reacting with fats and oils in food products, which would otherwise lead to the oxidation of these substances, turning them rancid, foul-smelling, and harmful. By reacting with oxygen themselves, BHA and BHT protect the food from spoiling. These compounds are added to a variety of food products, including cereals, seasonings, baked goods, meat products, and oils, as well as to animal feed and some non-food products.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:44",
+      "char_limit": 1800,
+      "answer_length": 568
+    },
+    {
+      "question": "Describe the process of synthesizing BHA and BHT, including the reactants and conditions required.",
+      "answer": "The synthesis of Butylated Hydroxyanisole (BHA) involves the reaction between p-methoxyphenol (CH3CH2OC6H4OH) and isobutene ((CH3)2C=CH2) or tert-butyl alcohol ((CH3)3COH). This reaction occurs over a catalyst of silica (SiO2) or alumina (Al2O3) at a temperature of approximately 150°C (302°F).\n\nFor Butylated Hydroxytoluene (BHT), the synthesis is typically carried out by reacting p-cresol (CH3C6H4OH) with isobutene. \n\nBoth processes rely on specific reactants and conditions to produce these compounds, which are primarily used as food preservatives to prevent the oxidation of fats and oils.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:46",
+      "char_limit": 2000,
+      "answer_length": 596
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3850,
+  "updated_at": "2025-11-30 14:05:47",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

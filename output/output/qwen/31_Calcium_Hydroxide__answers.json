@@ -1,0 +1,27 @@
+{
+  "source_file": "31_Calcium_Hydroxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Calcium Hydroxide (Ca(OH)₂). Here are its key properties:\n\n1. **Chemical Composition**:\n   - Calcium Hydroxide consists of one calcium atom (Ca), two oxygen atoms (O), and two hydrogen atoms (H).\n   - The calcium atom is represented by the turquoise color.\n   - The oxygen atoms are red.\n   - The hydrogen atoms are white.\n\n2. **Common Uses**:\n   - It is used as a building material in mortar, plasters, and cements due to its ability to form a strong adhesive when mixed with sand and water",
+      "latency_s": 16.56
+    },
+    {
+      "question": "What is the chemical formula of calcium hydroxide and what elements does it contain?",
+      "answer": "The chemical formula for calcium hydroxide is \\(\\text{Ca(OH)}_2\\). This compound contains two main elements:\n\n1. **Calcium (Ca)**: This is a metallic element that belongs to Group 2 of the periodic table.\n2. **Hydrogen (H)**: This is a non-metallic element that belongs to Group 1 of the periodic table.\n3. **Oxygen (O)**: This is a non-metallic element that belongs to Group 16 of the periodic table.\n\nIn the formula \\(\\text{Ca(OH)}_2\\), each calcium atom (\\",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain why calcium hydroxide often becomes contaminated and how can this be prevented.",
+      "answer": "Calcium hydroxide, also known as slaked lime or hydrated lime, is commonly used in various applications such as water treatment, agriculture, and construction due to its alkaline properties and ability to neutralize acidic substances. However, it is prone to contamination, which can affect its effectiveness and safety.\n\n### Reasons for Contamination\n\n1. **Hygroscopic Nature**: Calcium hydroxide is hygroscopic, meaning it readily absorbs moisture from the air. This absorption of moisture can lead to the formation of calcium carbonate (CaCO3) through the reaction with carbon dioxide (CO2). This reaction is often referred to as \"",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the role of calcium hydroxide in neutralizing acidic soils and the chemical process involved.",
+      "answer": "Calcium hydroxide, also known as slaked lime or hydrated lime, is a compound that plays a significant role in neutralizing acidic soils. Its effectiveness in this context stems from its ability to react with acids present in the soil, thereby reducing their acidity.\n\n### Chemical Process Involved\n\nThe neutralization of acidic soils by calcium hydroxide involves a chemical reaction between calcium hydroxide (Ca(OH)₂) and the acids in the soil. The primary acids found in acidic soils are typically sulfuric acid (H₂SO₄), nitric acid (HNO₃), and hydrochloric acid (H",
+      "latency_s": 10.42
+    }
+  ]
+}

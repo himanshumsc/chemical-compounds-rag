@@ -1,0 +1,27 @@
+{
+  "source_file": "116_Polycarbonates.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polycarbonate. Polycarbonate is a thermoplastic polymer with the repeating unit formula -(C₆H₄O-CO-O)-ₙ-. \n\nKey properties of polycarbonate include:\n1. **High Transparency**: Polycarbonate has excellent optical clarity, making it suitable for applications where transparency is crucial.\n2. **High Impact Resistance**: It is highly resistant to impact, making it ideal for applications that require durability and safety.\n3. **Heat Resistance**: Polycarbonate can withstand high temperatures without losing its structural integrity, which makes it useful in applications requiring heat resistance.",
+      "latency_s": 16.8
+    },
+    {
+      "question": "What are the key elements that make up polycarbonates, and what is their state at room temperature?",
+      "answer": "Polycarbonates are a type of thermoplastic polymer. They are made by the condensation polymerization of bisphenol A (BPA) with phosgene or carbon dioxide. The key elements that make up polycarbonates include:\n\n1. Bisphenol A (BPA): This is a monomer used in the production of polycarbonate. It is a colorless, crystalline solid with a molecular weight of approximately 228 g/mol.\n\n2. Phosgene: This is a toxic gas used as a reagent in the production of polycarbonate. It has a molecular weight of",
+      "latency_s": 10.66
+    },
+    {
+      "question": "How are polycarbonates typically synthesized from phosgene and bisphenol A?",
+      "answer": "Polycarbonates are typically synthesized through a process known as the nucleophilic displacement of phosgene with bisphenol A (BPA). This reaction is a key step in the production of polycarbonate resins, which are widely used in various applications due to their high strength, toughness, and transparency.\n\n### Step-by-Step Synthesis:\n\n1. **Starting Materials:**\n   - **Phosgene (COCl₂):** This is a highly reactive compound that can react with many different nucleophiles.\n   - **Bisphenol A (BPA):** This is a dihydroxy aromatic compound",
+      "latency_s": 10.66
+    },
+    {
+      "question": "Discuss the advantages of using polycarbonates over glass in various applications.",
+      "answer": "Polycarbonate is a type of thermoplastic that is often used as an alternative to glass in various applications due to its unique properties and advantages. Here are some of the advantages of using polycarbonate over glass:\n\n1. Impact Resistance: Polycarbonate has excellent impact resistance compared to glass. It can withstand much higher levels of impact without shattering or breaking, making it ideal for applications where durability and safety are critical.\n\n2. Weight: Polycarbonate is significantly lighter than glass, which makes it easier to handle and install. This can be particularly beneficial when dealing with large panels or structures.\n\n3. Transparency: Polycarbonate",
+      "latency_s": 10.66
+    }
+  ]
+}

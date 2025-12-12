@@ -1,0 +1,27 @@
+{
+  "source_file": "103_Nitrogen_Dioxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Nitrogen Dioxide (NO₂). Here are some of its key properties:\n\n1. **Composition**: Nitrogen dioxide consists of one nitrogen atom and two oxygen atoms.\n2. **Color**: It appears as a brownish gas due to its molecular structure and electronic transitions.\n3. **Molecular Structure**: The diagram indicates that it has a double bond between the nitrogen and one of the oxygen atoms, with a single bond between the other oxygen atom and the nitrogen.\n4. **Formation**:\n   - **Natural Formation**: Nitrogen dioxide forms naturally when nitric oxide (NO) is oxid",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitrogen dioxide?",
+      "answer": "The chemical formula for nitrogen dioxide (NO₂) is simply NO₂, which indicates that each molecule consists of one nitrogen atom and two oxygen atoms.\n\nTo calculate the molecular weight of NO₂, we need to sum the atomic weights of its constituent elements:\n\n- Nitrogen (N) has an atomic weight of approximately 14.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nSince there are two oxygen atoms in NO₂:\n\\[ \\text{Molecular weight of NO}_2 = (1 \\times 14.01 \\, \\text",
+      "latency_s": 11.36
+    },
+    {
+      "question": "Explain how nitrogen dioxide is produced naturally and through human activities.",
+      "answer": "Nitrogen dioxide (NO2) is a reddish-brown gas that is highly reactive in the atmosphere. It is a major component of smog and can cause respiratory problems, particularly for people with asthma or other lung diseases.\n\n### Natural Production of Nitrogen Dioxide\n\n1. **Biological Processes:**\n   - **Soil Microbes:** Certain bacteria in soil can convert nitrate into NO2 as part of their metabolic processes.\n   - **Plant Respiration:** Plants release NO2 during respiration, especially when they are stressed or under certain environmental conditions.\n\n2. **Volcanic Eruptions:**\n   - Vol",
+      "latency_s": 11.36
+    },
+    {
+      "question": "Describe the uses of nitrogen dioxide in industrial applications and the associated safety hazards.",
+      "answer": "Nitrogen dioxide (NO2) is a reddish-brown gas with a sharp, suffocating odor. It is highly reactive and can cause significant health issues if inhaled. Despite its harmful properties, NO2 has several industrial applications due to its unique chemical properties.\n\n### Industrial Applications\n\n1. **Oxidation Reactions**: NO2 is used as an oxidizing agent in various chemical processes. For example, it is used in the production of nitric acid, which is a key component in fertilizers, explosives, and other chemicals.\n\n2. **Dye Production**: NO2 is involved in the synthesis of d",
+      "latency_s": 11.36
+    }
+  ]
+}

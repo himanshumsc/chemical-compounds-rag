@@ -1,0 +1,36 @@
+{
+  "compound_id": 131,
+  "compound_name": "Potassium Sulfate",
+  "source_file": "compound_131_Potassium Sulfate.json",
+  "main_entry_length": 2473,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0710_Potassium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:06",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Sulfate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of potassium sulfate?",
+      "answer": "The chemical formula of potassium sulfate is K2SO4, and its molecular weight is 174.26 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility characteristics of potassium sulfate in different solvents.",
+      "answer": "Potassium sulfate is soluble in water, slightly soluble in glycerol, and insoluble in ethyl alcohol, acetone, and most other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of producing potassium sulfate from langbeinite and potassium chloride.",
+      "answer": "Potassium sulfate can be produced from the mineral langbeinite (K2Mg2(SO4)3) by crushing and washing the mineral to separate out the double salt. This product is then treated with an aqueous solution of potassium chloride (KCl) to separate the two parts of the double salt, resulting in the formation of potassium sulfate (K2SO4) and magnesium chloride (MgCl2) as by-products.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

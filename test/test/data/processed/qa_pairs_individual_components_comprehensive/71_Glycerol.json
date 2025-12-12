@@ -1,0 +1,58 @@
+{
+  "compound_id": 68,
+  "compound_name": "Glycerol",
+  "source_file": "compound_068_Glycerol.json",
+  "main_entry_length": 2759,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0400_Glycerol_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:38",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is glycerol. It consists of three carbon atoms (black), three oxygen atoms (red), and eight hydrogen atoms (white). Glycerol is a simple polyol compound commonly used in food products as a sweetener and thickener due to its moisture-retaining properties. It is also a byproduct of soap manufacturing, obtained via saponification. Additionally, glycerol can be synthesized from propylene or from simple sugars using hydrogen and a nickel catalyst.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:18"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glycerol?",
+      "answer": "The chemical formula of glycerol is CH2OHCHOHCH2OH, and its molecular weight is 92.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:49",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Why is glycerol classified as a trihydric alcohol, and what are its solubility properties?",
+      "answer": "Glycerol is classified as a trihydric alcohol because its molecules contain three hydroxyl (-OH) groups. This classification is confirmed by the molecular formula CH2OHCHOHCH2OH, indicating the presence of three hydroxyl groups attached to a three-carbon backbone.\n\nIn terms of solubility, glycerol is miscible with water and alcohol, meaning it can mix in all proportions without separation. However, it is insoluble in ether, benzene, and chloroform, indicating that it does not dissolve in these organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:55",
+      "char_limit": 1800,
+      "answer_length": 516
+    },
+    {
+      "question": "Describe the traditional method of producing glycerol and its significance in the soap industry.",
+      "answer": "The traditional method of producing glycerol is through the saponification of fats. Fats, which are esters formed from glycerol and fatty acids, are hydrolyzed in the presence of a catalyst, resulting in glycerol and alcohols. This process is known as saponification because it is traditionally used in soap making (the Latin word for soap is \"sapon\"). Glycerol is obtained as a byproduct in the manufacture of soaps. This method is significant in the soap industry because it provides a way to produce glycerol while simultaneously creating soap. In the United States, about 80 percent of all glycerol produced is obtained by saponification methods, highlighting its importance in the industry.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:01",
+      "char_limit": 2000,
+      "answer_length": 695
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7286,
+  "updated_at": "2025-11-30 14:05:01",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

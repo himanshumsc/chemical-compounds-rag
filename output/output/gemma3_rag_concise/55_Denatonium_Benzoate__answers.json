@@ -1,0 +1,59 @@
+{
+  "source_file": "55_Denatonium_Benzoate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Denatonium benzoate. It has a peculiar odor and taste, and is extremely bitter. It's used as an anesthetic, and the manufacturing process is a proprietary secret of the Macfarlan Smith corporation.",
+      "latency_s": 22.33,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Denatonium Benzoate?",
+      "answer": "The provided text does not contain information about Denatonium Benzoate. Therefore, I cannot answer your question.",
+      "latency_s": 51.15,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why Denatonium Benzoate is considered an effective deterrent in various applications.",
+      "answer": "I am sorry, but the provided text does not contain any information about Denatonium Benzoate. Therefore, I cannot answer your question about its effectiveness as a deterrent. The database focuses on Acetic Acid, 1,3-Butadiene, 2,4,6-Trinitrotoluene, and Acetaminophen.",
+      "latency_s": 51.15,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the solubility properties of Denatonium Benzoate and how they might affect its use in different applications.",
+      "answer": "I am unable to answer this question. The provided text does not contain any information about Denatonium Benzoate or its solubility properties. The documents focus on 1,3-butadiene and acetic acid.",
+      "latency_s": 51.15,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:03:37",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:03:37",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

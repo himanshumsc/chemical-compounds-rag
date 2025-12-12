@@ -1,0 +1,27 @@
+{
+  "source_file": "119_Polypropylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polypropylene (PP). Polypropylene is a thermoplastic semi-crystalline polymer. Here are some of its key properties:\n\n1. **Chemical Composition**: Polypropylene consists of repeating units of propylene (CH₃-CH=CH₂), where each unit contains one carbon atom and three hydrogen atoms.\n\n2. **Thermoplastic**: It can be melted and reshaped when heated, making it suitable for molding and extrusion processes.\n\n3. **Semi-Crystalline**: The crystalline regions give polypropylene good mechanical strength and rig",
+      "latency_s": 17.16
+    },
+    {
+      "question": "What is the chemical formula and compound type of polypropylene?",
+      "answer": "Polypropylene (PP) is a thermoplastic polymer. Its chemical formula can be represented as:\n\n\\[ \\text{CH}_2-\\text{CH}-\\text{CH}_2 \\]\n\nwhere the structure is a repeating unit of propylene, which is a three-carbon alkene with the molecular formula \\( \\text{C}_3\\text{H}_6 \\).\n\nThe compound type of polypropylene is a copolymer, specifically a homopolymer because it consists of only one type of monomer unit (propylene). The chemical formula for the monomer unit is:\n\n\\[ \\text{CH}_",
+      "latency_s": 13.01
+    },
+    {
+      "question": "Why is polypropylene considered a thermoplastic polymer, and how does this property affect its usability?",
+      "answer": "Polypropylene (PP) is considered a thermoplastic polymer because it has the ability to be melted and reformed into different shapes when heated, and then hardens again when cooled. This property is due to the fact that the molecules in polypropylene are held together by weak van der Waals forces, which can be overcome at high temperatures.\n\nThe ability of polypropylene to be melted and reformed makes it highly versatile for various applications. It can be used in a wide range of products, from packaging materials like plastic bags and bottles to automotive parts, medical devices, and consumer goods. The ease with which polypropylene",
+      "latency_s": 13.01
+    },
+    {
+      "question": "Explain the role of catalysts in the production of crystalline polypropylene and name one type of catalyst used.",
+      "answer": "Catalysts play a crucial role in the production of crystalline polypropylene (PP) by facilitating the polymerization reaction, which is the process by which monomer units are joined together to form a polymer chain. The presence of a catalyst significantly accelerates this reaction without being consumed in the process, thus making the production more efficient.\n\n### Role of Catalysts in Polypropylene Production:\n\n1. **Acceleration of Polymerization Reaction**: Catalysts lower the activation energy required for the polymerization reaction to occur. This means that the reaction can proceed at a much faster rate than it would without the catalyst.\n\n2. **Controlled Polymer",
+      "latency_s": 13.01
+    }
+  ]
+}

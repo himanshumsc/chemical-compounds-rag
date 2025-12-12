@@ -1,0 +1,58 @@
+{
+  "compound_id": 170,
+  "compound_name": "Triclosan",
+  "source_file": "compound_170_Triclosan.json",
+  "main_entry_length": 2702,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0914_Triclosan_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is Triclosan. It's an antibacterial and antifungal agent used in various consumer products such as soaps, toothpaste, and other cleaning products. Triclosan is effective in controlling bacteria and is commonly used in hospitals to prevent infections. However, its widespread use raised concerns about environmental impact and potential contribution to antibiotic resistance. Triclosan can inhibit the growth of bacteria that cause dental cavities and other infections.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:18"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Triclosan?",
+      "answer": "The molecular formula of Triclosan is C6H3ClOH-O-C6H3Cl2, and its molecular weight is 289.54 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:39",
+      "char_limit": 1000,
+      "answer_length": 99
+    },
+    {
+      "question": "How does Triclosan exhibit its antimicrobial properties?",
+      "answer": "Triclosan exhibits its antimicrobial properties by inhibiting the action of an enzyme called enoyl-acyl carrier protein reductase (ENR), which is essential for the survival of bacteria and fungi. ENR is used in the synthesis of fatty acids necessary for constructing cell membranes. By inhibiting this enzyme, triclosan prevents the synthesis of cell walls, leading to the death of bacteria and fungi. Importantly, the ENR enzyme is not present in humans, so triclosan has no effect on the human body.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:43",
+      "char_limit": 1800,
+      "answer_length": 501
+    },
+    {
+      "question": "Describe one method of synthesizing Triclosan and explain why it might be preferred in manufacturing.",
+      "answer": "One method of synthesizing Triclosan involves reacting 1,4-dichloro-2-nitrobenzene (C6H3Cl2NO3) with 2,4-dichlorophenol (C6H3ClOH). This method might be preferred in manufacturing due to the potentially straightforward reaction mechanism and the use of specific starting materials that can efficiently yield triclosan. The reaction is likely favored for its efficiency in producing the desired compound without the need for additional complex steps.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:48",
+      "char_limit": 2000,
+      "answer_length": 449
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5699,
+  "updated_at": "2025-11-30 13:50:48",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

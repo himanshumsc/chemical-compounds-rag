@@ -1,0 +1,27 @@
+{
+  "source_file": "76_IronII_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Iron(II) oxide (FeO). Key properties of Iron(II) oxide include:\n\n1. **Chemical Composition**: It consists of one iron atom (Fe) and one oxygen atom (O), bonded together.\n2. **Appearance**: It appears as a red powder.\n3. **Uses**:\n   - It is used as a raw material in steel production.\n   - It serves as a catalyst in various industrial and chemical operations.\n4. **Health Hazards**:\n   - Inhalation of iron(II) oxide fumes or dust can cause throat and nasal irritation.\n   - High levels",
+      "latency_s": 16.43
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(II) Oxide?",
+      "answer": "Iron(II) oxide, also known as ferrous oxide or iron(II) hydroxide, has the chemical formula \\( \\text{Fe(OH)}_2 \\). However, it's important to note that pure iron(II) oxide does not exist in nature; instead, it forms when iron reacts with water and oxygen.\n\nThe most common form of iron(II) oxide is magnetite (Fe₃O₄), which is a more stable compound. Magnetite is a black mineral composed of iron(III) oxide and iron(II) oxide.\n\nIf you're referring to magnetite, its chemical formula",
+      "latency_s": 10.32
+    },
+    {
+      "question": "What are the solubility properties of Iron(II) Oxide and how does it react with other compounds?",
+      "answer": "Iron(II) oxide, also known as ferrous oxide or rust, has several important solubility properties and chemical reactions.\n\n### Solubility Properties:\n1. **Solubility in Water**: Iron(II) oxide is insoluble in water. It does not dissolve in pure water under normal conditions.\n2. **Solubility in Acids**: Iron(II) oxide dissolves in acids such as hydrochloric acid (HCl), sulfuric acid (H₂SO₄), and nitric acid (HNO₃). The reaction typically produces iron(II) ions (Fe²⁺) and water",
+      "latency_s": 10.32
+    },
+    {
+      "question": "How is Iron(II) Oxide prepared synthetically and what impurity may be present in the product?",
+      "answer": "Iron(II) oxide, also known as ferrous oxide or iron(II) hydroxide, can be prepared synthetically through several methods. Here are two common synthetic routes:\n\n### 1. **Hydrothermal Synthesis:**\n   - **Procedure:**\n     - Dissolve iron(II) salts (e.g., FeSO4·7H2O) in water.\n     - Heat the solution under high pressure and temperature to induce crystallization.\n     - The reaction mixture is typically heated at temperatures between 100°C and 300°C for several hours.\n     - After cooling, the precip",
+      "latency_s": 10.32
+    }
+  ]
+}

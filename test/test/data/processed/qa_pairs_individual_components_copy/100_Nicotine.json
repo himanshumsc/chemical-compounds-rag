@@ -1,0 +1,36 @@
+{
+  "compound_id": 97,
+  "compound_name": "Nicotine",
+  "source_file": "compound_097_Nicotine.json",
+  "main_entry_length": 2348,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0538_Nicotine_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:40",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Nicotine.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula of nicotine and what elements does it consist of?",
+      "answer": "The molecular formula of nicotine is C5H4NC4H7NCH3. It consists of the elements carbon, hydrogen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of nicotine and the implications for its extraction process.",
+      "answer": "Nicotine is miscible with water and very soluble in ethyl alcohol, ether, and chloroform. These solubility properties are utilized during its extraction from tobacco leaves. After soaking in water, nicotine can be extracted by mixing the water solution with ether or chloroform, where nicotine is more soluble, allowing it to transfer from the water layer to the organic solvent layer and be removed by evaporation.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how the historical development and synthesis of nicotine have impacted its applications and uses.",
+      "answer": "Nicotine's correct chemical structure was determined in 1843 by Louise Melsens, and it was first synthesized in 1904 by A. Pictet and A. Rotschy. This understanding of nicotine's structure and ability to synthesize it paved the way for its various applications. Nicotine is primarily known for its use in tobacco products for smoking and chewing. It is also used in products designed to help people quit smoking, such as nicotine gums and patches. Historically, nicotine was used as an insecticide and fumigant by farmers and gardeners, taking advantage of its toxic properties to pests.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

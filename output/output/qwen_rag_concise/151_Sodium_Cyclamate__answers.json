@@ -1,0 +1,59 @@
+{
+  "source_file": "151_Sodium_Cyclamate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows sodium cyclamate, a compound used as an artificial sweetener. It is an organic salt of cyclamic acid, a carboxylic acid. Sodium cyclamate is 10 times sweeter than saccharin.",
+      "latency_s": 40.32,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium cyclamate?",
+      "answer": "Chemical formula: C12H11NNaO5; Molecular weight: 263.27 g/mol",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is sodium cyclamate considered an organic salt, and what are its solubility characteristics?",
+      "answer": "Sodium cyclamate is an organic salt because it is formed by the reaction of an organic acid (cyclamate) with a metal ion (sodium). Its solubility characteristics are high due to its ionic nature, making it soluble in water.",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "How did the discovery of sodium cyclamate occur, and what is its primary use today?",
+      "answer": "The discovery of sodium cyclamate occurred in 1947. It was first synthesized by James Niehe and later independently by William W. Johnson. Sodium cyclamate was used as a non-caloric sweetener but was later banned due to concerns about cancer and health risks. Its primary use today is as a flavor enhancer in food products.",
+      "latency_s": 26.54,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:32:09",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:32:09",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

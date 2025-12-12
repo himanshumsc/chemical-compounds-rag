@@ -1,0 +1,47 @@
+{
+  "source_file": "36_Camphor.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shown in the image represents **camphor**. Here's a detailed breakdown of its properties and uses:\n\n### Key Properties of Camphor:\n\n1. **Chemical Formula**: The camphor molecule is composed of 10 carbon (C) atoms, 14 hydrogen (H) atoms, and 1 oxygen (O) atom, which can be represented as:\n   \\[ C_{10}H_{14}O \\]\n\n2. **Structure**: Camphor is a fragrant, white or almost white, crystalline solid. It has a molecular structure that includes a tertiary cyclohexane ring with an oxygen substituent.\n\n3. **Physical Characteristics**: Camphor has a characteristic sweet, camphoraceous odor and a high melting point of 197–198°C.\n\n4. **Solubility**: Camphor is almost insoluble in water but soluble in ethanol, ether, and chloroform.\n\n### Common Uses and Applications:\n\n1. **Medicinal Uses**: Historically, camphor has been used in traditional medicine as an analgesic, expectorant, and rubefacient. It was also used to treat a wide range of ailments, including upset stomach, rheumatism, and respiratory tract infections.\n\n2. **Industrial Uses**: Camphor is used in the manufacture of synthetic camphor oil, which is used in perfumes, soaps",
+      "latency_s": 50.31,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "answer": "The provided database does not contain any information about camphor. There is no entry in the given sources that specifically mentions camphor. Therefore, based on the information provided, the chemical formula and molecular weight of camphor cannot be determined.\n\nIf you need the chemical formula and molecular weight of camphor, you would need to consult a more comprehensive database or additional sources that include information about camphor. Camphor has the molecular formula C10H16O and a molecular weight of approximately 152.24 g/mol. Camphor is a white, crystalline solid that is insoluble in water but soluble in alcohol, ether, and acetone. It is commonly used in the pharmaceutical and cosmetic industry due to its antiseptic and analgesic properties.\n\nFor a complete answer, you would require the chemical formula and molecular weight from a reliable source. If you have more information or a different database that includes information about camphor, it would be helpful to provide that additional information.",
+      "latency_s": 41.63,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "answer": "The provided database of chemical compounds does not contain specific information on the natural or synthetic production of camphor, nor does it provide details on its chemical properties, uses, or safety information. Additionally, there is no mention of camphor in the sources provided.\n\nCamphor is a chemical compound with the molecular formula C10H16O and is a crystalline white solid with a distinctive Menthol-like odor. It is known for its antiseptic, antifungal, and insecticidal properties. Camphor is primarily sourced from the camphor tree (Cinnamomum camphora), which is native to East Asia. The camphor tree is known for its ability to produce large amounts of camphor oil through its leaves and bark.\n\nThe natural production of camphor involves the harvesting of camphor trees and extraction of their essential oils. The bark is harvested, and the camphor oil is extracted through distillation using heat and steam. This process is labor-intensive and has historically been a significant economic activity in countries like Japan and China.\n\nIn contrast, synthetic camphor production is achieved through chemical synthesis, which does not rely on natural resources. The synthetic route typically starts from readily available chemicals such as toluene or benzene, to which specific reactions and conditions are applied to produce camphor.\n\nThe major difference between natural and synthetic camphor lies in their production methods, geographical availability, and cost. Natural camphor is typically more expensive due to the labor-intensive harvesting and extraction process, while synthetic camphor is produced in large quantities and is generally less expensive.\n\nUnfortunately, the provided database lacks the necessary information to address the user's question comprehensively. For a complete answer, additional information on natural and synthetic camphor production, safety considerations, and detailed chemical properties would be required.",
+      "latency_s": 41.63,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Discuss the historical and modern medicinal uses of camphor. Why has its use changed over time?",
+      "answer": "Camphor is a white, crystalline substance with a camphor-like odor. It is chemically related to terpenes and is derived from the wood of the camphor tree (Cinnamomum camphora). Camphor has a long history of use in traditional medicine and continues to have applications in modern medicine. Understanding its historical and modern medicinal uses, along with the reasons for its evolving use, requires an examination of its various applications and properties.\n\n### Historical Uses of Camphor\n\nCamphor has been used in traditional medicine for centuries and has cultural significance in many parts of the world. Its historical uses include:\n\n1. **External Use for Pain Relief and Muscle Relaxation**: Camphor was used to relieve muscle pain and stiffness, often in the form of lotions or ointments. Its analgesic properties were appreciated for its ability to provide temporary relief from mild pain.\n\n2. **Dental Care**: In the past, camphor was used in toothpaste and mouthwash. Its properties were thought to help with dental hygiene and freshen breath.\n\n3. **Antiseptic**: Camphor has been used as an antiseptic due to its ability to inhibit bacterial growth. This was often seen in its use in ointments and lotions.\n\n4. **Cough Suppressant**: Camphor has been used in cough drops and lozenges to reduce the intensity of coughing. Its ability to soothe the throat has made it a common ingredient in over-the-counter cough remedies.\n\n### Modern Medicinal Uses of Camphor\n\nIn modern medicine, camphor continues to be valued for its properties, though its use has shifted to more specialized applications:\n\n1. **Topical Analgesics**: Camphor is still used in topical analgesics, particularly for the relief of muscle pain and stiffness. Its application in this area is based on traditional use and has been scientifically validated for its analgesic effects.\n\n2. **Aromatherapy**: Camphor has been incorporated into aromatherapy products in the form of essential oils. Its distinctive scent is used in blends intended to promote relaxation and reduce stress.\n\n3. **Specialized Ointments and Creams**: Camphor is used in specialized ointments and creams for conditions such as insect bites, minor burns, and some skin irritations due to its cooling and anti-inflammatory effects.\n\n### Safety and Toxicity\n\nCam",
+      "latency_s": 41.63,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:24:27",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:24:27",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

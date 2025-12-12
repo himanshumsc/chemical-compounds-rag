@@ -1,0 +1,58 @@
+{
+  "compound_id": 43,
+  "compound_name": "Cinnamaldehyde",
+  "source_file": "compound_043_Cinnamaldehyde.json",
+  "main_entry_length": 3846,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0280_Cinnamaldehyde_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is cinnamaldehyde. Key properties include:\n\n- **Chemical Formula**: C₉H₈O\n- **Appearance**: Yellow oily liquid with a strong cinnamon odor.\n- **Uses**: Commonly used as a flavoring agent, fragrance, and in medicine.\n- **Natural Source**: Found in the bark of cinnamon trees, especially Cinnamomum zeylanicum.\n- **Historical Use**: Mentioned in ancient Chinese and Ayurvedic medicinal texts for its potential therapeutic benefits.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:46"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of cinnamaldehyde?",
+      "answer": "The molecular formula of cinnamaldehyde is C6H5CH=CHCHO, and its molecular weight is 132.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:21",
+      "char_limit": 1000,
+      "answer_length": 98
+    },
+    {
+      "question": "Explain why cinnamaldehyde is classified as an aromatic aldehyde.",
+      "answer": "Cinnamaldehyde is classified as an aromatic aldehyde because its chemical structure includes an aromatic compound based on benzene (C6H6), as indicated in the provided context. The classification as an aromatic compound is supported by the presence of a benzene ring within its molecular structure. This is further highlighted by the structural formula provided, which includes a benzene ring, depicted as striped sticks. The aromatic nature of cinnamaldehyde contributes to its characteristic odor and is a defining feature of its classification as an aromatic aldehyde.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:25",
+      "char_limit": 1800,
+      "answer_length": 571
+    },
+    {
+      "question": "Describe the commercial preparation methods for cinnamaldehyde and discuss its solubility properties.",
+      "answer": "Cinnamaldehyde is commercially prepared by two methods. The first method involves treating the bark of the Cinnamomum zeylanicum tree with steam. The cinnamaldehyde dissolves in the steam and is extracted as the steam cools and condenses into cold water, in which the compound is much less soluble. The second method is chemical synthesis, where cinnamaldehyde is produced by reacting benzaldehyde (C6H5CHO) with acetaldehyde (CH3CHO), resulting in the condensation of these two compounds with the elimination of water.\n\nRegarding solubility, cinnamaldehyde is very slightly soluble in water but is soluble in alcohol, ether, and chloroform.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:29",
+      "char_limit": 2000,
+      "answer_length": 641
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5670,
+  "updated_at": "2025-11-30 13:59:30",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

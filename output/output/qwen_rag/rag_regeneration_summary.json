@@ -1,0 +1,12 @@
+{
+  "total_files": 178,
+  "successful": 178,
+  "failed": 0,
+  "failed_files": [],
+  "total_time_s": 1934.217895269394,
+  "avg_per_file_s": 10.866392670052775,
+  "vllm_used": true,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "log_file": "/home/himanshu/dev/output/qwen_rag/logs/rag_regeneration_20251123_050439.log"
+}

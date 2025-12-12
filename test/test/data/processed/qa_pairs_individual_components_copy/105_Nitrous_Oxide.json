@@ -1,0 +1,36 @@
+{
+  "compound_id": 102,
+  "compound_name": "Nitrous Oxide",
+  "source_file": "compound_102_Nitrous Oxide.json",
+  "main_entry_length": 1426,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0564_Nitrous_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Nitrous Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Nitrous Oxide?",
+      "answer": "The chemical formula of Nitrous Oxide is N2O, and its molecular weight is 44.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of Nitrous Oxide and its implications for usage.",
+      "answer": "Nitrous Oxide is slightly soluble in water but is soluble in ethyl alcohol and ether. This solubility profile enables its use in various medical and industrial applications where it can be dissolved in these solvents for efficient delivery and reaction.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical discovery and early experimentation of Nitrous Oxide.",
+      "answer": "Nitrous oxide was likely first produced by Robert Boyle, but Joseph Priestley is credited with its discovery in 1772, naming it 'nitrous air.' Sir Humphry Davy conducted extensive experiments on the gas, noting its anesthetic properties, which led to its nickname 'laughing gas' due to the light-headedness it caused when inhaled.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 34,
+  "compound_name": "Carbon Dioxide",
+  "source_file": "compound_034_Carbon Dioxide.json",
+  "main_entry_length": 5242,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0228_Carbon_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Carbon Dioxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of carbon dioxide, and what elements does it comprise?",
+      "answer": "The chemical formula of carbon dioxide is CO2. It comprises two elements: carbon (C) and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the role of carbon dioxide in the carbonation of beverages and its effects on taste and preservation.",
+      "answer": "Carbon dioxide is used in the carbonation of beverages to add a zesty taste and help preserve the drink. When carbon dioxide is dissolved in water, it creates carbonated beverages that have a sparkling and refreshing quality. This process can occur naturally, as in the fermentation of sugars in beers and sparkling wines, or artificially, where carbon dioxide is added to nearly all other carbonated drinks.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the significance of supercritical carbon dioxide (SC-CO2) and its properties.",
+      "answer": "Supercritical carbon dioxide (SC-CO2) is a form of carbon dioxide that, under specific conditions of temperature and pressure, behaves as both a liquid and a gas. This unique property makes SC-CO2 a highly efficient solvent with no environmental disadvantages. Its ability to act as both a liquid and gas simultaneously is valuable in various industrial processes, particularly where an environmentally friendly solvent is required.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

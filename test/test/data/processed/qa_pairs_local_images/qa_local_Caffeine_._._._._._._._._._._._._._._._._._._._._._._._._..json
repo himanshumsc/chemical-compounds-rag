@@ -1,0 +1,36 @@
+{
+  "compound_id": 26,
+  "compound_name": "Caffeine . . . . . . . . . . . . . . . . . . . . . . . . .",
+  "source_file": "compound_026_Caffeine.json",
+  "main_entry_length": 1436,
+  "qa_pairs_count": 4,
+  "image_path": "images/Caffeine__________________________molecular_diagram.png",
+  "generated_at": "2025-10-05 10:32:27",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Caffeine.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula of caffeine and what elements does it contain?",
+      "answer": "The molecular formula of caffeine is C8H10N4O2. It contains carbon (C), hydrogen (H), nitrogen (N), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why caffeine is considered an alkaloid and its solubility properties.",
+      "answer": "Caffeine is considered an alkaloid because it is a nitrogen-containing organic compound that occurs naturally in plants, and it has physiological effects on humans. Alkaloids are typically basic (alkaline) in nature. Regarding solubility, caffeine is slightly soluble in water and alcohol but more soluble in chloroform, which is typical for many organic compounds due to its non-polar organic solvent characteristics.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical significance and modern uses of caffeine, including any health considerations.",
+      "answer": "Historically, caffeine has been consumed for thousands of years, with the earliest recorded reference to tea consumption by Emperor Shen Nung in 2700 BCE and coffee cultivation around 575 CE. In modern times, caffeine is widely used as a stimulant in beverages like coffee, tea, and energy drinks. It's also used in some medications for its stimulating effects. However, excessive caffeine consumption can lead to health issues such as insomnia, increased heart rate, and anxiety. Therefore, moderation is advised, and individuals should be mindful of their intake.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "First QA pair is for image identification, followed by 3 additional educational QA pairs. Image is saved locally."
+}

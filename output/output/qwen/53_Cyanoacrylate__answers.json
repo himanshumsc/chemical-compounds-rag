@@ -1,0 +1,27 @@
+{
+  "source_file": "53_Cyanoacrylate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cyanoacrylate (also known as super glue). Key properties of cyanoacrylate include:\n\n1. **Adhesive Properties**: Cyanoacrylate forms strong bonds with many materials due to its ability to polymerize rapidly when exposed to moisture or humidity.\n2. **Fast Setting Time**: It sets quickly, often within seconds, making it useful for quick repairs and bonding applications.\n3. **Versatility**: It can bond various materials such as metals, plastics, wood, and even human skin.\n4. **Solvent Resistance**: Cyanoacrylate resists solvents",
+      "latency_s": 16.42
+    },
+    {
+      "question": "What is the chemical formula and molar mass of methyl cyanoacrylate?",
+      "answer": "The chemical formula for methyl cyanoacrylate (also known as superglue) is:\n\n\\[ \\text{CH}_3-\\text{C}(\\equiv\\text{N})-\\text{CO}-\\text{O}-\\text{CH}_{2}-\\text{CH}_{2}-\\text{O}-\\text{CH}_{2}-\\text{CH}_{2}-\\text{CH}_{3} \\]\n\nThis can be simplified to:\n\n\\[ \\text{CH}_3-\\text{C}(\\equiv\\text{N})-\\text{CO}-\\text{O}-\\text",
+      "latency_s": 10.34
+    },
+    {
+      "question": "Explain the solubility and reactivity of cyanoacrylate with water.",
+      "answer": "Cyanoacrylate, also known as superglue or瞬间胶 (shíjiàngu), is a type of adhesive that is primarily composed of 2-cyano-2-propyl acrylate. It is a liquid at room temperature and is highly reactive due to its chemical structure.\n\n### Solubility in Water\n\nCyanoacrylate is not soluble in water. This is because it contains a hydrophobic (non-polar) acrylate group, which does not interact well with the polar water molecules. Instead, it forms a strong hydrogen bond with water, which makes it difficult for the",
+      "latency_s": 10.34
+    },
+    {
+      "question": "Describe the process and significance of cyanoacrylate polymerization in adhesive applications.",
+      "answer": "Cyanoacrylate, also known as superglue or quick-drying glue, is a type of adhesive that is widely used due to its fast curing time and strong bond formation. The process of cyanoacrylate polymerization involves several steps, which are crucial for understanding how this adhesive works.\n\n### Process of Cyanoacrylate Polymerization\n\n1. **Monomer Formation**: Cyanoacrylate adhesives are typically composed of a monomer (a single molecule) that can polymerize into a polymer network. The most common monomer in cyanoacrylates is 2-butoxy-2",
+      "latency_s": 10.34
+    }
+  ]
+}

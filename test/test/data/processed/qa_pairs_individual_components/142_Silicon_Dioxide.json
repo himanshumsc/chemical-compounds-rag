@@ -1,0 +1,38 @@
+{
+  "compound_id": 138,
+  "compound_name": "Silicon Dioxide",
+  "source_file": "compound_138_Silicon Dioxide.json",
+  "main_entry_length": 1612,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0746_Silicon_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:35",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is silicon dioxide (SiO₂). In the diagram, red atoms represent oxygen, and yellow atoms represent silicon. Silicon dioxide is a fundamental component of sand and quartz and is commonly found in nature. A notable form of silicon dioxide is silica gel, which is highly adsorbent. Silica gel can adsorb 30 to 50 percent of its weight in water, making it useful for removing moisture and gases like ammonia and alcohol from the air.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:15"
+    },
+    {
+      "question": "What is the chemical formula of Silicon Dioxide and what elements does it consist of?",
+      "answer": "The chemical formula of Silicon Dioxide is SiO2. It consists of the elements silicon (Si) and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the different structural forms of Silicon Dioxide and how they differ.",
+      "answer": "Silicon Dioxide can exist in crystalline, amorphous, or vitreous forms. Crystalline silicon dioxide has atoms arranged in orderly geometric patterns like cubes or rhombohedrons. Amorphous silicon dioxide has atoms arranged randomly without any clear pattern. Vitreous silicon dioxide is a glassy form that can be transparent, translucent, or opaque. These forms can be converted from one to another through heating and changes in pressure.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Explain how silicon dioxide's solubility varies and under what conditions it can dissolve.",
+      "answer": "Silicon dioxide is generally insoluble in water; however, its solubility can vary depending on its crystalline state. It is soluble in many acids and alkalis. This variation in solubility is due to the different structural forms of silicon dioxide, which affect how it interacts with solvents.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

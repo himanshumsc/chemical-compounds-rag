@@ -1,0 +1,27 @@
+{
+  "source_file": "109_Pectin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image does not contain a molecular structure diagram; instead, it provides information about pectin, a natural polymer found in the cell walls of fruits and vegetables. Pectin is used as a food additive for various purposes such as jelling agents in jams and jellies, providing consistency to yogurts, and stabilizing concentrated fruit drinks.\n\nKey properties of pectin include:\n1. **Natural Occurrence**: It is naturally present in ripening fruits.\n2. **Manufacturing Process**: Commercially, pectin is extracted from citrus peels or apple pomace by treating them with hot, acidified water.",
+      "latency_s": 16.62
+    },
+    {
+      "question": "What is the solubility characteristic of pectin, and how does this property relate to its primary use?",
+      "answer": "Pectin is a naturally occurring polysaccharide found in the cell walls of fruits and vegetables. It is primarily composed of galacturonic acid residues linked by α-1,4-galacturonan chains. Pectin has several unique properties that make it useful in various applications.\n\n### Solubility Characteristics:\nPectin is soluble in water, especially when it is in its sodium form (sodium pectinate). This solubility is crucial for its primary use as a thickening agent in food products. When heated, pectin molecules can form gels due to their ability to hydrogen bond with",
+      "latency_s": 10.51
+    },
+    {
+      "question": "Explain why pectin is classified as a mixture and not a compound, and describe its chemical structure.",
+      "answer": "Pectin is classified as a mixture rather than a compound because it consists of a complex array of different molecules that are not chemically bonded to each other in a consistent way. Instead, pectin is made up of a variety of polygalacturonic acid chains, which are themselves composed of repeating units of galacturonic acid. These chains can be cross-linked by methanol bridges or hydrogen bonds, leading to a highly variable structure.\n\n### Chemical Structure of Pectin:\n\n1. **Polygalacturonic Acid Chains**:\n   - The primary building block of pectin is polygalacturonic acid",
+      "latency_s": 10.51
+    },
+    {
+      "question": "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubility properties.",
+      "answer": "Pectin is a naturally occurring polysaccharide found in the cell walls of fruits, vegetables, and other plants. It plays a crucial role in plant structure and is also used as a food additive due to its gelling and thickening properties. Commercial extraction of pectin involves several steps, including harvesting, processing, and modification to enhance its solubility properties.\n\n### Commercial Extraction of Pectin\n\n1. **Harvesting**: Pectin is primarily extracted from citrus peels, apple pomace, and other fruit byproducts. The raw material is collected and washed to remove any impurities or residues.\n\n2",
+      "latency_s": 10.51
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 160,
+  "compound_name": "Sucrose",
+  "source_file": "compound_160_Sucrose.json",
+  "main_entry_length": 1539,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0858_Sucrose_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is sucrose. Sucrose is a disaccharide composed of glucose and fructose units. It is commonly known as table sugar. Key properties include its solubility in water and sweet taste. Sucrose is a non-reducing sugar, meaning it does not have a free aldehyde or ketone group. It is widely used as a sweetener in foods and beverages and plays a role in energy metabolism in living organisms.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:47"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "answer": "The chemical formula of sucrose is C12H22O11, and its molecular weight is 342.30 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why sucrose is classified as a disaccharide and how this relates to its chemical structure.",
+      "answer": "Sucrose is classified as a disaccharide because it consists of two monosaccharide units: glucose and fructose. These two monosaccharides are chemically bonded together to form the disaccharide sucrose. Disaccharides are a type of carbohydrate, which are organic compounds made of carbon, hydrogen, and oxygen, typically with hydrogen and oxygen in a 2:1 ratio. The structure of sucrose reflects this composition.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "answer": "When sucrose is heated above its decomposition point of about 160°C (320°F), it begins to break down into carbon and water. This decomposition process leads to caramelization, where the sucrose molecule changes structure, resulting in a darker color and altered flavor. This is due to the formation of caramel, which occurs as the compound breaks down and reorganizes chemically, affecting its physical properties such as color and taste.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

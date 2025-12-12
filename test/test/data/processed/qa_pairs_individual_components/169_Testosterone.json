@@ -1,0 +1,38 @@
+{
+  "compound_id": 165,
+  "compound_name": "Testosterone",
+  "source_file": "compound_165_Testosterone.json",
+  "main_entry_length": 4643,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0888_Testosterone_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram in the image shows the molecular structure of testosterone. Testosterone is a steroid hormone with the chemical formula C19H28O2. Key properties include:\n\n- It has a hydroxyl group (red oxygen atom) and multiple carbon rings (black atoms).\n- It is a primary male sex hormone, crucial for the development of male reproductive tissues and secondary sexual characteristics.\n- Synthesized naturally in the testes and ovaries, it can also be produced synthetically from cholesterol or diosgenin.\n- Testosterone plays roles in muscle growth, bone density, and mood regulation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:05:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of testosterone?",
+      "answer": "The chemical formula of testosterone is C19H28O2, and its molecular weight is 288.41 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how testosterone affects the development of male sexual characteristics.",
+      "answer": "Testosterone is an androgenic steroid responsible for the development of male sexual characteristics. It promotes the growth of male sex organs, deepens the voice, and stimulates the growth of body and facial hair. Testosterone also increases the number of red blood cells and muscle cells, contributing to the development of secondary male sexual characteristics.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the synthesis process of testosterone and its applications in medical treatments.",
+      "answer": "Testosterone can be synthesized starting with either cholesterol or diosgenin, a plant steroid. It is produced naturally in male testes and female ovaries. In medical treatments, testosterone is used to treat hypogonadism, a condition caused by low testosterone levels due to injury or disease affecting the hypothalamus, pituitary gland, or testes. Treatments include testosterone injections, tablets, skin patches, and gels. Additionally, testosterone is used by women undergoing gender transition to develop male characteristics and must be taken continuously for life.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

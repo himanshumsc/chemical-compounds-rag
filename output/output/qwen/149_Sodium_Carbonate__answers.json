@@ -1,0 +1,27 @@
+{
+  "source_file": "149_Sodium_Carbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium carbonate (Na₂CO₃). Sodium carbonate is an ionic compound composed of sodium ions (Na⁺) and carbonate ions (CO₃²⁻). The diagram indicates that the red atoms represent oxygen, the black atom represents carbon, and the turquoise atoms represent sodium. The gray stick indicates a double bond between the carbon and one of the oxygen atoms.\n\nKey properties of sodium carbonate include:\n1. **Solubility**: It is highly soluble in water.\n2. **Alkaline Properties**: It has basic properties due to the presence of the carbonate ion.\n3. **Use",
+      "latency_s": 16.82
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium carbonate?",
+      "answer": "The chemical formula for sodium carbonate is \\( \\text{Na}_2\\text{CO}_3 \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Sodium (Na) has an atomic weight of approximately 22.99 g/mol.\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nNow, let's calculate the molecular weight:\n\n- There are 2 sodium atoms: \\( 2 \\times 22",
+      "latency_s": 10.56
+    },
+    {
+      "question": "Explain the solubility characteristics of sodium carbonate in different solvents.",
+      "answer": "Sodium carbonate, also known as soda ash or washing soda, is a salt with the chemical formula Na₂CO₃. It is highly soluble in water and moderately soluble in ethanol and methanol. Here's a detailed look at its solubility characteristics in various solvents:\n\n### 1. **Water**\n   - Sodium carbonate is highly soluble in water.\n   - The solubility of sodium carbonate in water is approximately 26 grams per 100 mL at room temperature (25°C).\n   - This means that you can dissolve about 26 grams of sodium carbonate in 100 mL of",
+      "latency_s": 10.56
+    },
+    {
+      "question": "Discuss the significance of sodium carbonate's hygroscopic nature and its implications for storage.",
+      "answer": "Sodium carbonate, also known as soda ash or washing soda, is a compound with the chemical formula Na2CO3. It is widely used in various industries including textiles, papermaking, glass manufacturing, and water treatment due to its chemical properties and effectiveness.\n\nOne of the most significant properties of sodium carbonate is its hygroscopic nature. Hygroscopicity refers to the ability of a substance to absorb moisture from the surrounding air. Sodium carbonate absorbs moisture from the air, which can lead to several implications that are important to consider when storing this compound:\n\n### 1. **Prevention of Clumping**\n   - Sodium carbonate tends to",
+      "latency_s": 10.56
+    }
+  ]
+}

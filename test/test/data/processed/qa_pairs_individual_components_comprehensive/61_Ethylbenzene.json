@@ -1,0 +1,58 @@
+{
+  "compound_id": 58,
+  "compound_name": "Ethylbenzene",
+  "source_file": "compound_058_Ethylbenzene.json",
+  "main_entry_length": 2285,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0354_Ethylbenzene_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is ethylbenzene. It consists of a benzene ring with an ethyl group (C₂H₅) attached. Ethylbenzene is primarily used in the production of styrene, which is a precursor to polystyrene, a common plastic. It is a colorless, flammable liquid with a sweet aroma. Ethylbenzene is also found in small amounts in products like synthetic rubber, gasoline, paints, inks, and insecticides. It is important to handle it with care due to its potential health hazards.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethylbenzene?",
+      "answer": "The chemical formula of ethylbenzene is C6H5C2H5, and its molecular weight is 106.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:24",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain how ethylbenzene is synthesized synthetically and identify the catalyst used in the reaction.",
+      "answer": "Ethylbenzene is synthesized synthetically by reacting benzene (C6H6) with ethene (ethylene; CH2=CH2) in the presence of a catalyst. The catalyst used in this reaction is aluminum chloride (AlCl3). This process results in the formation of ethylbenzene (C6H5C2H5).",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:27",
+      "char_limit": 1800,
+      "answer_length": 262
+    },
+    {
+      "question": "Discuss the industrial importance of ethylbenzene and its primary use.",
+      "answer": "Ethylbenzene is an industrially important chemical primarily used in the production of styrene, which is a significant industrial chemical. In 2004, styrene ranked seventeenth among all chemicals produced in the United States, highlighting its industrial value. Styrene is used to manufacture several important polymers, including polystyrene, styrene-butadiene latex, SBR rubber, and ABS rubber. More than 99 percent of ethylbenzene produced is dedicated to styrene production, underscoring its critical role in this industrial process.\n\nEthylbenzene itself is a colorless, flammable liquid with a pleasant aromatic odor. It is an aromatic hydrocarbon containing carbon and hydrogen, similar in structure to benzene. It can be obtained by fractional distillation from petroleum or synthesized by reacting benzene with ethene over an aluminum chloride catalyst.\n\nWhile the primary use of ethylbenzene is in styrene production, smaller amounts are utilized in solvents and as additives in various products, including synthetic rubber, gasoline and other fuels, paints and varnishes, inks, carpet glues, tobacco products, and insecticides. Despite its widespread industrial application, the concentration of ethylbenzene in consumer products is generally low, posing minimal threat to human health or the environment.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:32",
+      "char_limit": 2000,
+      "answer_length": 1315
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4726,
+  "updated_at": "2025-11-30 14:02:33",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

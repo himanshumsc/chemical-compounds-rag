@@ -1,0 +1,282 @@
+{
+  "source_file": "37_Carbon_Dioxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **carbon dioxide (CO2)**. Key properties include being produced by combustion/respiration, used in creating sparkling drinks, and a byproduct of industrial processes. It's a component of soda drinks.",
+      "latency_s": 24.8,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula of carbon dioxide, and what elements does it comprise?",
+      "answer": "The provided text does not contain information about the chemical formula of carbon dioxide. It defines carbohydrates, carboxyl groups, and other chemical terms, but not the specific formula.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7596986293792725,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1326,
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.7359954118728638,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "88-88",
+            "text_length": 1553,
+            "image_path": "",
+            "chunk_id": "chunk_87"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7305960655212402,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "page_range": "44-44",
+            "text_length": 1364,
+            "chunk_id": "chunk_43",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_1",
+          "score": 0.7302025258541107,
+          "text": "chemical COMPOUNDS",
+          "metadata": {
+            "text_length": 18,
+            "chunk_id": "chunk_1",
+            "has_image": false,
+            "page_range": "2-2",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.720463216304779,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "chunk_id": "chunk_0",
+            "page_range": "1-1",
+            "image_path": "",
+            "text_length": 162,
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.760)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.736)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 3 (Relevance: 0.731)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n\n\n[Source 4 (Relevance: 0.730)]\nchemical COMPOUNDS\n\n[Source 5 (Relevance: 0.720)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain the role of carbon dioxide in the carbonation of beverages and its effects on taste and preservation.",
+      "answer": "The provided text does not contain information about carbon dioxide, carbonation of beverages, or their effects on taste and preservation. Therefore, a relevant answer cannot be generated from this context.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7009113729000092,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "page_range": "40-40",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6552551686763763,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "text_length": 1769,
+            "image_path": "",
+            "chunk_id": "chunk_76",
+            "page_range": "77-77",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_79",
+          "score": 0.631395161151886,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "page_range": "80-80",
+            "image_path": "",
+            "text_length": 1964,
+            "chunk_id": "chunk_79",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_47",
+          "score": 0.6149736642837524,
+          "text": "PRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n",
+          "metadata": {
+            "page_range": "48-48",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1258,
+            "chunk_id": "chunk_47"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.6135441064834595,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "text_length": 1914,
+            "has_image": false,
+            "chunk_id": "chunk_57",
+            "image_path": "",
+            "page_range": "58-58"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.701)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.655)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 3 (Relevance: 0.631)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 4 (Relevance: 0.615)]\nPRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n\n\n[Source 5 (Relevance: 0.614)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe the significance of supercritical carbon dioxide (SC-CO2) and its properties.",
+      "answer": "The provided text does not contain information about supercritical carbon dioxide (SC-CO2) or its properties. It focuses on other chemical compounds like carbohydrates, acetic acid, and hydrocarbons, but does not mention SC-CO2. Therefore, I cannot answer the user's question based on this context.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7977395504713058,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.7418463230133057,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "image_path": "",
+            "text_length": 1074,
+            "page_range": "75-75",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7385527491569519,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "has_image": false,
+            "text_length": 1769,
+            "image_path": "",
+            "chunk_id": "chunk_76"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7372453510761261,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "text_length": 162,
+            "chunk_id": "chunk_0",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "1-1"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7311780750751495,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "page_range": "44-44",
+            "has_image": false,
+            "text_length": 1364,
+            "chunk_id": "chunk_43",
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.798)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.742)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 3 (Relevance: 0.739)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.737)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.731)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:59:42",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:59:42",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:59",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 3,
+  "filtered_answers_indices": [
+    2,
+    3,
+    4
+  ]
+}

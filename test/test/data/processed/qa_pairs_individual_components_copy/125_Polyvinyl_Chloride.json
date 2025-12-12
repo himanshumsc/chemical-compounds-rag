@@ -1,0 +1,36 @@
+{
+  "compound_id": 121,
+  "compound_name": "Polyvinyl Chloride",
+  "source_file": "compound_121_Polyvinyl Chloride.json",
+  "main_entry_length": 1451,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0666_Polyvinyl_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Polyvinyl Chloride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula for Polyvinyl Chloride and which elements does it contain?",
+      "answer": "The chemical formula for Polyvinyl Chloride is -[-CH2CHCl-]-n. It contains the elements carbon, hydrogen, and chlorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the solubility properties of Polyvinyl Chloride and the solvents in which it is soluble.",
+      "answer": "Polyvinyl Chloride is insoluble in water but is soluble in organic solvents such as tetrahydrofuran, dimethylformamide, and dimethylsulfoxide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain why Polyvinyl Chloride does not have a boiling point and describe its decomposition behavior.",
+      "answer": "Polyvinyl Chloride does not have a boiling point because it is a solid polymer and does not vaporize before decomposing. It decomposes at a temperature of 148°C (298°F), indicating that it breaks down into other substances at this temperature rather than transitioning to a gaseous state.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "74_Hydrogen_Peroxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows hydrogen peroxide (H₂O₂). Hydrogen peroxide is a chemical compound composed of two hydrogen atoms and two oxygen atoms. Its key properties include:\n\n1. **Chemical Formula**: H₂O₂.\n2. **Structure**: It consists of two hydrogen atoms bonded to two oxygen atoms, with each oxygen atom forming a single bond with one hydrogen atom and a double bond with another oxygen atom.\n3. **Physical State**: It is a clear, colorless liquid at room temperature.\n4. **Solubility**: It is highly soluble in water.\n5. **Reactivity**:",
+      "latency_s": 16.38
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hydrogen peroxide?",
+      "answer": "The chemical formula for hydrogen peroxide is \\( \\text{H}_2\\text{O}_2 \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the molecule:\n\n- Hydrogen (H) has an atomic weight of approximately 1.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nFor one molecule of hydrogen peroxide (\\( \\text{H}_2\\text{O}_2 \\)):\n- There are 2 hydrogen atoms: \\( 2 \\times 1.01 \\, \\",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Explain why hydrogen peroxide is considered a strong oxidizing agent in its applications.",
+      "answer": "Hydrogen peroxide (H₂O₂) is considered a strong oxidizing agent due to the high energy of its bond and its ability to readily transfer electrons from other molecules, thereby oxidizing them.\n\n### Bond Energy and Oxidation Potential\n\n1. **Bond Energy**: The O-O bond in H₂O₂ has a significant bond energy of about 490 kJ/mol. This high energy makes it easier for the molecule to break apart, releasing energy when it does so.\n   \n2. **Redox Potential**: Hydrogen peroxide has a redox potential that allows it to oxidize many substances. Its",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Describe the industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones.",
+      "answer": "The industrial preparation of hydrogen peroxide (H₂O₂) using alkyl anthrahydroquinones involves a series of chemical reactions and processes that aim to produce a high concentration of H₂O₂ from a relatively inexpensive starting material. Here is an overview of the process:\n\n### 1. **Starting Materials:**\n   - **Alkyl Anthrahydroquinone:** This is the primary reactant in the process.\n   - **Hydrogen Peroxide:** While not directly used as a reactant, it is produced at the end of the process.\n\n### 2. **Preparation of Alkyl Anth",
+      "latency_s": 10.36
+    }
+  ]
+}

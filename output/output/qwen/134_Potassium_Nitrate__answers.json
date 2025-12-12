@@ -1,0 +1,27 @@
+{
+  "source_file": "134_Potassium_Nitrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Nitrate (KNO₃). Key properties of Potassium Nitrate include:\n\n1. **Composition**: It consists of one potassium atom (turquoise), one nitrogen atom (blue), and three oxygen atoms (red).\n2. **Appearance**: Potassium Nitrate typically appears as a white powder.\n3. **Formation**: It forms naturally in sheltered areas such as caves, particularly in warm climates where bacteria decompose animal feces and other organic matter.\n4. **Use**: Primarily used as an oxidizing agent in explosives, blasting powders, gunpowder, fireworks",
+      "latency_s": 16.88
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Nitrate?",
+      "answer": "The chemical formula for Potassium Nitrate (also known as Potassium Nitrite) is \\( \\text{KNO}_3 \\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K): 39.10 g/mol\n- Nitrogen (N): 14.01 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, multiply the atomic weight by the number of atoms of each element:\n- Potassium: \\( 39.10 \\times 1 = 39.1",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Why is Potassium Nitrate considered an oxidizing agent, and what role does it play in gunpowder?",
+      "answer": "Potassium nitrate (KNO₃), commonly known as saltpeter, is indeed considered an oxidizing agent due to its ability to accept electrons from other substances, thereby causing them to be reduced. This property makes it useful in various chemical reactions, including those that occur in gunpowder.\n\n### Role of Potassium Nitrate in Gunpowder\n\nGunpowder is a mixture of three key components: potassium nitrate (KNO₃), sulfur (S), and charcoal (C). The chemical reaction that occurs when gunpowder is ignited involves the following steps:\n\n1. **Oxidation of Charcoal",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Describe the process by which Potassium Nitrate can be commercially produced.",
+      "answer": "Potassium nitrate, also known as saltpeter, is primarily produced through a series of chemical reactions involving potassium and nitrogen compounds. Here's an overview of the commercial production process:\n\n### 1. **Raw Materials:**\n   - **Potassium Chloride (KCl)**: Obtained from salt mines or brine wells.\n   - **Ammonium Sulfate ((NH4)2SO4)**: Produced from natural gas or other organic materials.\n\n### 2. **Ammonia Production:**\n   - **Synthesis Gas**: First, synthesis gas (a mixture of hydrogen and carbon monoxide) is",
+      "latency_s": 10.65
+    }
+  ]
+}

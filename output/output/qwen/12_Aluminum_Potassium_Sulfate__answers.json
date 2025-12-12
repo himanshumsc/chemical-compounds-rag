@@ -1,0 +1,27 @@
+{
+  "source_file": "12_Aluminum_Potassium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows aluminum potassium sulfate (Al2K(SO4)4). This compound consists of:\n\n- Red atoms representing oxygen.\n- Yellow atoms representing sulfur.\n- Turquoise atom representing potassium.\n- Orange atom representing aluminum.\n\nKey properties of aluminum potassium sulfate include:\n1. **Astringent Properties**: It is known for its ability to shrink or contract tissues, which makes it effective as a deodorant by reducing the tendency of sweat glands to produce perspiration.\n2. **Medical Uses**: Historically, alums have been used in medicine as astrigents to treat wounds and prevent bleeding.\n3",
+      "latency_s": 16.7
+    },
+    {
+      "question": "What is the chemical formula of aluminum potassium sulfate and what elements does it contain?",
+      "answer": "The chemical formula for aluminum potassium sulfate is \\( \\text{KAl(SO}_4\\text{)}_2 \\).\n\nThis compound contains the following elements:\n- Potassium (K)\n- Aluminum (Al)\n- Sulfur (S)\n- Oxygen (O)\n\nBreaking down the formula:\n- \\( \\text{K} \\) stands for potassium.\n- \\( \\text{Al} \\) stands for aluminum.\n- \\( \\text{SO}_4 \\) represents one sulfate ion, which consists of one sulfur atom and four oxygen atoms.\n\nThus, each molecule of aluminum potassium sulfate contains one potassium atom, one aluminum",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Explain the solubility properties of aluminum potassium sulfate and how it changes with temperature.",
+      "answer": "Aluminum potassium sulfate, also known as alum, has a complex solubility behavior that is influenced by several factors including temperature, pressure, and the presence of other substances.\n\n### General Solubility Properties\n\nAluminum potassium sulfate (KAl(SO₄)₂·12H₂O) is a crystalline compound that exists in multiple hydrate forms, but the most common form is the 12-hydrate. This form is highly soluble in water at room temperature, but its solubility can vary depending on the specific hydrate form present.\n\n### Solubility Changes with Temperature\n\nThe solub",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Discuss the historical and modern uses of aluminum potassium sulfate and the reasons for its effectiveness in these applications.",
+      "answer": "Aluminum Potassium Sulfate, also known as Alum, is a compound with the chemical formula KAl(SO4)2·12H2O. It has been used since ancient times and continues to be utilized in various applications due to its unique properties.\n\nHistorically, alum has been used for dyeing fabrics and leather tanning. The process of dyeing textiles involves immersing the fabric into a solution containing alum. The alum acts as a mordant, which means it helps the dye to adhere to the fabric more effectively. This process was widely used in the textile industry before the advent of synthetic d",
+      "latency_s": 10.63
+    }
+  ]
+}

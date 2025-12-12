@@ -1,0 +1,58 @@
+{
+  "compound_id": 129,
+  "compound_name": "Potassium Iodide",
+  "source_file": "compound_129_Potassium Iodide.json",
+  "main_entry_length": 2713,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0702_Potassium_Iodide_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of potassium iodide (KI). In the diagram, the green atom represents iodine, and the turquoise atom represents potassium.\n\nKey Properties of Potassium Iodide:\n- Chemical Formula: KI\n- It is an ionic compound formed by the combination of potassium and iodine.\n- Solubility: Highly soluble in water, which increases the solubility of iodine in aqueous solutions.\n- Uses: It is used in animal feeds, as a disinfectant, and for treating radiation exposure by blocking radioactive iodine uptake by the thyroid.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:46"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Iodide?",
+      "answer": "The chemical formula for Potassium Iodide is KI, and its molecular weight is 166.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:51",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Describe the process of how Potassium Iodide can be made using iodine and potassium hydroxide.",
+      "answer": "Potassium iodide can be made by adding elemental iodine (I₂) to a solution of potassium hydroxide (KOH). The reaction proceeds as follows: I₂ + 6KOH → 5KI + KIO₃ + 3H₂O. In this process, potassium iodide (KI) and potassium iodate (KIO₃) are formed. The two compounds are separated by fractional crystallization, which involves warming the solution and then cooling it. As the temperature decreases, potassium iodide and potassium iodate crystallize out at different temperatures, allowing for their separation. The potassium iodate can subsequently be decomposed by heating to produce additional potassium iodide: 2KIO₃ → 2KI + 3O₂.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:55",
+      "char_limit": 1800,
+      "answer_length": 632
+    },
+    {
+      "question": "Explain how Potassium Iodide acts as a protective agent against radiation exposure.",
+      "answer": "Potassium iodide acts as a protective agent against radiation exposure by preventing the absorption of radioactive iodine-131 into the thyroid gland. When a nuclear explosion or accident occurs, iodine-131 is one of the dangerous radioactive isotopes released. This isotope can enter the human body and accumulate in the thyroid, potentially causing thyroid cancer. By taking potassium iodide, the thyroid gland becomes saturated with non-radioactive iodine, which makes it difficult for the gland to absorb the harmful radioactive iodine. This protective measure helps reduce the risk of thyroid cancer following radiation exposure.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:59",
+      "char_limit": 2000,
+      "answer_length": 633
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4214,
+  "updated_at": "2025-11-30 13:41:59",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

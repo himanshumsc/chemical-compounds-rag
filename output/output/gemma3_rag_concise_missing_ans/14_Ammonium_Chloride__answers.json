@@ -1,0 +1,280 @@
+{
+  "source_file": "14_Ammonium_Chloride.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Ammonium Chloride**. It's a white compound formed in volcanic regions. It's soluble in water and produced from ammonia and hydrochloric acid. It's used in various industries.",
+      "latency_s": 20.48,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ammonium chloride?",
+      "answer": "There is no information about ammonium chloride in the provided documents.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_91",
+          "score": 0.7637854814529419,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "text_length": 1328,
+            "chunk_id": "chunk_91",
+            "image_path": "",
+            "has_image": false,
+            "page_range": "92-92"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_99",
+          "score": 0.7535514384508133,
+          "text": "OTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+          "metadata": {
+            "page_range": "100-100",
+            "chunk_id": "chunk_99",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1359
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7510252892971039,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_0",
+            "page_range": "1-1",
+            "text_length": 162,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7463725805282593,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_6",
+          "score": 0.7359025478363037,
+          "text": "Ammonium Sulfate. . . . . . . . . . . . . . . . . . . 77\nAmoxicillin . . . . . . . . . . . . . . . . . . . . . . . . 81\nAmyl Acetate. . . . . . . . . . . . . . . . . . . . . . . 85\nAmyl Nitrite . . . . . . . . . . . . . . . . . . . . . . . 89\nAscorbic Acid . . . . . . . . . . . . . . . . . . . . . . 93\nBenzene . . . . . . . . . . . . . . . . . . . . . . . . . . 99\nBenzoic Acid . . . . . . . . . . . . . . . . . . . . . . 105\nBeta-Carotene . . . . . . . . . . . . . . . . . . . . . 109\nBoric Acid. . . . . . . . . . . . . . . . . . . . . . . . . 115\nButane . . . . . . . . . . . . . . . . . . . . . . . . . . . 119\nButyl Acetate . . . . . . . . . . . . . . . . . . . . . .125\nButyl Mercaptan . . . . . . . . . . . . . . . . . . . .129\nButylated Hydroxyanisole and Butylated\nHydroxytoluene . . . . . . . . . . . . . . . . . . . .133\nCaffeine . . . . . . . . . . . . . . . . . . . . . . . . . .137\nCalcium Carbonate . . . . . . . . . . . . . . . . . . .143\nCalcium Hydroxide . . . . . . . . . . . . . . . . . . .147\nCalcium Oxide . . . . . . . . . . . . . . . . . . . . . . 151\nCalcium Phosphate . . . . . . . . . . . . . . . . . . .155\nCalcium Silicate . . . . . . . . . . . . . . . . . . . . . 161\nCalcium Sulfate . . . . . . . . . . . . . . . . . . . . .165\nCamphor. . . . . . . . . . . . . . . . . . . . . . . . . . 171\nCarbon Dioxide . . . . . . . . . . . . . . . . . . . . .177\nCarbon Monoxide . . . . . . . . . . . . . . . . . . . .183\nCarbon Tetrachloride. . . . . . . . . . . . . . . . . .189\nCellulose. . . . . . . . . . . . . . . . . . . . . . . . . .195\nCellulose Nitrate . . . . . . . . . . . . . . . . . . . .201\nCellulose Xanthate . . . . . . . . . . . . . . . . . . 207\nChloroform . . . . . . . . . . . . . . . . . . . . . . . . 211\nChlorophyll . . . . . . . . . . . . . . . . . . . . . . . .217\nCholesterol . . . . . . . . . . . . . . . . . . . . . . . 223\nCinnamaldehyde. . . . . . . . . . . . . . . . . . . . 229\nCitric Acid . . . . . . . . . . . . . . . . . . . . . . . 233\nCollagen . . . . . . . . . . . . . . . . . . . . . . . . . 239\nContents\nvi\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "page_range": "7-7",
+            "image_path": "",
+            "text_length": 2088,
+            "chunk_id": "chunk_6",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.764)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n\n\n[Source 2 (Relevance: 0.754)]\nOTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n\n\n[Source 3 (Relevance: 0.751)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 4 (Relevance: 0.746)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.736)]\nAmmonium Sulfate. . . . . . . . . . . . . . . . . . . 77\nAmoxicillin . . . . . . . . . . . . . . . . . . . . . . . . 81\nAmyl Acetate. . . . . . . . . . . . . . . . . . . . . . . 85\nAmyl Nitrite . . . . . . . . . . . . . . . . . . . . . . . 89\nAscorbic Acid . . . . . . . . . . . . . . . . . . . . . . 93\nBenzene . . . . . . . . . . . . . . . . . . . . . . . . . . 99\nBenzoic Acid . . . . . . . . . . . . . . . . . . . . . . 105\nBeta-Carotene . . . . . . . . . . . . . . . . . . . . . 109\nBoric Acid. . . . . . . . . . . . . . . . . . . . . . . . . 115\nButane . . . . . . . . . . . . . . . . . . . . . . . . . . . 119\nButyl Acetate . . . . . . . . . . . . . . . . . . . . . .125\nButyl Mercaptan . . . . . . . . . . . . . . . . . . . .129\nButylated Hydroxyanisole and Butylated\nHydroxytoluene . . . . . . . . . . . . . . . . . . . .133\nCaffeine . . . . . . . . . . . . . . . . . . . . . . . . . .137\nCalcium Carbonate . . . . . . . . . . . . . . . . . . .143\nCalcium Hydroxide . . . . . . . . . . . . . . . . . . .147\nCalcium Oxide . . . . . . . . . . . . . . . . . . . . . . 151\nCalcium Phosphate . . . . . . . . . . . . . . . . . . .155\nCalcium Silicate . . . . . . . . . . . . . . . . . . . . . 161\nCalcium Sulfate . . . . . . . . . . . . . . . . . . . . .165\nCamphor. . . . . . . . . . . . . . . . . . . . . . . . . . 171\nCarbon Dioxide . . . . . . . . . . . . . . . . . . . . .177\nCarbon Monoxide . . . . . . . . . . . . . . . . . . . .183\nCarbon Tetrachloride. . . . . . . . . . . . . . . . . .189\nCellulose. . . . . . . . . . . . . . . . . . . . . . . . . .195\nCellulose Nitrate . . . . . . . . . . . . . . . . . . . .201\nCellulose Xanthate . . . . . . . . . . . . . . . . . . 207\nChloroform . . . . . . . . . . . . . . . . . . . . . . . . 211\nChlorophyll . . . . . . . . . . . . . . . . . . . . . . . .217\nCholesterol . . . . . . . . . . . . . . . . . . . . . . . 223\nCinnamaldehyde. . . . . . . . . . . . . . . . . . . . 229\nCitric Acid . . . . . . . . . . . . . . . . . . . . . . . 233\nCollagen . . . . . . . . . . . . . . . . . . . . . . . . . 239\nContents\nvi\nCHEMICAL COMPOUNDS\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain how ammonium chloride is naturally formed around volcanic vents.",
+      "answer": "The provided text does not contain information about ammonium chloride or its natural formation around volcanic vents. The documents primarily detail aluminum compounds (fluoride, hydroxide), explosives (TNT), and general chemical terms.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.6964437365531921,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.6847580373287201,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "text_length": 1328,
+            "chunk_id": "chunk_91",
+            "has_image": false,
+            "page_range": "92-92",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_95",
+          "score": 0.6711966693401337,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n",
+          "metadata": {
+            "text_length": 1351,
+            "has_image": false,
+            "page_range": "96-96",
+            "image_path": "",
+            "chunk_id": "chunk_95"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_68",
+          "score": 0.6694143414497375,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "page_range": "69-69",
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1355,
+            "chunk_id": "chunk_68"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_96",
+          "score": 0.6633411645889282,
+          "text": "(NaOH). As the solution cools, aluminum hydroxide settles\nout of the reaction mixture as a gelatinous (jelly-like) precipi-\ntate, which can then be dried and saved as a white powder. The\naluminum hydroxide can also be precipitated by passing\ncarbon dioxide gas through the solution.\nCOMMON USES AND POTENTIAL HAZARDS\nAluminum hydroxide is an effective antacid because it is,\nchemically, a base. As such, it reacts with stomach acid\n(hydrochloric acid; HCl), to reduce the symptoms of heart-\nburn, upset stomach, acid indigestion, and gastritis, an\ninflammation of the stomach lining. The compound can also\nbe used to treat peptic ulcers on a long-term basis. A peptic\nulcer is an open sore in the lining of the stomach or the first\npart of the small intestine.\nAluminum hydroxide also has a number of industrial\napplications, such as:\n• A raw material for the preparation of other aluminum\ncompounds;\n• An additive for cosmetics, paper, plastics, and rubber to\ngive the final product more bulk;\nAluminum hydroxide. Red\natoms are oxygen; white atoms\nare hydrogen; and turquoise\natom is aluminum. P U B L I S H E R S\nR E S O U R C E G R O U P\n46\nCHEMICAL COMPOUNDS\nALUMINUM HYDROXIDE\n",
+          "metadata": {
+            "text_length": 1182,
+            "chunk_id": "chunk_96",
+            "page_range": "97-97",
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.696)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.685)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n\n\n[Source 3 (Relevance: 0.671)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n\n\n[Source 4 (Relevance: 0.669)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n\n\n[Source 5 (Relevance: 0.663)]\n(NaOH). As the solution cools, aluminum hydroxide settles\nout of the reaction mixture as a gelatinous (jelly-like) precipi-\ntate, which can then be dried and saved as a white powder. The\naluminum hydroxide can also be precipitated by passing\ncarbon dioxide gas through the solution.\nCOMMON USES AND POTENTIAL HAZARDS\nAluminum hydroxide is an effective antacid because it is,\nchemically, a base. As such, it reacts with stomach acid\n(hydrochloric acid; HCl), to reduce the symptoms of heart-\nburn, upset stomach, acid indigestion, and gastritis, an\ninflammation of the stomach lining. The compound can also\nbe used to treat peptic ulcers on a long-term basis. A peptic\nulcer is an open sore in the lining of the stomach or the first\npart of the small intestine.\nAluminum hydroxide also has a number of industrial\napplications, such as:\n• A raw material for the preparation of other aluminum\ncompounds;\n• An additive for cosmetics, paper, plastics, and rubber to\ngive the final product more bulk;\nAluminum hydroxide. Red\natoms are oxygen; white atoms\nare hydrogen; and turquoise\natom is aluminum. P U B L I S H E R S\nR E S O U R C E G R O U P\n46\nCHEMICAL COMPOUNDS\nALUMINUM HYDROXIDE\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe the role of ammonium chloride in dry cell batteries and discuss its importance.",
+      "answer": "The provided text does not mention ammonium chloride or its role in dry cell batteries. It details several chemical compounds and processes, including aluminum hydroxide, acetic acid, TNT, aluminum fluoride, and carbohydrates, but does not address ammonium chloride.",
+      "latency_s": 46.33,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.624207079410553,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_98",
+          "score": 0.6222518384456635,
+          "text": "‘‘Aluminum Hydroxide Resources.’’ drugs@mongabay.com.\nhttp://names.mongabay.com/drugs/ingredients/\nALUMINUM_HYDROXIDE.html (accessed on September 18,\n2005).\nMalakoff, David. ‘‘Public Health: Aluminum Is Put on Trial as a\nVaccine Booster.’’ Science (May 26, 2000): 1323.\nSee Also Aluminum oxide\n48\nCHEMICAL COMPOUNDS\nALUMINUM HYDROXIDE\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_98",
+            "text_length": 335,
+            "page_range": "99-99",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.6206392049789429,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "text_length": 1074,
+            "image_path": "",
+            "has_image": false,
+            "page_range": "75-75"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_68",
+          "score": 0.6127544343471527,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_68",
+            "has_image": false,
+            "page_range": "69-69",
+            "text_length": 1355
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_92",
+          "score": 0.6051963567733765,
+          "text": "between dry alumina trihydrate and gaseous hydrogen fluor-\nide. The third method involves the addition of fluorosilicic\nacid (H2SiF6) to alumina trihdrate. The last of these methods\nis commercially attractive because fluorosilicic acid is\nobtained inexpensively as a by-product in the production of\nfertilizers and phosphoric acid.\nCOMMON USES AND POTENTIAL HAZARDS\nThe primary use of aluminum fluoride is in the produc-\ntion of aluminum metal. In that process, aluminum is\nextracted from one of its compounds (usually aluminum\noxide) by passing an electric current through the molten\n(melted) compound. The addition of aluminum fluoride to\nthe raw materials used in the process reduces the temperature\nat which the reaction occurs and improves the conductivity of\nthe molten compound.\nSome other uses of aluminum fluoride include:\n• As a catalyst in the synthesis of organic compounds;\n• To suppress the process of fermentation in the wine-\nand beer-making industries;\nAluminum fluoride. Red atom\nis aluminum and green atoms\nare fluorine. P U B L I S H E R S\nR E S O U R C E G R O U P\n42\nCHEMICAL COMPOUNDS\nALUMINUM FLUORIDE\n",
+          "metadata": {
+            "page_range": "93-93",
+            "text_length": 1126,
+            "chunk_id": "chunk_92",
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.624)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.622)]\n‘‘Aluminum Hydroxide Resources.’’ drugs@mongabay.com.\nhttp://names.mongabay.com/drugs/ingredients/\nALUMINUM_HYDROXIDE.html (accessed on September 18,\n2005).\nMalakoff, David. ‘‘Public Health: Aluminum Is Put on Trial as a\nVaccine Booster.’’ Science (May 26, 2000): 1323.\nSee Also Aluminum oxide\n48\nCHEMICAL COMPOUNDS\nALUMINUM HYDROXIDE\n\n\n[Source 3 (Relevance: 0.621)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.613)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n\n\n[Source 5 (Relevance: 0.605)]\nbetween dry alumina trihydrate and gaseous hydrogen fluor-\nide. The third method involves the addition of fluorosilicic\nacid (H2SiF6) to alumina trihdrate. The last of these methods\nis commercially attractive because fluorosilicic acid is\nobtained inexpensively as a by-product in the production of\nfertilizers and phosphoric acid.\nCOMMON USES AND POTENTIAL HAZARDS\nThe primary use of aluminum fluoride is in the produc-\ntion of aluminum metal. In that process, aluminum is\nextracted from one of its compounds (usually aluminum\noxide) by passing an electric current through the molten\n(melted) compound. The addition of aluminum fluoride to\nthe raw materials used in the process reduces the temperature\nat which the reaction occurs and improves the conductivity of\nthe molten compound.\nSome other uses of aluminum fluoride include:\n• As a catalyst in the synthesis of organic compounds;\n• To suppress the process of fermentation in the wine-\nand beer-making industries;\nAluminum fluoride. Red atom\nis aluminum and green atoms\nare fluorine. P U B L I S H E R S\nR E S O U R C E G R O U P\n42\nCHEMICAL COMPOUNDS\nALUMINUM FLUORIDE\n"
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:47:55",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:47:55",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    3
+  ]
+}

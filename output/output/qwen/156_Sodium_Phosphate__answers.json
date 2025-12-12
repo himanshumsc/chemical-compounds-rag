@@ -1,0 +1,27 @@
+{
+  "source_file": "156_Sodium_Phosphate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium phosphate (Na₃PO₄). Sodium phosphate is an ionic compound composed of sodium ions (Na⁺) and phosphate ions (PO₄³⁻). The key properties of sodium phosphate include:\n\n1. **Ionic Compound**: Sodium phosphate is an ionic compound, meaning it consists of positively charged sodium ions and negatively charged phosphate ions.\n2. **Solubility**: Sodium phosphate is highly soluble in water due to the strong electrostatic attraction between the oppositely charged ions.\n3. **Tertiary Phosphate**: It is a tertiary phosphate because each phosphorus atom is bonded",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What are the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate?",
+      "answer": "The chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate are as follows:\n\n1. **Monobasic Sodium Phosphate**: This is the sodium salt of phosphoric acid at its first ionization stage.\n   \\[\n   \\text{NaH}_2\\text{PO}_4\n   \\]\n\n2. **Dibasic Sodium Phosphate**: This is the sodium salt of phosphoric acid at its second ionization stage.\n   \\[\n   \\text{Na}_2\\text{HPO}_4\n   \\]\n\n3. **Tribasic Sodium Phosphate**: This",
+      "latency_s": 10.64
+    },
+    {
+      "question": "Explain how the different forms of sodium phosphate are produced from phosphoric acid.",
+      "answer": "Sodium phosphate is a salt that can be produced in several forms, each with varying ratios of sodium ions (Na+) to phosphate ions (PO4^3-). The production of these forms typically involves reactions between phosphoric acid and sodium hydroxide (NaOH), which is a strong base. Here’s an overview of the main forms of sodium phosphate and their production:\n\n### 1. **Sodium Orthophosphate (NaH2PO4)**\n   - **Production**: Sodium orthophosphate is formed when phosphoric acid reacts with sodium hydroxide.\n     \\[\n     \\text{H}_3\\text",
+      "latency_s": 10.64
+    },
+    {
+      "question": "Discuss the common uses and potential hazards associated with tribasic sodium phosphate.",
+      "answer": "Tribasic sodium phosphate, also known as trisodium phosphate (TSP), is a chemical compound with the formula Na3PO4·3H2O. It is widely used in various applications due to its properties such as solubility, buffering capacity, and ability to remove oils and fats.\n\n### Common Uses of Tribasic Sodium Phosphate\n\n1. **Cleaning and Degreasing**: TSP is commonly used in household cleaners and industrial degreasers because it can effectively remove oils, fats, and other greasy substances from surfaces.\n2. **Water Softening**: In some water softening systems, TSP is",
+      "latency_s": 10.64
+    }
+  ]
+}

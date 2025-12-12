@@ -1,0 +1,30 @@
+{
+  "source_file": "67_Fructose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows fructose. Fructose, a simple sugar molecule, is composed of six carbon atoms (black), six oxygen atoms (red), and hydrogen atoms (white) bonded to the carbons. Its key properties include:\n\n1. **Sweetness**: Fructose is known for its intense sweetness, though it is sweeter than sucrose (table sugar) but less sweet than glucose.\n2. **Solubility**: Fructose dissolves easily in water.\n3. **Chemical Structure**: It is a monosaccharide, which means it cannot be broken down further into simpler sugar molecules without undergoing a chemical reaction.\n4. **Preparation**: It is obtained by hydrolyzing inulin (a complex carbohydrate found in fibrous roots), or by extracting it from beet sugar. The extracted fructose is then refined to eliminate impurities.\n\nThe text in the image also mentions that fructose can be used as a sweetener and preservative in food products, often in the form of high-fructose corn syrup (HFCS).",
+      "latency_s": 8.06
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "The chemical formula for fructose is C6H12O6. It contains the following elements:\n\n- Carbon (C): 6 atoms\n- Hydrogen (H): 12 atoms\n- Oxygen (O): 6 atoms\n\nFructose is also commonly known as fruit sugar, glucose acid, and levulose. It is a simple sugar (monosaccharide) and is a ketose, meaning it has a ketone group. It is found in various fruits and honey and plays a significant role in biochemistry, particularly in metabolic pathways and energy storage.",
+      "latency_s": 10.23
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Sucrose and fructose are both simple sugars, but they have different chemical structures. \n\n- **Sucrose**: Also known as table sugar or cane sugar, sucrose is a disaccharide, meaning it is composed of two monosaccharides (sugar units) joined together. Specifically, sucrose is formed by the condensation of one molecule of fructose and one molecule of glucose. The chemical formula for sucrose is C₁₂H₂₂O₁₁. The structure of sucrose can be visualized as a six-carbon sugar (glucose) linked to a five-carbon sugar (fructose) by a glycosidic bond.\n\n- **Fructose**: A five-carbon sugar, fructose is also known as levulose or fruit sugar. It is a monosaccharide (or a simple sugar), which means it cannot be broken down further by enzymes. Fructose is sweeter than glucose and is often found naturally in fruits, syrups, and honey. Its chemical formula is C₆H₁₂O₆. In terms of structure, fructose is an aldohexose with a ketose ring, where the aldehyde group is converted into a ketone group, making it a ketose.\n\nTo summarize, the key structural difference between sucrose and fructose is that sucrose is a disaccharide composed of one glucose and one fructose, while fructose is a monosaccharide with a distinct ring structure compared to glucose.",
+      "latency_s": 10.23
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "Commercial production of fructose involves a series of processes that convert sucrose, a common sugar, into fructose, another type of sugar. Fructose is a sweetener that is used in food and beverages because of its high sweetness level and low glycemic index. Here is a detailed outline of the commercial production process of fructose:\n\n### 1. **Sugarcane or Sugar Beet Processing**\n   - **Input Materials:** Sugarcane or sugar beets are the primary sources of sucrose.\n   - **Extraction:** Sugarcane or sugar beets are crushed and the sugars are extracted, leaving behind a bagasse or pulp.\n   - **Boiling:** The extracted juice is boiled to remove impurities and obtain a clear syrup.\n   - **Evaporation and Concentration:** The syrup is concentrated to a higher sugar content.\n\n### 2. **Isomerization**\n   - **Isomerization Reaction:** In this process, sucrose is converted into fructose and glucose. The reaction is carried out using an enzyme, immobilized cells, or a catalyst.\n   - **Immobilized Cells:** These are bacterial or fungal cells that are fixed on a support material to ensure they remain in contact with the reaction medium. Cells are used to catalyze the isomerization.\n   - **Enzyme Catalysts:** Alternatively, enzymes like invertase are sometimes used to catalyze the reaction to enhance the yield of fructose.\n   - **Reaction Conditions:** The reaction typically takes place at a temperature around 50°C and under slightly acidic conditions. The reaction is exothermic and requires energy to drive it forward.\n\n### 3. **Separation and Purification**\n   - **Temperature Adjustment:** The isomerized mixture is cooled to stop the reaction and separate the sugars.\n   - **Precipitation:** Crystals of sucrose are precipitated by adding water or a water-soluble substance to force the sucrose to crystallize.\n   - **Fractionation:** The resulting mixture is fractionated to separate the fructose and glucose. This can be done through crystallization, filtration, or chromatographic techniques.\n   - **Purification:** The purified fructose is further treated to remove any impurities, ensuring high purity and quality.\n\n### 4. **Packing and Distribution**\n   - **Packaging:** The purified fructose is packaged in bulk or individual portions for distribution to various food and beverage industries.\n   -",
+      "latency_s": 10.23
+    }
+  ],
+  "regenerated_at": "2025-11-23 00:19:36",
+  "regenerated_with": "vllm",
+  "max_tokens": 500
+}

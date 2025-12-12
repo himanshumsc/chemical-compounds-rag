@@ -1,0 +1,59 @@
+{
+  "source_file": "50_CopperII_Oxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Acetaminophen**. It's an **analgesic** (pain reliever) and has industrial uses. The diagram shows red (oxygen), white (hydrogen), black (carbon), and blue (nitrogen) atoms with gray sticks representing bonds.",
+      "latency_s": 23.05,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Oxide?",
+      "answer": "The provided sources do not explicitly state the chemical formula or molecular weight of Copper(II) Oxide. However, it is listed with an entry number of 247.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the solubility and natural occurrence of Copper(II) Oxide.",
+      "answer": "Based on the provided context, information about the solubility and natural occurrence of Copper(II) Oxide is not explicitly stated. The database provides its numerical index (247) and mentions other copper compounds, but not details on its solubility or where it's naturally found.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the process of synthesizing Copper(II) Oxide from copper nitrate and its potential use in industry.",
+      "answer": "Synthesis of Copper(II) Oxide (CuO) typically involves reacting copper nitrate with a base (like sodium hydroxide) to precipitate copper hydroxide, followed by heating to decompose it into CuO.\n\nCuO’s industrial uses stem from its properties. It’s a semiconductor, used in solar cells and electronics. It's also a catalyst in various reactions and finds application in pigments, ceramics, and as a fungicide.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:02:16",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:02:16",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

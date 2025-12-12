@@ -1,0 +1,9 @@
+[2025-11-27 16:22:02] Step 1: Testing vLLM initialization...
+[2025-11-27 16:25:46] ✓ vLLM test passed
+[2025-11-27 16:25:46] Step 2: Running sample (2 files)...
+[2025-11-27 16:30:35] ✓ Sample run passed
+[2025-11-27 16:30:35] Step 3: Starting full generation (batch-size 6)...
+[2025-11-27 17:14:13] ✓ Full generation completed successfully
+[2025-11-27 17:14:14] All done. Summary:
+  - Output files: 178
+  - Summary: /home/himanshu/dev/output/gemma3_rag_concise/rag_regeneration_summary.json

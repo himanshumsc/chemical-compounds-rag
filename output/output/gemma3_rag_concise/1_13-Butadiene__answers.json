@@ -1,0 +1,59 @@
+{
+  "source_file": "1_13-Butadiene.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts 1,3-butadiene. It's a chemical compound used as a substitute for natural rubber. It's produced via butene cracking, yielding ethylene and 1,3-butadiene. Key properties involve double bonds (C=CH2, CH=CH2).",
+      "latency_s": 22.51,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of 1,3-butadiene, and what type of compound is it?",
+      "answer": "1,3-butadiene's chemical formula is not provided directly, but Source 3 shows a structural formula. It's used in the manufacture of polymers and is a raw material for fungicides. Source 2 states it's a compound with harmful effects and a potential carcinogen.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain how 1,3-butadiene is produced in the United States.",
+      "answer": "In 2004, U.S. manufacturers produced 2.2 million metric tons (2.4 million short tons) of 1,3-butadiene, ranking it number 22 among all chemicals produced in the United States. The source doesn't detail *how* it's produced, only the volume.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the industrial uses of 1,3-butadiene and the potential hazards associated with it.",
+      "answer": "1,3-Butadiene's primary industrial use is in polymer manufacturing, particularly for polystyrene-polybutadiene and other specialized copolymers. It's also used in fungicides (like Captan & Captofol), latex adhesives, and various domestic/industrial products (carpet backing, piping).\n\nPotential hazards include respiratory irritation, fatigue, dizziness, headache, vertigo, loss of consciousness, respiratory paralysis, and death. It’s considered a carcinogen, though risks are primarily for workers with direct exposure.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:54:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:54:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

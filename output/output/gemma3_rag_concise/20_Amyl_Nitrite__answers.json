@@ -1,0 +1,59 @@
+{
+  "source_file": "20_Amyl_Nitrite.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **amyl nitrite**. It's used medicinally to treat angina and related chest pain. It constricts blood vessels and releases nitric oxide, easing blood flow. It can also produce toxic byproducts like hydrogen cyanide and hydrogen sulfide.",
+      "latency_s": 19.63,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Amyl Nitrite?",
+      "answer": "The provided text does not contain information about Amyl Nitrite's chemical formula or molecular weight. It details TNT variations (Amatol, Minol, Baratol) and acetic acid.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is isoamyl nitrite considered unstable, and what are its effects when used medically?",
+      "answer": "I am sorry, but the provided text does not contain any information about isoamyl nitrite or its properties. Therefore, I cannot answer your question.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the synthesis method of isoamyl nitrite, and explain its use in emergency medical situations.",
+      "answer": "The provided text does not contain information about the synthesis of isoamyl nitrite or its medical uses. It defines various chemical compounds and processes but does not address this specific topic.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:55:33",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:55:33",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

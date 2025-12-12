@@ -1,0 +1,38 @@
+{
+  "compound_id": 41,
+  "compound_name": "Chlorophyll",
+  "source_file": "compound_041_Chlorophyll.json",
+  "main_entry_length": 1213,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0268_Chlorophyll_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of chlorophyll. Key properties of chlorophyll include:\n\n1. **Structure**: Chlorophyll molecules have a complex ring structure known as a chlorin ring, which is made of carbon and nitrogen atoms. The central atom is magnesium (green).\n\n2. **Types**: There are different forms of chlorophyll, such as chlorophyll a, b, c1, c2, and d, each found in various plant and algae types.\n\n3. **Function**: Chlorophyll is essential for photosynthesis, allowing plants to absorb light energy and convert it into chemical energy.\n\n4. **Color**: It gives plants their green...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:42"
+    },
+    {
+      "question": "What elements make up chlorophyll and what is its state at room temperature?",
+      "answer": "Chlorophyll is composed of the elements carbon, hydrogen, oxygen, nitrogen, and magnesium. It is in a solid state at room temperature.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of chlorophyll a and b.",
+      "answer": "Chlorophyll a and b are insoluble in water, meaning they do not dissolve in it. However, they are soluble in alcohol, ether, and oils, which means they can dissolve in these substances.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss how chlorophyll enables plants to perform photosynthesis and mention the types of chlorophyll that exist.",
+      "answer": "Chlorophyll is the pigment responsible for the green color of plants, algae, and cyanobacteria. It enables these organisms to perform photosynthesis, the process by which they convert light energy into chemical energy to create food. At least five forms of chlorophyll exist, including chlorophyll a (C55H72O5N4Mg), chlorophyll b (C55H70O6N4Mg), chlorophyll c1 (C35H30O5N4Mg), chlorophyll c2 (C35H28O5N4Mg), and chlorophyll d (C54H70O6N4Mg). Chlorophyll a is found in all types of plants and algae, while chlorophyll b is primarily found in land plants.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

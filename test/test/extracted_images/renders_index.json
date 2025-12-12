@@ -1,0 +1,3206 @@
+[
+  {
+    "compound_name": "Acetic acid",
+    "page_index": 74,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0074_Acetic_acid_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Acetic acid",
+    "page_index": 75,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0075_Acetic_acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Acetylene",
+    "page_index": 78,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0078_Acetylene_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Acetylene",
+    "page_index": 79,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0079_Acetylene_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Acetylsalicylic Acid",
+    "page_index": 82,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0082_Acetylsalicylic_Acid_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Acetylsalicylic Acid",
+    "page_index": 83,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0083_Acetylsalicylic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Alpha-Tocopherol",
+    "page_index": 88,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0088_Alpha-Tocopherol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Alpha-Tocopherol",
+    "page_index": 89,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0089_Alpha-Tocopherol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Fluoride",
+    "page_index": 92,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0092_Aluminum_Fluoride_chapter_start.png",
+    "width": 1707,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Fluoride",
+    "page_index": 93,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0093_Aluminum_Fluoride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Hydroxide",
+    "page_index": 96,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0096_Aluminum_Hydroxide_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Hydroxide",
+    "page_index": 97,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0097_Aluminum_Hydroxide_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Oxide",
+    "page_index": 100,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0100_Aluminum_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Oxide",
+    "page_index": 101,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0101_Aluminum_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Potassium Sulfate",
+    "page_index": 104,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0104_Aluminum_Potassium_Sulfate_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Aluminum Potassium Sulfate",
+    "page_index": 105,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0105_Aluminum_Potassium_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonia",
+    "page_index": 108,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0108_Ammonia_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonia",
+    "page_index": 109,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0109_Ammonia_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Chloride",
+    "page_index": 114,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0114_Ammonium_Chloride_chapter_start.png",
+    "width": 1701,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Chloride",
+    "page_index": 115,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0115_Ammonium_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Hydroxide",
+    "page_index": 120,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0120_Ammonium_Hydroxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Hydroxide",
+    "page_index": 121,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0121_Ammonium_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Nitrate",
+    "page_index": 124,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0124_Ammonium_Nitrate_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Nitrate",
+    "page_index": 125,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0125_Ammonium_Nitrate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Sulfate",
+    "page_index": 128,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0128_Ammonium_Sulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ammonium Sulfate",
+    "page_index": 129,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0129_Ammonium_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amoxicillin",
+    "page_index": 132,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0132_Amoxicillin_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amoxicillin",
+    "page_index": 133,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0133_Amoxicillin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amyl Acetate",
+    "page_index": 136,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0136_Amyl_Acetate_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amyl Acetate",
+    "page_index": 137,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0137_Amyl_Acetate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amyl Nitrite",
+    "page_index": 140,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0140_Amyl_Nitrite_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Amyl Nitrite",
+    "page_index": 141,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0141_Amyl_Nitrite_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ascorbic Acid",
+    "page_index": 144,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0144_Ascorbic_Acid_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ascorbic Acid",
+    "page_index": 145,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0145_Ascorbic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Benzene",
+    "page_index": 150,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0150_Benzene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Benzene",
+    "page_index": 151,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0151_Benzene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Benzoic Acid",
+    "page_index": 156,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0156_Benzoic_Acid_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Benzoic Acid",
+    "page_index": 157,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0157_Benzoic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Beta-Carotene",
+    "page_index": 160,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0160_Beta-Carotene_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Beta-Carotene",
+    "page_index": 161,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0161_Beta-Carotene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Boric Acid",
+    "page_index": 166,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0166_Boric_Acid_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Boric Acid",
+    "page_index": 167,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0167_Boric_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butane",
+    "page_index": 170,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0170_Butane_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butane",
+    "page_index": 171,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0171_Butane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butyl Acetate",
+    "page_index": 176,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0176_Butyl_Acetate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butyl Acetate",
+    "page_index": 177,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0177_Butyl_Acetate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butyl Mercaptan",
+    "page_index": 180,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0180_Butyl_Mercaptan_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Butyl Mercaptan",
+    "page_index": 181,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0181_Butyl_Mercaptan_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydroxytoluene",
+    "page_index": 184,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0184_Hydroxytoluene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydroxytoluene",
+    "page_index": 185,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0185_Hydroxytoluene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Caffeine",
+    "page_index": 188,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0188_Caffeine_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Caffeine",
+    "page_index": 189,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0189_Caffeine_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Carbonate",
+    "page_index": 194,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0194_Calcium_Carbonate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Carbonate",
+    "page_index": 195,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0195_Calcium_Carbonate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Hydroxide",
+    "page_index": 198,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0198_Calcium_Hydroxide_chapter_start.png",
+    "width": 1702,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Hydroxide",
+    "page_index": 199,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0199_Calcium_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Oxide",
+    "page_index": 202,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0202_Calcium_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Oxide",
+    "page_index": 203,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0203_Calcium_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Phosphate",
+    "page_index": 206,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0206_Calcium_Phosphate_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Phosphate",
+    "page_index": 207,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0207_Calcium_Phosphate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Silicate",
+    "page_index": 212,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0212_Calcium_Silicate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Silicate",
+    "page_index": 213,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0213_Calcium_Silicate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Sulfate",
+    "page_index": 216,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0216_Calcium_Sulfate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Calcium Sulfate",
+    "page_index": 217,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0217_Calcium_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Camphor",
+    "page_index": 222,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0222_Camphor_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Camphor",
+    "page_index": 223,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0223_Camphor_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Dioxide",
+    "page_index": 228,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0228_Carbon_Dioxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Dioxide",
+    "page_index": 229,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0229_Carbon_Dioxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Monoxide",
+    "page_index": 234,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0234_Carbon_Monoxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Monoxide",
+    "page_index": 235,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0235_Carbon_Monoxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Tetrachloride",
+    "page_index": 240,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0240_Carbon_Tetrachloride_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Carbon Tetrachloride",
+    "page_index": 241,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0241_Carbon_Tetrachloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose",
+    "page_index": 246,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0246_Cellulose_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose",
+    "page_index": 247,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0247_Cellulose_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose Nitrate",
+    "page_index": 252,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0252_Cellulose_Nitrate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose Nitrate",
+    "page_index": 253,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0253_Cellulose_Nitrate_following_page.png",
+    "width": 1700,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose Xanthate",
+    "page_index": 258,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0258_Cellulose_Xanthate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cellulose Xanthate",
+    "page_index": 259,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0259_Cellulose_Xanthate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Chloroform",
+    "page_index": 262,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0262_Chloroform_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Chloroform",
+    "page_index": 263,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0263_Chloroform_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Chlorophyll",
+    "page_index": 268,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0268_Chlorophyll_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Chlorophyll",
+    "page_index": 269,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0269_Chlorophyll_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cholesterol",
+    "page_index": 274,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0274_Cholesterol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cholesterol",
+    "page_index": 275,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0275_Cholesterol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cinnamaldehyde",
+    "page_index": 280,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0280_Cinnamaldehyde_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cinnamaldehyde",
+    "page_index": 281,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0281_Cinnamaldehyde_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Citric Acid",
+    "page_index": 284,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0284_Citric_Acid_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Citric Acid",
+    "page_index": 285,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0285_Citric_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Collagen",
+    "page_index": 290,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0290_Collagen_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Collagen",
+    "page_index": 291,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0291_Collagen_following_page.png",
+    "width": 1703,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(I) Oxide",
+    "page_index": 294,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0294_Copper(I)_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(I) Oxide",
+    "page_index": 295,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0295_Copper(I)_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(II) Oxide",
+    "page_index": 298,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0298_Copper(II)_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(II) Oxide",
+    "page_index": 299,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0299_Copper(II)_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(II) Sulfate",
+    "page_index": 302,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0302_Copper(II)_Sulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Copper(II) Sulfate",
+    "page_index": 303,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0303_Copper(II)_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cumene",
+    "page_index": 306,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0306_Cumene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cumene",
+    "page_index": 307,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0307_Cumene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cyanoacrylate",
+    "page_index": 310,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0310_Cyanoacrylate_chapter_start.png",
+    "width": 1700,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cyanoacrylate",
+    "page_index": 311,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0311_Cyanoacrylate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cyanocobalamin",
+    "page_index": 316,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0316_Cyanocobalamin_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Cyanocobalamin",
+    "page_index": 317,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0317_Cyanocobalamin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Denatonium Benzoate",
+    "page_index": 322,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0322_Denatonium_Benzoate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Denatonium Benzoate",
+    "page_index": 323,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0323_Denatonium_Benzoate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dichlorodifluoromethane",
+    "page_index": 328,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0328_Dichlorodifluoromethane_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dichlorodifluoromethane",
+    "page_index": 329,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0329_Dichlorodifluoromethane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dichlorodiphenyltrichloroethane",
+    "page_index": 334,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0334_Dichlorodiphenyltrichloroethane_chapter_start.png",
+    "width": 1707,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dichlorodiphenyltrichloroethane",
+    "page_index": 335,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0335_Dichlorodiphenyltrichloroethane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dimethyl Ketone",
+    "page_index": 340,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0340_Dimethyl_Ketone_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Dimethyl Ketone",
+    "page_index": 341,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0341_Dimethyl_Ketone_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethyl Acetate",
+    "page_index": 344,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0344_Ethyl_Acetate_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethyl Acetate",
+    "page_index": 345,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0345_Ethyl_Acetate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethyl Alcohol",
+    "page_index": 348,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0348_Ethyl_Alcohol_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethyl Alcohol",
+    "page_index": 349,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0349_Ethyl_Alcohol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylbenzene",
+    "page_index": 354,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0354_Ethylbenzene_chapter_start.png",
+    "width": 1707,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylbenzene",
+    "page_index": 355,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0355_Ethylbenzene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene",
+    "page_index": 358,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0358_Ethylene_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene",
+    "page_index": 359,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0359_Ethylene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene Glycol",
+    "page_index": 364,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0364_Ethylene_Glycol_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene Glycol",
+    "page_index": 365,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0365_Ethylene_Glycol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene Oxide",
+    "page_index": 368,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0368_Ethylene_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Ethylene Oxide",
+    "page_index": 369,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0369_Ethylene_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Folic Acid",
+    "page_index": 372,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0372_Folic_Acid_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Folic Acid",
+    "page_index": 373,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0373_Folic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Formaldehyde",
+    "page_index": 376,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0376_Formaldehyde_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Formaldehyde",
+    "page_index": 377,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0377_Formaldehyde_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Fructose",
+    "page_index": 380,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0380_Fructose_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Fructose",
+    "page_index": 381,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0381_Fructose_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane",
+    "page_index": 384,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0384_Gamma-1,2,3,4,5,6-Hexachlorocyclohexane_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane",
+    "page_index": 385,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0385_Gamma-1,2,3,4,5,6-Hexachlorocyclohexane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Gelatin",
+    "page_index": 388,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0388_Gelatin_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Gelatin",
+    "page_index": 389,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0389_Gelatin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Glucose",
+    "page_index": 394,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0394_Glucose_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Glucose",
+    "page_index": 395,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0395_Glucose_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Glycerol",
+    "page_index": 400,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0400_Glycerol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Glycerol",
+    "page_index": 401,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0401_Glycerol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hexane",
+    "page_index": 404,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0404_Hexane_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hexane",
+    "page_index": 405,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0405_Hexane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydrogen Chloride",
+    "page_index": 408,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0408_Hydrogen_Chloride_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydrogen Chloride",
+    "page_index": 409,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0409_Hydrogen_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydrogen Peroxide",
+    "page_index": 414,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0414_Hydrogen_Peroxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Hydrogen Peroxide",
+    "page_index": 415,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0415_Hydrogen_Peroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Iron(II) Oxide",
+    "page_index": 418,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0418_Iron(II)_Oxide_chapter_start.png",
+    "width": 1701,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Iron(II) Oxide",
+    "page_index": 419,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0419_Iron(II)_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Iron(III) Oxide",
+    "page_index": 422,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0422_Iron(III)_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Iron(III) Oxide",
+    "page_index": 423,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0423_Iron(III)_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isoamyl Acetate",
+    "page_index": 428,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0428_Isoamyl_Acetate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isoamyl Acetate",
+    "page_index": 429,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0429_Isoamyl_Acetate_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isoprene",
+    "page_index": 432,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0432_Isoprene_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isoprene",
+    "page_index": 433,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0433_Isoprene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isopropyl Alcohol",
+    "page_index": 438,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0438_Isopropyl_Alcohol_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Isopropyl Alcohol",
+    "page_index": 439,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0439_Isopropyl_Alcohol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Lactic Acid",
+    "page_index": 442,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0442_Lactic_Acid_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Lactic Acid",
+    "page_index": 443,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0443_Lactic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Lactose",
+    "page_index": 448,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0448_Lactose_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Lactose",
+    "page_index": 449,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0449_Lactose_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "L-Aspartyl-L-Phenylalanine Methyl Ester",
+    "page_index": 452,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0452_L-Aspartyl-L-Phenylalanine_Methyl_Ester_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "L-Aspartyl-L-Phenylalanine Methyl Ester",
+    "page_index": 453,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0453_L-Aspartyl-L-Phenylalanine_Methyl_Ester_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Luminol",
+    "page_index": 458,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0458_Luminol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Luminol",
+    "page_index": 459,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0459_Luminol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Chloride",
+    "page_index": 462,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0462_Magnesium_Chloride_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Chloride",
+    "page_index": 463,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0463_Magnesium_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Hydroxide",
+    "page_index": 466,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0466_Magnesium_Hydroxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Hydroxide",
+    "page_index": 467,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0467_Magnesium_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Oxide",
+    "page_index": 470,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0470_Magnesium_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Oxide",
+    "page_index": 471,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0471_Magnesium_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Silicate Hydroxide",
+    "page_index": 474,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0474_Magnesium_Silicate_Hydroxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Silicate Hydroxide",
+    "page_index": 475,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0475_Magnesium_Silicate_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Sulfate",
+    "page_index": 480,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0480_Magnesium_Sulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Magnesium Sulfate",
+    "page_index": 481,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0481_Magnesium_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Menthol",
+    "page_index": 486,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0486_Menthol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Menthol",
+    "page_index": 487,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0487_Menthol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Mercury(II) Sulfide",
+    "page_index": 490,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0490_Mercury(II)_Sulfide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Mercury(II) Sulfide",
+    "page_index": 491,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0491_Mercury(II)_Sulfide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methane",
+    "page_index": 494,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0494_Methane_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methane",
+    "page_index": 495,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0495_Methane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl Alcohol",
+    "page_index": 500,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0500_Methyl_Alcohol_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl Alcohol",
+    "page_index": 501,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0501_Methyl_Alcohol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl Mercaptan",
+    "page_index": 506,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0506_Methyl_Mercaptan_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl Mercaptan",
+    "page_index": 507,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0507_Methyl_Mercaptan_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl-t-butyl Ether",
+    "page_index": 510,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0510_Methyl-t-butyl_Ether_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Methyl-t-butyl Ether",
+    "page_index": 511,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0511_Methyl-t-butyl_Ether_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Monosodium Glutamate",
+    "page_index": 516,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0516_Monosodium_Glutamate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Monosodium Glutamate",
+    "page_index": 517,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0517_Monosodium_Glutamate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "N,N-Diethyl-3-Methylbenzamide",
+    "page_index": 520,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0520_N,N-Diethyl-3-Methylbenzamide_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "N,N-Diethyl-3-Methylbenzamide",
+    "page_index": 521,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0521_N,N-Diethyl-3-Methylbenzamide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Naphthalene",
+    "page_index": 524,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0524_Naphthalene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Naphthalene",
+    "page_index": 525,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0525_Naphthalene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Naproxen",
+    "page_index": 528,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0528_Naproxen_chapter_start.png",
+    "width": 1707,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Naproxen",
+    "page_index": 529,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0529_Naproxen_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Niacin",
+    "page_index": 534,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0534_Niacin_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Niacin",
+    "page_index": 535,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0535_Niacin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nicotine",
+    "page_index": 538,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0538_Nicotine_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nicotine",
+    "page_index": 539,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0539_Nicotine_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitric Acid",
+    "page_index": 544,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0544_Nitric_Acid_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitric Acid",
+    "page_index": 545,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0545_Nitric_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitric Oxide",
+    "page_index": 548,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0548_Nitric_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitric Oxide",
+    "page_index": 549,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0549_Nitric_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitrogen Dioxide",
+    "page_index": 554,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0554_Nitrogen_Dioxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitrogen Dioxide",
+    "page_index": 555,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0555_Nitrogen_Dioxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitroglycerin",
+    "page_index": 558,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0558_Nitroglycerin_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitroglycerin",
+    "page_index": 559,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0559_Nitroglycerin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitrous Oxide",
+    "page_index": 564,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0564_Nitrous_Oxide_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nitrous Oxide",
+    "page_index": 565,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0565_Nitrous_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nylon 6 and Nylon 66",
+    "page_index": 570,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0570_Nylon_6_and_Nylon_66_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Nylon 6 and Nylon 66",
+    "page_index": 571,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0571_Nylon_6_and_Nylon_66_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Oxalic Acid",
+    "page_index": 576,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0576_Oxalic_Acid_chapter_start.png",
+    "width": 1702,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Oxalic Acid",
+    "page_index": 577,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0577_Oxalic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Pectin",
+    "page_index": 582,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0582_Pectin_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Pectin",
+    "page_index": 583,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0583_Pectin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Penicillin",
+    "page_index": 586,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0586_Penicillin_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Penicillin",
+    "page_index": 587,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0587_Penicillin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Perchlorates",
+    "page_index": 592,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0592_Perchlorates_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Perchlorates",
+    "page_index": 593,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0593_Perchlorates_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Petrolatum",
+    "page_index": 598,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0598_Petrolatum_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Petrolatum",
+    "page_index": 599,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0599_Petrolatum_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Petroleum",
+    "page_index": 604,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0604_Petroleum_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Petroleum",
+    "page_index": 605,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0605_Petroleum_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Phenol",
+    "page_index": 610,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0610_Phenol_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Phenol",
+    "page_index": 611,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0611_Phenol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Phosphoric Acid",
+    "page_index": 616,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0616_Phosphoric_Acid_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Phosphoric Acid",
+    "page_index": 617,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0617_Phosphoric_Acid_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Poly(Styrene-Butadiene-Styrene)",
+    "page_index": 622,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0622_Poly(Styrene-Butadiene-Styrene)_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Poly(Styrene-Butadiene-Styrene)",
+    "page_index": 623,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0623_Poly(Styrene-Butadiene-Styrene)_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polycarbonates",
+    "page_index": 626,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0626_Polycarbonates_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polycarbonates",
+    "page_index": 627,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0627_Polycarbonates_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyethylene",
+    "page_index": 630,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0630_Polyethylene_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyethylene",
+    "page_index": 631,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0631_Polyethylene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polymethyl Methacrylate",
+    "page_index": 634,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0634_Polymethyl_Methacrylate_chapter_start.png",
+    "width": 1703,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polymethyl Methacrylate",
+    "page_index": 635,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0635_Polymethyl_Methacrylate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polypropylene",
+    "page_index": 638,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0638_Polypropylene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polypropylene",
+    "page_index": 639,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0639_Polypropylene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polysiloxane",
+    "page_index": 642,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0642_Polysiloxane_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polysiloxane",
+    "page_index": 643,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0643_Polysiloxane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polystyrene",
+    "page_index": 648,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0648_Polystyrene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polystyrene",
+    "page_index": 649,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0649_Polystyrene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polytetrafluoroethylene",
+    "page_index": 654,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0654_Polytetrafluoroethylene_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polytetrafluoroethylene",
+    "page_index": 655,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0655_Polytetrafluoroethylene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyurethane",
+    "page_index": 660,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0660_Polyurethane_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyurethane",
+    "page_index": 661,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0661_Polyurethane_following_page.png",
+    "width": 1700,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyvinyl Chloride",
+    "page_index": 666,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0666_Polyvinyl_Chloride_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Polyvinyl Chloride",
+    "page_index": 667,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0667_Polyvinyl_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bicarbonate",
+    "page_index": 672,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0672_Potassium_Bicarbonate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bicarbonate",
+    "page_index": 673,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0673_Potassium_Bicarbonate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bisulfate",
+    "page_index": 676,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0676_Potassium_Bisulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bisulfate",
+    "page_index": 677,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0677_Potassium_Bisulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bitartrate",
+    "page_index": 680,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0680_Potassium_Bitartrate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Bitartrate",
+    "page_index": 681,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0681_Potassium_Bitartrate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Carbonate",
+    "page_index": 684,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0684_Potassium_Carbonate_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Carbonate",
+    "page_index": 685,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0685_Potassium_Carbonate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Chloride",
+    "page_index": 690,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0690_Potassium_Chloride_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Chloride",
+    "page_index": 691,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0691_Potassium_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Fluoride",
+    "page_index": 694,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0694_Potassium_Fluoride_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Fluoride",
+    "page_index": 695,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0695_Potassium_Fluoride_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Hydroxide",
+    "page_index": 698,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0698_Potassium_Hydroxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Hydroxide",
+    "page_index": 699,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0699_Potassium_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Iodide",
+    "page_index": 702,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0702_Potassium_Iodide_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Iodide",
+    "page_index": 703,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0703_Potassium_Iodide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Nitrate",
+    "page_index": 706,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0706_Potassium_Nitrate_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Nitrate",
+    "page_index": 707,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0707_Potassium_Nitrate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Sulfate",
+    "page_index": 710,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0710_Potassium_Sulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Potassium Sulfate",
+    "page_index": 711,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0711_Potassium_Sulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Propane",
+    "page_index": 714,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0714_Propane_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Propane",
+    "page_index": 715,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0715_Propane_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Propylene",
+    "page_index": 720,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0720_Propylene_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Propylene",
+    "page_index": 721,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0721_Propylene_following_page.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Pyridoxine",
+    "page_index": 724,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0724_Pyridoxine_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Pyridoxine",
+    "page_index": 725,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0725_Pyridoxine_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Retinol",
+    "page_index": 728,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0728_Retinol_chapter_start.png",
+    "width": 1700,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Retinol",
+    "page_index": 729,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0729_Retinol_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Riboflavin",
+    "page_index": 734,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0734_Riboflavin_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Riboflavin",
+    "page_index": 735,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0735_Riboflavin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Saccharin",
+    "page_index": 740,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0740_Saccharin_chapter_start.png",
+    "width": 1714,
+    "height": 2373,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Saccharin",
+    "page_index": 741,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0741_Saccharin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silicon Dioxide",
+    "page_index": 746,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0746_Silicon_Dioxide_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silicon Dioxide",
+    "page_index": 747,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0747_Silicon_Dioxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver Iodide",
+    "page_index": 752,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0752_Silver_Iodide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver Iodide",
+    "page_index": 753,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0753_Silver_Iodide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver Nitrate",
+    "page_index": 756,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0756_Silver_Nitrate_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver Nitrate",
+    "page_index": 757,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0757_Silver_Nitrate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver(I) Oxide",
+    "page_index": 762,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0762_Silver(I)_Oxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver(I) Oxide",
+    "page_index": 763,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0763_Silver(I)_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver(I) Sulfide",
+    "page_index": 766,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0766_Silver(I)_Sulfide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Silver(I) Sulfide",
+    "page_index": 767,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0767_Silver(I)_Sulfide_following_page.png",
+    "width": 1701,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Acetate",
+    "page_index": 770,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0770_Sodium_Acetate_chapter_start.png",
+    "width": 1707,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Acetate",
+    "page_index": 771,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0771_Sodium_Acetate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Bicarbonate",
+    "page_index": 774,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0774_Sodium_Bicarbonate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Bicarbonate",
+    "page_index": 775,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0775_Sodium_Bicarbonate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Carbonate",
+    "page_index": 780,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0780_Sodium_Carbonate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Carbonate",
+    "page_index": 781,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0781_Sodium_Carbonate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Chloride",
+    "page_index": 786,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0786_Sodium_Chloride_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Chloride",
+    "page_index": 787,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0787_Sodium_Chloride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Cyclamate",
+    "page_index": 792,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0792_Sodium_Cyclamate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Cyclamate",
+    "page_index": 793,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0793_Sodium_Cyclamate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Fluoride",
+    "page_index": 798,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0798_Sodium_Fluoride_chapter_start.png",
+    "width": 1703,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Fluoride",
+    "page_index": 799,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0799_Sodium_Fluoride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Hydroxide",
+    "page_index": 804,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0804_Sodium_Hydroxide_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Hydroxide",
+    "page_index": 805,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0805_Sodium_Hydroxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Hypochlorite",
+    "page_index": 810,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0810_Sodium_Hypochlorite_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Hypochlorite",
+    "page_index": 811,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0811_Sodium_Hypochlorite_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Perborate",
+    "page_index": 816,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0816_Sodium_Perborate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Perborate",
+    "page_index": 817,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0817_Sodium_Perborate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Phosphate",
+    "page_index": 820,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0820_Sodium_Phosphate_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Phosphate",
+    "page_index": 821,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0821_Sodium_Phosphate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Polyacrylate",
+    "page_index": 824,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0824_Sodium_Polyacrylate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Polyacrylate",
+    "page_index": 825,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0825_Sodium_Polyacrylate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Silicate",
+    "page_index": 830,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0830_Sodium_Silicate_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Silicate",
+    "page_index": 831,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0831_Sodium_Silicate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Sulfite",
+    "page_index": 836,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0836_Sodium_Sulfite_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Sulfite",
+    "page_index": 837,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0837_Sodium_Sulfite_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Tetraborate",
+    "page_index": 840,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0840_Sodium_Tetraborate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Tetraborate",
+    "page_index": 841,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0841_Sodium_Tetraborate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Thiosulfate",
+    "page_index": 846,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0846_Sodium_Thiosulfate_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sodium Thiosulfate",
+    "page_index": 847,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0847_Sodium_Thiosulfate_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Stannous Fluoride",
+    "page_index": 850,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0850_Stannous_Fluoride_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Stannous Fluoride",
+    "page_index": 851,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0851_Stannous_Fluoride_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Styrene",
+    "page_index": 854,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0854_Styrene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Styrene",
+    "page_index": 855,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0855_Styrene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sucrose",
+    "page_index": 858,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0858_Sucrose_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sucrose",
+    "page_index": 859,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0859_Sucrose_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sucrose Polyester",
+    "page_index": 864,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0864_Sucrose_Polyester_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sucrose Polyester",
+    "page_index": 865,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0865_Sucrose_Polyester_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sulfur Dioxide",
+    "page_index": 870,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0870_Sulfur_Dioxide_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sulfur Dioxide",
+    "page_index": 871,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0871_Sulfur_Dioxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sulfuric Acid",
+    "page_index": 876,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0876_Sulfuric_Acid_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Sulfuric Acid",
+    "page_index": 877,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0877_Sulfuric_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Tannic Acid",
+    "page_index": 882,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0882_Tannic_Acid_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Tannic Acid",
+    "page_index": 883,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0883_Tannic_Acid_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Testosterone",
+    "page_index": 888,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0888_Testosterone_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Testosterone",
+    "page_index": 889,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0889_Testosterone_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Theobromine",
+    "page_index": 894,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0894_Theobromine_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Theobromine",
+    "page_index": 895,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0895_Theobromine_following_page.png",
+    "width": 1703,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Thiamine",
+    "page_index": 898,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0898_Thiamine_chapter_start.png",
+    "width": 1709,
+    "height": 2383,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Thiamine",
+    "page_index": 899,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0899_Thiamine_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Toluene",
+    "page_index": 904,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0904_Toluene_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Toluene",
+    "page_index": 905,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0905_Toluene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Triclocarban",
+    "page_index": 910,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0910_Triclocarban_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Triclocarban",
+    "page_index": 911,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0911_Triclocarban_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Triclosan",
+    "page_index": 914,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0914_Triclosan_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Triclosan",
+    "page_index": 915,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0915_Triclosan_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Urea",
+    "page_index": 918,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0918_Urea_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Urea",
+    "page_index": 919,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0919_Urea_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Vanillin",
+    "page_index": 924,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0924_Vanillin_chapter_start.png",
+    "width": 1703,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Vanillin",
+    "page_index": 925,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0925_Vanillin_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Water",
+    "page_index": 930,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0930_Water_chapter_start.png",
+    "width": 1704,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Water",
+    "page_index": 931,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0931_Water_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Zinc Oxide",
+    "page_index": 936,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0936_Zinc_Oxide_chapter_start.png",
+    "width": 1699,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "Zinc Oxide",
+    "page_index": 937,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0937_Zinc_Oxide_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2,2'-Dichlorodiethyl Sulfide (Mustard Gas)",
+    "page_index": 56,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0056_2,2'-Dichlorodiethyl_Sulfide_(Mustard_Gas)_chapter_start.png",
+    "width": 1706,
+    "height": 2375,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2,2'-Dichlorodiethyl Sulfide (Mustard Gas)",
+    "page_index": 57,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0057_2,2'-Dichlorodiethyl_Sulfide_(Mustard_Gas)_following_page.png",
+    "width": 1698,
+    "height": 2375,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2-(4-Isobutylphenyl)propionic Acid (Ibuprofen)",
+    "page_index": 60,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0060_2-(4-Isobutylphenyl)propionic_Acid_(Ibuprofen)_chapter_start.png",
+    "width": 1706,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2-(4-Isobutylphenyl)propionic Acid (Ibuprofen)",
+    "page_index": 61,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0061_2-(4-Isobutylphenyl)propionic_Acid_(Ibuprofen)_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2,4,6-Trinitrotoluene (TNT)",
+    "page_index": 66,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0066_2,4,6-Trinitrotoluene_(TNT)_chapter_start.png",
+    "width": 1705,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "2,4,6-Trinitrotoluene (TNT)",
+    "page_index": 67,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0067_2,4,6-Trinitrotoluene_(TNT)_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "1,3-Butadiene",
+    "page_index": 52,
+    "label": "chapter_start",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0052_1,3-Butadiene_chapter_start.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  },
+  {
+    "compound_name": "1,3-Butadiene",
+    "page_index": 53,
+    "label": "following_page",
+    "file": "/home/himanshu/dev/test/extracted_images/renders/page_0053_1,3-Butadiene_following_page.png",
+    "width": 1698,
+    "height": 2369,
+    "source": "pdf_render_zoom2"
+  }
+]

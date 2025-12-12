@@ -1,0 +1,36 @@
+{
+  "compound_id": 14,
+  "compound_name": "Amoxicillin",
+  "source_file": "compound_014_Amoxicillin.json",
+  "main_entry_length": 1485,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0132_Amoxicillin_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Amoxicillin.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Amoxicillin?",
+      "answer": "The molecular formula of Amoxicillin is C16H19N3O5S, and its molecular weight is 365.40 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is Amoxicillin classified as an organic compound, and what is its primary function?",
+      "answer": "Amoxicillin is classified as an organic compound because it contains carbon and is a pharmaceutical substance. Its primary function is as an antibiotic, which inhibits the growth of microorganisms by blocking the formation of bacterial cell walls, leading to the death of the bacteria.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the solubility characteristics of Amoxicillin and how these properties might influence its pharmaceutical application.",
+      "answer": "Amoxicillin is soluble in water and alcohol but insoluble in most organic solvents. These solubility characteristics make it suitable for oral administration in aqueous solutions or suspensions, enhancing its absorption and bioavailability in the human body. Its solubility in water allows it to be effectively distributed and utilized as an antibiotic in the treatment of bacterial infections.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 173,
+  "compound_name": "Water",
+  "source_file": "compound_173_Water.json",
+  "main_entry_length": 1444,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0930_Water_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is water (H₂O), composed of two hydrogen atoms (white) and one oxygen atom (red). \n\nKey properties of water include:\n\n1. **High Boiling Point**: Due to hydrogen bonding, water has a higher boiling point than expected for its molecular weight.\n2. **Surface Tension**: Strong hydrogen bonds create high surface tension, allowing some insects to walk on water.\n3. **Solvent Abilities**: Known as the \"universal solvent,\" water's polarity allows it to dissolve many substances by interacting with their positive or negative charges.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:18"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of water?",
+      "answer": "The chemical formula of water is H2O or HOH, and its molecular weight is 18.02 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:51:40",
+      "char_limit": 1000,
+      "answer_length": 85
+    },
+    {
+      "question": "Explain the dipole nature of water and its implications.",
+      "answer": "Water is a strong dipole, which means it is a molecule with electrical charges that are sufficiently separated, resulting in one part of the molecule being negatively charged and another part positively charged. This dipole character arises because the positive end of one water molecule is attracted to the negative end of another water molecule, leading to the formation of a weak \"hydrogen\" bond between the two molecules. The dipole nature of water is responsible for many of its special characteristics, such as its high boiling point and its ability to act as a weak electrolyte by ionizing to form hydrogen ions (H+) and hydroxide ions (OH–). This dipole nature also contributes to water's role in various chemical reactions and its ability to dissolve many substances, making it a common solvent for inorganic compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:13",
+      "char_limit": 1800,
+      "answer_length": 828
+    },
+    {
+      "question": "Describe a reaction involving water and a metal, and explain the safety considerations involved.",
+      "answer": "Water, also known as hydrogen oxide or dihydrogen oxide (H2O), reacts with certain metals to produce elemental hydrogen and an inorganic base. The reaction with metals like sodium and potassium is particularly violent. For example, when sodium reacts with water, it produces sodium hydroxide (an inorganic base) and hydrogen gas. This reaction is highly exothermic, meaning it releases a significant amount of heat, which can ignite the hydrogen gas, leading to an explosive reaction. \n\nSafety considerations for such reactions include taking precautions to prevent exposure to the explosive release of hydrogen gas and the highly corrosive nature of the resulting base. Handling these reactions requires protective equipment, such as goggles and gloves, and should be conducted in a controlled environment, such as a fume hood or a well-ventilated area, to prevent the accumulation of hydrogen gas. Additionally, it's crucial to manage heat and avoid contact with water when working with reactive metals like sodium and potassium to mitigate the risk of fire or explosion.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:45",
+      "char_limit": 2000,
+      "answer_length": 1073
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 58666,
+  "updated_at": "2025-11-30 13:52:46",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

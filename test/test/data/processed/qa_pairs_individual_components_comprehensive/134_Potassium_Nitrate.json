@@ -1,0 +1,58 @@
+{
+  "compound_id": 130,
+  "compound_name": "Potassium Nitrate",
+  "source_file": "compound_130_Potassium Nitrate.json",
+  "main_entry_length": 2582,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0706_Potassium_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:02",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of potassium nitrate. Key properties of potassium nitrate include:\n\n1. **Composition**: It consists of potassium (turquoise), nitrogen (blue), and oxygen (red) atoms.\n\n2. **Formation**: In nature, it forms when bacteria decompose organic matter in sheltered areas, appearing as a white powder on the soil surface.\n\n3. **Uses**: Primarily used in explosives, gunpowder, fireworks, and matches as an oxidizing agent, which provides oxygen for combustion.\n\n4. **Hazards**: Rapid gas formation during decomposition contributes to explosive reactions.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:51"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Nitrate?",
+      "answer": "The chemical formula of Potassium Nitrate is KNO3, and its molecular weight is 101.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:01",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Why is Potassium Nitrate considered an oxidizing agent, and what role does it play in gunpowder?",
+      "answer": "Potassium nitrate is considered an oxidizing agent because it provides oxygen for the combustion of other materials. In the context of gunpowder, which is the oldest known explosive, potassium nitrate plays a crucial role. Gunpowder is a mixture of potassium nitrate, charcoal (nearly pure carbon), and sulfur. When the mixture is ignited, the carbon and sulfur burn rapidly to produce carbon dioxide (CO) and sulfur dioxide (SO2). During this process, potassium nitrate decomposes and contributes to the formation of nitric oxide (NO) among other products. The rapid generation of very hot gases from these reactions produces the shock wave responsible for the explosion. Thus, potassium nitrate's ability to release oxygen during decomposition is essential for the explosive properties of gunpowder.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:06",
+      "char_limit": 1800,
+      "answer_length": 801
+    },
+    {
+      "question": "Describe the process by which Potassium Nitrate can be commercially produced.",
+      "answer": "Potassium nitrate can be commercially produced by reacting potassium chloride (KCl) with nitric acid (HNO3) at high temperatures. The chemical reaction for this process is: \n\n3KCl + 4HNO3 → 3KNO3 + Cl2 + NOCl + 2H2O.\n\nThis method utilizes potassium chloride and nitric acid as starting materials to produce potassium nitrate alongside byproducts such as chlorine gas (Cl2), nitrosyl chloride (NOCl), and water (H2O).",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:09",
+      "char_limit": 2000,
+      "answer_length": 416
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4939,
+  "updated_at": "2025-11-30 13:42:09",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

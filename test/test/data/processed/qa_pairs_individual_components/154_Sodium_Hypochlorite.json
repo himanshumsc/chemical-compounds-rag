@@ -1,0 +1,38 @@
+{
+  "compound_id": 150,
+  "compound_name": "Sodium Hypochlorite",
+  "source_file": "compound_150_Sodium Hypochlorite.json",
+  "main_entry_length": 5212,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0810_Sodium_Hypochlorite_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:25",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents sodium hypochlorite (NaOCl). This compound consists of a red atom representing oxygen, a green atom representing chlorine, and a turquoise atom representing sodium. Sodium hypochlorite is known for its bleaching and disinfectant properties. It releases nascent oxygen, a very active form of oxygen, which is responsible for its ability to bleach fabrics and disinfect surfaces. It is commonly used in household bleach and industrial cleaning products.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:52"
+    },
+    {
+      "question": "What is the chemical formula for sodium hypochlorite and what elements does it comprise?",
+      "answer": "The chemical formula for sodium hypochlorite is NaClO. It comprises the elements sodium (Na), chlorine (Cl), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how sodium hypochlorite functions as a bleaching agent and disinfectant.",
+      "answer": "Sodium hypochlorite functions as a bleaching agent and disinfectant due to its ability to decompose and release nascent (free single atoms) oxygen. This nascent oxygen is a very active form of oxygen that interacts with and breaks down the chromophores, which are the parts of molecules responsible for color, thereby bleaching materials. The same reactive oxygen also disrupts the cellular structure of microorganisms, leading to their disinfection.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the commercial production process of sodium hypochlorite and outline its potential hazards.",
+      "answer": "Sodium hypochlorite is commercially produced by passing chlorine gas (Cl2) through a cold aqueous solution of sodium hydroxide (NaOH). This reaction produces sodium hypochlorite (NaClO), sodium chloride (NaCl), and water (H2O). Despite its usefulness, sodium hypochlorite poses several hazards. It is a fire and health hazard, reacting strongly with metals and organic materials. The reaction rate increases with concentration, making industrial formulations more hazardous than household products. Notably, the combination of sodium hypochlorite with ammonia-containing compounds can produce explosive or flammable reactions.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

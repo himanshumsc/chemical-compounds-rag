@@ -1,0 +1,39 @@
+2025-11-27 15:59:23,851 [INFO] ======================================================================
+2025-11-27 15:59:23,851 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-27 15:59:23,851 [INFO] ======================================================================
+2025-11-27 15:59:23,851 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-27 15:59:23,852 [INFO] Output directory: /home/himanshu/dev/output/gemma3_rag_concise
+2025-11-27 15:59:23,852 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-27 15:59:23,852 [INFO] Model path: /home/himanshu/dev/models/GEMMA3_QAT_Q4_0_UNQUANTIZED
+2025-11-27 15:59:23,852 [INFO] Tokenizer id: google/gemma-3-12b-it
+2025-11-27 15:59:23,852 [INFO] Quantization: bitsandbytes | dtype: bfloat16 | max model len: 8192 | gpu util: 0.8 | enforce eager: True
+2025-11-27 15:59:23,852 [INFO] Character limits: Q1=600, Q2=1000, Q3=1800, Q4=2000
+2025-11-27 15:59:23,852 [INFO] Max tokens: Q1=200, Q2=333, Q3=600, Q4=666
+2025-11-27 15:59:23,852 [INFO] Prompt instruction: Answers should be brief, concise, and to the point
+2025-11-27 15:59:23,852 [INFO] vLLM available: True
+2025-11-27 15:59:23,852 [INFO] ChromaDB available: True
+2025-11-27 15:59:23,852 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-27 15:59:23,852 [INFO] Test limit: 3
+2025-11-27 15:59:23,852 [INFO] ======================================================================
+2025-11-27 15:59:23,852 [INFO] vLLM is available - proceeding with initialization...
+2025-11-27 15:59:23,852 [INFO] Initializing model...
+2025-11-27 15:59:27,882 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-27 15:59:27,886 [INFO] vLLM is REQUIRED - no Transformers fallback available
+2025-11-27 15:59:27,890 [INFO] Multimodal profiling ENABLED (required for Q1 image questions)
+2025-11-27 15:59:27,890 [INFO] Environment variables: VLLM_SKIP_MM_PROFILE=not set, SKIP_MM_PROFILE=not set
+2025-11-27 15:59:27,890 [INFO] Starting vLLM initialization (this may take 20-30 seconds)...
+2025-11-27 16:02:32,153 [INFO] vLLM config -> tokenizer:google/gemma-3-12b-it quantization:bitsandbytes dtype:bfloat16 max_len:8192 gpu_util:0.80 enforce_eager:True
+2025-11-27 16:02:32,154 [INFO] vLLM initialized successfully for all question types
+2025-11-27 16:02:32,154 [INFO] Character limits: Q1=600, Q2=1000, Q3=1800, Q4=2000
+2025-11-27 16:02:32,154 [INFO] Max tokens: Q1=200, Q2=333, Q3=600, Q4=666
+2025-11-27 16:02:32,154 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-27 16:02:39,777 [INFO] ChromaDB search system initialized successfully
+2025-11-27 16:02:39,777 [INFO] Model initialized. Using vLLM: True, RAG: True
+2025-11-27 16:02:39,779 [INFO] TEST MODE: Processing 3 files
+2025-11-27 16:02:39,779 [INFO] Total files to process: 3
+2025-11-27 16:02:39,780 [INFO] 
+Processing batch 1 (3 files)
+2025-11-27 16:02:39,781 [INFO] Loading: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-27 16:02:39,782 [INFO] Loading: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-27 16:02:39,784 [INFO] Loading: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-27 16:02:41,377 [INFO]   Batch Q1: Generating 3 vision questions with RAG (char limit: 600)...

@@ -1,0 +1,58 @@
+{
+  "compound_id": 85,
+  "compound_name": "Magnesium Sulfate",
+  "source_file": "compound_085_Magnesium Sulfate.json",
+  "main_entry_length": 4135,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0480_Magnesium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:52",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows magnesium sulfate heptahydrate. This compound consists of magnesium (turquoise atom), sulfur (yellow atom), and oxygen (red atoms). Magnesium sulfate heptahydrate, commonly known as Epsom salt, is often used for its therapeutic properties, such as acting as a purgative to help empty the bowels. It is obtained from natural sources like spring waters with high purity, making it suitable for various commercial and industrial applications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Sulfate?",
+      "answer": "The chemical formula of Magnesium Sulfate is MgSO4, and its molecular weight is 120.40 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:35",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Explain the different hydrated forms of Magnesium Sulfate and their natural occurrences.",
+      "answer": "Magnesium sulfate (MgSO4) occurs in various hydrated forms, each with its own natural mineral equivalent:\n\n1. **Anhydrous Magnesium Sulfate (MgSO4)**: This form does not contain water molecules and can be obtained by processing the mineral kieserite.\n\n2. **Monohydrate (MgSO4·H2O)**: Known as kieserite, this form contains one molecule of water.\n\n3. **Tetrahydrate (MgSO4·4H2O)**: Known as starkeyite, this form contains four molecules of water.\n\n4. **Pentahydrate (MgSO4·5H2O)**: Known as pentahydrite, this form contains five molecules of water.\n\n5. **Hexahydrate (MgSO4·6H2O)**: Known as hexahydrite, this form contains six molecules of water.\n\n6. **Heptahydrate (MgSO4·7H2O)**: Commonly referred to as Epsom salts and known as epsomite, this form contains seven molecules of water. It loses its water of hydration at different temperatures, with all seven molecules lost above 200°C (400°F).\n\nThese hydrates naturally occur as minerals in various environments, including spring waters and salt lakes, where they can be extracted through processes like evaporation and crystallization. The heptahydrate form, Epsom salts, has been widely used since the seventeenth century for its therapeutic properties.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:39",
+      "char_limit": 1800,
+      "answer_length": 1207
+    },
+    {
+      "question": "Discuss the commercial and industrial applications of Magnesium Sulfate and its significance.",
+      "answer": "Magnesium sulfate, commonly known as Epsom salts in its heptahydrate form, has a range of commercial and industrial applications. It is used in animal feed to ensure adequate magnesium intake, which is essential for their health. In agriculture, it is applied in fertilizers to treat magnesium deficiencies in soil, promoting plant growth. The textile industry utilizes magnesium sulfate for weighting and sizing silk, as a mordant, for treating finished cotton fabric, and in fireproofing fabrics. Additionally, it finds use in the production of ceramics and in preparing a specialized form of cement known as oxysulfate cement. In the electroplating industry, magnesium sulfate is utilized in various processes. Its significance extends to medicinal uses, where it is known for reducing inflammation, swelling, and muscle relaxation when added to bathwater. Epsom salts have been historically utilized for their therapeutic benefits, and magnesium sulfate continues to be extracted from natural sources like spring waters for its high purity needed in these applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:42",
+      "char_limit": 2000,
+      "answer_length": 1073
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5782,
+  "updated_at": "2025-11-30 14:09:42",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

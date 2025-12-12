@@ -1,0 +1,59 @@
+{
+  "source_file": "117_Polyethylene.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Polyethylene**. It's a polymer made of repeating ethylene units. Key properties include being lightweight, flexible, and chemically resistant. It was accidentally discovered and later commercialized with catalysts.",
+      "latency_s": 21.74,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the primary elements that make up the compound polyethylene?",
+      "answer": "The provided text doesn't explicitly state the elements of polyethylene. However, it mentions that carbohydrates are composed of carbon, oxygen, and hydrogen. Polyethylene is a polymer, and polymers are built from smaller repeating units. Therefore, it's reasonable to infer that **carbon, hydrogen, and oxygen** are primary elements.",
+      "latency_s": 64.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does the structure of polyethylene affect its density, particularly in high-density versus low-density forms?",
+      "answer": "Polyethylene's density hinges on its molecular structure. **High-density polyethylene (HDPE)** has tightly packed, linear chains allowing close intermolecular contact, resulting in higher density. **Low-density polyethylene (LDPE)** features branched chains that prevent tight packing, leading to lower density. These branching disrupts crystallinity, further decreasing density and increasing flexibility in LDPE.",
+      "latency_s": 64.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Given that polyethylene is a thermosetting polymer, explain why it cannot be re-melted once formed and how this property influences its applications.",
+      "answer": "Polyethylene is NOT a thermosetting polymer; it's a thermoplastic. Thermoplastics soften and flow when heated, allowing reshaping. Once cooled, they solidify. This reversibility enables recycling and molding into various shapes. This property makes it suitable for applications like packaging films, bottles, and containers where flexibility and re-processability are needed.",
+      "latency_s": 64.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:39:55",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:39:55",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

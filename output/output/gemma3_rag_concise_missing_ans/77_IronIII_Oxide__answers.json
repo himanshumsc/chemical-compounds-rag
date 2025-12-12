@@ -1,0 +1,280 @@
+{
+  "source_file": "77_IronIII_Oxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Iron(III) oxide (Fe2O3). It's a common compound used in iron and steel production. Historically vital for tools and weapons, it relieves pain, reduces inflammation, and reduces fever.",
+      "latency_s": 21.07,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(III) oxide?",
+      "answer": "The provided documents do not contain information about Iron(III) oxide.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.716046154499054,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "page_range": "40-40",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7099414765834808,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "text_length": 1364,
+            "has_image": false,
+            "chunk_id": "chunk_43",
+            "page_range": "44-44",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.7062574326992035,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "chunk_id": "chunk_87",
+            "text_length": 1553,
+            "has_image": false,
+            "image_path": "",
+            "page_range": "88-88"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_7",
+          "score": 0.6956708133220673,
+          "text": "Copper(I) Oxide . . . . . . . . . . . . . . . . . . . . 243\nCopper(II) Oxide . . . . . . . . . . . . . . . . . . . . 247\nCopper(II) Sulfate . . . . . . . . . . . . . . . . . . . .251\nCumene . . . . . . . . . . . . . . . . . . . . . . . . . 255\nCyanoacrylate . . . . . . . . . . . . . . . . . . . . . 259\nCyanocobalamin . . . . . . . . . . . . . . . . . . . . 265\nDenatonium Benzoate . . . . . . . . . . . . . . . . .271\nDichlorodifluoromethane . . . . . . . . . . . . . . 277\nDichlorodiphenyltrichloroethane . . . . . . . . . 283\nDimethyl Ketone . . . . . . . . . . . . . . . . . . . 289\nEthyl Acetate . . . . . . . . . . . . . . . . . . . . . 293\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nvolume 2 Reader ’s Guide . . . . . . . . . . . . . . . . . . . . xiii\nTimeline of the Development of\nChemical Compounds . . . . . . . . . . . . . . .xxi\nWords to Know . . . . . . . . . . . . . . . . . .xxxvii\nEthyl Alcohol . . . . . . . . . . . . . . . . . . . . . 297\nEthylbenzene. . . . . . . . . . . . . . . . . . . . . . 303\nEthylene. . . . . . . . . . . . . . . . . . . . . . . . . 307\nEthylene Glycol . . . . . . . . . . . . . . . . . . . . .313\nEthylene Oxide . . . . . . . . . . . . . . . . . . . . .317\nFolic Acid . . . . . . . . . . . . . . . . . . . . . . . . .321\nFormaldehyde . . . . . . . . . . . . . . . . . . . . . 325\nFructose . . . . . . . . . . . . . . . . . . . . . . . . . 329\nGamma-1,2,3,4,5,6-Hexachlorocyclohexane . . . 333\nGelatin . . . . . . . . . . . . . . . . . . . . . . . . . . 337\nGlucose. . . . . . . . . . . . . . . . . . . . . . . . . . 343\nCHEMICAL COMPOUNDS\nvii\nContents\n",
+          "metadata": {
+            "text_length": 1837,
+            "chunk_id": "chunk_7",
+            "has_image": false,
+            "page_range": "8-8",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_69",
+          "score": 0.6899904012680054,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "70-70",
+            "text_length": 1478,
+            "has_image": false,
+            "chunk_id": "chunk_69"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.716)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.710)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n\n\n[Source 3 (Relevance: 0.706)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 4 (Relevance: 0.696)]\nCopper(I) Oxide . . . . . . . . . . . . . . . . . . . . 243\nCopper(II) Oxide . . . . . . . . . . . . . . . . . . . . 247\nCopper(II) Sulfate . . . . . . . . . . . . . . . . . . . .251\nCumene . . . . . . . . . . . . . . . . . . . . . . . . . 255\nCyanoacrylate . . . . . . . . . . . . . . . . . . . . . 259\nCyanocobalamin . . . . . . . . . . . . . . . . . . . . 265\nDenatonium Benzoate . . . . . . . . . . . . . . . . .271\nDichlorodifluoromethane . . . . . . . . . . . . . . 277\nDichlorodiphenyltrichloroethane . . . . . . . . . 283\nDimethyl Ketone . . . . . . . . . . . . . . . . . . . 289\nEthyl Acetate . . . . . . . . . . . . . . . . . . . . . 293\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nvolume 2 Reader ’s Guide . . . . . . . . . . . . . . . . . . . . xiii\nTimeline of the Development of\nChemical Compounds . . . . . . . . . . . . . . .xxi\nWords to Know . . . . . . . . . . . . . . . . . .xxxvii\nEthyl Alcohol . . . . . . . . . . . . . . . . . . . . . 297\nEthylbenzene. . . . . . . . . . . . . . . . . . . . . . 303\nEthylene. . . . . . . . . . . . . . . . . . . . . . . . . 307\nEthylene Glycol . . . . . . . . . . . . . . . . . . . . .313\nEthylene Oxide . . . . . . . . . . . . . . . . . . . . .317\nFolic Acid . . . . . . . . . . . . . . . . . . . . . . . . .321\nFormaldehyde . . . . . . . . . . . . . . . . . . . . . 325\nFructose . . . . . . . . . . . . . . . . . . . . . . . . . 329\nGamma-1,2,3,4,5,6-Hexachlorocyclohexane . . . 333\nGelatin . . . . . . . . . . . . . . . . . . . . . . . . . . 337\nGlucose. . . . . . . . . . . . . . . . . . . . . . . . . . 343\nCHEMICAL COMPOUNDS\nvii\nContents\n\n\n[Source 5 (Relevance: 0.690)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain the ferromagnetic property of Iron(III) oxide as mentioned in the compound information.",
+      "answer": "The provided text does not mention the ferromagnetic property of Iron(III) oxide. It defines various chemical terms and provides information about Alpha-Tocopherol, Acetaminophen, and Carbohydrates, but does not discuss Iron(III) oxide or its properties.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7008599042892456,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "image_path": "",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.6858458518981934,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "text_length": 1553,
+            "chunk_id": "chunk_87",
+            "image_path": "",
+            "has_image": false,
+            "page_range": "88-88"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_69",
+          "score": 0.6737112998962402,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n",
+          "metadata": {
+            "text_length": 1478,
+            "page_range": "70-70",
+            "image_path": "",
+            "chunk_id": "chunk_69",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.6733972430229187,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "chunk_id": "chunk_70",
+            "page_range": "71-71",
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1074
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.671266108751297,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "text_length": 1364,
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_43",
+            "page_range": "44-44"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.701)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.686)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 3 (Relevance: 0.674)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n\n\n[Source 4 (Relevance: 0.673)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n\n\n[Source 5 (Relevance: 0.671)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n"
+    },
+    {
+      "question": "Describe the process of how Iron(III) oxide is reduced to iron metal in a blast furnace.",
+      "answer": "The provided text does not contain information on the reduction of Iron(III) oxide in a blast furnace. It focuses on definitions of chemical compounds and processes like photosynthesis and acetic acid production, but doesn't detail metallurgical processes.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.6565952301025391,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "image_path": "",
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_42",
+          "score": 0.6531447470188141,
+          "text": "FOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n",
+          "metadata": {
+            "text_length": 1287,
+            "page_range": "43-43",
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_42"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_46",
+          "score": 0.6414366364479065,
+          "text": "OXIDIZE To combine a substance with oxygen, or to remove\nhydrogen from a molecule using oxygen, or to remove\nelectrons from a molecule.\n•\nP\nPARTICULATE MATTER Tiny particles of pollutants sus-\npended in the air.\nPETROCHEMICALS Chemical compounds that form in rocks,\nsuch as petroleum and coal.\nPH (POTENTIAL HYDROGEN) The acidity or alkalinity of a\nsubstance based on its concentration of hydrogen ions.\nPHOSPHATE A compound that is a salt of phosphoric acid,\nwhich consists of phosphorus, oxygen, sometimes hydro-\ngen, and another element or ion.\nPHOTOELECTRIC EFFECT The emission of electrons by a sub-\nstance, especially metal, when light falls on its surface.\nPHOTOSYNTHESIS The process by which green plants and\nsome other organisms using the energy in sunlight to\nconvert carbon dioxide and water into carbohydrates and\noxygen.\nPHOTOVOLTAIC EFFECT A type of photoelectric effect where\nlight is converted to electrical voltage by a substance.\nPLASTICIZER A substance added to plastics to make them\nstronger and more flexible.\nPOLYAMIDE A polymer, such as nylon, containing recurrent\namide groups linking segments of the polymer chain.\nPOLYMER A substance composed of very large molecules\nbuilt up by linking small molecules over and over again.\nPOLYSACCHARIDE A very large molecule made of many thou-\nsands of simple sugar molecules joined to each other in\nlong, complex chains.\nxlvi\nCHEMICAL COMPOUNDS\nWords to Know\n",
+          "metadata": {
+            "chunk_id": "chunk_46",
+            "page_range": "47-47",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1422
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.6337088346481323,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "75-75",
+            "has_image": false,
+            "chunk_id": "chunk_74",
+            "text_length": 1074,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6331794857978821,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1769,
+            "chunk_id": "chunk_76",
+            "page_range": "77-77",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.657)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.653)]\nFOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n\n\n[Source 3 (Relevance: 0.641)]\nOXIDIZE To combine a substance with oxygen, or to remove\nhydrogen from a molecule using oxygen, or to remove\nelectrons from a molecule.\n•\nP\nPARTICULATE MATTER Tiny particles of pollutants sus-\npended in the air.\nPETROCHEMICALS Chemical compounds that form in rocks,\nsuch as petroleum and coal.\nPH (POTENTIAL HYDROGEN) The acidity or alkalinity of a\nsubstance based on its concentration of hydrogen ions.\nPHOSPHATE A compound that is a salt of phosphoric acid,\nwhich consists of phosphorus, oxygen, sometimes hydro-\ngen, and another element or ion.\nPHOTOELECTRIC EFFECT The emission of electrons by a sub-\nstance, especially metal, when light falls on its surface.\nPHOTOSYNTHESIS The process by which green plants and\nsome other organisms using the energy in sunlight to\nconvert carbon dioxide and water into carbohydrates and\noxygen.\nPHOTOVOLTAIC EFFECT A type of photoelectric effect where\nlight is converted to electrical voltage by a substance.\nPLASTICIZER A substance added to plastics to make them\nstronger and more flexible.\nPOLYAMIDE A polymer, such as nylon, containing recurrent\namide groups linking segments of the polymer chain.\nPOLYMER A substance composed of very large molecules\nbuilt up by linking small molecules over and over again.\nPOLYSACCHARIDE A very large molecule made of many thou-\nsands of simple sugar molecules joined to each other in\nlong, complex chains.\nxlvi\nCHEMICAL COMPOUNDS\nWords to Know\n\n\n[Source 4 (Relevance: 0.634)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 5 (Relevance: 0.633)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:09:01",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:09:01",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:33:00",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    4
+  ]
+}

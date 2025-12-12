@@ -1,0 +1,30 @@
+{
+  "source_file": "137_Propylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows a propylene molecule. Propylene is a chemical compound with the molecular formula C₃H₆. Here are some key properties of propylene:\n\n1. **Structure**: It consists of three carbon atoms and six hydrogen atoms, forming a linear chain with a double bond between the first and second carbon atoms.\n2. **Double Bond**: The presence of a double bond between the first and second carbon atoms is indicated by the gray sticks in the diagram.\n3. **Chemical Properties**:\n   - It is a hydrocarbon.\n   - It is highly flammable.\n   - It can undergo thermal cracking and catalytic dehydrogenation.\n4. **Uses**:\n   - It is a raw material for the production of various plastics, such as polypropylene.\n   - It is used in the production of many chemical intermediates and polymers.\n5. **Preparation Methods**:\n   - Propylene can be prepared through the thermal cracking of higher hydrocarbons like propane (C₃H₈).\n   - It can also be produced by catalytic dehydrogenation of propane.\n\nOverall, propylene is a versatile compound with applications in the chemical and petrochemical industries.",
+      "latency_s": 8.81
+    },
+    {
+      "question": "What is the chemical formula of propylene and what type of compound is it classified as?",
+      "answer": "The chemical formula of propylene is C3H6. It is a hydrocarbon, specifically an alkene, which means it contains a carbon-carbon double bond.",
+      "latency_s": 8.09
+    },
+    {
+      "question": "Explain the solubility properties of propylene and how it relates to its molecular structure.",
+      "answer": "Propylene is a type of aliphatic hydrocarbon and is a component of natural gas. Its chemical formula is C3H6, making it an isomer of butane. It has a linear molecular structure with a carbon-carbon double bond. \n\nThe solubility of propylene in water is low because of the strong hydrophobic interaction between the hydrocarbon portion of the molecule and the water molecules. Water is a polar solvent and the hydrocarbon portion of the propylene molecule is nonpolar, which results in weak interactions between them. This lack of interactions makes it difficult for propylene to dissolve in water.\n\nThis solubility behavior is also related to the molecular structure of propylene. The presence of the carbon-carbon double bond in propylene makes it more reactive than the single carbon-carbon bonds in the hexane molecule. The double bond is sensitive to nucleophilic attack, and can also undergo electrophilic addition reactions, which makes propylene more useful in chemical synthesis compared to hexane.\n\nOverall, the solubility properties of propylene are directly related to its molecular structure. The polar-hydrophobic interaction and the presence of the carbon-carbon double bond in the molecule are the key factors that determine its solubility behavior.",
+      "latency_s": 8.09
+    },
+    {
+      "question": "Describe the commercial production process of propylene and explain the role of a catalyst in this process.",
+      "answer": "Propylene is a byproduct in the commercial production of ethylene, which is produced through the cracking of ethane. The cracking process involves heating ethane in the presence of a catalyst at high temperatures to produce ethylene and propylene.\n\nThe commercial production of propylene involves the following steps:\n1. Feedstock preparation: Ethane is prepared by distillation from natural gas or crude oil.\n2. Cracking reactor: Ethane is fed into a cracking reactor where it is exposed to high temperatures (around 800°C) and a catalyst to produce ethylene and propylene.\n3. Gas separation: The gas mixture produced in the cracking reactor is cooled and passed through a series of separation stages to remove the ethylene and propylene.\n4. Catalyst regeneration: The catalyst used in the cracking reactor is regenerated to maintain its efficiency.\n\nThe role of a catalyst in the commercial production of propylene is to improve the efficiency and selectivity of the cracking process. A catalyst is a substance that increases the rate of a chemical reaction but is not consumed in the process. In the cracking of ethane to produce ethylene and propylene, the catalyst helps to break the ethane molecules into smaller fragments, which ultimately results in the production of propylene.\n\nThe catalyst used in the cracking process is typically a metal oxide, such as chromium oxide or vanadium oxide, supported on a solid substrate like a ceramic or metal. The catalysts used in the cracking of ethane are typically selected based on their ability to increase the yield of propylene while minimizing the production of ethylene. The choice of catalyst can also influence the selectivity of the process, which is the ratio of propylene to ethylene produced.\n\nOverall, the catalysts used in the cracking of ethane play a critical role in the commercial production of propylene, as they help to increase the efficiency and selectivity of the cracking process, ultimately leading to the production of propylene as a desired byproduct.",
+      "latency_s": 8.09
+    }
+  ],
+  "regenerated_at": "2025-11-22 23:45:35",
+  "regenerated_with": "vllm",
+  "max_tokens": 500
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "25_Boric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **boric acid** (H₃BO₃). Boric acid is a weak monoprotic acid with the following key properties:\n\n1. **Chemical Structure**: Boric acid consists of one boron atom (yellow) bonded to three oxygen atoms (red), each of which is also bonded to one hydrogen atom (white).\n\n2. **Physical Properties**:\n   - **Appearance**: Boric acid appears as a white crystalline powder.\n   - **Solubility**: It dissolves in water but not in organic solvents.\n   - **Melting Point**: Bor",
+      "latency_s": 16.63
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of boric acid?",
+      "answer": "The chemical formula for boric acid is H3BO3. The molecular weight of boric acid can be calculated by summing the atomic weights of its constituent elements:\n\n- Hydrogen (H): 1.008 g/mol\n- Boron (B): 10.81 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe molecular weight of boric acid, H3BO3, is calculated as follows:\n\\[ \\text{Molecular weight} = 3 \\times \\text{Atomic weight of H} + 1 \\times \\text{Atomic weight of",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Explain how the solubility of boric acid in water changes with temperature.",
+      "answer": "The solubility of boric acid (H3BO3) in water generally increases as the temperature rises. This behavior is typical for many ionic compounds, including boric acid, which dissociates into its constituent ions when dissolved in water.\n\n### Dissociation of Boric Acid:\nBoric acid can be represented as:\n\\[ \\text{H}_3\\text{BO}_3 \\rightarrow \\text{H}^+ + \\text{H}_2\\text{BO}_3^- \\]\n\nWhen boric acid dissolves in water, it ionizes to form hydronium ions (\\(\\text{",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Discuss the historical and modern uses of boric acid and its potential hazards.",
+      "answer": "Boric acid, also known as orthoboric acid, is a white crystalline powder that has been used for centuries in various applications due to its unique properties. Historically, it was used in traditional medicine as an antiseptic and disinfectant. In modern times, boric acid continues to be utilized in a wide range of products and industries.\n\n### Historical Uses\n\n1. **Medicine**: Boric acid has been used in traditional medicine for centuries. It was often applied topically to wounds and cuts to prevent infection.\n2. **Detergents**: Boric acid was one of the first substances used in laundry",
+      "latency_s": 10.36
+    }
+  ]
+}

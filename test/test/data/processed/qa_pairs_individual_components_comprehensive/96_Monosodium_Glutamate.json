@@ -1,0 +1,58 @@
+{
+  "compound_id": 92,
+  "compound_name": "Monosodium Glutamate",
+  "source_file": "compound_092_Monosodium Glutamate.json",
+  "main_entry_length": 4824,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0516_Monosodium_Glutamate_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:18",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is Monosodium Glutamate (MSG). In the diagram, red atoms represent oxygen, white atoms represent hydrogen, black atoms represent carbon, the blue atom represents nitrogen, and the turquoise atom represents sodium. MSG is known for enhancing flavors by providing the umami taste, which is savory and meaty. It is the sodium salt of glutamic acid and is highly soluble in water, allowing it to be used as a seasoning in various foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:38"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Monosodium Glutamate?",
+      "answer": "The chemical formula of Monosodium Glutamate (MSG) is COOH(CH2)2CH(NH2)COONa, and its molecular weight is 169.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:32",
+      "char_limit": 1000,
+      "answer_length": 119
+    },
+    {
+      "question": "How is Monosodium Glutamate produced commercially and what is the key process involved?",
+      "answer": "Monosodium glutamate (MSG) is produced commercially through the hydrolysis of waste products from beet sugar refining, wheat, or corn gluten. Hydrolysis involves a reaction with water that breaks apart the proteins in these raw materials, freeing the amino acids, including glutamic acid. The glutamic acid is then separated, isolated, and purified. Alternatively, MSG can be produced using bacterial fermentation, which is the primary method now. In this process, bacteria break down proteins into their component amino acids, including glutamic acid, which is then converted into MSG.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:34",
+      "char_limit": 1800,
+      "answer_length": 586
+    },
+    {
+      "question": "What are the potential hazards of consuming Monosodium Glutamate, and how does its concentration affect its flavor-enhancing properties?",
+      "answer": "Monosodium glutamate (MSG) is considered safe for human consumption and is on the U.S. Food and Drug Administration’s Generally Recognized as Safe (GRAS) list. Despite this, some people believe that MSG can have harmful health effects, such as causing headaches and nausea. The flavor-enhancing properties of MSG are related to its concentration in foods. At concentrations of less than about 0.5 percent, MSG enhances the flavor of a food product. However, at greater concentrations, it begins to make the food taste bad.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:39",
+      "char_limit": 2000,
+      "answer_length": 522
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6536,
+  "updated_at": "2025-11-30 14:10:39",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

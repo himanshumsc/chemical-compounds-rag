@@ -1,0 +1,27 @@
+{
+  "source_file": "164_Sucrose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sucrose, also known as table sugar or cane sugar. The key properties of sucrose include:\n\n1. **Chemical Composition**: Sucrose is composed of carbon (C), hydrogen (H), and oxygen (O). Specifically, it has 12 carbon atoms, 22 hydrogen atoms, and 11 oxygen atoms.\n\n2. **Molecular Structure**: As depicted in the diagram, the red spheres represent oxygen atoms, white spheres represent hydrogen atoms, and black spheres represent carbon atoms. The structure shows how these atoms are bonded together to form the sucrose molecule.\n\n3. **",
+      "latency_s": 16.72
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "answer": "Sucrose, also known as table sugar or cane sugar, has the chemical formula \\( \\text{C}_{12}\\text{H}_{22}\\text{O}_{11} \\).\n\nTo calculate the molecular weight of sucrose, we need to sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12 atomic weights per atom\n- Hydrogen (H): 1 atomic weight per atom\n- Oxygen (O): 16 atomic weights per atom\n\nThe molecular weight of sucrose can be calculated as follows:\n\n\\[\n\\text{Molecular Weight} = (1",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Explain why sucrose is classified as a disaccharide and how this relates to its chemical structure.",
+      "answer": "Sucrose, also known as table sugar or cane sugar, is classified as a disaccharide because it is composed of two monosaccharides (simple sugars) joined together through a glycosidic bond. Specifically, sucrose is formed by the condensation reaction between glucose and fructose.\n\n### Chemical Structure of Sucrose\n\nThe chemical formula for sucrose is C₁₂H₂₂O₁₁. Its structure can be visualized as follows:\n\n1. **Glucose**: A six-carbon sugar with an aldehyde group at one end.\n2. **Fructose**: A six-carbon sugar with a",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "answer": "Sucrose, also known as table sugar or cane sugar, is a disaccharide composed of glucose and fructose. When heated above its decomposition point, which is approximately 170°C (338°F), sucrose undergoes a chemical reaction called caramelization. This process involves several steps:\n\n1. **Melting**: At temperatures below the decomposition point, sucrose melts into a liquid state without undergoing any chemical changes.\n\n2. **Decomposition**: When heated above the decomposition point, sucrose decomposes into simpler sugars and other compounds. The exact products depend on the temperature and duration of heating but typically include",
+      "latency_s": 10.63
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "142_Silicon_Dioxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows silicon dioxide. Red atoms are oxygen, yellow atoms are silicon. It's highly adsorbent, absorbing up to 50% of its weight in water.",
+      "latency_s": 39.62,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of Silicon Dioxide and what elements does it consist of?",
+      "answer": "The chemical formula of Silicon Dioxide is SiO2, consisting of Silicon and Oxygen.",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the different structural forms of Silicon Dioxide and how they differ.",
+      "answer": "Silicon dioxide (SiO₂) exists in various structural forms, including quartz, tridymite, cristobalite, and moganite. Quartz is the most common stable form, with a tetragonal structure. Tridymite and cristobalite are high-temperature polymorphs with a cubic structure. Moganite is a hexagonal polymorph with a low melting point. Each form has distinct properties, such as hardness, melting point, and optical properties.",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how silicon dioxide's solubility varies and under what conditions it can dissolve.",
+      "answer": "Silicon dioxide (SiO2) is insoluble in most solvents, including water, alcohol, and acetone. However, it can dissolve slightly in strong acids like hydrofluoric acid at high temperatures. Silicon dioxide forms a gelatinous precipitate in aqueous solutions, particularly when aluminum hydroxide is precipitated. It is not soluble in organic solvents under normal conditions.",
+      "latency_s": 26.99,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:30:51",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:30:51",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

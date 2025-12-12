@@ -1,0 +1,59 @@
+{
+  "source_file": "72_Hexane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows hexane (C6H14). Key properties: white atoms are hydrogen, black atoms are carbon. It is a hydrocarbon with a low boiling point, used in solvents and cleaning agents. Safety hazards include vapor ignition and inhalation risks.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hexane?",
+      "answer": "Hexane: Formula CH3(CH2)4CH3, Molecular Weight 86.17 g/mol",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why hexane is considered a saturated hydrocarbon and what implications this has for its chemical structure.",
+      "answer": "Hexane is considered a saturated hydrocarbon because it contains only carbon and hydrogen atoms, with all carbon-carbon bonds being single bonds and all carbon-hydrogen bonds fully saturated. This implies that its chemical structure consists solely of single bonds, without any double or triple bonds, which prevents further addition of hydrogen atoms without changing its chemical properties significantly.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the process by which hexane is obtained from petroleum and explain why its low boiling point is significant in this process.",
+      "answer": "Hexane is obtained from petroleum through distillation, a process that separates components based on their boiling points. Hexane's low boiling point (353°C) means it vaporizes at a lower temperature than many other components in petroleum, allowing it to be distilled off first. This makes it easier to purify hexane from the mixture.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

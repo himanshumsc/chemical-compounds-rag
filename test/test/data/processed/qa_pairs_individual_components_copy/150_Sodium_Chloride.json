@@ -1,0 +1,36 @@
+{
+  "compound_id": 146,
+  "compound_name": "Sodium Chloride",
+  "source_file": "compound_146_Sodium Chloride.json",
+  "main_entry_length": 5267,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0786_Sodium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Chloride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Chloride?",
+      "answer": "The chemical formula of Sodium Chloride is NaCl, and its molecular weight is 58.44 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is Sodium Chloride naturally sourced and processed for use?",
+      "answer": "Sodium Chloride occurs naturally as the mineral halite and is abundant in oceans. It can be harvested through the evaporation of seawater, where the water is collected in large, shallow ponds and allowed to evaporate, leaving behind crystalline salts. Another method involves mining from salt mines, where large underground reserves exist. Two types of mining methods are used: room-and-pillar mining, where shafts are dug and pieces of sodium chloride are blasted off, and solution mining, where water is used to create a brine solution that is then processed.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the industrial significance of Sodium Chloride beyond its use as a food additive.",
+      "answer": "Beyond its use as a food additive, Sodium Chloride is crucial as a raw material in various chemical productions. In 2004, 65% of Sodium Chloride consumed in the U.S. was used to produce sodium hydroxide, sodium carbonate, hydrogen chloride, sodium metal, chlorine gas, and other chemical products. It is also used in water conditioners to soften hard water by replacing calcium and magnesium ions, making cleaning processes more efficient. Sodium Chloride has over 14,000 distinct uses, underscoring its industrial significance.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 57,
+  "compound_name": "Ethyl Alcohol",
+  "source_file": "compound_057_Ethyl Alcohol.json",
+  "main_entry_length": 4404,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0348_Ethyl_Alcohol_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is ethyl alcohol, also known as ethanol. Ethanol is a simple alcohol with the chemical formula C₂H₅OH. Its structure consists of two carbon atoms, six hydrogen atoms, and one oxygen atom.\n\nKey properties of ethanol include:\n\n1. It is a colorless, volatile liquid with a characteristic odor.\n2. Ethanol is highly flammable and is used as a fuel and solvent.\n3. It is miscible with water and many organic solvents.\n4. Ethanol is commonly used in alcoholic beverages and as a disinfectant due to its antiseptic properties.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:27"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethyl alcohol?",
+      "answer": "The chemical formula of ethyl alcohol is CH3CH2OH, and its molecular weight is 46.07 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:01",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "How is ethyl alcohol produced and what are the main methods used?",
+      "answer": "Ethyl alcohol, also known as ethanol or grain alcohol, is produced through two main methods: fermentation and synthetic production.\n\n1. **Fermentation**: This is the natural method where waste syrup from sugar cane production is treated with enzymes at temperatures between 20°C and 38°C for 28 to 72 hours. Approximately 90% of the syrup is converted into ethyl alcohol. As of 2003, about 94% of all ethyl alcohol was produced by fermentation. In 2005, 10,500 million liters of ethyl alcohol were produced by this method, with 92% used as fuel or fuel additives.\n\n2. **Synthetic Production**: Initially, a method involving ethylene treated with sulfuric acid and water was popular in the 1950s and 1960s. A more efficient method was later developed where ethylene and water are heated at high temperatures (300°C to 400°C) and high pressures (1,000 psi) over a phosphoric acid catalyst. This method is more environmentally friendly and efficient than previous synthetic processes. By 2003, the phosphoric acid method accounted for the remainder of ethyl alcohol production.\n\nOverall, these methods highlight the balance between traditional fermentation and modern synthetic approaches in ethyl alcohol production.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:13",
+      "char_limit": 1800,
+      "answer_length": 1214
+    },
+    {
+      "question": "Discuss the industrial uses of ethyl alcohol and its environmental impact as a fuel additive.",
+      "answer": "Ethyl alcohol, also known as ethanol or grain alcohol, has significant industrial uses. According to the provided text, over 90 percent of ethyl alcohol produced in the United States is used for commercial and industrial purposes. In 2005, 10,500 million liters of ethyl alcohol were produced through fermentation, with 92 percent of this amount used as a fuel or fuel additive. Ethyl alcohol is mixed with gasoline to create gasohol, a fuel blend consisting of 90 percent gasoline and 10 percent ethanol. This blend is recommended by experts because it burns more completely, releasing fewer harmful byproducts into the environment.\n\nWhile gasohol is not yet widely used in the United States, it is popular in other regions, notably Brazil. The environmental impact of using ethyl alcohol as a fuel additive is positive, as it contributes to cleaner combustion and reduced emissions of pollutants compared to pure gasoline. Additionally, the production of ethyl alcohol through fermentation is seen as having fewer environmental consequences compared to synthetic production methods. The use of ethyl alcohol in fuels supports efforts to decrease reliance on fossil fuels and mitigate environmental pollution.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:22",
+      "char_limit": 2000,
+      "answer_length": 1210
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 14645,
+  "updated_at": "2025-11-30 14:02:22",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

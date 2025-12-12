@@ -1,0 +1,59 @@
+{
+  "source_file": "163_Styrene.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Styrene (C6H5CH=CH2). A clear, colorless plastic. Key properties: used in polystyrene & styrofoam, dehydrogenation involves iron(III) oxides at high temperatures.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of styrene?",
+      "answer": "Based on Source 1, Styrene has a listing of 803. No formula is provided.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "answer": "The provided text does not contain information about polymerization or styrene. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "answer": "Styrene is produced as a copolymer with butadiene (Source 4). It's a polymer of the compound styrene (C6H5CH=CH2). Source 4 doesn’t detail the *industrial preparation* of styrene itself, only its use. Sources 1 & 5 mention acetic acid, not styrene. Therefore, this information is not present in the provided sources.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:50:26",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:50:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

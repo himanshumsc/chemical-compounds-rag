@@ -1,0 +1,27 @@
+{
+  "source_file": "59_Ethyl_Acetate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows ethyl acetate (CH₃COOCH₂CH₃). Ethyl acetate is a volatile organic compound with the following key properties:\n\n1. **Chemical Composition**: It consists of one carbon atom bonded to an oxygen atom (the carbonyl group), which is attached to another carbon atom that is further bonded to two hydrogen atoms.\n\n2. **Physical Properties**:\n   - **Boiling Point**: Approximately 77°C.\n   - **Solubility**: Highly soluble in water and many organic solvents.\n   - **Odor**: Has a fruity smell similar",
+      "latency_s": 16.47
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethyl Acetate?",
+      "answer": "The chemical formula for Ethyl Acetate is \\( \\text{C}_4\\text{H}_8\\text{O}_2 \\).\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, multiply the atomic weight by the number of atoms of each element:\n\n- Carbon: \\( 4 \\times 12.01 = 48.04",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain the solubility properties of Ethyl Acetate and its implications for industrial use.",
+      "answer": "Ethyl acetate, with the chemical formula C4H8O2, is a colorless liquid that has a sweet, fruity odor. It is widely used in various industries due to its unique solubility properties.\n\n### Solubility Properties:\n1. **Solubility in Water**: Ethyl acetate is only slightly soluble in water. This low solubility makes it useful as a solvent for organic compounds that are not easily soluble in water.\n2. **Solubility in Organic Solvents**: Ethyl acetate is highly soluble in most organic solvents such as alcohols, ethers, ketones, and",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the synthetic production process of Ethyl Acetate and its natural occurrence.",
+      "answer": "Ethyl acetate is an organic compound with the chemical formula C4H8O2, which can be described as ethyl formate or ethyl ethanoate. It is a colorless liquid with a sweet, fruity odor that is often used in perfumes and flavorings.\n\n### Synthetic Production Process\n\nThe primary method for synthesizing ethyl acetate industrially involves the reaction between ethanol (ethyl alcohol) and acetic acid under acidic conditions. This process is known as esterification:\n\n1. **Raw Materials:**\n   - Ethanol (C2H5OH)\n   - Acetic acid (CH3CO",
+      "latency_s": 10.42
+    }
+  ]
+}

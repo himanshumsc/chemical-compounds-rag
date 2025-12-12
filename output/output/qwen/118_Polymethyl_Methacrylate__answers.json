@@ -1,0 +1,27 @@
+{
+  "source_file": "118_Polymethyl_Methacrylate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Poly(methyl methacrylate), commonly abbreviated as PMMA. This polymer is made up of repeating units of methyl methacrylate monomers.\n\nKey properties of PMMA include:\n\n1. **Transparency**: PMMA is highly transparent, making it ideal for applications where clear materials are required.\n2. **Stiffness**: It has high stiffness, which makes it suitable for structural applications such as in automotive parts or in the construction of windows.\n3. **Impact Resistance**: PMMA is known for its excellent impact resistance, which means it can withstand significant impacts without shattering.\n4",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What elements make up the compound Polymethyl Methacrylate (PMMA), and what is its chemical formula?",
+      "answer": "Polymethyl Methacrylate (PMMA) is a polymer, which means it is made up of many repeating units called monomers. The monomer in PMMA is methyl methacrylate.\n\nThe chemical formula for methyl methacrylate is:\n\n\\[ \\text{CH}_2=\\text{C(CH}_3\\text{)}-\\text{CO}_2\\text{CH}_3 \\]\n\nWhen these monomers are linked together through a process called polymerization, they form the polymer PMMA. The general formula for PMMA can be written as:\n\n\\[ \\left(\\text{CH}_2=\\text",
+      "latency_s": 10.67
+    },
+    {
+      "question": "Explain why Polymethyl Methacrylate (PMMA) is preferred over glass for certain applications.",
+      "answer": "Polymethyl Methacrylate (PMMA), also known as acrylic glass or Perspex, is often preferred over traditional glass in various applications due to several advantages. Here are some reasons why PMMA is favored:\n\n1. **Weight**: PMMA is significantly lighter than glass. This makes it easier to handle and transport, especially when large or heavy structures are involved. This weight advantage can be crucial in applications where portability and ease of installation are important.\n\n2. **Cost**: PMMA is generally less expensive than glass. This cost difference can be significant, making PMMA more affordable for many projects. This cost-effectiveness",
+      "latency_s": 10.67
+    },
+    {
+      "question": "Describe the process of manufacturing Polymethyl Methacrylate (PMMA) starting from its monomer.",
+      "answer": "Polymethyl Methacrylate (PMMA), also known as acrylic glass or Perspex, is a thermoplastic polymer that is widely used in various applications due to its excellent optical properties and ease of processing. The production of PMMA involves several steps, starting from the monomer methyl methacrylate (MMA).\n\n### 1. **Monomer Production:**\n   - **Methyl Methacrylate (MMA):** MMA is produced by the reaction of methanol with acrylonitrile in the presence of a catalyst.\n     \\[\n     \\text{CH}_3\\text{CN",
+      "latency_s": 10.67
+    }
+  ]
+}

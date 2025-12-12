@@ -1,0 +1,58 @@
+{
+  "compound_id": 126,
+  "compound_name": "Potassium Chloride",
+  "source_file": "compound_126_Potassium Chloride.json",
+  "main_entry_length": 1375,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0690_Potassium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:43",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of potassium chloride (KCl). In the diagram, the turquoise atom represents potassium, which is positively charged, and the green atom represents chlorine, which is negatively charged. This ionic compound is formed through the electrostatic attraction between the oppositely charged ions. Potassium chloride is commonly found in sea salt deposits and is highly soluble in water, especially hot water. It is often extracted from natural ores like sylvite and carnallite.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:50"
+    },
+    {
+      "question": "What is the chemical formula of Potassium Chloride and its molecular weight?",
+      "answer": "The chemical formula of Potassium Chloride is KCl, and its molecular weight is 74.55 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:24",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Describe the physical properties of Potassium Chloride and its solubility in various solvents.",
+      "answer": "Potassium chloride (KCl) is a binary salt that appears as a white or colorless crystalline solid or powder. It is odorless and has a strong saline (salty) taste. The molecular weight of potassium chloride is 74.55 g/mol. In terms of physical properties, it has a melting point of 771°C (1420°F) and sublimes at about 1500°C (2700°F), as boiling is not applicable.\n\nIn terms of solubility, potassium chloride is very soluble in water. It is slightly soluble in ethyl alcohol but insoluble in ether, acetone, and other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:27",
+      "char_limit": 1800,
+      "answer_length": 534
+    },
+    {
+      "question": "Explain the significance of Potassium Chloride in agriculture and its natural occurrence.",
+      "answer": "Potassium chloride (KCl) is significant in agriculture primarily due to its use in the manufacture of fertilizers. It is the most abundant compound of potassium and has the greatest number of applications among potassium salts, with its most important application being in fertilizers. This is because potassium is an essential nutrient for plant growth, and KCl serves as a key source of potassium in agricultural practices.\n\nIn terms of natural occurrence, potassium chloride appears as a white or colorless crystalline solid or powder and is found in nature in minerals such as sylvite, carnallite, kainite, and sylvinite. It also occurs in sea water at a concentration of about 0.076 percent (grams per milliliter of solution). The origins of major potassium chloride sources are from sea water, which contains a solution of various salts, including potassium chloride. When large bodies of sea water dry up, they leave behind complex mixtures of minerals containing KCl.\n\nThus, potassium chloride's significance in agriculture stems from its role as a key source of potassium in fertilizers, and it is naturally found in certain minerals and sea water.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:31",
+      "char_limit": 2000,
+      "answer_length": 1157
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4637,
+  "updated_at": "2025-11-30 13:41:31",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

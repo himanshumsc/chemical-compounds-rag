@@ -1,0 +1,27 @@
+{
+  "source_file": "137_Propylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows propylene (C₃H₆). Key properties of propylene include:\n\n1. **Chemical Structure**: Propylene has three carbon atoms and six hydrogen atoms arranged in a specific way where two of the carbon atoms are bonded together by a double bond, while the third carbon atom is single-bonded to one of the hydrogen atoms.\n\n2. **Double Bond**: The presence of a double bond between two carbon atoms makes it more reactive compared to other alkenes due to the higher energy state of the double bond.\n\n3. **Preparation Methods**:\n   - **Thermal",
+      "latency_s": 16.59
+    },
+    {
+      "question": "What is the chemical formula of propylene and what type of compound is it classified as?",
+      "answer": "The chemical formula for propylene is C3H6. It is classified as an alkene, which is a hydrocarbon containing at least one carbon-carbon double bond.",
+      "latency_s": 10.59
+    },
+    {
+      "question": "Explain the solubility properties of propylene and how it relates to its molecular structure.",
+      "answer": "Propylene, also known as 2-methyl-1-propene or isopropene, is an unsaturated hydrocarbon with the chemical formula C3H6. It has a molecular structure that consists of three carbon atoms and six hydrogen atoms, with one double bond between the second and third carbon atoms.\n\nThe solubility of propylene in water is relatively low due to its nonpolar nature. This is because water is a polar solvent, and polar molecules tend to dissolve more readily in polar solvents than nonpolar molecules do. Propylene's lack of polarity makes it less compatible with water, leading to lower sol",
+      "latency_s": 10.59
+    },
+    {
+      "question": "Describe the commercial production process of propylene and explain the role of a catalyst in this process.",
+      "answer": "Propylene is a chemical compound with the molecular formula C3H6, which is an important building block for many plastics, fibers, and other chemicals. The commercial production of propylene primarily involves two main processes: the steam reforming of ethane and the cracking of higher hydrocarbons.\n\n### 1. Steam Reforming of Ethane\n\nThe steam reforming of ethane is a process where ethane (C2H6) reacts with steam (H2O) in the presence of a catalyst to produce hydrogen (H2) and propylene (C3H6). This reaction is exothermic and can be",
+      "latency_s": 10.59
+    }
+  ]
+}

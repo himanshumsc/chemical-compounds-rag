@@ -1,0 +1,58 @@
+{
+  "compound_id": 152,
+  "compound_name": "Sodium Phosphate",
+  "source_file": "compound_152_Sodium Phosphate.json",
+  "main_entry_length": 4244,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0820_Sodium_Phosphate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:34",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium phosphate. In this compound, red atoms represent oxygen, the orange atom is phosphorus, and turquoise atoms are sodium. Gray sticks indicate double bonds. Sodium phosphate is used in various forms, such as disodium phosphate (Na₂HPO₄) and trisodium phosphate (Na₃PO₄). It's made by treating phosphoric acid with sodium compounds, replacing hydrogen atoms to form different sodium phosphates.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:58"
+    },
+    {
+      "question": "What are the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate?",
+      "answer": "The chemical formulas for the forms of sodium phosphate are as follows:\n\n- Monobasic sodium phosphate: NaH2PO4\n- Dibasic sodium phosphate: Na2HPO4\n- Tribasic sodium phosphate: Na3PO4",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:28",
+      "char_limit": 1000,
+      "answer_length": 182
+    },
+    {
+      "question": "Explain how the different forms of sodium phosphate are produced from phosphoric acid.",
+      "answer": "The different forms of sodium phosphate are produced by replacing one or more hydrogen atoms in phosphoric acid (H3PO4) with sodium atoms. \n\n1. **Monobasic Sodium Phosphate (NaH2PO4):** Formed by replacing one hydrogen atom in phosphoric acid with sodium. This can be achieved by reacting phosphoric acid with sodium hydroxide (NaOH):\n   \\[\n   \\text{H3PO4 + NaOH} \\rightarrow \\text{NaH2PO4 + H2O}\n   \\]\n\n2. **Dibasic Sodium Phosphate (Na2HPO4):** Produced by replacing two hydrogen atoms with sodium atoms. This is done by reacting phosphoric acid with sodium carbonate (Na2CO3):\n   \\[\n   \\text{H3PO4 + Na2CO3} \\rightarrow \\text{Na2HPO4 + H2O + CO2}\n   \\]\n\n3. **Tribasic Sodium Phosphate (Na3PO4):** Formed by replacing all three hydrogen atoms with sodium atoms. This requires reacting phosphoric acid with an excess of sodium hydroxide:\n   \\[\n   \\text{H3PO4 + 3NaOH} \\rightarrow \\text{Na3PO4 + 3H2O}\n   \\]\n\nThese reactions highlight how the different sodium phosphate compounds are synthesized by varying the extent to which sodium atoms replace hydrogen atoms in phosphoric acid.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:34",
+      "char_limit": 1800,
+      "answer_length": 1082
+    },
+    {
+      "question": "Discuss the common uses and potential hazards associated with tribasic sodium phosphate.",
+      "answer": "Tribasic sodium phosphate (Na3PO4), also known as tertiary sodium phosphate or TSP, is used in various applications. It is a component in cleaning agents, such as detergents and industrial cleaning products, and is used as a metal cleaner. Additionally, it is employed in the treatment of boiler water, the tanning of leather, and the manufacture of textiles and paper products. Tribasic sodium phosphate is also used in the purification of sugar, as a dietary supplement for humans and farm animals, in paint removers, and for various photographic purposes.\n\nWhile useful, tribasic sodium phosphate poses potential hazards. It is a mild irritant to the skin, eyes, and respiratory system. Exposure may lead to redness, itching, burns, pain, and blisters. Tribasic sodium phosphate is associated with somewhat more serious health consequences compared to its monobasic and dibasic counterparts. Therefore, handling it requires caution to prevent irritation and injury.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:38",
+      "char_limit": 2000,
+      "answer_length": 968
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5985,
+  "updated_at": "2025-11-30 13:46:39",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 32,
+  "compound_name": "Calcium Sulfate",
+  "source_file": "compound_032_Calcium Sulfate.json",
+  "main_entry_length": 1226,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0216_Calcium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:07",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is calcium sulfate. It consists of a calcium ion (Ca²⁺) and a sulfate ion (SO₄²⁻), depicted with red oxygen atoms, a yellow sulfur atom, and a turquoise calcium atom. Calcium sulfate exists in different forms, including anhydrous (CaSO₄) and hydrated forms like dihydrate (CaSO₄·2H₂O). Anhydrous calcium sulfate is essentially insoluble in water, while its hydrated forms are slightly soluble. The hemihydrate form, known as plaster of Paris, hardens when mixed with water.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous calcium sulfate?",
+      "answer": "The chemical formula of anhydrous calcium sulfate is CaSO4, and its molecular weight is 136.14 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:42",
+      "char_limit": 1000,
+      "answer_length": 101
+    },
+    {
+      "question": "Explain the difference between the anhydrous and hydrated forms of calcium sulfate.",
+      "answer": "Calcium sulfate (CaSO4) exists in three forms: anhydrous calcium sulfate, calcium sulfate dihydrate, and calcium sulfate hemihydrate. The anhydrous form, known as anhydrite, is essentially insoluble in water and available in two types: insoluble anhydrite and soluble anhydrite. It is a fine white odorless powder or crystalline solid.\n\nCalcium sulfate dihydrate (CaSO4·2H2O) is known as mineral white, terra alba, light spar, and other names. It may appear as a powder or white lumps. Calcium sulfate hemihydrate (CaSO4·1/2H2O), also called plaster of Paris or dried gypsum, is similar in appearance to the anhydrous form. \n\nThe primary difference between these forms lies in their water content: the anhydrous form lacks water, while the hydrated forms contain water molecules, with the dihydrate having two water molecules per formula unit and the hemihydrate having half a water molecule per formula unit. Upon heating, calcium sulfate dihydrate can be converted to the anhydrous form by releasing water. Despite physical differences, the chemical properties of these forms are essentially the same.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:45",
+      "char_limit": 1800,
+      "answer_length": 1103
+    },
+    {
+      "question": "Given its solubility characteristics, why might anhydrous calcium sulfate be used in industrial applications?",
+      "answer": "Anhydrous calcium sulfate is used in industrial applications primarily due to its insolubility in water and most organic solvents. This characteristic makes it suitable for use in environments where water solubility could be a disadvantage. For example, it is used in the manufacture of cement and as a filler in various production processes, where its stability and non-reactivity in the presence of water are beneficial. Additionally, its ability to remain solid and stable at high temperatures, as indicated by its high melting point of 1460°C (2660°F), further enhances its suitability for industrial use.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:49",
+      "char_limit": 2000,
+      "answer_length": 609
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3730,
+  "updated_at": "2025-11-30 13:56:49",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

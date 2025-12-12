@@ -1,0 +1,58 @@
+{
+  "compound_id": 1,
+  "compound_name": "Acetic acid",
+  "source_file": "compound_001_Acetic acid.json",
+  "main_entry_length": 4495,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0074_Acetic_acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:20:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of acetic acid. Acetic acid is a simple carboxylic acid with the chemical formula \\( \\text{CH}_3\\text{COOH} \\). In the diagram, red atoms represent oxygen, black atoms represent carbon, and white atoms represent hydrogen. The key properties of acetic acid include its pungent smell and sour taste. It is a colorless liquid that is miscible with water. Acetic acid is widely used in the manufacture of plastics and as a chemical reagent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:19"
+    },
+    {
+      "question": "What is the chemical formula of acetic acid and what elements does it contain?",
+      "answer": "The chemical formula of acetic acid is CH3COOH. It contains the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:42",
+      "char_limit": 1000,
+      "answer_length": 102
+    },
+    {
+      "question": "Explain the role of acetic acid in the production of plastics and name two specific types of plastics that use acetic acid as a raw material.",
+      "answer": "Acetic acid plays a crucial role in the production of plastics as a raw material. It is used in the manufacturing of several types of plastic materials, including polyvinyl acetate (PVA) and polyethylene terephthalate (PET). These plastics have various applications in industries ranging from packaging to textiles. The production of acetic acid is significant in the United States, with more than 1.4 million metric tons produced annually, primarily for use in chemical processes such as the manufacture of plastics.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:48",
+      "char_limit": 1800,
+      "answer_length": 517
+    },
+    {
+      "question": "Describe the industrial method developed by Monsanto for producing acetic acid and mention an alternative method that is being researched for environmental benefits.",
+      "answer": "The industrial method developed by Monsanto for producing acetic acid involves using synthesis gas, which is a mixture of carbon monoxide (CO) and hydrogen (H2). This gas is heated over a catalyst made of copper metal mixed with zinc oxide to produce methanol (methyl alcohol, CH3OH). The methanol is then treated with carbon monoxide to synthesize acetic acid.\n\nAn alternative method being researched for environmental benefits, as reported in 2003 by chemists at the University of Southern California, involves making acetic acid directly from methane gas (CH4) using a catalyst of palladium and sulfuric acid. Researchers are also exploring ways to oxidize waste gases from industrial processes to produce acetic acid, aiming for more efficient and environmentally-friendly production methods.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:54",
+      "char_limit": 2000,
+      "answer_length": 796
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 9703,
+  "updated_at": "2025-11-30 14:01:54",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

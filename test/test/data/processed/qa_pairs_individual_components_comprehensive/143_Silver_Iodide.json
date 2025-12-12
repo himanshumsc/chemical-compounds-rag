@@ -1,0 +1,58 @@
+{
+  "compound_id": 139,
+  "compound_name": "Silver Iodide",
+  "source_file": "compound_139_Silver Iodide.json",
+  "main_entry_length": 2933,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0752_Silver_Iodide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:39",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents silver iodide (AgI). Silver iodide is a compound consisting of silver and iodine atoms. It is primarily used in photography and cloud seeding. In photography, silver iodide was historically used to create images by converting silver ions to metallic silver upon exposure to light. In cloud seeding, it acts as a nucleus for water droplets to form, potentially inducing rain. Silver iodide is light-sensitive and must be handled with care due to its potential environmental impact.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:13"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Iodide?",
+      "answer": "The chemical formula of Silver Iodide is AgI, and its molecular weight is 234.77 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:04",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "Explain the process by which Silver Iodide is used in photography.",
+      "answer": "Silver iodide is primarily used in photography, a process first developed by French experimenter Louis Jacques Mandé Daguerre in the early nineteenth century. Daguerre's method involved covering a sheet of copper with a thin layer of silver, which was then exposed to iodine vapors. This exposure converted the silver to silver iodide. The photographic process consisted of exposing the silver iodide-coated plate to light, which transformed the colorless silver ions back into grayish silver atoms, capturing the image. After exposure, the plate was treated with magnesium vapor, which adhered to the exposed areas. The unreacted silver iodide was washed off, revealing the image on the plate. This fundamental principle, involving the conversion and fixation of silver iodide, is still utilized in photographic films today.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:06",
+      "char_limit": 1800,
+      "answer_length": 825
+    },
+    {
+      "question": "Describe the chemical reaction used to synthesize Silver Iodide from silver nitrate and sodium iodide. Why is ruby red light used during this process?",
+      "answer": "To synthesize silver iodide (AgI) from silver nitrate (AgNO3) and sodium iodide (NaI), a chemical reaction is used: AgNO3 + NaI → AgI + NaNO3. This process involves combining aqueous solutions of silver nitrate and sodium iodide, resulting in the formation of silver iodide as a precipitate and sodium nitrate in solution.\n\nRuby red light is used during this process to prevent the oxidation of silver ions (Ag+) to metallic silver (Ag). The colored light helps control the reaction environment by minimizing the exposure to other wavelengths of light that could catalyze the conversion of silver ions to silver metal prematurely. This precaution ensures the purity and quality of the silver iodide product.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:12",
+      "char_limit": 2000,
+      "answer_length": 707
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4857,
+  "updated_at": "2025-11-30 13:44:12",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

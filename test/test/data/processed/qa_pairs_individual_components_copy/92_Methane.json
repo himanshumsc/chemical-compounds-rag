@@ -1,0 +1,36 @@
+{
+  "compound_id": 88,
+  "compound_name": "Methane",
+  "source_file": "compound_088_Methane.json",
+  "main_entry_length": 1324,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0494_Methane_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Methane.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methane?",
+      "answer": "The chemical formula of methane is CH4, and its molecular weight is 16.04 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the solubility properties of methane and its density relative to air.",
+      "answer": "Methane is very slightly soluble in water and acetone, but it is soluble in ethyl alcohol, methyl alcohol, and ether. It is a colorless, odorless, tasteless, flammable gas that is less dense than air.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how methane is formed and how it is found in nature.",
+      "answer": "Methane formed millions of years ago from microscopic underwater plants and bacteria. When these organisms died, they sank to the ocean floor and were subjected to heat and pressure from accumulating layers of sand, dirt, and other materials, eventually turning into shale. Some organic components transformed into natural gas, primarily methane, which became trapped in porous rocks and geologic traps. Methane is now primarily found in natural gas reservoirs.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

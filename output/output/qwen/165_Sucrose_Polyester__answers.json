@@ -1,0 +1,27 @@
+{
+  "source_file": "165_Sucrose_Polyester.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sucrose octaoleate. According to the text, this compound has many of the properties of a fat, including its flavor, but it passes through the digestive system without being absorbed or digested. This makes sucrose octaoleate useful for applications where fat-like properties are desired without the nutritional consequences.",
+      "latency_s": 16.72
+    },
+    {
+      "question": "What is the state and solubility of sucrose polyester?",
+      "answer": "Sucrose polyester, also known as polyesters of sucrose, is a type of polymer that is derived from sucrose (table sugar) through esterification reactions with various organic acids. The properties of sucrose polyester can vary depending on the specific acid used in its synthesis.\n\n### State:\n- **Solid**: Sucrose polyester is typically produced as a solid material. It can be in the form of a powder or a granular substance, depending on the method of synthesis and processing.\n\n### Solubility:\n- **Soluble in Organic Solvents**: Sucrose polyester is generally soluble in organic solvents such as dichlorometh",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Why is sucrose polyester considered to provide no calories when consumed?",
+      "answer": "Sucrose polyester, also known as polydextrose, is a type of dietary fiber that is often used in food products and supplements. It is considered to provide no calories because it does not undergo digestion in the human body. Here's why:\n\n1. **Digestion Process**: When you eat food, your body breaks down carbohydrates into simple sugars (like glucose) through a process called digestion. These simple sugars are then absorbed into your bloodstream and used for energy or stored as fat.\n\n2. **Polydextrose Structure**: Sucrose polyester is a complex carbohydrate that is composed of many glucose units linked together. Its structure is such",
+      "latency_s": 10.63
+    },
+    {
+      "question": "Discuss the historical development and intended purpose of sucrose polyester.",
+      "answer": "Sucrose polyester, also known as polyethylene terephthalate (PET), is a synthetic polymer that has been widely used in various applications due to its unique properties such as high tensile strength, chemical resistance, and durability. The development of sucrose polyester can be traced back to the mid-20th century.\n\n### Historical Development\n\n1. **Discovery and Early Research:**\n   - PET was first synthesized by German chemist Hermann Staudinger in 1935. However, it wasn't until the 1940s that significant progress was made in its commercial production.\n   - During World",
+      "latency_s": 10.63
+    }
+  ]
+}

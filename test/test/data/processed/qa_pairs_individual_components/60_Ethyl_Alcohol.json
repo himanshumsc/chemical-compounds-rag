@@ -1,0 +1,38 @@
+{
+  "compound_id": 57,
+  "compound_name": "Ethyl Alcohol",
+  "source_file": "compound_057_Ethyl Alcohol.json",
+  "main_entry_length": 4404,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0348_Ethyl_Alcohol_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:55",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is ethyl alcohol, also known as ethanol. Ethanol is a simple alcohol with the chemical formula C₂H₅OH. Its structure consists of two carbon atoms, six hydrogen atoms, and one oxygen atom.\n\nKey properties of ethanol include:\n\n1. It is a colorless, volatile liquid with a characteristic odor.\n2. Ethanol is highly flammable and is used as a fuel and solvent.\n3. It is miscible with water and many organic solvents.\n4. Ethanol is commonly used in alcoholic beverages and as a disinfectant due to its antiseptic properties.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:27"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethyl alcohol?",
+      "answer": "The chemical formula of ethyl alcohol is CH3CH2OH, and its molecular weight is 46.07 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is ethyl alcohol produced and what are the main methods used?",
+      "answer": "Ethyl alcohol is produced either naturally through fermentation or synthetically from petroleum compounds. Fermentation involves treating waste syrup from sugar production with enzymes, converting about 90% of the syrup to ethyl alcohol. The synthetic method involves reacting ethylene with sulfuric acid and water, or using a more efficient process with ethylene, water, and a phosphoric acid catalyst under high temperature and pressure. As of 2003, about 94% of ethyl alcohol was produced via fermentation.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the industrial uses of ethyl alcohol and its environmental impact as a fuel additive.",
+      "answer": "Ethyl alcohol is primarily used as a fuel or fuel additive, with 92% of its production used in this way as of 2005. When mixed with gasoline to form gasohol (10% ethyl alcohol, 90% gasoline), it burns more completely, reducing harmful byproducts released into the environment. This makes it an environmentally favorable option compared to pure gasoline. Additionally, ethyl alcohol is used industrially as a solvent or intermediary in the preparation of other chemicals.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

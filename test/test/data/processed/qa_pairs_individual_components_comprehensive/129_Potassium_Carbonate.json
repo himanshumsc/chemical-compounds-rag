@@ -1,0 +1,58 @@
+{
+  "compound_id": 125,
+  "compound_name": "Potassium Carbonate",
+  "source_file": "compound_125_Potassium Carbonate.json",
+  "main_entry_length": 4344,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0684_Potassium_Carbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:40",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents potassium carbonate (K₂CO₃). Key properties of potassium carbonate include:\n\n1. Composition: It consists of potassium (turquoise atoms), carbon (black atom), and oxygen (red atoms), with a gray stick indicating a double bond.\n\n2. Uses: It is primarily used in the production of fertilizers, soaps, and heat-resistant glass.\n\n3. Production: Typically made by converting potassium chloride (KCl) to potassium hydroxide (KOH) via electrolysis, then treating with carbon dioxide to form potassium bicarbonate, which is decomposed to yield...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:05"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Carbonate?",
+      "answer": "The chemical formula of Potassium Carbonate is K2CO3, and its molecular weight is 138.21 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:58",
+      "char_limit": 1000,
+      "answer_length": 95
+    },
+    {
+      "question": "Describe the process by which Potassium Carbonate is typically produced in the United States.",
+      "answer": "Potassium carbonate (K2CO3) is primarily produced in the United States starting from potassium chloride (KCl). The process begins with the conversion of potassium chloride to potassium hydroxide (KOH) through electrolysis. Subsequently, potassium hydroxide is treated with carbon dioxide (CO2) to form potassium bicarbonate (KHCO3). This potassium bicarbonate is then decomposed by heating, which results in the production of potassium carbonate along with water and carbon dioxide. An alternative method, the Engel-Precht process, involves treating a mixture of potassium chloride, magnesium carbonate or magnesium oxide, and carbon dioxide under 30 atmospheres of pressure to form a double salt, KHCO3·MgCO3·4H2O, which is then heated to yield potassium carbonate. The traditional method of obtaining potash from wood and vegetable ash is now obsolete.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:00",
+      "char_limit": 1800,
+      "answer_length": 854
+    },
+    {
+      "question": "Explain the role and significance of Potassium Carbonate in agriculture and industry, and discuss any potential hazards.",
+      "answer": "Potassium carbonate (K2CO3), also known as potash, plays a significant role in both agriculture and industry. In agriculture, nearly 90% of the potassium carbonate produced in the United States is utilized in the production of fertilizers. Potash is crucial for plant health and growth as potassium is one of the three primary nutrients required by plants, alongside nitrogen and phosphorus.\n\nIn industry, potassium carbonate is used as a raw material for producing other chemical compounds, with potassium silicate being the most common. It is also employed in the manufacture of soaps and heat-resistant glass. Historically, potassium carbonate was used in soap production and as a leavening agent in baking.\n\nHowever, there are potential hazards associated with potassium carbonate. It is an irritant to the eyes, skin, and respiratory system, and can cause inflammation if contact occurs. This highlights the importance of handling it with care in both agricultural and industrial settings.\n\nOverall, potassium carbonate's significance lies in its extensive application in fertilizers to support plant growth and its versatility in industrial chemical production, while its potential hazards necessitate careful handling.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:08",
+      "char_limit": 2000,
+      "answer_length": 1225
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7022,
+  "updated_at": "2025-11-30 13:41:09",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

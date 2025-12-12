@@ -1,0 +1,58 @@
+{
+  "compound_id": 127,
+  "compound_name": "Potassium Fluoride",
+  "source_file": "compound_127_Potassium Fluoride.json",
+  "main_entry_length": 2037,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0694_Potassium_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:47",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the chemical compound potassium fluoride (KF). In the molecular structure, the silver atom represents potassium, and the yellow atom represents fluorine.\n\n**Key Properties:**\n- **Uses:** It is used as a fluoridating agent in organic chemical preparation and in metallurgy as a flux for metal finishing and coatings.\n- **Hazards:** It is crucial in manufacturing certain chemical weapons, thus export is controlled.\n- **Fun Fact:** In France, it is added to table salt to prevent dental cavities.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:39"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Fluoride?",
+      "answer": "The chemical formula of Potassium Fluoride is KF, and its molecular weight is 58.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:32",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Explain the solubility properties of Potassium Fluoride in different solvents.",
+      "answer": "Potassium fluoride (KF) is soluble in cold water and very soluble in hot water. It is insoluble in ethyl alcohol but soluble in hydrofluoric acid (H2F2).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:36",
+      "char_limit": 1800,
+      "answer_length": 153
+    },
+    {
+      "question": "Describe the process of synthesizing Potassium Fluoride from potassium carbonate and hydrofluoric acid.",
+      "answer": "Potassium fluoride (KF) can be synthesized from potassium carbonate (K2CO3) and hydrofluoric acid (H2F2) through a two-step process. In the first step, potassium carbonate is dissolved in hydrofluoric acid, resulting in the formation of potassium bifluoride (KHF2), carbon dioxide (CO2), and water (H2O) as follows:\n\nK2CO3 + 2H2F2 → 2KHF2 + CO2 + H2O.\n\nIn the second step, the potassium bifluoride (KHF2) is heated to produce potassium fluoride (KF) and hydrogen fluoride (HF):\n\nKHF2 → KF + HF.\n\nThe potassium fluoride formed is then dried and crystallized or converted to powder form.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:39",
+      "char_limit": 2000,
+      "answer_length": 585
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3698,
+  "updated_at": "2025-11-30 13:41:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

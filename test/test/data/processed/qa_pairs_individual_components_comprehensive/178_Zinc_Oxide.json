@@ -1,0 +1,58 @@
+{
+  "compound_id": 174,
+  "compound_name": "Zinc Oxide",
+  "source_file": "compound_174_Zinc Oxide.json",
+  "main_entry_length": 2817,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0936_Zinc_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is zinc oxide (ZnO). Key properties of zinc oxide include:\n\n1. **UV Absorption**: It effectively absorbs ultraviolet (UV) light, making it a common ingredient in sunscreens and sunblocks to protect against sunburn.\n\n2. **Stability in Paints**: Zinc oxide is used in paints and pigments, known as Chinese white or zinc white, due to its ability to maintain luster and purity without reacting with hydrogen sulfide in the air.\n\n3. **Use in Rubber and Plastics**: It protects rubber and plastic products from UV light, preventing decomposition, and aids in...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:29"
+    },
+    {
+      "question": "What is the chemical formula of zinc oxide and what elements does it consist of?",
+      "answer": "The chemical formula of zinc oxide is ZnO. It consists of the elements zinc and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:48",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "How does zinc oxide contribute to the longevity of white paints and pigments compared to other white paint compounds?",
+      "answer": "Zinc oxide contributes to the longevity of white paints and pigments primarily because it does not readily react with hydrogen sulfide in the air, which is a common cause for the darkening of white paints. This stability allows paints and pigments made with zinc oxide, often known as Chinese white or zinc white, to retain their luster and purity longer than most other types of white paints.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:50",
+      "char_limit": 1800,
+      "answer_length": 393
+    },
+    {
+      "question": "Explain the process and chemical reactions involved in the 'wet' method of producing zinc oxide.",
+      "answer": "The 'wet' method of producing zinc oxide involves a process that takes place in an aqueous solution. This method begins with leaching, a process where zinc compounds are dissolved out of ores. The leaching converts the zinc compounds into basic zinc carbonate, which is represented chemically as ZnCO3·2Zn(OH)2. This compound is then decomposed by heating, leading to the formation of pure zinc oxide. The chemical reaction for this decomposition is:\n\nZnCO3·2Zn(OH)2 → 3ZnO + CO2 + 2H2O\n\nIn this reaction, basic zinc carbonate is broken down into zinc oxide (ZnO), carbon dioxide (CO2), and water (H2O). This method provides a means of obtaining zinc oxide from zinc ores through chemical transformation in a liquid medium.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:52:56",
+      "char_limit": 2000,
+      "answer_length": 723
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4499,
+  "updated_at": "2025-11-30 13:52:56",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

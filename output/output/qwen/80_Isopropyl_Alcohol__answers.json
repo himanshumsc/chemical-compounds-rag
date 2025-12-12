@@ -1,0 +1,27 @@
+{
+  "source_file": "80_Isopropyl_Alcohol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Isopropyl Alcohol (2-Propanol). The key properties of Isopropyl Alcohol include:\n\n1. **Chemical Formula**: It has the formula C3H8O.\n2. **Molecular Structure**: It consists of three carbon atoms, eight hydrogen atoms, and one oxygen atom, arranged in a way that forms a secondary alcohol group (-OH) attached to a tertiary carbon atom.\n3. **Solvent Properties**: It dissolves many other organic compounds easily due to its polar nature, making it useful as a solvent for various substances such as gums, essential oils, alkal",
+      "latency_s": 16.46
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of isopropyl alcohol?",
+      "answer": "The chemical formula for isopropyl alcohol, also known as 2-propanol or isopropanol, is \\( \\text{C}_3\\text{H}_7\\text{OH} \\).\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the molecule:\n\n- Carbon (C): Atomic weight ≈ 12.01 g/mol\n- Hydrogen (H): Atomic weight ≈ 1.008 g/mol\n- Oxygen (O): Atomic weight ≈ 16.00 g/mol\n\nNow, calculate the total weight for each type of",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain why isopropyl alcohol is commonly used as a rubbing alcohol in medical settings.",
+      "answer": "Isopropyl alcohol, also known as rubbing alcohol or isopropanol, is widely used in medical settings for several reasons:\n\n1. **Antiseptic Properties**: Isopropyl alcohol has strong antiseptic properties that can help kill many types of bacteria and fungi. This makes it an effective disinfectant when applied to skin or wounds.\n\n2. **Sterilization**: It can be used to sterilize small instruments or surfaces before use, reducing the risk of infection.\n\n3. **Infection Prevention**: In medical settings, isopropyl alcohol is often used to clean hands, equipment, and surfaces to prevent",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the industrial process used to produce isopropyl alcohol and identify the catalyst involved.",
+      "answer": "Isopropyl alcohol, also known as 2-propanol or isopropanol, is produced industrially through a process called hydration of propene (also known as isobutylene). This process involves the addition of water to propene in the presence of a catalyst to form isopropyl alcohol.\n\n### Industrial Process:\n\n1. **Propene Production:**\n   - Propene is typically produced from n-butane or n-pentane by dehydrogenation.\n   - The reaction is:\n     \\[\n     \\text{C}_4\\text{H}_{10} \\rightarrow \\text{",
+      "latency_s": 10.42
+    }
+  ]
+}

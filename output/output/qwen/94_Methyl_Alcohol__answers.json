@@ -1,0 +1,27 @@
+{
+  "source_file": "94_Methyl_Alcohol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows methyl alcohol (also known as methanol). The key properties of methyl alcohol include:\n\n1. **Chemical Formula**: CH₃OH or CH₄O.\n2. **Molecular Structure**: It consists of one carbon atom (black), four hydrogen atoms (white), and one oxygen atom (red).\n3. **Solubility**: It is highly soluble in water.\n4. **Boiling Point**: 65°C.\n5. **Melting Point**: -97.8°C.\n6. **Density**: 0.79 g/cm³.\n7. **",
+      "latency_s": 16.45
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methyl alcohol?",
+      "answer": "The chemical formula for methyl alcohol (also known as methanol) is \\(\\text{CH}_3\\text{OH}\\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the molecule:\n\n- Carbon (\\(\\text{C}\\)): 12.01 g/mol\n- Hydrogen (\\(\\text{H}\\)): 1.01 g/mol\n- Oxygen (\\(\\text{O}\\)): 16.00 g/mol\n\nNow, let's calculate the molecular weight:\n\n\\[\n\\text{Molecular Weight} = (1 \\times 12.",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain how methyl alcohol is commercially produced.",
+      "answer": "Methyl alcohol, also known as methanol or wood alcohol, is primarily produced through two main commercial processes: the synthesis gas route and the direct carbon oxidation process.\n\n1. **Synthesis Gas Route (Gas-to-Liquids):**\n   - This method involves the conversion of carbon monoxide (CO) and hydrogen (H2) into methanol.\n   - The starting materials for this process are typically natural gas, coal, or biomass.\n   - In the first step, the raw material is converted into synthesis gas (syngas), which consists mainly of CO and H2. This conversion can be achieved by either steam reform",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Discuss the environmental concerns associated with the use of methyl alcohol in producing MTBE and the impact on its demand.",
+      "answer": "Methyl tert-butyl ether (MTBE) is a gasoline additive that was widely used to improve the octane rating of gasoline, thereby reducing the need for leaded gasoline. However, due to its environmental concerns, particularly related to groundwater contamination, there has been a significant decline in its demand.\n\n### Environmental Concerns with Methyl Alcohol:\n\n1. **Groundwater Contamination**: MTBE is highly soluble in water and can easily leach into groundwater from leaking underground storage tanks or spills. Once in the groundwater, it can persist for long periods, making it difficult to remove. MTBE has been found to be toxic to aquatic life",
+      "latency_s": 10.37
+    }
+  ]
+}

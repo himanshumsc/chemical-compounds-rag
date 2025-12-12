@@ -1,0 +1,38 @@
+{
+  "compound_id": 31,
+  "compound_name": "Calcium Silicate",
+  "source_file": "compound_031_Calcium Silicate.json",
+  "main_entry_length": 2385,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0212_Calcium_Silicate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of calcium silicate. The key properties of this compound include:\n\n1. **Composition**: It consists of calcium, silicon, and oxygen atoms.\n2. **Preparation**: Typically synthesized from lime (calcium oxide) and diatomaceous earth, which provides silicon dioxide.\n3. **Applications**: Widely used in building materials like Portland cement, bricks, tiles, fireproof ceilings, and building boards.\n4. **Natural Occurrence**: Though found naturally, it is usually synthesized for commercial purity.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:08"
+    },
+    {
+      "question": "What is the chemical formula for calcium silicate and what elements does it contain?",
+      "answer": "The chemical formula for calcium silicate is CaSiO3. It contains the elements calcium (Ca), silicon (Si), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why calcium silicate does not have a boiling point and describe its solubility properties.",
+      "answer": "Calcium silicate does not have a boiling point because it is an inorganic salt that decomposes before it could transition from a liquid to a gas state. In terms of solubility, calcium silicate is insoluble in water and most other common solvents, meaning it does not dissolve easily in these substances.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of synthesizing calcium silicate for commercial applications and state why synthetic preparation might be preferred over extraction from natural sources.",
+      "answer": "Calcium silicate is typically synthesized by adding lime (calcium oxide, CaO) to diatomaceous earth, which provides the required silicon dioxide (SiO2). This process is preferred for commercial applications because it ensures the purity of the calcium silicate, which might not be guaranteed when extracting the compound from natural sources.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

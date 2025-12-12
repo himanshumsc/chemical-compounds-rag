@@ -1,0 +1,27 @@
+{
+  "source_file": "169_Testosterone.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows the chemical compound testosterone. Key properties of testosterone include:\n\n1. **Chemical Composition**: Testosterone is composed of carbon (black atoms), hydrogen (white atoms), and oxygen (red atoms). The diagram also indicates double bonds with gray sticks.\n\n2. **Function**: Testosterone is a steroid hormone that plays a crucial role in male development and function. It influences secondary sexual characteristics, bone and muscle growth, and overall metabolism.\n\n3. **Synthesis**: Testosterone is naturally produced in the male testes and female ovaries. It can also be synthesized synthetically from cholesterol or diosgen",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of testosterone?",
+      "answer": "The chemical formula for testosterone is C19H28O2, which represents its molecular structure.\n\nTo calculate the molecular weight (also known as molar mass), we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nNow, let's calculate the molecular weight:\n\n- There are 19 carbon atoms: \\(",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Explain how testosterone affects the development of male sexual characteristics.",
+      "answer": "Testosterone is a hormone that plays a crucial role in the development and maintenance of male sexual characteristics. It is produced primarily by the testes, but also by the adrenal glands in smaller amounts.\n\nDuring fetal development, testosterone is responsible for the formation of the male reproductive organs, including the penis, scrotum, and prostate gland. It also stimulates the development of the male external genitalia, such as the penis and scrotum.\n\nIn addition to its effects on physical development, testosterone also plays a significant role in the development of secondary sexual characteristics, which include:\n\n1. Body hair: Testosterone stimulates the growth of body hair,",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Describe the synthesis process of testosterone and its applications in medical treatments.",
+      "answer": "Testosterone is a steroid hormone that plays a crucial role in male development and function, including sexual development, sperm production, bone density, muscle mass, and mood regulation. It is synthesized primarily in the testes from cholesterol, but it can also be produced in small amounts by the adrenal glands.\n\n### Synthesis Process\n\n1. **Cholesterol Conversion**: Cholesterol is the starting point for testosterone synthesis. It is converted into pregnenolone through the action of the enzyme 3β-hydroxysteroid dehydrogenase/Δ5-4-isomerase (3β-HSD/Δ5-4-I).\n\n2",
+      "latency_s": 10.43
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 19,
+  "compound_name": "Benzoic Acid",
+  "source_file": "compound_019_Benzoic Acid.json",
+  "main_entry_length": 1270,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0156_Benzoic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:51",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of benzoic acid. Benzoic acid is an aromatic carboxylic acid with the chemical formula C₇H₆O₂. Key properties include:\n\n1. **Structure**: A benzene ring (six carbon atoms) with a carboxyl group (-COOH) attached.\n2. **Physical State**: Solid at room temperature, appearing as white crystalline powder.\n3. **Solubility**: Slightly soluble in water but more soluble in organic solvents.\n4. **Uses**: Commonly used as a food preservative, in the manufacture of various chemicals, and in the production of dyes and plastics.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of benzoic acid?",
+      "answer": "The chemical formula of benzoic acid is C6H5COOH, and its molecular weight is 122.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties and physical state of benzoic acid.",
+      "answer": "Benzoic acid is a solid at room temperature, typically found in the form of white crystalline needles or thin plates. It is slightly soluble in water, but it is soluble in alcohol, ether, and acetone.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how benzoic acid can be produced from natural sources and its occurrence in nature.",
+      "answer": "Benzoic acid occurs naturally in many plants, including most types of berries and the natural product gum benzoin, which can contain up to 20 percent benzoic acid. To produce benzoic acid from natural sources, it can be extracted from gum benzoin and other natural compounds that have high concentrations of benzoic acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

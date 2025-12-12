@@ -1,0 +1,35 @@
+2025-11-22 17:11:16,035 [INFO] ======================================================================
+2025-11-22 17:11:16,035 [INFO] QWEN Answer Regeneration with vLLM Optimization
+2025-11-22 17:11:16,035 [INFO] ======================================================================
+2025-11-22 17:11:16,035 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-22 17:11:16,035 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-22 17:11:16,035 [INFO] Max tokens: 500
+2025-11-22 17:11:16,035 [INFO] vLLM available: True
+2025-11-22 17:11:16,035 [INFO] Test limit: 1
+2025-11-22 17:11:16,035 [INFO] ======================================================================
+2025-11-22 17:11:16,036 [INFO] Initializing model...
+2025-11-22 17:12:08,520 [INFO] Model initialized. Using vLLM for ALL questions: True
+2025-11-22 17:12:08,521 [INFO] TEST MODE: Processing 1 files
+2025-11-22 17:12:08,521 [INFO] Total files to process: 1
+2025-11-22 17:12:08,521 [INFO] 
+Processing batch 1 (1 files)
+2025-11-22 17:12:08,522 [INFO] Processing: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-22 17:12:08,522 [INFO]   Q1: Generating with image using vLLM...
+2025-11-22 17:12:22,583 [INFO]     Q1 done: 13.45s
+2025-11-22 17:12:22,583 [INFO]   Q2-Q4: Generating 3 text-only questions...
+2025-11-22 17:12:32,734 [INFO]     Q2 done: 10.15s
+2025-11-22 17:12:32,734 [INFO]     Q3 done: 10.15s
+2025-11-22 17:12:32,734 [INFO]     Q4 done: 10.15s
+2025-11-22 17:12:32,735 [INFO]   ✓ Updated 100_Nicotine__answers.json
+2025-11-22 17:12:32,735 [INFO] 
+======================================================================
+2025-11-22 17:12:32,735 [INFO] REGENERATION SUMMARY
+2025-11-22 17:12:32,735 [INFO] ======================================================================
+2025-11-22 17:12:32,735 [INFO] Total files: 1
+2025-11-22 17:12:32,736 [INFO] Successful: 1
+2025-11-22 17:12:32,736 [INFO] Failed: 0
+2025-11-22 17:12:32,736 [INFO] Total time: 24.21s (0.40 min)
+2025-11-22 17:12:32,736 [INFO] Average per file: 24.21s
+2025-11-22 17:12:32,736 [INFO] vLLM used: True
+2025-11-22 17:12:32,736 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_regenerated/regeneration_summary.json
+2025-11-22 17:12:32,736 [INFO] ======================================================================

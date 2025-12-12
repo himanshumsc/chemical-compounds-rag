@@ -1,0 +1,59 @@
+{
+  "source_file": "5_Acetic_acid.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Acetic acid (CH3COOH). Key properties: Organic acid, found in vinegar. Produced via chemical synthesis (carbon monoxide + methanol over a catalyst) or fermentation. Used as a raw material in plastics.",
+      "latency_s": 20.02,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of acetic acid and what elements does it contain?",
+      "answer": "The chemical formula for acetic acid is CH3COOH. It contains the elements Carbon, Hydrogen, and Oxygen.",
+      "latency_s": 51.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the role of acetic acid in the production of plastics and name two specific types of plastics that use acetic acid as a raw material.",
+      "answer": "Acetic acid is a significant raw material in the manufacture of plastics. Source 1 states that the largest fraction of the 1.4 million metric tons produced annually in the US is used for this purpose. While the specific types of plastics aren’t explicitly named, Source 3 mentions acrylates as a plastic family that utilizes acetic acid.",
+      "latency_s": 51.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the industrial method developed by Monsanto for producing acetic acid and mention an alternative method that is being researched for environmental benefits.",
+      "answer": "Monsanto developed a common method: synthesis gas (CO & H2) heated over a copper/zinc oxide catalyst to create methanol, then treated with carbon monoxide to form acetic acid. Researchers are exploring methods to produce acetic acid from methane gas (CH4) using a palladium/sulfuric acid catalyst, and oxidizing waste gases, for more environmentally-friendly production.",
+      "latency_s": 51.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:04:57",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:04:57",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

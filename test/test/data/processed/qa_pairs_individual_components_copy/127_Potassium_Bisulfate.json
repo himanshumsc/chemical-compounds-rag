@@ -1,0 +1,36 @@
+{
+  "compound_id": 123,
+  "compound_name": "Potassium Bisulfate",
+  "source_file": "compound_123_Potassium Bisulfate.json",
+  "main_entry_length": 1088,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0676_Potassium_Bisulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:34",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Bisulfate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of Potassium Bisulfate and which elements does it contain?",
+      "answer": "The chemical formula of Potassium Bisulfate is KHSO4. It contains the elements potassium (K), hydrogen (H), sulfur (S), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the process of how Potassium Bisulfate is typically made.",
+      "answer": "Potassium Bisulfate is typically made by heating potassium sulfate (K2SO4) with sulfuric acid. The sulfuric acid provides the hydrogen needed to convert potassium sulfate into the acid salt, Potassium Bisulfate (KHSO4).",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the properties of Potassium Bisulfate that make it suitable as a food additive and any potential hazards associated with its use.",
+      "answer": "Potassium Bisulfate is an odorless white crystalline solid that is soluble in water, which makes it suitable for use as a food additive. However, it is deliquescent, meaning it can absorb moisture from the air and become wet. This property can be both an advantage and a disadvantage, depending on the application. Additionally, its decomposition at its melting point of about 200°C (400°F) needs to be considered when used in processes involving heat. Despite these properties, it is listed by the U.S. Food and Drug Administration as a permissible food additive, suggesting it is generally considered safe for use in food products.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

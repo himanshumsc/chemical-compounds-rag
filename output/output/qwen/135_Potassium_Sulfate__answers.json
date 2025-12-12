@@ -1,0 +1,27 @@
+{
+  "source_file": "135_Potassium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Sulfate (K₂SO₄). Key properties of Potassium Sulfate include:\n\n1. **Composition**: It consists of two potassium ions (K⁺) and one sulfate ion (SO₄²⁻).\n2. **Color**: The red atoms represent oxygen, the yellow atom represents sulfur, and the turquoise atoms represent potassium.\n3. **Formula**: The formula is K₂SO₄.\n4. **Synthesis**: It can be produced synthetically by treating potassium chloride with sulfuric acid: 2KCl + H₂SO₄ → K₂",
+      "latency_s": 16.73
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of potassium sulfate?",
+      "answer": "The chemical formula for potassium sulfate is \\( \\text{K}_2\\text{SO}_4 \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K) has an atomic weight of approximately 39.10 g/mol.\n- Sulfur (S) has an atomic weight of approximately 32.07 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nNow, let's calculate the molecular weight:\n\n- There are 2 potassium atoms: \\( 2 \\times",
+      "latency_s": 10.55
+    },
+    {
+      "question": "Explain the solubility characteristics of potassium sulfate in different solvents.",
+      "answer": "Potassium sulfate, also known as potash sulfate or potassium hydrogen sulfate, has distinct solubility characteristics when dissolved in various solvents. Understanding these characteristics is crucial for applications such as chemical synthesis, purification processes, and industrial uses.\n\n### Solubility in Water\nPotassium sulfate is highly soluble in water. It dissolves readily to form a clear solution. The solubility of potassium sulfate in water at 25°C (77°F) is approximately 100 grams per 100 mL of water. This means that you can dissolve up to 100 grams of potassium sulfate in 10",
+      "latency_s": 10.55
+    },
+    {
+      "question": "Describe the process of producing potassium sulfate from langbeinite and potassium chloride.",
+      "answer": "Producing potassium sulfate (K2SO4) from langbeinite and potassium chloride involves several steps, including chemical reactions and physical processes. Here's a detailed description of the process:\n\n### 1. **Raw Materials**\n   - **Langbeinite**: This is a natural mineral composed primarily of calcium sulfate dihydrate (CaSO4·2H2O), also known as gypsum.\n   - **Potassium Chloride (KCl)**: This is a common salt used in various industries.\n\n### 2. **Preparation of Raw Materials**\n   - **Langbeinite**: The langbeinite is first crushed to a",
+      "latency_s": 10.55
+    }
+  ]
+}

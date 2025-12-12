@@ -1,0 +1,38 @@
+{
+  "compound_id": 73,
+  "compound_name": "Iron(III) Oxide",
+  "source_file": "compound_073_Iron(III) Oxide.json",
+  "main_entry_length": 2750,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0422_Iron(III)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents iron(III) oxide (Fe₂O₃). Key properties of iron(III) oxide include:\n\n- Composition: It consists of iron and oxygen atoms.\n- Appearance: Typically a reddish-brown solid.\n- Uses: Widely used in the manufacture of iron and steel, pigments, and as a catalyst.\n- Production: Commonly synthesized by reacting iron(II) sulfate with sodium hydroxide, followed by oxidation, or by heating iron compounds.\n- Hazards: Generally considered safe but can cause dust-related respiratory issues if inhaled.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(III) oxide?",
+      "answer": "The chemical formula of Iron(III) oxide is Fe2O3, and its molecular weight is 159.69 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the ferromagnetic property of Iron(III) oxide as mentioned in the compound information.",
+      "answer": "Iron(III) oxide is described as ferromagnetic, which means it has the ability to become highly magnetic and retain its magnetism. This property is significant because it indicates that Iron(III) oxide can be magnetized, making it useful in various magnetic applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of how Iron(III) oxide is reduced to iron metal in a blast furnace.",
+      "answer": "In a blast furnace, Iron(III) oxide (Fe2O3) is reduced to iron metal by reacting it with carbon. The process involves a blast of air and heat, which causes the oxygen from the air to react with carbon to create carbon monoxide. The carbon monoxide then reacts with Iron(III) oxide to produce liquid iron metal and carbon dioxide.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "172_Toluene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows toluene. Toluene is a chemical compound with the formula C₆H₅CH₃. Here are some of its key properties:\n\n1. **Structure**: Toluene has a benzene ring (C₆H₆) with one methyl group (CH₃) attached to it.\n2. **Appearance**: It is a colorless liquid with a sweet odor.\n3. **Boiling Point**: The boiling point of toluene is approximately 110°C (230°F).\n4. **Melting Point**: The melting point of",
+      "latency_s": 16.56
+    },
+    {
+      "question": "What is the chemical formula of toluene and what elements does it contain?",
+      "answer": "The chemical formula for toluene is C7H8. Toluene contains two main elements:\n\n1. Carbon (C)\n2. Hydrogen (H)\n\nToluene is an aromatic hydrocarbon, which means it has a ring structure with alternating single and double bonds between carbon atoms. The formula indicates that there are seven carbon atoms and eight hydrogen atoms in one molecule of toluene.",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Describe the process by which toluene is extracted from petroleum.",
+      "answer": "The extraction of toluene from petroleum involves several steps, primarily focusing on distillation and separation techniques. Here's an overview of the process:\n\n### 1. **Petroleum Fractionation:**\n   - **Distillation:** Petroleum fractions are obtained through fractional distillation. This process separates the various hydrocarbons based on their boiling points.\n   - **Cutting Points:** The fraction containing toluene (C7) is isolated. This typically occurs in the range of 80-82°C.\n\n### 2. **Isolation of Toluene:**\n   - **Refluxing:** The fraction containing to",
+      "latency_s": 10.39
+    },
+    {
+      "question": "What are the major industrial applications of toluene and its role in the production of other chemicals?",
+      "answer": "Toluene is a colorless, flammable liquid with a sweet odor. It is widely used as a solvent in various industries due to its low toxicity and high volatility. Here are some major industrial applications of toluene and its role in the production of other chemicals:\n\n### 1. **Solvent Applications**\n   - **Paints and Coatings**: Toluene is used as a solvent in the formulation of paints, coatings, and adhesives.\n   - **Inks and Dyes**: It serves as a solvent for inks and dyes in printing and textile industries.\n   - **Adhesives**: T",
+      "latency_s": 10.39
+    }
+  ]
+}

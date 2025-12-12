@@ -1,0 +1,27 @@
+{
+  "source_file": "47_Citric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows citric acid. Key properties of citric acid include:\n\n1. **Chemical Composition**: Citric acid consists of three carbon atoms, six hydrogen atoms, and four oxygen atoms.\n2. **Molecular Structure**: The red spheres represent oxygen atoms, white spheres represent hydrogen atoms, and black spheres represent carbon atoms.\n3. **Role in Metabolism**: Citric acid plays a crucial role in cellular respiration as part of the citric acid cycle (also known as the Krebs cycle), which converts energy from food molecules into usable energy for the cell.\n4. **Antioxidant",
+      "latency_s": 16.43
+    },
+    {
+      "question": "What is the chemical formula of citric acid and what elements does it consist of?",
+      "answer": "The chemical formula for citric acid is \\( \\text{C}_6\\text{H}_8\\text{O}_7 \\).\n\nCitric acid consists of the following elements:\n- Carbon (C)\n- Hydrogen (H)\n- Oxygen (O)\n\nSpecifically, there are 6 carbon atoms, 8 hydrogen atoms, and 7 oxygen atoms in one molecule of citric acid.",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Explain the solubility properties of citric acid and what this implies about its interactions with different solvents.",
+      "answer": "Citric acid is a weak organic acid with the chemical formula C6H8O7. It is a triprotic acid, meaning it can donate three protons (H+ ions) in aqueous solution. The solubility of citric acid in water is influenced by several factors, including temperature and the presence of other substances.\n\n### Solubility in Water:\n- **At Room Temperature**: Citric acid is highly soluble in water at room temperature. This means that a significant amount of citric acid can dissolve in a given volume of water.\n- **Effect of Temperature**: As the temperature increases, the solubility",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Discuss the role of citric acid in metabolism and its significance in biological systems.",
+      "answer": "Citric acid plays a crucial role in metabolism, particularly in the Krebs cycle (also known as the citric acid cycle or tricarboxylic acid cycle), which is a central metabolic pathway found in nearly all living organisms. This cycle is essential for the breakdown of carbohydrates, fats, and proteins to produce energy in the form of ATP (adenosine triphosphate). Here's an overview of its role and significance:\n\n### Role in Metabolism\n\n1. **Energy Production**: The Krebs cycle is a key step in cellular respiration where it converts pyruvate (a product of glycolysis)",
+      "latency_s": 10.3
+    }
+  ]
+}

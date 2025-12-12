@@ -1,0 +1,36 @@
+{
+  "compound_id": 115,
+  "compound_name": "Polymethyl Methacrylate",
+  "source_file": "compound_115_Polymethyl Methacrylate.json",
+  "main_entry_length": 4436,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0634_Polymethyl_Methacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Polymethyl Methacrylate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What elements make up the compound Polymethyl Methacrylate (PMMA), and what is its chemical formula?",
+      "answer": "Polymethyl Methacrylate (PMMA) is composed of the elements carbon, hydrogen, and oxygen. Its chemical formula is -[-CH2C(CH3)(COOH)CH2-]-n.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Polymethyl Methacrylate (PMMA) is preferred over glass for certain applications.",
+      "answer": "Polymethyl Methacrylate (PMMA) is preferred over glass in certain applications because it is more transparent, less dense, and significantly stronger and shatterproof compared to glass. If PMMA does break, it falls apart into dull-edged pieces, which reduces the risk of injury. These properties make PMMA an ideal material for use in items such as windshields, visors, and contact lenses.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of manufacturing Polymethyl Methacrylate (PMMA) starting from its monomer.",
+      "answer": "The manufacturing of Polymethyl Methacrylate (PMMA) starts with its monomer, methyl methacrylate, which has the chemical formula CH2=C(CH3)COOCH3. Methyl methacrylate is produced by the reaction between acetone cyanohydrin ((CH3)2COHCN) and methanol (CH3OH) in the presence of a sulfuric acid catalyst. Polymerization of methyl methacrylate can be initiated by heat, radiation, or free-radical initiators. During processing, the liquid monomer is passed between two polished stainless steel belts set to the desired thickness. The acrylic is then cured through a process of cooling and heating, and the final product is cut to desired lengths.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

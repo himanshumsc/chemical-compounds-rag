@@ -1,0 +1,58 @@
+{
+  "compound_id": 167,
+  "compound_name": "Thiamine",
+  "source_file": "compound_167_Thiamine.json",
+  "main_entry_length": 1453,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0898_Thiamine_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:33",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is thiamine, also known as vitamin B1. Key properties of thiamine include:\n\n- **Chemical Composition**: It contains oxygen (red), hydrogen (white), carbon (black), nitrogen (blue), and sulfur (yellow).\n\n- **Function**: Thiamine is essential for energy metabolism, as it helps convert nutrients into energy. It plays a crucial role in nerve, muscle, and heart function.\n\n- **Deficiency Effects**: A lack of thiamine can lead to beriberi, characterized by symptoms such as weakness, nerve degeneration, and heart issues. It's also associated with...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:11"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Thiamine?",
+      "answer": "The chemical formula of Thiamine is C12H17ClN4OS, and its molecular weight is 300.82 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:49:54",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Why is thiamine considered a water-soluble vitamin and what are its solubility characteristics?",
+      "answer": "Thiamine is considered a water-soluble vitamin because it is soluble in water, as stated in the provided information. The solubility characteristics of thiamine indicate that it is also partially soluble in ethyl alcohol. This property of being water-soluble is crucial for its role as a vitamin, as it allows thiamine to dissolve in bodily fluids and be readily absorbed and utilized in various biochemical reactions in the body.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:49:57",
+      "char_limit": 1800,
+      "answer_length": 430
+    },
+    {
+      "question": "Explain how thiamine was discovered and its historical significance in relation to the disease beriberi.",
+      "answer": "Thiamine, also known as Vitamin B1, was discovered by Japanese scientist Suzuki Umetaro in the early twentieth century. Umetaro was researching the disease beriberi, which had affected humans for thousands of years. He found that beriberi could be cured by a diet containing rice bran. Through his research, he isolated a specific compound in rice bran that had the therapeutic effect on beriberi, which he initially named aberic acid. This compound was later recognized as thiamine. The historical significance of thiamine is tied to its role in resolving the mystery of beriberi, which was initially thought to be caused by bacteria. Instead, it became clear that dietary factors, specifically the deficiency of thiamine, were responsible for the disease. This discovery highlighted the importance of vitamins in human health and contributed to the broader understanding of nutritional deficiencies and their impact on diseases.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:01",
+      "char_limit": 2000,
+      "answer_length": 930
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3890,
+  "updated_at": "2025-11-30 13:50:02",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

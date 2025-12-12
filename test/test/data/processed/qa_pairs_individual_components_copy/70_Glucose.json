@@ -1,0 +1,36 @@
+{
+  "compound_id": 67,
+  "compound_name": "Glucose",
+  "source_file": "compound_067_Glucose.json",
+  "main_entry_length": 1464,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0394_Glucose_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:35",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Glucose.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glucose?",
+      "answer": "The chemical formula of glucose is C6H12O6. Its molecular weight is 180.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does glucose occur naturally and what are its isomeric forms?",
+      "answer": "Glucose naturally occurs as a colorless to white powder or crystalline substance with a sweet flavor. It exists in two isomeric forms, known as the D configuration and the L configuration. The common name for the D conformation of glucose is dextrose.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the solubility of glucose in various solvents and its implications for biological systems.",
+      "answer": "Glucose is very soluble in water, slightly soluble in alcohol, and insoluble in most organic solvents. This high solubility in water is significant for biological systems because it allows glucose to be easily transported in the bloodstream and utilized by cells for energy production.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

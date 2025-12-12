@@ -1,0 +1,19 @@
+{
+  "total_files": 178,
+  "successful": 178,
+  "failed": 0,
+  "failed_files": [],
+  "total_time_s": 1416.0599689483643,
+  "avg_per_file_s": 7.955393083979574,
+  "vllm_used": true,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "log_file": "/home/himanshu/dev/output/qwen_rag_concise/logs/rag_regeneration_20251123_112340.log"
+}

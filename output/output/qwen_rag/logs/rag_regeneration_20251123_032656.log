@@ -1,0 +1,54 @@
+2025-11-23 03:26:56,302 [INFO] ======================================================================
+2025-11-23 03:26:56,303 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-23 03:26:56,303 [INFO] ======================================================================
+2025-11-23 03:26:56,303 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-23 03:26:56,303 [INFO] Output directory: /home/himanshu/dev/output/qwen_rag
+2025-11-23 03:26:56,303 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-23 03:26:56,303 [INFO] Max tokens: 500
+2025-11-23 03:26:56,303 [INFO] vLLM available: True
+2025-11-23 03:26:56,303 [INFO] ChromaDB available: True
+2025-11-23 03:26:56,303 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-23 03:26:56,303 [INFO] Test limit: 3
+2025-11-23 03:26:56,303 [INFO] ======================================================================
+2025-11-23 03:26:56,303 [INFO] Initializing model...
+2025-11-23 03:27:10,759 [INFO] Model initialized. Using vLLM: False, RAG: True
+2025-11-23 03:27:10,760 [INFO] TEST MODE: Processing 3 files
+2025-11-23 03:27:10,760 [INFO] Total files to process: 3
+2025-11-23 03:27:10,760 [INFO] 
+Processing batch 1 (3 files)
+2025-11-23 03:27:10,760 [INFO] Processing: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-23 03:27:10,761 [INFO]   Q1: Generating with image using vLLM + RAG (image similarity)...
+2025-11-23 03:27:49,299 [INFO]     Q1 done: 37.09s (RAG: True, chunks: 5)
+2025-11-23 03:27:49,299 [INFO]   Q2-Q4: Generating 3 text-only questions with RAG (text search)...
+2025-11-23 03:28:30,656 [INFO]     Q2 done: 41.19s (RAG: True, chunks: 5)
+2025-11-23 03:28:30,656 [INFO]     Q3 done: 41.19s (RAG: True, chunks: 5)
+2025-11-23 03:28:30,656 [INFO]     Q4 done: 41.19s (RAG: True, chunks: 5)
+2025-11-23 03:28:30,656 [INFO]   ✓ Saved 100_Nicotine__answers.json to /home/himanshu/dev/output/qwen_rag
+2025-11-23 03:28:30,657 [INFO] Processing: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-23 03:28:30,657 [INFO]   Q1: Generating with image using vLLM + RAG (image similarity)...
+2025-11-23 03:29:11,468 [INFO]     Q1 done: 39.78s (RAG: True, chunks: 5)
+2025-11-23 03:29:11,468 [INFO]   Q2-Q4: Generating 3 text-only questions with RAG (text search)...
+2025-11-23 03:29:53,666 [INFO]     Q2 done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 03:29:53,667 [INFO]     Q3 done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 03:29:53,667 [INFO]     Q4 done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 03:29:53,667 [INFO]   ✓ Saved 101_Nitric_Acid__answers.json to /home/himanshu/dev/output/qwen_rag
+2025-11-23 03:29:53,668 [INFO] Processing: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-23 03:29:53,668 [INFO]   Q1: Generating with image using vLLM + RAG (image similarity)...
+2025-11-23 03:30:34,443 [INFO]     Q1 done: 39.85s (RAG: True, chunks: 5)
+2025-11-23 03:30:34,443 [INFO]   Q2-Q4: Generating 3 text-only questions with RAG (text search)...
+2025-11-23 03:31:16,628 [INFO]     Q2 done: 42.04s (RAG: True, chunks: 5)
+2025-11-23 03:31:16,628 [INFO]     Q3 done: 42.04s (RAG: True, chunks: 5)
+2025-11-23 03:31:16,628 [INFO]     Q4 done: 42.04s (RAG: True, chunks: 5)
+2025-11-23 03:31:16,629 [INFO]   ✓ Saved 102_Nitric_Oxide__answers.json to /home/himanshu/dev/output/qwen_rag
+2025-11-23 03:31:16,629 [INFO] 
+======================================================================
+2025-11-23 03:31:16,629 [INFO] REGENERATION SUMMARY
+2025-11-23 03:31:16,630 [INFO] ======================================================================
+2025-11-23 03:31:16,630 [INFO] Total files: 3
+2025-11-23 03:31:16,630 [INFO] Successful: 3
+2025-11-23 03:31:16,630 [INFO] Failed: 0
+2025-11-23 03:31:16,630 [INFO] Total time: 245.87s (4.10 min)
+2025-11-23 03:31:16,630 [INFO] Average per file: 81.96s
+2025-11-23 03:31:16,630 [INFO] vLLM used: False
+2025-11-23 03:31:16,630 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_rag/rag_regeneration_summary.json
+2025-11-23 03:31:16,630 [INFO] ======================================================================

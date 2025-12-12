@@ -1,0 +1,27 @@
+{
+  "source_file": "95_Methyl_Mercaptan.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows **methyl mercaptan** (CH₃SH). Here are some of its key properties:\n\n1. **Structure**: Methyl mercaptan consists of one carbon atom (black), three hydrogen atoms (white), and one sulfur atom (yellow).\n2. **Chemical Formula**: It has the formula CH₃SH.\n3. **Properties**:\n   - **Odor**: It has a strong, unpleasant odor, which makes it useful as an odorant for gases like propane or natural gas to detect leaks.\n   - **Solubility**: It is soluble in water.\n   - **",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Methyl Mercaptan?",
+      "answer": "The chemical formula for Methyl Mercaptan is CH₃SH.\n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the molecule:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Sulfur (S): 32.07 g/mol\n\nNow, multiply the atomic weight by the number of atoms of each element:\n- Carbon: \\(1 \\times 12.01 = 12.01\\) g/mol\n- Hydrogen: \\(3 \\times 1",
+      "latency_s": 10.44
+    },
+    {
+      "question": "Explain the primary use of Methyl Mercaptan and why it is important for safety in certain applications.",
+      "answer": "Methyl mercaptan (also known as methanethiol) is an organic compound with the chemical formula CH3SH. It is a colorless, flammable gas with a strong, unpleasant odor that is often described as resembling rotten eggs or garlic. Due to its pungent smell, methyl mercaptan is often used as a marker or tracer gas in various industrial processes.\n\n### Primary Use of Methyl Mercaptan\n\n1. **Tracer Gas**: In industrial settings, methyl mercaptan is used as a tracer gas to detect leaks in pipelines, tanks, and other equipment. Its distinctive odor makes it easy to",
+      "latency_s": 10.44
+    },
+    {
+      "question": "Describe the chemical reaction process used to synthesize Methyl Mercaptan.",
+      "answer": "Methyl mercaptan, also known as methanethiol or methyl thioether, is synthesized through a series of chemical reactions involving sulfur and carbon compounds. The primary method for synthesizing methyl mercaptan involves the reaction between hydrogen sulfide (H₂S) and methanol (CH₃OH). Here's a step-by-step description of the process:\n\n### Step 1: Preparation of Hydrogen Sulfide (H₂S)\nHydrogen sulfide can be produced by reacting sodium sulfide with sulfuric acid:\n\\[ \\text{Na}_2\\text{S} + \\text{H}_",
+      "latency_s": 10.44
+    }
+  ]
+}

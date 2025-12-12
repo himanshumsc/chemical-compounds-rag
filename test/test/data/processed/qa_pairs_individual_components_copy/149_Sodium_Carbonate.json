@@ -1,0 +1,36 @@
+{
+  "compound_id": 145,
+  "compound_name": "Sodium Carbonate",
+  "source_file": "compound_145_Sodium Carbonate.json",
+  "main_entry_length": 1394,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0780_Sodium_Carbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Carbonate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium carbonate?",
+      "answer": "The chemical formula of sodium carbonate is Na2CO3, and its molecular weight is 105.99 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility characteristics of sodium carbonate in different solvents.",
+      "answer": "Sodium carbonate is soluble in water, which means it can dissolve in water to form a solution. However, it is insoluble in ethyl alcohol, indicating that it does not dissolve in this solvent.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the significance of sodium carbonate's hygroscopic nature and its implications for storage.",
+      "answer": "Sodium carbonate is hygroscopic, meaning it tends to absorb moisture from the air. This property affects how the compound should be stored; it needs to be kept in airtight containers to prevent it from absorbing moisture, which could alter its physical state and potentially its reactivity.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

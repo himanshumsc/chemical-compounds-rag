@@ -1,0 +1,27 @@
+{
+  "source_file": "170_Theobromine.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows the compound **theobromine**. Theobromine is a naturally occurring alkaloid found in cocoa beans.\n\n### Key Properties of Theobromine:\n1. **Chemical Composition**: \n   - Oxygen (O) atoms are represented by red spheres.\n   - Hydrogen (H) atoms are represented by white spheres.\n   - Carbon (C) atoms are represented by black spheres.\n   - Nitrogen (N) atoms are represented by blue spheres.\n   - Gray sticks indicate double bonds.\n\n2. **Occurrence**:\n   - Theobromine is primarily found in",
+      "latency_s": 16.54
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of theobromine?",
+      "answer": "Theobromine is a naturally occurring alkaloid found in cocoa beans, chocolate, and some other plants. Its chemical formula is C7H8N2O.\n\nTo calculate its molecular weight, we sum the atomic weights of each element present:\n\n- Carbon (C): 12.01 g/mol × 7 = 84.07 g/mol\n- Hydrogen (H): 1.008 g/mol × 8 = 8.064 g/mol\n- Nitrogen (N): 14.01 g/mol × 2 = 28.02 g",
+      "latency_s": 10.5
+    },
+    {
+      "question": "How does theobromine affect the body differently than caffeine?",
+      "answer": "Theobromine and caffeine are both stimulants, but they have different effects on the body due to their chemical structures and how they interact with the body's systems.\n\n### Caffeine:\n- **Chemical Structure**: Caffeine is a methylxanthine, which means it has a nitrogen atom in its structure.\n- **Effects**:\n  - **Central Nervous System**: Caffeine primarily affects the brain by blocking adenosine receptors, which are responsible for drowsiness and fatigue. This leads to increased alertness and reduced feelings of tiredness.\n  - **Cardiovascular System**: It can",
+      "latency_s": 10.5
+    },
+    {
+      "question": "Explain the process by which theobromine is typically extracted from cocoa bean hulls.",
+      "answer": "Theobromine, also known as caffeine, is not typically extracted from cocoa bean hulls. Instead, it is found in the cocoa pod, which is the outer covering of the cocoa bean. Theobromine is a bitter-tasting alkaloid that is present in varying amounts depending on the variety of cocoa and the processing methods used.\n\nHere's a general overview of how theobromine might be extracted from cocoa beans:\n\n1. Harvesting: Cocoa pods are harvested when they are ripe, usually by hand or with simple tools.\n\n2. Fermentation: The cocoa pods are fermented for several days to break down the sugars and",
+      "latency_s": 10.5
+    }
+  ]
+}

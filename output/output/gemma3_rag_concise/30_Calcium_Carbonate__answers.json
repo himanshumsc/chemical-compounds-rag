@@ -1,0 +1,59 @@
+{
+  "source_file": "30_Calcium_Carbonate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Calcium carbonate (CaCO₃). It's an inorganic compound used as an antacid and in agriculture to maintain soil acidity. The diagram shows a double bond and a calcium chloride (CaCl₂) reaction with sodium carbonate (Na₂CO₃).",
+      "latency_s": 20.67,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of calcium carbonate?",
+      "answer": "I'm sorry, but the provided text does not contain information about calcium carbonate. Therefore, I cannot answer your question.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the solubility characteristics of calcium carbonate and how they affect its use in different environments.",
+      "answer": "The provided text doesn't explicitly detail calcium carbonate's solubility. However, it explains that solubility is crucial as most chemical reactions require reactants to be dissolved. It states water is the common solvent for inorganic compounds. Acetone, alcohol, ether, and benzene are solvents for organic compounds.\n\n\n\nTherefore, calcium carbonate's solubility (or lack thereof) in various solvents and water would dictate its behavior and usefulness in different environments. More detailed information requires consulting other resources.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the process by which calcium carbonate can be synthesized in the laboratory and how its physical form might vary depending on its crystal structure.",
+      "answer": "The provided text does not contain information about the synthesis of calcium carbonate or its crystal structure variations. It defines various chemical terms and provides details about specific compounds like acetic acid, acetylene, and acetaminophen, but lacks details relevant to the user's question.",
+      "latency_s": 60.26,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:57:02",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:57:02",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

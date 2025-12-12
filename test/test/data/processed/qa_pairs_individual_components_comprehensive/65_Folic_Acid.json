@@ -1,0 +1,58 @@
+{
+  "compound_id": 62,
+  "compound_name": "Folic Acid",
+  "source_file": "compound_062_Folic Acid.json",
+  "main_entry_length": 1556,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0372_Folic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is folic acid. Key properties of folic acid include:\n\n- **Chemical Composition**: It consists of carbon (black), hydrogen (white), oxygen (red), and nitrogen (blue) atoms.\n- **Function**: Folic acid is a B vitamin essential for DNA synthesis, repair, and methylation, as well as red blood cell formation.\n- **Health Benefits**: It prevents anemia and is crucial during pregnancy for preventing neural tube defects in developing embryos.\n- **Sources**: Found in leafy greens, legumes, and fortified foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:39"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of folic acid?",
+      "answer": "The chemical formula of folic acid is C19H19N7O6, and its molecular weight is 441.40 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:25",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Why is folic acid considered essential for the production of proteins and nucleic acids?",
+      "answer": "Folic acid is considered essential for the production of proteins and nucleic acids because it is a member of the B vitamin group, which plays a crucial role in these biological processes. The context specifies that folic acid is vital for the production of proteins and nucleic acids, highlighting its importance in cellular functions and overall metabolism.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:27",
+      "char_limit": 1800,
+      "answer_length": 359
+    },
+    {
+      "question": "Explain the solubility characteristics of folic acid and their implications for its use in medical applications.",
+      "answer": "Folic acid, also known as vitamin B9, is an organic acid with the chemical formula C19H19N7O6. According to the provided information, folic acid is very slightly soluble in water and methyl alcohol, and insoluble in ethyl alcohol and acetone. This solubility characteristic has implications for its use in medical applications, particularly in the formulation of supplements and medications.\n\nThe very slight solubility in water suggests that folic acid may not readily dissolve in aqueous solutions, which could affect its absorption and bioavailability when ingested orally. This necessitates careful formulation in dietary supplements to ensure sufficient absorption by the body. The solubility in methyl alcohol but insolubility in ethyl alcohol and acetone also indicates that folic acid may require specific solvents for certain pharmaceutical applications or laboratory settings.\n\nOverall, the solubility characteristics of folic acid need to be considered in the design and development of folic acid supplements and treatments to ensure they are effective in delivering the necessary levels of the vitamin to the body.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:32",
+      "char_limit": 2000,
+      "answer_length": 1126
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3302,
+  "updated_at": "2025-11-30 14:03:32",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

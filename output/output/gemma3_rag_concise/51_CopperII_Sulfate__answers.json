@@ -1,0 +1,59 @@
+{
+  "source_file": "51_CopperII_Sulfate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Copper(II) sulfate. Key properties: Dissolves readily in water, used in agriculture (soil additive, fungicide), and as a mordant. Formula: CuSO₄. It's a blue crystalline solid.",
+      "latency_s": 23.05,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Sulfate?",
+      "answer": "According to the provided data, Copper(II) Sulfate has a molecular weight of 251.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the color transition of Copper(II) Sulfate when it changes from its anhydrous to hydrated form and explain the significance of this property.",
+      "answer": "Copper(II) sulfate (CuSO₄) transitions from a white, anhydrous form to a blue, hydrated form (CuSO₄·5H₂O) upon absorption of water. This color change is significant as it visually indicates the presence of water and the formation of the hydrate. It's a reversible process demonstrating the interaction between the compound and water molecules.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how Copper(II) Sulfate is produced and discuss its potential environmental hazards.",
+      "answer": "Copper(II) Sulfate (CuSO₄) isn't explicitly detailed regarding production in the provided texts. However, its presence in the index (Source 4) suggests it's a listed compound.\n\nEnvironmental hazards aren't directly mentioned. The text focuses on uses and potential human health effects of various compounds, not ecological impacts. Further research beyond this dataset would be needed to address environmental concerns.",
+      "latency_s": 55.12,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:02:16",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:02:16",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

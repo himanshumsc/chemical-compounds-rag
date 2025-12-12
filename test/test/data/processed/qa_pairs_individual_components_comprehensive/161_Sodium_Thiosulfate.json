@@ -1,0 +1,58 @@
+{
+  "compound_id": 157,
+  "compound_name": "Sodium Thiosulfate",
+  "source_file": "compound_157_Sodium Thiosulfate.json",
+  "main_entry_length": 2560,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0846_Sodium_Thiosulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:53",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the molecular structure diagram is sodium thiosulfate. Its key properties include:\n\n1. **Composition**: It consists of sodium (Na), sulfur (S), and oxygen (O) atoms. The sulfur atoms are yellow, oxygen atoms are red, and sodium atoms are turquoise in the diagram.\n\n2. **Uses**: Sodium thiosulfate is commonly used as an antichlor in the bleaching process, a photographic fixing agent, and in various industrial applications. It also serves as a food additive for maintaining acidity and sequestering.\n\n3. **Production**: It can be synthesized by adding powdered sulfur...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:09"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Thiosulfate?",
+      "answer": "The chemical formula of Sodium Thiosulfate is Na2S2O3. Its molecular weight is 158.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:27",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Explain the role of Sodium Thiosulfate as an antichlor in industrial applications.",
+      "answer": "Sodium thiosulfate (Na2S2O3) acts as an antichlor in industrial applications by reacting with and neutralizing excess chlorine used in processes such as the production of pulp and paper and in the textile industry. After materials like pulp, paper, or textiles have been bleached with chlorine, sodium thiosulfate is added to remove any remaining chlorine. This step is crucial to prevent any unwanted reactions or damage that residual chlorine might cause. Once the sodium thiosulfate has neutralized the chlorine, it is removed by washing with water. This process ensures the safety and quality of the final product by eliminating excess chlorine, which can be detrimental if left in the material. Sodium thiosulfate is a colorless to white crystalline solid or powder that is soluble in water, making it effective and easy to use in industrial applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:32",
+      "char_limit": 1800,
+      "answer_length": 860
+    },
+    {
+      "question": "Describe the chemical reaction involved in the direct production of Sodium Thiosulfate from sodium sulfite.",
+      "answer": "The direct production of Sodium Thiosulfate (Na2S2O3) involves the reaction of sodium sulfite (Na2SO3) with powdered sulfur. The process requires heating the reactants to facilitate the reaction, which can be represented by the chemical equation:\n\nNa2SO3 + S → Na2S2O3\n\nThis method is one of the ways to produce Sodium Thiosulfate, and it highlights the transformation of sodium sulfite into the desired compound by incorporating elemental sulfur.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:35",
+      "char_limit": 2000,
+      "answer_length": 447
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4412,
+  "updated_at": "2025-11-30 13:47:35",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

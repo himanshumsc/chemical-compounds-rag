@@ -1,0 +1,38 @@
+{
+  "compound_id": 6,
+  "compound_name": "Aluminum Hydroxide",
+  "source_file": "compound_006_Aluminum Hydroxide.json",
+  "main_entry_length": 2534,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0096_Aluminum_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:00",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is aluminum hydroxide. In the molecular structure, red atoms represent oxygen, white atoms represent hydrogen, and the turquoise atom represents aluminum.\n\nKey properties of aluminum hydroxide include:\n\n- It acts as a base and is commonly used as an antacid to neutralize stomach acid, alleviating symptoms like heartburn and indigestion.\n- It is used to treat peptic ulcers.\n- Industrially, it's a raw material for aluminum compounds and an additive in cosmetics, paper, plastics, and rubber to enhance bulk.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:16"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of aluminum hydroxide?",
+      "answer": "The chemical formula of aluminum hydroxide is Al(OH)3, and its molecular weight is 78.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how aluminum hydroxide is used in medical applications and describe its effectiveness.",
+      "answer": "Aluminum hydroxide is used in medical applications as an antacid. It is effective because it is a base that reacts with stomach acid, specifically hydrochloric acid (HCl), to alleviate symptoms such as heartburn, upset stomach, acid indigestion, and gastritis. It is also used for long-term treatment of peptic ulcers, which are open sores in the stomach lining or the first part of the small intestine.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the industrial production process of aluminum hydroxide from bauxite, including the role of sodium hydroxide.",
+      "answer": "Aluminum hydroxide is industrially produced by treating bauxite with a hot, concentrated solution of sodium hydroxide (NaOH). As the solution cools, aluminum hydroxide precipitates out as a gelatinous (jelly-like) precipitate. This precipitate can be dried to form a white powder. Additionally, aluminum hydroxide can be precipitated by passing carbon dioxide gas through the solution. This production process is crucial for extracting aluminum hydroxide from bauxite, an important raw material.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

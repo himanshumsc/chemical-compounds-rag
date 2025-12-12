@@ -1,0 +1,58 @@
+{
+  "compound_id": 56,
+  "compound_name": "Ethyl Acetate",
+  "source_file": "compound_056_Ethyl Acetate.json",
+  "main_entry_length": 1150,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0344_Ethyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:51",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is ethyl acetate. Its molecular structure consists of carbon (black atoms), hydrogen (white atoms), and oxygen (red atoms) with gray sticks indicating double bonds. Ethyl acetate is a colorless liquid with a sweet, fruity odor, commonly used as a solvent in varnishes, lacquers, and coatings. It is also a byproduct of the fermentation of grapes in wine production, contributing to the fruity taste and aroma.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethyl Acetate?",
+      "answer": "The chemical formula of Ethyl Acetate is CH3COOC2H5, and its molecular weight is 88.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:29",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Explain the solubility properties of Ethyl Acetate and its implications for industrial use.",
+      "answer": "Ethyl acetate is slightly soluble in water but is miscible with alcohol, ether, and benzene. This means that while it does not dissolve well in water, it can mix completely with these organic solvents. These solubility properties make ethyl acetate an effective solvent in various industrial applications. Approximately 65 percent of ethyl acetate produced is used as a solvent in lacquers, varnishes, shellacs, inks, and coatings for airplanes and other types of coatings. Its ability to dissolve in a wide range of organic solvents enhances its utility in these applications, allowing for effective formulation and application processes in industries that require organic solvent systems. However, its limited solubility in water restricts its use in aqueous systems.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:35",
+      "char_limit": 1800,
+      "answer_length": 769
+    },
+    {
+      "question": "Describe the synthetic production process of Ethyl Acetate and its natural occurrence.",
+      "answer": "Ethyl acetate is a clear, colorless, volatile, flammable liquid with a pleasant fruity odor. It occurs naturally in fruits, yeasts, and sugar cane, contributing to their pleasant odor and taste. Synthetically, ethyl acetate is produced by reacting acetic acid (CH3COOH) with ethanol (ethyl alcohol, CH3CH2OH) in the presence of a sulfuric acid catalyst. This reaction forms the ester ethyl acetate, which is used extensively as a solvent in lacquers, varnishes, shellacs, inks, and coatings.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:37",
+      "char_limit": 2000,
+      "answer_length": 491
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3222,
+  "updated_at": "2025-11-30 14:01:37",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

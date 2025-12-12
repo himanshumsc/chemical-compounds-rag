@@ -1,0 +1,58 @@
+{
+  "compound_id": 48,
+  "compound_name": "Copper(II) Sulfate",
+  "source_file": "compound_048_Copper(II) Sulfate.json",
+  "main_entry_length": 2725,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0302_Copper(II)_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents Copper(II) sulfate. Key properties of Copper(II) sulfate include:\n\n- It is a blue crystalline solid that readily dissolves in water.\n- It is commonly used in agriculture as a soil additive, fumigant, and feed additive to prevent mineral deficiencies.\n- It acts as a fungicide, herbicide, and germicide.\n- Copper(II) sulfate is toxic and can have harmful effects on plants, animals, and humans, necessitating careful handling and application.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Sulfate?",
+      "answer": "The chemical formula of Copper(II) Sulfate is CuSO4. Its molecular weight is 159.61 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:14",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Describe the color transition of Copper(II) Sulfate when it changes from its anhydrous to hydrated form and explain the significance of this property.",
+      "answer": "Copper(II) sulfate exhibits a color transition from white to blue as it changes from its anhydrous to hydrated form. The anhydrous state of Copper(II) sulfate is a white crystalline powder, whereas the hydrated form, specifically the pentahydrate (CuSO4·5H2O), appears as a blue granular crystalline solid. This color change is significant because it is utilized in devices and toys to indicate the presence or absence of moisture in the air. The transition from white to blue signifies the absorption of water, while the reverse transition indicates the loss of water. This property is particularly useful in applications where moisture detection is essential.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:16",
+      "char_limit": 1800,
+      "answer_length": 661
+    },
+    {
+      "question": "Explain how Copper(II) Sulfate is produced and discuss its potential environmental hazards.",
+      "answer": "Copper(II) sulfate is produced by treating copper metal or copper oxides (CuO or Cu2O) with sulfuric acid (H2SO4). It also occurs naturally as the mineral chalcanthite; however, this mineral is rare because copper(II) sulfate readily dissolves in water and can leach out of rocks.\n\nRegarding environmental hazards, copper(II) sulfate is highly toxic and is used for its toxic properties to prevent mold, mildew, and algae growth, sanitize surfaces, and act as an herbicide and germicide. However, its use poses potential risks to the environment, as it can have toxic effects on plants, animals, and humans. Therefore, while effective, it is not always the first choice for these applications due to its potential environmental impact.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:19",
+      "char_limit": 2000,
+      "answer_length": 735
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4007,
+  "updated_at": "2025-11-30 14:00:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

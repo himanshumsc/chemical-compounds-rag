@@ -1,0 +1,268 @@
+2025-10-07 22:32:31,866 [INFO] [MainThread] Batch start idx=0 size=2
+2025-10-07 22:32:32,963 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:33:04,588 [INFO] [MainThread] Batch generate done
+2025-10-07 22:33:04,589 [INFO] [MainThread] Batch start idx=2 size=2
+2025-10-07 22:33:05,329 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:33:33,963 [INFO] [MainThread] Batch generate done
+2025-10-07 22:33:33,963 [INFO] [MainThread] Batch start idx=4 size=2
+2025-10-07 22:33:34,932 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:34:02,322 [INFO] [MainThread] Batch generate done
+2025-10-07 22:34:02,322 [INFO] [MainThread] Batch start idx=6 size=2
+2025-10-07 22:34:03,268 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:34:30,868 [INFO] [MainThread] Batch generate done
+2025-10-07 22:34:30,869 [INFO] [MainThread] Batch start idx=8 size=2
+2025-10-07 22:34:31,519 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:34:59,033 [INFO] [MainThread] Batch generate done
+2025-10-07 22:34:59,033 [INFO] [MainThread] Batch start idx=10 size=2
+2025-10-07 22:34:59,884 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:35:27,452 [INFO] [MainThread] Batch generate done
+2025-10-07 22:35:27,452 [INFO] [MainThread] Batch start idx=12 size=2
+2025-10-07 22:35:28,098 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:35:55,879 [INFO] [MainThread] Batch generate done
+2025-10-07 22:35:55,879 [INFO] [MainThread] Batch start idx=14 size=2
+2025-10-07 22:35:56,698 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:36:24,498 [INFO] [MainThread] Batch generate done
+2025-10-07 22:36:24,498 [INFO] [MainThread] Batch start idx=16 size=2
+2025-10-07 22:36:25,370 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:36:53,248 [INFO] [MainThread] Batch generate done
+2025-10-07 22:36:53,248 [INFO] [MainThread] Batch start idx=18 size=2
+2025-10-07 22:36:54,012 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:37:21,817 [INFO] [MainThread] Batch generate done
+2025-10-07 22:37:21,817 [INFO] [MainThread] Batch start idx=20 size=2
+2025-10-07 22:37:22,690 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:37:53,261 [INFO] [MainThread] Batch generate done
+2025-10-07 22:37:53,261 [INFO] [MainThread] Batch start idx=22 size=2
+2025-10-07 22:37:54,340 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:38:23,307 [INFO] [MainThread] Batch generate done
+2025-10-07 22:38:23,307 [INFO] [MainThread] Batch start idx=24 size=2
+2025-10-07 22:38:24,289 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:38:52,208 [INFO] [MainThread] Batch generate done
+2025-10-07 22:38:52,209 [INFO] [MainThread] Batch start idx=26 size=2
+2025-10-07 22:38:53,009 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:39:22,147 [INFO] [MainThread] Batch generate done
+2025-10-07 22:39:22,148 [INFO] [MainThread] Batch start idx=28 size=2
+2025-10-07 22:39:23,855 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:39:51,963 [INFO] [MainThread] Batch generate done
+2025-10-07 22:39:51,963 [INFO] [MainThread] Batch start idx=30 size=2
+2025-10-07 22:39:52,741 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:40:20,382 [INFO] [MainThread] Batch generate done
+2025-10-07 22:40:20,382 [INFO] [MainThread] Batch start idx=32 size=2
+2025-10-07 22:40:21,168 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:40:48,862 [INFO] [MainThread] Batch generate done
+2025-10-07 22:40:48,862 [INFO] [MainThread] Batch start idx=34 size=2
+2025-10-07 22:40:49,598 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:41:17,212 [INFO] [MainThread] Batch generate done
+2025-10-07 22:41:17,212 [INFO] [MainThread] Batch start idx=36 size=2
+2025-10-07 22:41:17,890 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:41:45,821 [INFO] [MainThread] Batch generate done
+2025-10-07 22:41:45,821 [INFO] [MainThread] Batch start idx=38 size=2
+2025-10-07 22:41:46,725 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:42:14,380 [INFO] [MainThread] Batch generate done
+2025-10-07 22:42:14,380 [INFO] [MainThread] Batch start idx=40 size=2
+2025-10-07 22:42:15,554 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:42:43,165 [INFO] [MainThread] Batch generate done
+2025-10-07 22:42:43,165 [INFO] [MainThread] Batch start idx=42 size=2
+2025-10-07 22:42:44,177 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:43:12,121 [INFO] [MainThread] Batch generate done
+2025-10-07 22:43:12,121 [INFO] [MainThread] Batch start idx=44 size=2
+2025-10-07 22:43:13,377 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:43:40,965 [INFO] [MainThread] Batch generate done
+2025-10-07 22:43:40,965 [INFO] [MainThread] Batch start idx=46 size=2
+2025-10-07 22:43:42,088 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:44:09,810 [INFO] [MainThread] Batch generate done
+2025-10-07 22:44:09,811 [INFO] [MainThread] Batch start idx=48 size=2
+2025-10-07 22:44:10,704 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:44:38,501 [INFO] [MainThread] Batch generate done
+2025-10-07 22:44:38,501 [INFO] [MainThread] Batch start idx=50 size=2
+2025-10-07 22:44:39,311 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:45:07,123 [INFO] [MainThread] Batch generate done
+2025-10-07 22:45:07,123 [INFO] [MainThread] Batch start idx=52 size=2
+2025-10-07 22:45:07,907 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:45:35,663 [INFO] [MainThread] Batch generate done
+2025-10-07 22:45:35,663 [INFO] [MainThread] Batch start idx=54 size=2
+2025-10-07 22:45:36,416 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:46:04,105 [INFO] [MainThread] Batch generate done
+2025-10-07 22:46:04,105 [INFO] [MainThread] Batch start idx=56 size=2
+2025-10-07 22:46:04,966 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:46:32,700 [INFO] [MainThread] Batch generate done
+2025-10-07 22:46:32,700 [INFO] [MainThread] Batch start idx=58 size=2
+2025-10-07 22:46:33,373 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:47:01,243 [INFO] [MainThread] Batch generate done
+2025-10-07 22:47:01,243 [INFO] [MainThread] Batch start idx=60 size=2
+2025-10-07 22:47:01,926 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:47:29,655 [INFO] [MainThread] Batch generate done
+2025-10-07 22:47:29,655 [INFO] [MainThread] Batch start idx=62 size=2
+2025-10-07 22:47:30,438 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:47:58,126 [INFO] [MainThread] Batch generate done
+2025-10-07 22:47:58,126 [INFO] [MainThread] Batch start idx=64 size=2
+2025-10-07 22:47:58,848 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:48:26,736 [INFO] [MainThread] Batch generate done
+2025-10-07 22:48:26,736 [INFO] [MainThread] Batch start idx=66 size=2
+2025-10-07 22:48:27,712 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:48:55,243 [INFO] [MainThread] Batch generate done
+2025-10-07 22:48:55,243 [INFO] [MainThread] Batch start idx=68 size=2
+2025-10-07 22:48:56,117 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:49:23,754 [INFO] [MainThread] Batch generate done
+2025-10-07 22:49:23,754 [INFO] [MainThread] Batch start idx=70 size=2
+2025-10-07 22:49:24,940 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:49:52,695 [INFO] [MainThread] Batch generate done
+2025-10-07 22:49:52,695 [INFO] [MainThread] Batch start idx=72 size=2
+2025-10-07 22:49:53,448 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:50:21,424 [INFO] [MainThread] Batch generate done
+2025-10-07 22:50:21,424 [INFO] [MainThread] Batch start idx=74 size=2
+2025-10-07 22:50:22,722 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:50:50,383 [INFO] [MainThread] Batch generate done
+2025-10-07 22:50:50,383 [INFO] [MainThread] Batch start idx=76 size=2
+2025-10-07 22:50:51,331 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:51:18,762 [INFO] [MainThread] Batch generate done
+2025-10-07 22:51:18,762 [INFO] [MainThread] Batch start idx=78 size=2
+2025-10-07 22:51:19,825 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:51:47,304 [INFO] [MainThread] Batch generate done
+2025-10-07 22:51:47,304 [INFO] [MainThread] Batch start idx=80 size=2
+2025-10-07 22:51:48,262 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:52:15,751 [INFO] [MainThread] Batch generate done
+2025-10-07 22:52:15,751 [INFO] [MainThread] Batch start idx=82 size=2
+2025-10-07 22:52:16,593 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:52:43,831 [INFO] [MainThread] Batch generate done
+2025-10-07 22:52:43,831 [INFO] [MainThread] Batch start idx=84 size=2
+2025-10-07 22:52:44,592 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:53:11,880 [INFO] [MainThread] Batch generate done
+2025-10-07 22:53:11,880 [INFO] [MainThread] Batch start idx=86 size=2
+2025-10-07 22:53:12,983 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:53:40,424 [INFO] [MainThread] Batch generate done
+2025-10-07 22:53:40,424 [INFO] [MainThread] Batch start idx=88 size=2
+2025-10-07 22:53:41,368 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:54:08,616 [INFO] [MainThread] Batch generate done
+2025-10-07 22:54:08,616 [INFO] [MainThread] Batch start idx=90 size=2
+2025-10-07 22:54:09,780 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:54:36,927 [INFO] [MainThread] Batch generate done
+2025-10-07 22:54:36,927 [INFO] [MainThread] Batch start idx=92 size=2
+2025-10-07 22:54:38,132 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:55:05,528 [INFO] [MainThread] Batch generate done
+2025-10-07 22:55:05,529 [INFO] [MainThread] Batch start idx=94 size=2
+2025-10-07 22:55:06,452 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:55:33,833 [INFO] [MainThread] Batch generate done
+2025-10-07 22:55:33,833 [INFO] [MainThread] Batch start idx=96 size=2
+2025-10-07 22:55:34,867 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:56:02,013 [INFO] [MainThread] Batch generate done
+2025-10-07 22:56:02,014 [INFO] [MainThread] Batch start idx=98 size=2
+2025-10-07 22:56:03,005 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:56:30,324 [INFO] [MainThread] Batch generate done
+2025-10-07 22:56:30,324 [INFO] [MainThread] Batch start idx=100 size=2
+2025-10-07 22:56:31,283 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:56:58,981 [INFO] [MainThread] Batch generate done
+2025-10-07 22:56:58,981 [INFO] [MainThread] Batch start idx=102 size=2
+2025-10-07 22:56:59,688 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:57:27,051 [INFO] [MainThread] Batch generate done
+2025-10-07 22:57:27,052 [INFO] [MainThread] Batch start idx=104 size=2
+2025-10-07 22:57:27,789 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:57:55,162 [INFO] [MainThread] Batch generate done
+2025-10-07 22:57:55,163 [INFO] [MainThread] Batch start idx=106 size=2
+2025-10-07 22:57:56,279 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:58:23,771 [INFO] [MainThread] Batch generate done
+2025-10-07 22:58:23,771 [INFO] [MainThread] Batch start idx=108 size=2
+2025-10-07 22:58:24,524 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:58:52,046 [INFO] [MainThread] Batch generate done
+2025-10-07 22:58:52,047 [INFO] [MainThread] Batch start idx=110 size=2
+2025-10-07 22:58:52,982 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:59:20,330 [INFO] [MainThread] Batch generate done
+2025-10-07 22:59:20,331 [INFO] [MainThread] Batch start idx=112 size=2
+2025-10-07 22:59:21,331 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 22:59:48,665 [INFO] [MainThread] Batch generate done
+2025-10-07 22:59:48,665 [INFO] [MainThread] Batch start idx=114 size=2
+2025-10-07 22:59:49,445 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:00:16,746 [INFO] [MainThread] Batch generate done
+2025-10-07 23:00:16,746 [INFO] [MainThread] Batch start idx=116 size=2
+2025-10-07 23:00:17,806 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:00:45,434 [INFO] [MainThread] Batch generate done
+2025-10-07 23:00:45,434 [INFO] [MainThread] Batch start idx=118 size=2
+2025-10-07 23:00:46,565 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:01:13,773 [INFO] [MainThread] Batch generate done
+2025-10-07 23:01:13,773 [INFO] [MainThread] Batch start idx=120 size=2
+2025-10-07 23:01:14,403 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:01:41,758 [INFO] [MainThread] Batch generate done
+2025-10-07 23:01:41,758 [INFO] [MainThread] Batch start idx=122 size=2
+2025-10-07 23:01:42,692 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:02:09,956 [INFO] [MainThread] Batch generate done
+2025-10-07 23:02:09,956 [INFO] [MainThread] Batch start idx=124 size=2
+2025-10-07 23:02:10,908 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:02:38,130 [INFO] [MainThread] Batch generate done
+2025-10-07 23:02:38,130 [INFO] [MainThread] Batch start idx=126 size=2
+2025-10-07 23:02:39,317 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:03:06,615 [INFO] [MainThread] Batch generate done
+2025-10-07 23:03:06,615 [INFO] [MainThread] Batch start idx=128 size=2
+2025-10-07 23:03:07,513 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:03:34,726 [INFO] [MainThread] Batch generate done
+2025-10-07 23:03:34,726 [INFO] [MainThread] Batch start idx=130 size=2
+2025-10-07 23:03:35,683 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:04:03,202 [INFO] [MainThread] Batch generate done
+2025-10-07 23:04:03,203 [INFO] [MainThread] Batch start idx=132 size=2
+2025-10-07 23:04:04,146 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:04:31,426 [INFO] [MainThread] Batch generate done
+2025-10-07 23:04:31,426 [INFO] [MainThread] Batch start idx=134 size=2
+2025-10-07 23:04:32,364 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:04:59,502 [INFO] [MainThread] Batch generate done
+2025-10-07 23:04:59,503 [INFO] [MainThread] Batch start idx=136 size=2
+2025-10-07 23:05:00,452 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:05:27,736 [INFO] [MainThread] Batch generate done
+2025-10-07 23:05:27,736 [INFO] [MainThread] Batch start idx=138 size=2
+2025-10-07 23:05:28,682 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:05:56,108 [INFO] [MainThread] Batch generate done
+2025-10-07 23:05:56,108 [INFO] [MainThread] Batch start idx=140 size=2
+2025-10-07 23:05:57,091 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:06:24,465 [INFO] [MainThread] Batch generate done
+2025-10-07 23:06:24,465 [INFO] [MainThread] Batch start idx=142 size=2
+2025-10-07 23:06:25,414 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:06:52,752 [INFO] [MainThread] Batch generate done
+2025-10-07 23:06:52,752 [INFO] [MainThread] Batch start idx=144 size=2
+2025-10-07 23:06:53,654 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:07:21,089 [INFO] [MainThread] Batch generate done
+2025-10-07 23:07:21,089 [INFO] [MainThread] Batch start idx=146 size=2
+2025-10-07 23:07:22,110 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:07:49,657 [INFO] [MainThread] Batch generate done
+2025-10-07 23:07:49,657 [INFO] [MainThread] Batch start idx=148 size=2
+2025-10-07 23:07:50,444 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:08:17,582 [INFO] [MainThread] Batch generate done
+2025-10-07 23:08:17,582 [INFO] [MainThread] Batch start idx=150 size=2
+2025-10-07 23:08:18,661 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:08:45,868 [INFO] [MainThread] Batch generate done
+2025-10-07 23:08:45,868 [INFO] [MainThread] Batch start idx=152 size=2
+2025-10-07 23:08:46,862 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:09:14,237 [INFO] [MainThread] Batch generate done
+2025-10-07 23:09:14,237 [INFO] [MainThread] Batch start idx=154 size=2
+2025-10-07 23:09:15,267 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:09:42,595 [INFO] [MainThread] Batch generate done
+2025-10-07 23:09:42,595 [INFO] [MainThread] Batch start idx=156 size=2
+2025-10-07 23:09:43,669 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:10:10,947 [INFO] [MainThread] Batch generate done
+2025-10-07 23:10:10,947 [INFO] [MainThread] Batch start idx=158 size=2
+2025-10-07 23:10:12,037 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:10:39,431 [INFO] [MainThread] Batch generate done
+2025-10-07 23:10:39,431 [INFO] [MainThread] Batch start idx=160 size=2
+2025-10-07 23:10:40,267 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:11:07,444 [INFO] [MainThread] Batch generate done
+2025-10-07 23:11:07,445 [INFO] [MainThread] Batch start idx=162 size=2
+2025-10-07 23:11:08,207 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:11:35,501 [INFO] [MainThread] Batch generate done
+2025-10-07 23:11:35,501 [INFO] [MainThread] Batch start idx=164 size=2
+2025-10-07 23:11:36,317 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:12:03,631 [INFO] [MainThread] Batch generate done
+2025-10-07 23:12:03,631 [INFO] [MainThread] Batch start idx=166 size=2
+2025-10-07 23:12:04,714 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:12:32,228 [INFO] [MainThread] Batch generate done
+2025-10-07 23:12:32,228 [INFO] [MainThread] Batch start idx=168 size=2
+2025-10-07 23:12:33,051 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:13:00,335 [INFO] [MainThread] Batch generate done
+2025-10-07 23:13:00,335 [INFO] [MainThread] Batch start idx=170 size=2
+2025-10-07 23:13:01,342 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:13:28,643 [INFO] [MainThread] Batch generate done
+2025-10-07 23:13:28,643 [INFO] [MainThread] Batch start idx=172 size=2
+2025-10-07 23:13:29,530 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:13:56,797 [INFO] [MainThread] Batch generate done
+2025-10-07 23:13:56,797 [INFO] [MainThread] Batch start idx=174 size=2
+2025-10-07 23:13:57,910 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:14:25,223 [INFO] [MainThread] Batch generate done
+2025-10-07 23:14:25,223 [INFO] [MainThread] Batch start idx=176 size=2
+2025-10-07 23:14:26,045 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 23:14:53,293 [INFO] [MainThread] Batch generate done
+2025-10-07 23:14:53,330 [INFO] [MainThread] RUN REPORT: {"model": "qwen", "batched": true, "batch_size": 2, "total_sets": 178, "total_questions": 712, "total_time_s": 2541.463760137558, "avg_per_question_s": 3.5694715732269073}

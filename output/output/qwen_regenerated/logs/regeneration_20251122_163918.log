@@ -1,0 +1,51 @@
+2025-11-22 16:39:18,158 [INFO] ======================================================================
+2025-11-22 16:39:18,158 [INFO] QWEN Answer Regeneration with vLLM Optimization
+2025-11-22 16:39:18,158 [INFO] ======================================================================
+2025-11-22 16:39:18,159 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-22 16:39:18,159 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-22 16:39:18,159 [INFO] Max tokens: 500
+2025-11-22 16:39:18,159 [INFO] vLLM available: True
+2025-11-22 16:39:18,159 [INFO] Test limit: 3
+2025-11-22 16:39:18,159 [INFO] ======================================================================
+2025-11-22 16:39:18,159 [INFO] Initializing model...
+2025-11-22 16:40:37,810 [INFO] Model initialized. Using vLLM for text-only: False
+2025-11-22 16:40:37,811 [INFO] TEST MODE: Processing 3 files
+2025-11-22 16:40:37,811 [INFO] Total files to process: 3
+2025-11-22 16:40:37,811 [INFO] 
+Processing batch 1 (3 files)
+2025-11-22 16:40:37,811 [INFO] Processing: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-22 16:40:37,811 [INFO]   Q1: Generating with image...
+2025-11-22 16:41:02,062 [INFO]     Q1 done: 23.52s
+2025-11-22 16:41:02,062 [INFO]   Q2-Q4: Generating 3 text-only questions...
+2025-11-22 16:41:42,335 [INFO]     Q2 done: 40.27s
+2025-11-22 16:41:42,335 [INFO]     Q3 done: 40.27s
+2025-11-22 16:41:42,335 [INFO]     Q4 done: 40.27s
+2025-11-22 16:41:42,336 [INFO]   ✓ Updated 100_Nicotine__answers.json
+2025-11-22 16:41:42,336 [INFO] Processing: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-22 16:41:42,336 [INFO]   Q1: Generating with image...
+2025-11-22 16:42:11,396 [INFO]     Q1 done: 28.48s
+2025-11-22 16:42:11,396 [INFO]   Q2-Q4: Generating 3 text-only questions...
+2025-11-22 16:42:51,561 [INFO]     Q2 done: 40.16s
+2025-11-22 16:42:51,561 [INFO]     Q3 done: 40.16s
+2025-11-22 16:42:51,561 [INFO]     Q4 done: 40.16s
+2025-11-22 16:42:51,562 [INFO]   ✓ Updated 101_Nitric_Acid__answers.json
+2025-11-22 16:42:51,562 [INFO] Processing: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-22 16:42:51,563 [INFO]   Q1: Generating with image...
+2025-11-22 16:43:17,800 [INFO]     Q1 done: 25.69s
+2025-11-22 16:43:17,800 [INFO]   Q2-Q4: Generating 3 text-only questions...
+2025-11-22 16:43:57,651 [INFO]     Q2 done: 39.85s
+2025-11-22 16:43:57,651 [INFO]     Q3 done: 39.85s
+2025-11-22 16:43:57,651 [INFO]     Q4 done: 39.85s
+2025-11-22 16:43:57,652 [INFO]   ✓ Updated 102_Nitric_Oxide__answers.json
+2025-11-22 16:43:57,652 [INFO] 
+======================================================================
+2025-11-22 16:43:57,652 [INFO] REGENERATION SUMMARY
+2025-11-22 16:43:57,652 [INFO] ======================================================================
+2025-11-22 16:43:57,652 [INFO] Total files: 3
+2025-11-22 16:43:57,652 [INFO] Successful: 3
+2025-11-22 16:43:57,652 [INFO] Failed: 0
+2025-11-22 16:43:57,652 [INFO] Total time: 199.84s (3.33 min)
+2025-11-22 16:43:57,652 [INFO] Average per file: 66.61s
+2025-11-22 16:43:57,652 [INFO] vLLM used: False
+2025-11-22 16:43:57,652 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_regenerated/regeneration_summary.json
+2025-11-22 16:43:57,652 [INFO] ======================================================================

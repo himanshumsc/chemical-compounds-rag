@@ -1,0 +1,38 @@
+{
+  "compound_id": 163,
+  "compound_name": "Sulfuric Acid",
+  "source_file": "compound_163_Sulfuric Acid.json",
+  "main_entry_length": 4315,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0876_Sulfuric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:17",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sulfuric acid (H₂SO₄). Key properties of sulfuric acid include:\n\n- **Strong acid**: It is a highly corrosive and strong mineral acid.\n- **Molecular structure**: Comprises two hydrogen atoms, one sulfur atom, and four oxygen atoms. The sulfur atom is at the center, with double bonds to two oxygen atoms and single bonds to two hydroxyl groups (OH).\n- **Uses**: Widely used in industry for manufacturing fertilizers, chemicals, petroleum refining, and wastewater processing.\n- **Reactivity**: Reacts with water exothermically, and can dehydrate...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:05:28"
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid and what elements does it contain?",
+      "answer": "The chemical formula for sulfuric acid is H2SO4. It contains the elements hydrogen, sulfur, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the primary method used today for the industrial production of sulfuric acid and how it differs from the original method developed by John Roebuck.",
+      "answer": "Today, sulfuric acid is primarily produced using the contact process, which involves the same chemical reactions as the original lead chamber process developed by John Roebuck. These reactions include the conversion of sulfur to sulfur dioxide, sulfur dioxide to sulfur trioxide, and sulfur trioxide to sulfuric acid. However, the contact process employs a catalyst of finely divided platinum metal, which increases the yield of sulfuric acid production compared to the lead chamber process. The contact process has largely replaced the lead chamber process due to its higher efficiency.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Considering its properties and uses, discuss the significance of sulfuric acid in modern industry and any potential hazards associated with its use.",
+      "answer": "Sulfuric acid is critically important in modern industry due to its role in producing phosphoric acid, which is used to manufacture fertilizers. Approximately 70% of sulfuric acid in the United States is used for this purpose. It is also utilized in lead storage batteries and for processing gasoline and other petrochemicals. Despite its widespread use, sulfuric acid poses significant hazards. It is a highly corrosive liquid that can cause severe chemical burns and is dangerous if inhaled. Proper handling and safety protocols are essential when working with this compound to mitigate its risks.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

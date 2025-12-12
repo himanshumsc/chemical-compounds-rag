@@ -1,0 +1,58 @@
+{
+  "compound_id": 71,
+  "compound_name": "Hydrogen Peroxide",
+  "source_file": "compound_071_Hydrogen Peroxide.json",
+  "main_entry_length": 4439,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0414_Hydrogen_Peroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:53",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is hydrogen peroxide (H₂O₂). It consists of two hydrogen atoms and two oxygen atoms. Key properties of hydrogen peroxide include:\n\n- It is a pale blue liquid in its pure form and appears colorless when diluted.\n- It is a strong oxidizer, making it useful as a disinfectant and bleaching agent.\n- Hydrogen peroxide decomposes into water and oxygen, especially in the presence of light or heat.\n- It is commonly used in various concentrations for medical, industrial, and household applications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:38"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hydrogen peroxide?",
+      "answer": "The chemical formula of hydrogen peroxide is H2O2, and its molecular weight is 34.02 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:28",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain why hydrogen peroxide is considered a strong oxidizing agent in its applications.",
+      "answer": "Hydrogen peroxide is considered a strong oxidizing agent because it tends to decompose, releasing nascent oxygen, which is a single atom of oxygen. This nascent oxygen is chemically very active and acts as a strong oxidizing agent. The oxidizing properties of hydrogen peroxide are crucial for its various applications. For instance, its effectiveness as an antiseptic relies on the nascent oxygen's ability to destroy bacteria, fungi, and other microorganisms. In industrial applications, particularly in the pulp and paper industry, hydrogen peroxide is used to bleach materials by converting colored compounds to colorless ones through oxidation. Additionally, its oxidizing action is utilized in water and sewage treatment plants to destroy disease-causing organisms. These properties highlight why hydrogen peroxide's ability to release nascent oxygen makes it a strong oxidizing agent in its applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:33",
+      "char_limit": 1800,
+      "answer_length": 911
+    },
+    {
+      "question": "Describe the industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones.",
+      "answer": "The industrial preparation of hydrogen peroxide using alkyl anthrahydroquinones involves a series of reactions where compounds like ethyl anthrahydroquinone, which belong to the family of alkyl anthrahydroquinones, are used. These compounds are three-ring structures that can be converted back and forth between two or more similar forms. During the conversion from one structure to another, hydrogen peroxide is produced as a byproduct. The process is highly efficient because the anthraquinone is continuously regenerated during the production of hydrogen peroxide.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:05:37",
+      "char_limit": 2000,
+      "answer_length": 567
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7120,
+  "updated_at": "2025-11-30 14:05:37",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

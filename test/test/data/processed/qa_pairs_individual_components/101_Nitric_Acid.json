@@ -1,0 +1,38 @@
+{
+  "compound_id": 98,
+  "compound_name": "Nitric Acid",
+  "source_file": "compound_098_Nitric Acid.json",
+  "main_entry_length": 1512,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0544_Nitric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows nitric acid (HNO₃). Key properties of nitric acid include:\n\n1. **Composition**: It consists of one nitrogen atom (blue), three oxygen atoms (red), and one hydrogen atom (white).\n\n2. **Structure**: It has a planar geometry with a nitrogen atom central to the molecule, forming bonds with the hydrogen and oxygen atoms.\n\n3. **Acidic Nature**: Nitric acid is a strong acid and a powerful oxidizing agent.\n\n4. **Industrial Use**: It is crucial in the production of fertilizers, explosives, and in various chemical syntheses.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:00:56"
+    },
+    {
+      "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+      "answer": "Nitric acid consists of the elements hydrogen, nitrogen, and oxygen. Its chemical formula is HNO3.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+      "answer": "Nitric acid is a colorless to yellowish liquid with an acrid odor. It is miscible with water, meaning it can be mixed in all proportions without separating. However, it decomposes in ethyl alcohol and reacts violently with most organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain why nitric acid is considered a strong oxidizing agent and describe its reaction with metals.",
+      "answer": "Nitric acid is one of the strongest oxidizing agents known, meaning it readily gains electrons from other substances during a chemical reaction. It attacks almost all metals, except for gold and platinum, which are resistant to its corrosive action. This property makes it useful in various industrial and laboratory applications where oxidation is required.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

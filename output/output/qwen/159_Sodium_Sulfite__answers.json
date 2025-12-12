@@ -1,0 +1,27 @@
+{
+  "source_file": "159_Sodium_Sulfite.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sodium sulfite (Na₂SO₃). Sodium sulfite is an ionic compound composed of sodium ions (Na⁺) and sulfite ions (SO₃²⁻).\n\nKey properties of sodium sulfite include:\n\n1. **Pulping Agent**: Sodium sulfite is used as a pulping agent in the pulp and paper industry to break down wood, rags, and straw into pulp for paper production.\n2. **Neutralization of Excess Chlorine**: It is used to neutralize excess chlorine in water and wastewater treatment plants, which is often added during the bleaching process",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Sulfite?",
+      "answer": "The chemical formula for Sodium Sulfite is Na2SO3. \n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Sodium (Na) has an atomic weight of approximately 22.99 g/mol.\n- Sulfur (S) has an atomic weight of approximately 32.07 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nThe formula Na2SO3 contains:\n- 2 Sodium atoms: \\(2 \\times 22.99 = 45.98",
+      "latency_s": 10.77
+    },
+    {
+      "question": "Explain the stability and solubility characteristics of Sodium Sulfite.",
+      "answer": "Sodium sulfite, also known as sodium bisulfite or sodium metabisulfite, is an inorganic compound with the chemical formula Na2SO3. It is widely used in various industries due to its properties such as reducing agents, antioxidants, and preservatives.\n\n### Stability Characteristics:\n1. **Chemical Stability**: Sodium sulfite is relatively stable under normal conditions. It does not decompose significantly when stored in a dry environment at room temperature.\n2. **Reduction Properties**: Sodium sulfite acts as a reducing agent by donating electrons. This property makes it useful in various industrial processes where reduction is required.\n3. **",
+      "latency_s": 10.77
+    },
+    {
+      "question": "Describe the process of producing Sodium Sulfite and its main industrial application.",
+      "answer": "Sodium sulfite, also known as sodium bisulfite or sodium bisulfate, is an important chemical compound used in various industries due to its ability to act as a reducing agent, antioxidant, and preservative. The production of sodium sulfite typically involves several steps:\n\n### Production Process\n\n1. **Sulfur Dioxide Generation:**\n   - Sulfur dioxide (SO₂) is produced by burning sulfur-containing fuels such as coal or oil in a combustion process.\n   - Alternatively, it can be generated through the oxidation of hydrogen sulfide (H₂S) using air or oxygen.\n\n2. **Absorption of",
+      "latency_s": 10.77
+    }
+  ]
+}

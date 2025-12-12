@@ -1,0 +1,58 @@
+{
+  "compound_id": 66,
+  "compound_name": "Gelatin",
+  "source_file": "compound_066_Gelatin.json",
+  "main_entry_length": 3591,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0388_Gelatin_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:31",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't view the molecular structure diagram in the image. However, I can tell you that the text is discussing gelatin. Gelatin is a protein derived from collagen, found in animal parts like skin, bones, and connective tissues. It is used in food, pharmaceuticals, and cosmetics. Gelatin forms a gel-like consistency when dissolved in water and cooled, making it useful as a thickener, stabilizer, and texturizer.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:47"
+    },
+    {
+      "question": "What elements are present in gelatin, and what is its state at room temperature?",
+      "answer": "Gelatin contains the elements carbon, hydrogen, oxygen, nitrogen, and others. Its state at room temperature is solid.",
+      "difficulty_level": "basic",
+      "topic_category": "elements",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:11",
+      "char_limit": 1000,
+      "answer_length": 117
+    },
+    {
+      "question": "Explain why gelatin is classified as a mixture rather than a compound.",
+      "answer": "Gelatin is classified as a mixture rather than a compound because it consists of water-soluble proteins with high molecular weights that are not chemically combined with each other. Mixtures differ from compounds in that their components are not chemically bonded, and they do not have a definite composition. Gelatin is made from animal parts with high protein content, such as skin, ligaments, tendons, cartilage, and bones, through a boiling process that breaks down the molecular bonds in collagen. This process creates a mixture of proteins rather than a single chemical compound. Additionally, gelatin's composition can vary based on the animal parts and processing methods used, further distinguishing it from compounds, which have a fixed chemical formula.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:17",
+      "char_limit": 1800,
+      "answer_length": 764
+    },
+    {
+      "question": "Describe the process of making gelatin from animal parts and differentiate between Type A and Type B gelatin.",
+      "answer": "Gelatin is produced by boiling animal parts with high protein content, such as skin, ligaments, tendons, cartilage, and bones. This boiling process breaks down the molecular bonds between individual collagen strands in the animal tissue. Collagen, a structural protein found in bone, cartilage, and connective tissue, is thereby converted into gelatin.\n\nThe process can be further refined by boiling the collagen with either an acid or an alkali. Type A gelatin is produced when collagen is boiled in an acidic solution, while Type B gelatin results from boiling collagen in an alkaline solution. Most of the animal parts used to make gelatin come from cattle and pigs, though gelatin can also be derived from fish to accommodate dietary restrictions such as those observed in Jewish and Muslim dietary laws, which prohibit pork consumption. Additionally, alternatives to animal-derived gelatin are made from vegetable carbohydrates like agar and pectin for vegetarians and vegans. These alternatives are not true gelatin, as true gelatin is always made from animal proteins.",
+      "difficulty_level": "advanced",
+      "topic_category": "how it is made",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:04:20",
+      "char_limit": 2000,
+      "answer_length": 1075
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6666,
+  "updated_at": "2025-11-30 14:04:21",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

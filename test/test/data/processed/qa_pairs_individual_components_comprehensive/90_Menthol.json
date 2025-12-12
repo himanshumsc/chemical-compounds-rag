@@ -1,0 +1,58 @@
+{
+  "compound_id": 86,
+  "compound_name": "Menthol",
+  "source_file": "compound_086_Menthol.json",
+  "main_entry_length": 1303,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0486_Menthol_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:56",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of menthol. Menthol is an organic compound with the formula C₁₀H₂₀O. It is a cyclic terpene alcohol, characterized by its minty aroma and cooling sensation. The structure consists of a cyclohexane ring with an isopropyl group and a hydroxyl group (OH) attached. \n\nMenthol is commonly used in products like toothpaste, mouthwash, and topical analgesics due to its cooling effects and pleasant scent. It can be extracted from peppermint oil or synthesized from thymol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:20"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of menthol?",
+      "answer": "The chemical formula of menthol is CH3C6H9(C3H7)OH, and its molecular weight is 156.26 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:50",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Explain the solubility properties of menthol in different solvents.",
+      "answer": "Menthol is slightly soluble in water but very soluble in alcohol, chloroform, and ether.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:51",
+      "char_limit": 1800,
+      "answer_length": 88
+    },
+    {
+      "question": "Discuss the historical and medicinal significance of peppermint and menthol.",
+      "answer": "Peppermint and menthol have a rich historical and medicinal significance. Menthol, a compound that naturally occurs in the peppermint plant, is known for its cooling taste and odor. Historically, peppermint has been one of the oldest known herbal remedies, with dried peppermint leaves discovered in Egyptian pyramids dating back to at least 1000 BCE. Its use in cooking and medical preparations was well-documented among the Greeks and Romans. Despite its ancient origins, peppermint was not introduced to Western Europe until the eighteenth century, where it was used to address a variety of ailments such as toothaches and morning sickness. It reached the United States approximately a century later.\n\nMedicinally, menthol is valued for its soothing and sometimes tingling sensations when applied to the skin. It is theorized to create a cooling sensation, which makes it a popular ingredient in topical products. However, it is important to note that while menthol is generally safe, ingesting large quantities can lead to adverse effects such as abdominal pain, nausea, vomiting, dizziness, drowsiness, and even coma. These potential hazards highlight the importance of moderation in its use.\n\nMenthol is extracted from peppermint oil through steam distillation and can also be synthesized by reducing thymol. It is slightly soluble in water but very soluble in alcohol, chloroform, and ether, with a molecular weight of 156.26 g/mol, a melting point of 41°C to 43°C, and a boiling point of 212°C. The compound remains a solid at room temperature and is classified as an organic compound.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:56",
+      "char_limit": 2000,
+      "answer_length": 1593
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2893,
+  "updated_at": "2025-11-30 14:09:57",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

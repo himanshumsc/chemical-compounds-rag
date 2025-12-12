@@ -1,0 +1,36 @@
+{
+  "compound_id": 91,
+  "compound_name": "Methyl-t-butyl Ether",
+  "source_file": "compound_091_Methyl-t-butyl Ether.json",
+  "main_entry_length": 1432,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0510_Methyl-t-butyl_Ether_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:15",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Methyl-t-butyl Ether.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Methyl-t-butyl Ether?",
+      "answer": "The chemical formula of Methyl-t-butyl Ether is (CH3)3COCH3 and its molecular weight is 88.15 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the significance of Methyl-t-butyl Ether's azeotropic mixture with water.",
+      "answer": "Methyl-t-butyl Ether forms an azeotropic mixture with water, meaning that this combination of liquids boils at the same temperature and cannot be easily separated through distillation. This property indicates the presence of a constant boiling point that is lower than that of the individual components, making separation through conventional means challenging.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical context and environmental impact that led to the use of Methyl-t-butyl Ether as a gasoline additive.",
+      "answer": "Methyl-t-butyl Ether (MTBE) was first synthesized in the 1960s as an additive to increase the octane number of gasoline, serving as a replacement for tetraethyl lead (Pb(C2H5)4), which was phased out due to its harmful environmental and health effects. The removal of lead from gasoline began in 1973 and was largely completed by 1996. In 1990, MTBE found a new application following U.S. legislation that required gasoline to burn more cleanly, thus reducing air pollution and improving environmental quality.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

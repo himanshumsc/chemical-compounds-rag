@@ -1,0 +1,27 @@
+{
+  "source_file": "92_Methane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows methane (CH₄). Here are some of its key properties:\n\n1. **Structure**: Methane consists of one carbon atom bonded to four hydrogen atoms.\n2. **Bonding**: Each carbon-hydrogen bond is a covalent bond where electrons are shared between the carbon and hydrogen atoms.\n3. **Properties**:\n   - **Boiling Point**: Methane has a boiling point of approximately -161.5°C (-262.7°F).\n   - **Melting Point**: It has a melting point of about -182.5°C (-2",
+      "latency_s": 16.51
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methane?",
+      "answer": "The chemical formula for methane is \\( \\text{CH}_4 \\). \n\nTo calculate the molecular weight of methane, we need to sum the atomic weights of its constituent atoms:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nSince there is one carbon atom and four hydrogen atoms in methane, the calculation is as follows:\n\n\\[\n\\text{Molecular weight of } \\text{CH}_4 = (\\text{Atomic weight of C}) + 4 \\times (\\text",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Discuss the solubility properties of methane and its density relative to air.",
+      "answer": "Methane (CH₄) is a simple organic compound consisting of one carbon atom bonded to four hydrogen atoms. It is a colorless, odorless gas at room temperature and pressure. Methane has several unique properties that make it stand out in terms of solubility and density.\n\n### Solubility Properties of Methane\n\n1. **Solubility in Water**: Methane is highly soluble in water compared to other hydrocarbons of similar molecular weight. This is due to the presence of polar C-H bonds which can form hydrogen bonds with water molecules. The solubility of methane in water at 25°C",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain how methane is formed and how it is found in nature.",
+      "answer": "Methane, also known as natural gas or biogas, is a simple chemical compound composed of one carbon atom and four hydrogen atoms (CH₄). It is a colorless, odorless, and flammable gas that plays a significant role in both the Earth's atmosphere and various natural processes.\n\n### Formation of Methane\n\n1. **Biogenic Methane:**\n   - **Anaerobic Decomposition:** The most common source of methane in nature is through the anaerobic decomposition of organic matter in the absence of oxygen. This process occurs in environments such as wetlands, landfills, and the digestive tracts",
+      "latency_s": 10.37
+    }
+  ]
+}

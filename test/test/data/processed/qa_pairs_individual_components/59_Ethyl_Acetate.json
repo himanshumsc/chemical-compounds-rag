@@ -1,0 +1,38 @@
+{
+  "compound_id": 56,
+  "compound_name": "Ethyl Acetate",
+  "source_file": "compound_056_Ethyl Acetate.json",
+  "main_entry_length": 1150,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0344_Ethyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:51",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is ethyl acetate. Its molecular structure consists of carbon (black atoms), hydrogen (white atoms), and oxygen (red atoms) with gray sticks indicating double bonds. Ethyl acetate is a colorless liquid with a sweet, fruity odor, commonly used as a solvent in varnishes, lacquers, and coatings. It is also a byproduct of the fermentation of grapes in wine production, contributing to the fruity taste and aroma.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethyl Acetate?",
+      "answer": "The chemical formula of Ethyl Acetate is CH3COOC2H5, and its molecular weight is 88.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of Ethyl Acetate and its implications for industrial use.",
+      "answer": "Ethyl acetate is slightly soluble in water but is miscible with alcohol, ether, and benzene. This solubility profile makes it useful as a solvent in various industrial applications, as it can dissolve in both organic solvents and some aqueous solutions, facilitating its use in processes that require the mixing of these different types of compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the synthetic production process of Ethyl Acetate and its natural occurrence.",
+      "answer": "Ethyl acetate is synthesized by reacting acetic acid (CH3COOH) with ethanol (ethyl alcohol; CH3CH2OH) in the presence of a sulfuric acid catalyst. Naturally, it occurs in fruits, yeasts, and sugar cane, contributing to their pleasant odor and taste. This dual occurrence allows it to be both synthetically produced for industrial purposes and found naturally in certain biological sources.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

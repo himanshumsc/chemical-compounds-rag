@@ -1,0 +1,9 @@
+{
+  "model": "qwen",
+  "batched": true,
+  "batch_size": 2,
+  "total_sets": 178,
+  "total_questions": 712,
+  "total_time_s": 2541.463760137558,
+  "avg_per_question_s": 3.5694715732269073
+}

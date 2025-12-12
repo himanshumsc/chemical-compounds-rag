@@ -1,0 +1,282 @@
+{
+  "source_file": "31_Calcium_Hydroxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Calcium hydroxide. It's used in building materials, mortar, and as a neutralizing agent. When mixed with water, it forms a paste that hardens.",
+      "latency_s": 22.85,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula of calcium hydroxide and what elements does it contain?",
+      "answer": "The provided text does not contain information about calcium hydroxide. Therefore, I cannot answer your question based on this data.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7461490035057068,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "40-40",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.731891006231308,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "chunk_id": "chunk_0",
+            "page_range": "1-1",
+            "text_length": 162,
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7215449213981628,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "page_range": "44-44",
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_43",
+            "text_length": 1364
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.7184231281280518,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "page_range": "88-88",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_87",
+            "text_length": 1553
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.71737340092659,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "page_range": "92-92",
+            "text_length": 1328,
+            "has_image": false,
+            "chunk_id": "chunk_91",
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.746)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.732)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 3 (Relevance: 0.722)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n\n\n[Source 4 (Relevance: 0.718)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 5 (Relevance: 0.717)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain why calcium hydroxide often becomes contaminated and how can this be prevented.",
+      "answer": "The provided text does not contain information about calcium hydroxide, contamination, or prevention methods. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_57",
+          "score": 0.7356425821781158,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "chunk_id": "chunk_57",
+            "text_length": 1914,
+            "has_image": false,
+            "image_path": "",
+            "page_range": "58-58"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7310932874679565,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_90",
+          "score": 0.7172691226005554,
+          "text": "In addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n",
+          "metadata": {
+            "text_length": 1358,
+            "has_image": false,
+            "image_path": "",
+            "page_range": "91-91",
+            "chunk_id": "chunk_90"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.7163523137569427,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1567,
+            "chunk_id": "chunk_53",
+            "page_range": "54-54"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7108708918094635,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "text_length": 1769,
+            "page_range": "77-77",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_76"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.736)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 2 (Relevance: 0.731)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.717)]\nIn addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n\n\n[Source 4 (Relevance: 0.716)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 5 (Relevance: 0.711)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe the role of calcium hydroxide in neutralizing acidic soils and the chemical process involved.",
+      "answer": "The provided text does not contain information about calcium hydroxide or its role in neutralizing acidic soils. It discusses carbohydrates, carboxylic groups, carcinogens, acetic acid, acetaminophen, and mustard gas, but not soil chemistry or calcium hydroxide.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7585223615169525,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "text_length": 1326,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.734961986541748,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "text_length": 1074,
+            "page_range": "75-75",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.733603447675705,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "has_image": false,
+            "text_length": 1769,
+            "image_path": "",
+            "chunk_id": "chunk_76"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.6996768414974213,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "text_length": 1914,
+            "has_image": false,
+            "chunk_id": "chunk_57",
+            "image_path": "",
+            "page_range": "58-58"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.6941726207733154,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "text_length": 1074,
+            "chunk_id": "chunk_70",
+            "page_range": "71-71",
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.759)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.735)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 3 (Relevance: 0.734)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.700)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 5 (Relevance: 0.694)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:58:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:58:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:58",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 3,
+  "filtered_answers_indices": [
+    2,
+    3,
+    4
+  ]
+}

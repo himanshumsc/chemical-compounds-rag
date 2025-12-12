@@ -1,0 +1,36 @@
+{
+  "compound_id": 39,
+  "compound_name": "Cellulose Xanthate",
+  "source_file": "compound_039_Cellulose Xanthate.json",
+  "main_entry_length": 5065,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0258_Cellulose_Xanthate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cellulose Xanthate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula for cellulose xanthate and which elements does it contain?",
+      "answer": "The chemical formula for cellulose xanthate is [C6H7O2(OH)2OCS2Na]n. It contains the elements carbon, hydrogen, oxygen, sulfur, and sodium.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how cellulose xanthate is transformed into rayon fibers during the viscose process.",
+      "answer": "In the viscose process, cellulose from wood pulp is first treated with carbon disulfide to convert it into cellulose xanthate, which is soluble in sodium hydroxide. This forms a thick, viscous solution that stands in a ripening room for eight to ten hours, allowing the cellulose xanthate to revert to cellulose by releasing carbon disulfide. The regenerated cellulose is then forced through spinnerettes to form long rayon fibers.",
+      "difficulty_level": "intermediate",
+      "topic_category": "process"
+    },
+    {
+      "question": "What are some advantages and disadvantages of using rayon, and what legislative measure was introduced in response to one of its disadvantages?",
+      "answer": "Rayon has several advantages: it feels soft and silky, is strong, abrasion-resistant, easy to dye, and does not collect static charges. However, it wrinkles easily, shrinks when wet, and is highly flammable. Due to its flammability, the U.S. Congress passed the Flammable Fabrics Act of 1953 to ban the sale of flammable fabrics, leading manufacturers to treat rayon to prevent it from catching fire.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

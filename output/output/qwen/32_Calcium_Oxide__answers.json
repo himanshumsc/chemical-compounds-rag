@@ -1,0 +1,27 @@
+{
+  "source_file": "32_Calcium_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Calcium Oxide (CaO). The red atom represents oxygen, and the green atom represents calcium. The gray stick indicates a double bond between the oxygen and calcium atoms.\n\nKey properties of Calcium Oxide:\n1. **Chemical Formula**: CaO.\n2. **Appearance**: It appears as a white powder.\n3. **Melting Point**: Approximately 2500°C (4532°F).\n4. **Boiling Point**: Not applicable for a solid; it decomposes before boiling.\n5. **Double Bond**: Indicates that each oxygen atom is bonded to two calcium atoms",
+      "latency_s": 16.56
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of calcium oxide?",
+      "answer": "The chemical formula for calcium oxide is CaO. The molecular weight of calcium oxide can be calculated by summing the atomic weights of its constituent elements.\n\n- Calcium (Ca) has an atomic weight of approximately 40.08 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nTherefore, the molecular weight of calcium oxide (CaO) is:\n\n\\[ \\text{Molecular weight of CaO} = 40.08 \\, \\text{g/mol} + 16.00 \\, \\text{g/mol} = 5",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain how calcium oxide reacts with water and the implications of this reaction.",
+      "answer": "Calcium oxide, also known as quicklime, is a white powder that reacts vigorously with water to form calcium hydroxide, commonly referred to as slaked lime. This reaction is exothermic, meaning it releases heat during the process.\n\n### Reaction Equation:\n\\[ \\text{CaO} + \\text{H}_2\\text{O} \\rightarrow \\text{Ca(OH)}_2 \\]\n\n### Detailed Explanation:\n\n1. **Initial Contact:**\n   When calcium oxide comes into contact with water, the surface of the quicklime begins to dissolve, forming a solution of calcium hydroxide.\n\n2. **",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the role of calcium oxide in metallurgy and its chemical function during the steel-making process.",
+      "answer": "Calcium oxide, also known as quicklime, plays a significant role in the metallurgical industry, particularly in the steel-making process. Its primary function is to act as a flux, which means it helps in removing impurities from molten metal by forming slag with them.\n\n### Role in Metallurgy\n\n1. **Slag Formation**: Calcium oxide reacts with silica (SiO2) and other non-metallic impurities in the molten steel to form slag. This slag is then removed from the molten steel, thereby purifying the steel by eliminating these impurities.\n\n2. **Deoxidation**: Calcium oxide can also",
+      "latency_s": 10.42
+    }
+  ]
+}

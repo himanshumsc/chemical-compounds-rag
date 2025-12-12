@@ -1,0 +1,36 @@
+{
+  "compound_id": 156,
+  "compound_name": "Sodium Tetraborate",
+  "source_file": "compound_156_Sodium Tetraborate.json",
+  "main_entry_length": 4176,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0840_Sodium_Tetraborate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Tetraborate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous sodium tetraborate?",
+      "answer": "The chemical formula for anhydrous sodium tetraborate is Na2B4O7, and its molecular weight is 201.22 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the historical significance and early uses of sodium tetraborate.",
+      "answer": "Sodium tetraborate, also known as borax, may have been known as long as 4,000 years ago, although this is not confirmed. It was certainly used by 800 BCE in Chinese and Islamic civilizations for making glass and in jewelry work. However, due to its expense, it was not widely used in Europe until the Middle Ages. Its use became more common after extensive deposits were found in the United States, particularly in Nevada and later in southern California's desert regions.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the decomposition and melting characteristics of sodium tetraborate decahydrate compared to its anhydrous form.",
+      "answer": "Sodium tetraborate decahydrate (Na2B4O7·10H2O) decomposes at about 75°C (170°F), losing its water of hydration and forming an anhydrous form. The anhydrous sodium tetraborate then melts at 743°C (1370°F) and can further be heated to its boiling point at 1575°C (2867°F). In contrast, the decahydrate does not have a distinct boiling point because it decomposes before reaching such temperatures.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 144,
+  "compound_name": "Sodium Bicarbonate",
+  "source_file": "compound_144_Sodium Bicarbonate.json",
+  "main_entry_length": 1220,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0774_Sodium_Bicarbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:01",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is sodium bicarbonate (NaHCO₃). Key properties of sodium bicarbonate include:\n\n1. **Composition**: It consists of sodium (Na), hydrogen (H), carbon (C), and oxygen (O) atoms.\n2. **Appearance**: It is a white, crystalline powder.\n3. **Uses**: Commonly known as baking soda, it is used as a leavening agent in baking, a cleaning agent, and an odor neutralizer.\n4. **Safety**: It is safe for human consumption and widely used in households.\n5. **Reactivity**: It reacts with acids to produce carbon dioxide gas, which helps dough rise.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:44"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium bicarbonate?",
+      "answer": "The chemical formula of sodium bicarbonate is NaHCO3, and its molecular weight is 84.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:44",
+      "char_limit": 1000,
+      "answer_length": 94
+    },
+    {
+      "question": "Why is sodium bicarbonate considered an acid salt and what happens to it when heated?",
+      "answer": "Sodium bicarbonate is considered an acid salt because it is derived from the partial neutralization of a strong base (sodium hydroxide, NaOH) with a weak acid (carbonic acid, H2CO3). In the document, it is classified as an \"acid salt (inorganic)\" which supports this classification.\n\nWhen sodium bicarbonate is heated, it decomposes rather than melting. The document specifies that its melting point is about 50°C (120°F), at which point it starts to decompose. The decomposition reaction is as follows:\n\n2NaHCO3 → Na2CO3 + CO2 + H2O\n\nThis means that when heated, sodium bicarbonate breaks down to form sodium carbonate (Na2CO3), carbon dioxide gas (CO2), and water (H2O). This decomposition is the basis for its use as a leavening agent in baking, where the carbon dioxide produced causes dough or batter to rise.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:48",
+      "char_limit": 1800,
+      "answer_length": 814
+    },
+    {
+      "question": "Describe the historical uses of sodium bicarbonate and explain its function as a leavening agent in baking.",
+      "answer": "Sodium bicarbonate, also known as bicarbonate of soda or baking soda, has been used by humans for thousands of years. Ancient Egyptian documents mention its use in a sodium bicarbonate and sodium chloride solution for mummification. In the late 1700s, commercial production of sodium bicarbonate as baking soda began. By 1846, Americans Austin Church and John Dwight formed a company to produce and sell sodium bicarbonate, which became known as Arm & Hammer baking soda.\n\nSodium bicarbonate functions as a leavening agent in baking, which means it helps dough or batter rise. This effect occurs because, when heated or dissolved in water, sodium bicarbonate decomposes to produce carbon dioxide (CO2) gas. The chemical reaction is as follows: 2NaHCO3 → Na2CO3 + CO2 + H2O. The CO2 gas forms bubbles in the dough or batter, causing it to expand and rise. This makes sodium bicarbonate an ideal leavening agent since all the compounds in this reaction are safe for human consumption.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:51",
+      "char_limit": 2000,
+      "answer_length": 982
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4464,
+  "updated_at": "2025-11-30 13:44:51",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

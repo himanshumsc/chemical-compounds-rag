@@ -1,0 +1,36 @@
+{
+  "compound_id": 147,
+  "compound_name": "Sodium Cyclamate",
+  "source_file": "compound_147_Sodium Cyclamate.json",
+  "main_entry_length": 1528,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0792_Sodium_Cyclamate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:13",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Cyclamate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium cyclamate?",
+      "answer": "The chemical formula of sodium cyclamate is C6H11NHSO3Na, and its molecular weight is 201.22 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is sodium cyclamate considered an organic salt, and what are its solubility characteristics?",
+      "answer": "Sodium cyclamate is considered an organic salt because it contains a combination of an organic moiety (cyclohexyl group) and an ionic component (sodium and sulfamate group). It is soluble in water but insoluble in most organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "How did the discovery of sodium cyclamate occur, and what is its primary use today?",
+      "answer": "Sodium cyclamate was discovered in 1937 by Michael Sveda, a graduate student who noticed a sweet flavor on his cigarette while working on drug development. He identified the sweetness source as cyclamates. Today, sodium cyclamate is primarily used as an artificial sweetener, with a sweetening power about 30 times that of table sugar.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

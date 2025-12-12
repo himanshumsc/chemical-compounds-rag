@@ -1,0 +1,27 @@
+{
+  "source_file": "97_Naphthalene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows naphthalene. Key properties of naphthalene include:\n\n1. **Chemical Composition**: Naphthalene consists of two benzene rings fused together.\n2. **Molecular Formula**: Its molecular formula is C₁₀H₈.\n3. **Physical Properties**:\n   - It is a white crystalline solid.\n   - It has a melting point of 80.5°C (176.9°F).\n   - It has a boiling point of 218°C (424°F).\n4. **Chemical Properties**:\n   -",
+      "latency_s": 16.6
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of naphthalene?",
+      "answer": "Naphthalene is an aromatic hydrocarbon with the chemical formula \\( C_{10}H_8 \\). To find its molecular weight, we need to sum the atomic weights of all the atoms in the molecule.\n\nThe atomic weight of carbon (C) is approximately 12.01 g/mol.\nThe atomic weight of hydrogen (H) is approximately 1.008 g/mol.\n\nNow, calculate the total weight for each element:\n- For carbon: \\( 10 \\times 12.01 \\, \\text{g/mol} = 120.1 \\, \\text",
+      "latency_s": 10.25
+    },
+    {
+      "question": "Describe the solubility properties of naphthalene and explain what solvents it is soluble in.",
+      "answer": "Naphthalene is a crystalline solid with a molecular formula of C10H8, which corresponds to two benzene rings fused together. It has a melting point of 80.2°C (176.4°F) and a boiling point of 218°C (424°F). Naphthalene is highly soluble in organic solvents but not in water.\n\n### Solubility Properties:\n- **Solubility in Water:** Naphthalene is **insoluble** in water. This is because water is a polar solvent, while naphthalene is nonpolar due",
+      "latency_s": 10.25
+    },
+    {
+      "question": "Explain the significance of naphthalene being an aromatic hydrocarbon and discuss its structural composition.",
+      "answer": "Naphthalene is a well-known aromatic hydrocarbon, which means it contains a ring structure with alternating single and double bonds that delocalize electrons across the ring, giving it unique chemical properties.\n\n### Significance of Naphthalene Being an Aromatic Hydrocarbon:\n\n1. **Aromatic Character**: The aromatic character of naphthalene arises from the delocalization of electrons in the ring. This delocalization makes the molecule more stable than would be expected for a non-aromatic compound with the same number of carbon atoms and hydrogen atoms. This stability is due to the fact that the electrons are spread out over the entire",
+      "latency_s": 10.25
+    }
+  ]
+}

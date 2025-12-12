@@ -1,0 +1,58 @@
+{
+  "compound_id": 22,
+  "compound_name": "Butane",
+  "source_file": "compound_022_Butane.json",
+  "main_entry_length": 1345,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0170_Butane_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is butane. Butane is a hydrocarbon with the chemical formula C₄H₁₀. It consists of four carbon atoms and ten hydrogen atoms, arranged in a linear structure.\n\nKey properties of butane include:\n\n1. **State**: It is a gas at room temperature but can be easily liquefied by cooling.\n2. **Boiling Point**: Butane liquefies at approximately -0.5°C (31°F).\n3. **Usage**: It is commonly used as a fuel, in lighters, and as a propellant in aerosols.\n4. **Source**: It is a component of natural gas and is obtained by refining petroleum.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:50"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of butane?",
+      "answer": "The chemical formula of butane is C4H10, and its molecular weight is 58.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:58",
+      "char_limit": 1000,
+      "answer_length": 81
+    },
+    {
+      "question": "Explain the difference between the two isomeric forms of butane.",
+      "answer": "Butane exists in two isomeric forms, both having the same molecular formula, C4H10, but differing in their structural arrangements. In the 'normal' or 'n-butane' isomer, the four carbon atoms are arranged in a continuous chain. In contrast, the 'iso-butane' isomer has three carbon atoms arranged in a continuous chain, with the fourth carbon atom attached to the middle atom in that chain. These structural differences result in variations in physical and chemical properties, even though the molecular formula remains the same.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:54:59",
+      "char_limit": 1800,
+      "answer_length": 529
+    },
+    {
+      "question": "Discuss the solubility and state of butane, and its implications for its use as a fuel.",
+      "answer": "Butane (C4H10) is a colorless gas that is highly flammable and explosive, making it suitable for use as a fuel. It is a saturated hydrocarbon, specifically an alkane, and exists in two isomeric forms: n-butane and iso-butane. Butane has a molecular weight of 58.12 g/mol, a melting point of -138.3°C (-216.9°F), and a boiling point of -0.5°C (31°F), which categorizes it as a gas under standard conditions.\n\nIn terms of solubility, butane is slightly soluble in water but soluble in ethyl alcohol, ether, and chloroform. This limited solubility in water affects its dispersion and combustion in aqueous environments but does not hinder its effectiveness as a fuel. Its solubility in organic solvents like ethyl alcohol and ether can be advantageous in industrial applications where butane is mixed with other chemicals for various processes.\n\nThe high flammability of butane, combined with its gaseous state at room temperature, makes it an efficient fuel source, particularly for portable applications such as lighters and camping stoves. Its ability to easily mix with air and combust efficiently contributes to its widespread use. Additionally, butane is often used as a propellant in spray products and as a chemical intermediary in the production of other substances. Its presence in natural gas and petroleum, albeit in small amounts, allows for its extraction and use in these applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:05",
+      "char_limit": 2000,
+      "answer_length": 1397
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4828,
+  "updated_at": "2025-11-30 13:55:06",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

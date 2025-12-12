@@ -1,0 +1,58 @@
+{
+  "compound_id": 151,
+  "compound_name": "Sodium Perborate",
+  "source_file": "compound_151_Sodium Perborate.json",
+  "main_entry_length": 2515,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0816_Sodium_Perborate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows the molecular structure of sodium perborate. Key properties include:\n\n- **Composition**: It consists of sodium (Na), boron (B), and oxygen (O). The red atoms represent oxygen, the yellow atom is boron, and the turquoise atom is sodium. Gray sticks indicate double bonds.\n\n- **Oxidizing Agent**: Sodium perborate is a mild and relatively safe oxidizing agent. It supplies oxygen to other substances, aiding in oxidation.\n\n- **Uses**: Commonly added to detergents for its bleaching capability, it helps remove stains, maintain fabric whiteness, and preserve colors.\n\n-...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:56"
+    },
+    {
+      "question": "What is the chemical formula for sodium perborate and what elements does it consist of?",
+      "answer": "The chemical formula for sodium perborate is NaBO3. It consists of the elements sodium, boron, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:20",
+      "char_limit": 1000,
+      "answer_length": 106
+    },
+    {
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "answer": "When sodium perborate is dissolved in water, it decomposes to yield hydrogen peroxide (H2O2) and sodium borate (Na2B4O7). The hydrogen peroxide produced is itself unstable and breaks down to release nascent oxygen (O). This process makes sodium perborate an excellent source of 'active' oxygen, which refers to individual atoms of oxygen with a strong tendency to react with other elements and compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:22",
+      "char_limit": 1800,
+      "answer_length": 404
+    },
+    {
+      "question": "Explain how sodium perborate is used in detergents and the chemical basis for its effectiveness as a bleaching agent.",
+      "answer": "Sodium perborate is used in detergents due to its properties as a mild and relatively safe oxidizing agent. It enhances the bleaching capability of detergents, making them more effective in removing stains, maintaining the whiteness of fabrics, and preserving the original colors of colored cloth. The chemical basis for its effectiveness lies in its ability to decompose in water, releasing hydrogen peroxide (H2O2) and sodium borate (Na2B4O7). Hydrogen peroxide further breaks down, releasing nascent oxygen atoms, which are highly reactive and serve as 'active' oxygen. This active oxygen oxidizes stains and helps in the bleaching process, thereby improving the cleaning power of detergents. Sodium perborate's stability compared to hydrogen peroxide makes it easier and safer to handle, providing the same oxidizing benefits but with reduced risk.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:26",
+      "char_limit": 2000,
+      "answer_length": 852
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3905,
+  "updated_at": "2025-11-30 13:46:27",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

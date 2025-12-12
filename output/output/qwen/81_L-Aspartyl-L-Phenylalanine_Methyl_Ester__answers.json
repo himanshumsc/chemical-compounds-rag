@@ -1,0 +1,27 @@
+{
+  "source_file": "81_L-Aspartyl-L-Phenylalanine_Methyl_Ester.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **L-Aspartyl L-Phenylalanine Methyl Ester**.\n\n### Key Properties:\n1. **Sweetness**: This compound is known for its intensely sweet taste, which is why it was initially discovered when someone tasted their fingers after handling the compound.\n2. **Chemical Composition**:\n   - **Red atoms**: Oxygen (O)\n   - **White atoms**: Hydrogen (H)\n   - **Black atoms**: Carbon (C)\n   - **Blue atoms**: Nitrogen (N)\n3. **Double Bonds**: The gray sticks indicate the presence of double",
+      "latency_s": 16.46
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of L-Aspartyl-L-Phenylalanine Methyl Ester?",
+      "answer": "The molecular formula for L-Aspartyl-L-Phenylalanine Methyl Ester (also known as L-Asp-Phe-Me) can be determined by combining the formulas of its constituent amino acids and the methyl ester group.\n\n1. **L-Aspartic Acid (Asp)**:\n   - Formula: C4H7NO4\n\n2. **L-Phenylalanine (Phe)**:\n   - Formula: C9H11NO2\n\n3. **Methyl Ester (-COOCH3)**:\n   - Formula: C2H5O",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain why L-Aspartyl-L-Phenylalanine Methyl Ester is considered a dipeptide and how it compares to sucrose in terms of sweetness and caloric content.",
+      "answer": "L-Aspartyl-L-Phenylalanine Methyl Ester (APM) is indeed considered a dipeptide, which is a molecule composed of two amino acids linked together by a peptide bond. The structure of APM consists of the amino acid L-aspartic acid (aspartate) and the amino acid L-phenylalanine, with the carboxylic acid group of aspartate esterified with a methyl group.\n\n### Comparison to Sucrose\n\n**Sweetness:**\n- **Sucrose:** Sucrose, commonly known as table sugar or cane sugar, is a disacchar",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Discuss the solubility characteristics of L-Aspartyl-L-Phenylalanine Methyl Ester and its implications for use in food products.",
+      "answer": "L-Aspartyl-L-Phenylalanine Methyl Ester (APM) is a dipeptide ester that is widely used as an artificial sweetener due to its intense sweetness and low caloric value. It is derived from the amino acids L-aspartic acid and L-phenylalanine, which are joined by an ester bond between the carboxyl group of one amino acid and the hydroxyl group of the other.\n\n### Solubility Characteristics\n\n1. **Water Solubility**: APM is highly soluble in water. This property makes it easy to dissolve in beverages and other",
+      "latency_s": 10.42
+    }
+  ]
+}

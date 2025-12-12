@@ -1,0 +1,58 @@
+{
+  "compound_id": 121,
+  "compound_name": "Polyvinyl Chloride",
+  "source_file": "compound_121_Polyvinyl Chloride.json",
+  "main_entry_length": 1451,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0666_Polyvinyl_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is polyvinyl chloride (PVC). Its molecular structure consists of repeating units of vinyl chloride, where each unit includes carbon, hydrogen, and chlorine atoms. PVC is a versatile plastic known for its durability, chemical resistance, and low cost. It is widely used in construction, plumbing, and electrical insulation. PVC can be rigid or flexible, depending on the addition of plasticizers, making it suitable for a variety of applications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:55"
+    },
+    {
+      "question": "What is the chemical formula for Polyvinyl Chloride and which elements does it contain?",
+      "answer": "The chemical formula for Polyvinyl Chloride (PVC) is -[-CH2CHCl-]-n. It contains the elements carbon, hydrogen, and chlorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:26",
+      "char_limit": 1000,
+      "answer_length": 125
+    },
+    {
+      "question": "Discuss the solubility properties of Polyvinyl Chloride and the solvents in which it is soluble.",
+      "answer": "Polyvinyl chloride (PVC) is insoluble in water, but it is soluble in tetrahydrofuran, dimethylformamide, and dimethylsulfoxide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:27",
+      "char_limit": 1800,
+      "answer_length": 127
+    },
+    {
+      "question": "Explain why Polyvinyl Chloride does not have a boiling point and describe its decomposition behavior.",
+      "answer": "Polyvinyl Chloride (PVC) does not have a boiling point because it is an organic polymer. Polymers are large molecules composed of repeating structural units, which makes the concept of a boiling point not applicable as it is for small, discrete molecules. Instead of boiling, PVC decomposes when heated to 148°C (298°F). This decomposition behavior is typical for polymers, where instead of transitioning to a gas phase, the polymer undergoes a chemical breakdown at elevated temperatures.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:30",
+      "char_limit": 2000,
+      "answer_length": 489
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4127,
+  "updated_at": "2025-11-30 13:40:30",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

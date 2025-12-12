@@ -1,0 +1,47 @@
+{
+  "source_file": "67_Fructose.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows fructose. Fructose is a simple sugar, a type of carbohydrate composed of carbon, oxygen, and hydrogen. Its chemical formula can be represented as C6H12O6. The diagram depicts a ring structure with the following properties:\n\n- Red atoms are oxygen.\n- White atoms are hydrogen.\n- Black atoms are carbon.\n\n### Key Properties of Fructose:\n- **Molecular Structure**: Fructose is a monosaccharide, which means it is a single sugar molecule.\n- **Sugar Structure**: It has a ring structure, which is typical for simple sugars.\n- **Solubility**: Fructose is highly soluble in water.\n- **Sweetness**: Fructose is sweeter than glucose and sucrose.\n\n### Production Process:\nFructose is typically produced by hydrolysing beet sugar or inulin, which is the polysaccharide found in the roots of plants like dahlia and Jerusalem artichoke. After hydrolysis, the resulting mixture is treated with lime (calcium oxide, CaO) to extract the fructose. It is then refined by removing impurities left from the preparation process.\n\n### Common Uses and Potential Hazards:\n- **Common Uses**: Fructose is most commonly used as a sweetener and preservative in numerous food products.\n- **Potential Hazards**: While fructose is generally safe for",
+      "latency_s": 50.46,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "Fructose, a type of sugar commonly found in fruits and honey, has a chemical formula of C6H12O6. This formula indicates that it consists of six carbon (C) atoms, twelve hydrogen (H) atoms, and six oxygen (O) atoms.\n\n### Properties and Uses\n- **Molecular Structure**: Fructose is a ketohexose, meaning it has a ketone functional group (C=O) in the third position from the end. It is one of the most common hexose sugars.\n- **Sweetness**: Fructose is about 1.4 times as sweet as sucrose (table sugar) and is often used as a sugar substitute in health-conscious products due to its lower glycemic impact compared to sucrose.\n- **Occurrence**: It is found in fruits, honey, and some vegetables like tomatoes and potatoes.\n- **Metabolism**: Fructose is metabolized differently than glucose. It is primarily metabolized in the liver, which can lead to increased triglyceride levels and potential liver damage in some individuals.\n\n### Safety Information\n- **Toxicology**: Fructose is generally considered safe for human consumption. However, excessive consumption can lead to health issues like obesity, diabetes, and non-alcoholic fatty liver disease (NAFLD).\n- **Acute Toxicity**: It is not classified as toxic or harmful to humans according to standard toxicity tests.\n- **Concentration**: Prolonged contact with concentrated forms of fructose (e.g., pure fructose solutions) can irritate the eyes and gastrointestinal tract.\n\n### Additional Information Needed\nWhile the information provided gives a clear chemical formula and basic properties of fructose, more detailed information about its health effects, specific uses in various industries (such as food and beverage), and any potential hazards with high concentrations of the compound would be helpful for a comprehensive response. Additionally, information on the production methods of fructose and its role in various applications would enhance understanding of its broader implications.",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Fructose and sucrose are both examples of carbohydrates, specifically monosaccharides and disaccharides, respectively.\n\n### Fructose (Fru糖)\n- **Chemical Formula:** C6H12O6\n- **Structure:** Fructose is a hexose sugar, meaning it is composed of six carbon atoms bonded together in a ring with a hydroxyl group at each carbon except one. The structure of fructose is somewhat different from glucose (another hexose sugar) in that it is a ketose sugar, meaning it contains a ketone group (–C=O) instead of an aldehyde group (–CHO). The ketone group is located at the number 2 carbon.\n\nThe structural formula for fructose is:\n```\n    H\n    O\n  /  |  \\\nO=C-O-H\n    |\n    O\n```\nThe ketone group is at the 2 carbon, making it a ketose sugar.\n\n### Sucrose (Sugar)\n- **Chemical Formula:** C12H22O11\n- **Structure:** Sucrose is a disaccharide, which means it is composed of two monosaccharides joined together. Specifically, it is a glycoside of glucose and fructose, where fructose is joined to the 6-carbon position of glucose.\n\nThe structural formula for sucrose is:\n```\n   O-\n   |\nC12H22O11\n   |\n   |\n   |\n  O=C-O-H\n    |\n    O\n```\nHere, the fructose molecule (C6H12O6) is attached to the 6-carbon of the glucose molecule (C6H12O6).\n\n### Differences in Structure\n1. **Monosaccharide vs. Disaccharide:** Fructose is a monosaccharide, meaning it is a single sugar molecule. Sucrose is a disaccharide, meaning it is composed of two monosaccharides joined together.\n2. **Number of Carbon Atoms:** Fructose has 6 carbon atoms, while sucrose has 12 carbon atoms because it is made up of two fructose molecules.\n3. **Chemical Bonding:** Fructose and sucrose are connected in sucrose through a glycosidic bond, which involves the hydroxyl groups of glucose and fructose.\n\n### Safety Information\nBoth fructose",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "The provided context does not contain information specifically about the commercial production process of fructose. Instead, the sources primarily discuss topics such as the production and uses of acetic acid, the synthesis of mustard gas, and basic chemical terms and concepts. There is no direct mention of fructose or its production.\n\nTo provide a comprehensive answer about the commercial production process of fructose, the following information is typically relevant:\n\n1. **Production Process of Fructose:**\n   - Fructose is often produced from sucrose (table sugar) through the hydrolysis reaction using enzymes like invertase.\n   - A significant portion of fructose is manufactured industrially from glucose through a process called isomerization. Glucose is converted into fructose using an enzyme or a catalyst.\n\n2. **Chemical Formulas and Properties:**\n   - Fructose: C6H12O6 (a sugar)\n   - Glucose: C6H12O6 (another type of sugar)\n\n3. **Uses:**\n   - Fructose is used in the food and beverage industry for sweetening products due to its low glycemic index.\n   - It is used as a sugar substitute for individuals with diabetes or insulin resistance.\n   - It is also used in food manufacturing and pharmaceuticals.\n\n4. **Safety Information:**\n   - While fructose is generally considered safe for consumption, excessive consumption can lead to health issues such as weight gain and diabetes.\n   - It is important to distinguish between free sugars (like fructose) and naturally occurring sugars in whole foods.\n\nIf you are looking for more detailed information about the production of fructose or would like to know more about specific aspects of its production, please provide more specific questions or details, and I can help you find the most relevant information from the available sources or additional resources.",
+      "latency_s": 41.72,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5
+    }
+  ],
+  "regenerated_at": "2025-11-23 05:32:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "max_tokens_q1": 300,
+  "max_tokens_q2_q4": 500,
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 05:32:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

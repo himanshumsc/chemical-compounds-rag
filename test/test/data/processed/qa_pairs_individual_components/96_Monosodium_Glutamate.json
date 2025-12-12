@@ -1,0 +1,38 @@
+{
+  "compound_id": 92,
+  "compound_name": "Monosodium Glutamate",
+  "source_file": "compound_092_Monosodium Glutamate.json",
+  "main_entry_length": 4824,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0516_Monosodium_Glutamate_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:18",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is Monosodium Glutamate (MSG). In the diagram, red atoms represent oxygen, white atoms represent hydrogen, black atoms represent carbon, the blue atom represents nitrogen, and the turquoise atom represents sodium. MSG is known for enhancing flavors by providing the umami taste, which is savory and meaty. It is the sodium salt of glutamic acid and is highly soluble in water, allowing it to be used as a seasoning in various foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:38"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Monosodium Glutamate?",
+      "answer": "The chemical formula of Monosodium Glutamate is COOH(CH2)2CH(NH2)COONa, and its molecular weight is 169.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is Monosodium Glutamate produced commercially and what is the key process involved?",
+      "answer": "Monosodium Glutamate is produced commercially by hydrolysis and bacterial fermentation. Hydrolysis involves reacting water with raw materials like beet sugar refining waste, wheat, or corn gluten to break apart proteins and free amino acids, specifically glutamic acid. This glutamic acid is then separated, isolated, and purified. Bacterial fermentation is now the primary production method, where bacteria break down proteins into their component parts, including glutamic acid.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "What are the potential hazards of consuming Monosodium Glutamate, and how does its concentration affect its flavor-enhancing properties?",
+      "answer": "Monosodium Glutamate is considered safe for human consumption and is on the U.S. FDA's Generally Recognized as Safe (GRAS) list. However, its flavor-enhancing properties are dependent on its concentration in foods. At concentrations less than about 0.5%, it enhances the flavor of food products. Conversely, at greater concentrations, it can make the food taste bad.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

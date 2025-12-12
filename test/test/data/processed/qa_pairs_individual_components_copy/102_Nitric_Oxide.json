@@ -1,0 +1,36 @@
+{
+  "compound_id": 99,
+  "compound_name": "Nitric Oxide",
+  "source_file": "compound_099_Nitric Oxide.json",
+  "main_entry_length": 2684,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0548_Nitric_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Nitric Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitric oxide?",
+      "answer": "The chemical formula of nitric oxide is NO, and its molecular weight is 36.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how nitric oxide is formed in the atmosphere and its role in pollution.",
+      "answer": "Nitric oxide is formed in the atmosphere when nitrogen and oxygen react under high-energy conditions, such as those provided by lightning strikes or the combustion of fossil fuels in engines. This reaction occurs because the energy from these processes is sufficient to overcome the inertness of nitrogen and oxygen, allowing them to combine to form nitric oxide. Once formed, nitric oxide is a major component of air pollution as it readily oxidizes to form nitrogen dioxide, contributing to environmental pollution.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Describe the industrial uses of nitric oxide and its potential hazards.",
+      "answer": "Industrially, nitric oxide is used in the preparation of other nitrogen-containing compounds, such as nitrogen dioxide (NO2), nitric acid (HNO3), and nitrosyl chloride (NOCl). It also has applications in the bleaching of rayon and as a polymerization inhibitor for compounds like propylene and methyl ether. However, nitric oxide is considered an environmental pollutant because it oxidizes to form nitrogen dioxide, which can contribute to air pollution and have harmful environmental effects.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

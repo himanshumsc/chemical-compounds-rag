@@ -1,0 +1,58 @@
+{
+  "compound_id": 110,
+  "compound_name": "Phenol",
+  "source_file": "compound_110_Phenol.json",
+  "main_entry_length": 1487,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0610_Phenol_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:33",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of phenol. Phenol is an aromatic organic compound with the chemical formula C₆H₅OH. It consists of a benzene ring bonded to a hydroxyl group (-OH). Key properties of phenol include its role as a precursor to various industrial compounds and its use in the production of plastics, resins, and pharmaceuticals. Phenol is also a disinfectant and antiseptic but can be corrosive and toxic if not handled properly. Its production is significant, with about 6 million metric tons produced annually in the United States.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:26"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phenol?",
+      "answer": "The chemical formula of phenol is C6H5OH, and its molecular weight is 94.11 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:51",
+      "char_limit": 1000,
+      "answer_length": 82
+    },
+    {
+      "question": "Discuss the physical state and solubility properties of phenol.",
+      "answer": "Phenol is a white, crystalline solid with a characteristic odor and a sharp, burning taste. It has a molecular weight of 94.11 g/mol and a melting point of 40.89°C (105.6°F). Phenol is soluble in water and a variety of organic solvents, including ethyl alcohol, ether, chloroform, acetone, and benzene. It tends to absorb moisture from the air, converting into an aqueous solution that has a slightly sweet flavor.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:57",
+      "char_limit": 1800,
+      "answer_length": 414
+    },
+    {
+      "question": "Explain the historical significance of phenol and its discovery.",
+      "answer": "Phenol, also known as hydroxybenzene, carbolic acid, and several other names, has a significant historical background linked to its discovery and subsequent uses. It was first observed by the German chemist Johann Rudolf Glauber in the 17th century when he obtained phenol by condensing coal tar vapors. Coal tar is a byproduct of heating coal to make coke. Despite this early observation, phenol remained largely ignored for nearly 200 years.\n\nThe compound gained attention in 1834 when another German chemist, Friedlieb Ferdinand Runge, isolated phenol from coal tar and named it carbolic acid. This marked a critical point in phenol's history as it began to be recognized as a distinct compound. In 1843, French chemist Charles Frederic Gerhardt proposed the modern name \"phenol\" for the compound.\n\nPhenol's significance extends beyond its discovery, as it has become an important intermediary in chemical synthesis, contributing to the production of a wide range of chemicals. Its aromatic alcohol structure, characterized by a six-carbon ring similar to benzene with an added hydroxyl group, makes it a versatile compound in organic chemistry.",
+      "difficulty_level": "advanced",
+      "topic_category": "history",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:05",
+      "char_limit": 2000,
+      "answer_length": 1148
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7490,
+  "updated_at": "2025-11-30 13:38:05",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

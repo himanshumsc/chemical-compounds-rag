@@ -1,0 +1,58 @@
+{
+  "compound_id": 91,
+  "compound_name": "Methyl-t-butyl Ether",
+  "source_file": "compound_091_Methyl-t-butyl Ether.json",
+  "main_entry_length": 1432,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0510_Methyl-t-butyl_Ether_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:15",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is Methyl tert-butyl ether (MTBE). It is an organic compound used primarily as a fuel additive to increase the oxygen content in gasoline. The black atoms represent carbon, the red atom is oxygen, and the white atoms are hydrogen. MTBE helps fuels burn more efficiently and cleanly, reducing emissions. It became popular in the automotive fuel industry, with production significantly increasing in the 1980s due to its effectiveness in improving combustion and reducing air pollution.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Methyl-t-butyl Ether?",
+      "answer": "The chemical formula of Methyl-t-butyl Ether is (CH3)3COCH3, and its molecular weight is 88.15 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:13",
+      "char_limit": 1000,
+      "answer_length": 101
+    },
+    {
+      "question": "Explain the significance of Methyl-t-butyl Ether's azeotropic mixture with water.",
+      "answer": "Methyl-t-butyl ether (MTBE) forms an azeotropic mixture with water, which means that when the two are combined, they boil at the same temperature and cannot be easily separated by simple distillation. This characteristic is significant because it indicates that MTBE can interact closely with water, potentially influencing its behavior in applications where water is present. Azeotropic mixtures are noteworthy because they challenge traditional separation techniques, impacting processes that involve evaporation or condensation. MTBE's ability to form such a mixture highlights its unique chemical properties and potential implications for its use in industrial and commercial contexts where water is involved.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:15",
+      "char_limit": 1800,
+      "answer_length": 713
+    },
+    {
+      "question": "Discuss the historical context and environmental impact that led to the use of Methyl-t-butyl Ether as a gasoline additive.",
+      "answer": "Methyl-t-butyl ether (MTBE) was synthesized in the 1960s by researchers at the Atlantic Richfield Corporation (ARCO) as an additive to increase the octane number of gasoline. This development was in response to the need for a replacement for tetraethyl lead, commonly referred to as \"lead,\" which had been used to improve gasoline's octane number. Lead was gradually phased out of gasoline from 1973 to 1996 due to its dangerous environmental and health effects. \n\nIn 1990, MTBE found a new application when U.S. Congress passed legislation requiring changes in gasoline composition to ensure cleaner burning. MTBE, a volatile, colorless, and flammable ether, forms an azeotropic mixture with water, making it challenging to separate. Its solubility properties include being soluble in water and very soluble in ethyl alcohol and ether. These characteristics, coupled with its role as a replacement for lead, positioned MTBE as a suitable additive to meet the new regulatory demands for cleaner-burning gasoline.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:18",
+      "char_limit": 2000,
+      "answer_length": 1012
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2533,
+  "updated_at": "2025-11-30 14:10:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

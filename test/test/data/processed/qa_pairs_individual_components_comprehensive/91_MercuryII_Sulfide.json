@@ -1,0 +1,58 @@
+{
+  "compound_id": 87,
+  "compound_name": "Mercury(II) Sulfide",
+  "source_file": "compound_087_Mercury(II) Sulfide.json",
+  "main_entry_length": 2532,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0490_Mercury(II)_Sulfide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is mercury(II) sulfide (HgS). It consists of mercury and sulfur atoms, with the turquoise atom representing mercury and the yellow atom representing sulfur. Mercury(II) sulfide is known for its vibrant red or black color, depending on the form. The red form, known as vermillion or cinnabar, is commonly used as a pigment. It can be synthesized by heating mercury with sulfur or other chemical reactions. Historically, it has been used in traditional medicine and art, but it is toxic and should be handled with care.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:17"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Mercury(II) Sulfide?",
+      "answer": "The chemical formula of Mercury(II) Sulfide is HgS, and its molecular weight is 232.66 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:58",
+      "char_limit": 1000,
+      "answer_length": 93
+    },
+    {
+      "question": "Describe the solubility characteristics of Mercury(II) Sulfide and its behavior upon heating.",
+      "answer": "Mercury(II) sulfide (HgS), also known as cinnabar or vermillion, is an inorganic salt characterized by its solid state and molecular weight of 232.66 g/mol. It is insoluble in water, alcohol, and most acids, but it is soluble in aqua regia. Mercury(II) sulfide exists in two forms: red (cinnabar) and black (metacinnabar). When heated, red mercury(II) sulfide begins to change color at about 250°C (500°F) and converts to the black form at 386°C (727°F). Sublimation occurs at 583.5°C (1,082°F), where it changes directly from a solid to a gas without melting. Upon cooling, it reverts to its original red color. The black form undergoes a similar transition, converting to red before sublimation. These temperature values can vary according to different authoritative sources.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:01",
+      "char_limit": 1800,
+      "answer_length": 777
+    },
+    {
+      "question": "Explain the synthesis process of Mercury(II) Sulfide and how its different forms are produced.",
+      "answer": "Mercury(II) sulfide (HgS) can be synthesized both naturally and synthetically. The red form, commonly known as cinnabar, occurs naturally as a mineral. It can also be produced synthetically by heating mercury and sulfur together in their gaseous states or by heating mercury with a solution of potassium pentasulfide (K₂S₅). The synthetic product is often referred to as English vermillion or simply vermillion. Black mercury(II) sulfide, or metacinnabar, is rarely found in nature but can be synthesized by reacting sodium thiosulfate (Na₂S₂O₃) with sodium mercurichloride (Na₂HgCl₄).\n\nBoth forms of mercury(II) sulfide undergo color changes with temperature. Red mercury(II) sulfide changes color when heated to about 250°C and converts to the black form at 386°C. It sublimes at 583.5°C and reverts to its original red color upon cooling. Black mercury(II) sulfide undergoes a similar transition, changing to red before melting at the same sublimation temperature of 583.5°C.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:04",
+      "char_limit": 2000,
+      "answer_length": 978
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3935,
+  "updated_at": "2025-11-30 14:10:04",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

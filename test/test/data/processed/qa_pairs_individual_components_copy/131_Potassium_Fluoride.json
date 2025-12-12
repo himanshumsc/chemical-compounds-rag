@@ -1,0 +1,36 @@
+{
+  "compound_id": 127,
+  "compound_name": "Potassium Fluoride",
+  "source_file": "compound_127_Potassium Fluoride.json",
+  "main_entry_length": 2037,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0694_Potassium_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:47",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Fluoride.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Fluoride?",
+      "answer": "The chemical formula of Potassium Fluoride is KF, and its molecular weight is 58.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of Potassium Fluoride in different solvents.",
+      "answer": "Potassium Fluoride is soluble in cold water, very soluble in hot water, insoluble in ethyl alcohol, and soluble in hydrofluoric acid (H2F2).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of synthesizing Potassium Fluoride from potassium carbonate and hydrofluoric acid.",
+      "answer": "Potassium Fluoride can be synthesized by first dissolving potassium carbonate (K2CO3) in hydrofluoric acid (H2F2), which results in the formation of potassium bifluoride (KHF2) along with carbon dioxide (CO2) and water (H2O). The equation for this reaction is: K2CO3 + 2H2F2 → 2KHF2 + CO2 + H2O. The potassium bifluoride is then heated to form potassium fluoride (KF) and hydrogen fluoride (HF): KHF2 → KF + HF.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

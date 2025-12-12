@@ -1,0 +1,59 @@
+2025-11-23 04:14:18,144 [INFO] ======================================================================
+2025-11-23 04:14:18,144 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-23 04:14:18,144 [INFO] ======================================================================
+2025-11-23 04:14:18,144 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-23 04:14:18,144 [INFO] Output directory: /home/himanshu/dev/output/qwen_rag
+2025-11-23 04:14:18,144 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-23 04:14:18,144 [INFO] Max tokens: 500
+2025-11-23 04:14:18,144 [INFO] vLLM available: True
+2025-11-23 04:14:18,144 [INFO] ChromaDB available: True
+2025-11-23 04:14:18,144 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-23 04:14:18,144 [INFO] Test limit: 1
+2025-11-23 04:14:18,144 [INFO] ======================================================================
+2025-11-23 04:14:18,144 [INFO] Initializing model...
+2025-11-23 04:14:19,124 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-23 04:14:22,652 [INFO] ChromaDB search system initialized successfully
+2025-11-23 04:14:22,652 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-23 04:14:22,652 [INFO] vLLM is REQUIRED - no Transformers fallback available
+2025-11-23 04:14:24,535 [ERROR] CRITICAL: Failed to initialize vLLM: [Errno 32] Broken pipe
+2025-11-23 04:14:24,553 [ERROR] vLLM initialization error details: Traceback (most recent call last):
+  File "/home/himanshu/dev/code/multimodal_qa_runner_vllm.py", line 120, in __init__
+    self.vllm_llm = LLM(
+                    ^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 343, in __init__
+    self.llm_engine = LLMEngine.from_engine_args(
+                      ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/llm_engine.py", line 174, in from_engine_args
+    return cls(
+           ^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/llm_engine.py", line 108, in __init__
+    self.engine_core = EngineCoreClient.make_client(
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 93, in make_client
+    return SyncMPClient(vllm_config, executor_class, log_stats)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 640, in __init__
+    super().__init__(
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/core_client.py", line 469, in __init__
+    with launch_core_engines(vllm_config, executor_class, log_stats) as (
+  File "/usr/lib64/python3.11/contextlib.py", line 137, in __enter__
+    return next(self.gen)
+           ^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/utils.py", line 889, in launch_core_engines
+    local_engine_manager = CoreEngineProcManager(
+                           ^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/utils.py", line 151, in __init__
+    proc.start()
+  File "/usr/lib64/python3.11/multiprocessing/process.py", line 121, in start
+    self._popen = self._Popen(self)
+                  ^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.11/multiprocessing/context.py", line 281, in _Popen
+    return Popen(process_obj)
+           ^^^^^^^^^^^^^^^^^^
+  File "/usr/lib64/python3.11/multiprocessing/popen_fork.py", line 16, in __init__
+    util._flush_std_streams()
+  File "/usr/lib64/python3.11/multiprocessing/util.py", line 438, in _flush_std_streams
+    sys.stdout.flush()
+BrokenPipeError: [Errno 32] Broken pipe
+
+2025-11-23 04:14:24,554 [ERROR] vLLM is REQUIRED - cannot proceed without it. Exiting.

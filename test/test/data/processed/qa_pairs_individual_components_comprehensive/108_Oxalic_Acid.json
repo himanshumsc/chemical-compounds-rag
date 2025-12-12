@@ -1,0 +1,58 @@
+{
+  "compound_id": 104,
+  "compound_name": "Oxalic Acid",
+  "source_file": "compound_104_Oxalic Acid.json",
+  "main_entry_length": 2980,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0576_Oxalic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows oxalic acid. Key properties of oxalic acid include:\n\n1. **Chemical Formula**: C₂H₂O₄.\n2. **Structure**: It contains two carboxylic acid groups, as indicated by the presence of carbon (black), oxygen (red), and hydrogen (white) atoms.\n3. **Occurrence**: Found naturally in foods like spinach, rhubarb, and nuts, and produced in animals as a product of carbohydrate metabolism.\n4. **Uses**: Commonly used in cleaning, bleaching, and rust removal.\n5. **Hazards**: Toxic if ingested in large amounts, it can bind with calcium and form kidney stones.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:17"
+    },
+    {
+      "question": "What is the chemical formula of oxalic acid and what type of compound is it?",
+      "answer": "The chemical formula of oxalic acid is HOOCCOOH. It is a dicarboxylic acid and is classified as an organic acid.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:41",
+      "char_limit": 1000,
+      "answer_length": 112
+    },
+    {
+      "question": "Describe the solubility properties of oxalic acid in different solvents.",
+      "answer": "Oxalic acid is soluble in water and ethyl alcohol. It is slightly soluble in ether and insoluble in most other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:42",
+      "char_limit": 1800,
+      "answer_length": 128
+    },
+    {
+      "question": "Explain how the synthesis of oxalic acid by Friedrich Wöhler contributed to the development of chemistry.",
+      "answer": "Friedrich Wöhler's synthesis of oxalic acid was significant in the development of chemistry because it disproved the Vitalistic Theory. This theory posited that compounds found in living organisms could only be produced by supernatural means and not by human action. Wöhler's ability to synthesize oxalic acid entirely from inorganic materials demonstrated that organic compounds could be artificially created in a laboratory setting, challenging the idea that a special \"vital force\" was necessary for the synthesis of organic substances. This marked a pivotal moment in chemistry, as it laid the groundwork for the field of organic chemistry and the understanding that organic compounds could be synthesized from inorganic materials.",
+      "difficulty_level": "advanced",
+      "topic_category": "history",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:44",
+      "char_limit": 2000,
+      "answer_length": 735
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4753,
+  "updated_at": "2025-11-30 13:36:44",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 139,
+  "compound_name": "Silver Iodide",
+  "source_file": "compound_139_Silver Iodide.json",
+  "main_entry_length": 2933,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0752_Silver_Iodide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:39",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents silver iodide (AgI). Silver iodide is a compound consisting of silver and iodine atoms. It is primarily used in photography and cloud seeding. In photography, silver iodide was historically used to create images by converting silver ions to metallic silver upon exposure to light. In cloud seeding, it acts as a nucleus for water droplets to form, potentially inducing rain. Silver iodide is light-sensitive and must be handled with care due to its potential environmental impact.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:13"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Iodide?",
+      "answer": "The chemical formula of Silver Iodide is AgI, and its molecular weight is 234.77 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the process by which Silver Iodide is used in photography.",
+      "answer": "In photography, Silver Iodide is used by first covering a sheet of copper metal with a thin layer of silver. This plate is then exposed to iodine vapors, converting the silver metal to silver iodide. When the plate is exposed to light, the colorless silver ions in the silver iodide are converted back to grayish silver atoms, creating a latent image. The exposed plate is then treated with magnesium vapor, which adheres to the light-exposed areas, and the unreacted silver iodide is washed off, revealing the photograph.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the chemical reaction used to synthesize Silver Iodide from silver nitrate and sodium iodide. Why is ruby red light used during this process?",
+      "answer": "Silver Iodide is synthesized by reacting silver nitrate (AgNO3) with sodium iodide (NaI) according to the reaction: AgNO3 + NaI -> AgI + NaNO3. Ruby red light is used during this process to prevent the oxidation of silver ions (Ag+) to silver metal, which can occur under normal light conditions. The ruby red light minimizes this oxidation, ensuring the purity of the Silver Iodide produced.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

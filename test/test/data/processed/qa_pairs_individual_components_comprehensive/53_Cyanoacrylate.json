@@ -1,0 +1,58 @@
+{
+  "compound_id": 50,
+  "compound_name": "Cyanoacrylate",
+  "source_file": "compound_050_Cyanoacrylate.json",
+  "main_entry_length": 1505,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0310_Cyanoacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of cyanoacrylate. Key properties of cyanoacrylate include:\n\n1. **Strong Adhesive**: Cyanoacrylate is a powerful adhesive that bonds quickly to a variety of surfaces upon contact with moisture.\n\n2. **Fast-Acting**: It polymerizes rapidly, forming strong bonds almost instantly, which is why it's commonly used in \"super glues.\"\n\n3. **Medical Use**: Initially developed for military purposes, it was later approved for medical applications, such as sealing wounds.\n\n4. **Components**: It comprises carbon (black), hydrogen (white), nitrogen (blue), and...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:08"
+    },
+    {
+      "question": "What is the chemical formula and molar mass of methyl cyanoacrylate?",
+      "answer": "The chemical formula of methyl cyanoacrylate is CH2=C(CN)COOCH3, and its molar mass is 111.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:31",
+      "char_limit": 1000,
+      "answer_length": 100
+    },
+    {
+      "question": "Explain the solubility and reactivity of cyanoacrylate with water.",
+      "answer": "Cyanoacrylate is an organic ester that reacts with water, initiating a polymerization reaction. This reaction is the basis for its strong bonding properties, as the esters form polymers that adhere to materials upon contact. Cyanoacrylate is soluble in organic solvents such as acetone, toluene, methylene chloride, and others, but not in water due to the reaction that occurs. This quick polymerization in the presence of water is what makes cyanoacrylate effective as an adhesive, forming strong bonds almost instantaneously.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:36",
+      "char_limit": 1800,
+      "answer_length": 527
+    },
+    {
+      "question": "Describe the process and significance of cyanoacrylate polymerization in adhesive applications.",
+      "answer": "Cyanoacrylate is a type of ester that serves as a powerful adhesive due to its rapid polymerization process. The chemical formula for the methyl ester variant is CH2=C(CN)COOCH3. When cyanoacrylates come into contact with water, they undergo a polymerization reaction. This reaction involves the molecules of the ester forming long chains, or polymers, which result in strong bonds with the materials they contact.\n\nThe significance of this polymerization process lies in its speed and strength. Cyanoacrylates form bonds almost instantaneously, making them ideal for applications where quick and strong adhesion is needed. This property has made cyanoacrylates the primary ingredient in popular adhesives like Super Glue™, Krazy Glue™, and several other products used for bonding surfaces together.\n\nCyanoacrylates were discovered in 1942 by researchers Harry Coover and Fred Joiner at Eastman Kodak Laboratories. The adhesive properties of cyanoacrylates led to their exploration for military applications, such as sealing wounds, highlighting their utility in critical and diverse situations.\n\nHowever, cyanoacrylates can be skin and eye irritants and should be used with proper ventilation to prevent respiratory issues from exposure to the gas. Despite these cautionary notes, the rapid and strong bonding capabilities of cyanoacrylates make them invaluable in both industrial and consumer applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:41",
+      "char_limit": 2000,
+      "answer_length": 1408
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3597,
+  "updated_at": "2025-11-30 14:00:41",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

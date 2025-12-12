@@ -1,0 +1,58 @@
+{
+  "compound_id": 26,
+  "compound_name": "Caffeine",
+  "source_file": "compound_026_Caffeine.json",
+  "main_entry_length": 1436,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0188_Caffeine_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:43",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of caffeine. Caffeine is a stimulant belonging to the class of alkaloids known as methylxanthines. It is commonly found in coffee, tea, and chocolate and is known for temporarily warding off drowsiness and restoring alertness. The structure includes carbon (black), hydrogen (white), nitrogen (blue), and oxygen (red) atoms. Caffeine works by blocking adenosine receptors in the brain, which prevents the onset of drowsiness.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:59"
+    },
+    {
+      "question": "What is the chemical formula of caffeine and which elements does it consist of?",
+      "answer": "The chemical formula of caffeine is C8H10N4O2. It consists of the elements carbon, hydrogen, nitrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:31",
+      "char_limit": 1000,
+      "answer_length": 114
+    },
+    {
+      "question": "Describe the physical state and solubility characteristics of caffeine based on the given information.",
+      "answer": "Caffeine is a solid organic base that naturally occurs as a fleecy white crystalline material, often in the form of long, silky needles. It typically exists as the monohydrate, C8H10N4O2·H2O, but it readily loses its water of hydration when exposed to air. Caffeine is slightly soluble in water and alcohol and is soluble in chloroform.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:35",
+      "char_limit": 1800,
+      "answer_length": 336
+    },
+    {
+      "question": "Explain the significance of caffeine's melting and sublimation points and how these properties might affect its practical use.",
+      "answer": "Caffeine has a melting point of 238°C (460°F) and begins to sublime at about 90°C (190°F). These thermal properties are significant for its practical use. The relatively high melting point indicates that caffeine is stable as a solid under normal conditions, which is beneficial for storage and handling. The sublimation property, where caffeine transitions from solid to gas without passing through a liquid state, starting at a much lower temperature, is particularly useful for purification processes. Sublimation can be used to separate caffeine from impurities without the need for solvents, which is advantageous in producing pure caffeine for food, beverages, and pharmaceuticals. The ability to sublime at a lower temperature also facilitates its extraction and use in various applications where liquid phases might be undesirable or impractical.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:40",
+      "char_limit": 2000,
+      "answer_length": 854
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4802,
+  "updated_at": "2025-11-30 13:55:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

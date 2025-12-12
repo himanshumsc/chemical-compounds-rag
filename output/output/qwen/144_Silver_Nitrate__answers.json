@@ -1,0 +1,27 @@
+{
+  "source_file": "144_Silver_Nitrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows silver nitrate (AgNO₃). Key properties of silver nitrate include:\n\n1. **Chemical Composition**: Silver nitrate consists of one silver atom (Ag), one nitrogen atom (N), and three oxygen atoms (O).\n2. **Appearance**: It appears as a white crystalline solid.\n3. **Solubility**: Silver nitrate is highly soluble in water.\n4. **Toxicity**: It is toxic if ingested or inhaled, and can cause irritation to the eyes and skin.\n5. **Photographic Use**: Historically, it has been used in",
+      "latency_s": 16.75
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Nitrate?",
+      "answer": "The chemical formula for silver nitrate is \\( \\text{AgNO}_3 \\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Silver (Ag) has an atomic weight of approximately 107.87 g/mol.\n- Nitrogen (N) has an atomic weight of approximately 14.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nThe formula \\( \\text{AgNO}_3 \\) contains:\n- 1 atom of Silver (Ag)\n- 1 atom of",
+      "latency_s": 10.68
+    },
+    {
+      "question": "Describe the solubility characteristics of Silver Nitrate and its behavior in the presence of light.",
+      "answer": "Silver nitrate (AgNO₃) is a highly soluble compound in water, which means it dissolves readily to form a clear solution. This solubility is due to the strong ionic bonds between silver ions (Ag⁺) and nitrate ions (NO₃⁻). In aqueous solutions, Ag⁺ ions are highly mobile and can interact with other ions or molecules in the solution.\n\n### Solubility Characteristics:\n1. **Solubility in Water**: Silver nitrate is highly soluble in water. At room temperature, approximately 250 grams of AgNO₃ can dissolve in 100 grams",
+      "latency_s": 10.68
+    },
+    {
+      "question": "How has Silver Nitrate been historically used in medicine, and what are some of its current applications?",
+      "answer": "Silver nitrate has a long history of use in medicine, primarily due to the antimicrobial properties of silver ions. Here's an overview of its historical uses and current applications:\n\n### Historical Uses:\n1. **Antiseptic**: Silver nitrate was widely used as an antiseptic for wounds and ulcers. It was applied directly to the skin or inserted into wounds to prevent infection.\n2. **Treatment of Eye Diseases**: Due to its ability to kill bacteria, silver nitrate was also used to treat eye infections and other eye diseases.\n3. **Dental Applications**: Historically, silver nitrate was used in dental procedures,",
+      "latency_s": 10.68
+    }
+  ]
+}

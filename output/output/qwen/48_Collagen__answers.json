@@ -1,0 +1,27 @@
+{
+  "source_file": "48_Collagen.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image does not contain a molecular structure diagram; instead, it provides information about collagen, a protein found in connective tissues of the body. Collagen is composed of amino acids linked together to form long chains called polypeptides. These polypeptide chains then intertwine with each other in groups of three to form larger molecules known as procollagen or \"early collagen.\" Procollagen is then cut into smaller pieces by specific enzymes to form the final collagen structure.\n\nKey properties of collagen include:\n- It is flexible but not stretchy.\n- It is not stretchy and will tear if pulled strongly.\n- It is a primary",
+      "latency_s": 16.58
+    },
+    {
+      "question": "What elements make up collagen and what is its compound type?",
+      "answer": "Collagen is a protein that is found in many parts of the body, including skin, bones, tendons, and ligaments. It is composed primarily of three polypeptide chains: alpha-1, alpha-2, and alpha-3. These chains are arranged in a triple helix structure, which gives collagen its strength and flexibility.\n\nThe compound type of collagen is a protein. Proteins are large molecules made up of smaller units called amino acids. Collagen's unique structure allows it to provide structural support and elasticity to tissues, making it essential for maintaining the health and integrity of various organs and tissues in the body.",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe the molecular structure of collagen and the role of amino acids in its formation.",
+      "answer": "Collagen is a protein that is found in many parts of the body, including skin, bones, tendons, and ligaments. It is the most abundant protein in the human body and plays a crucial role in maintaining the structural integrity of these tissues.\n\nThe molecular structure of collagen consists of three polypeptide chains that are coiled around each other to form a triple helix. Each of these chains is made up of repeating units called Glycine-lysine-proline (Gly-X-Pro) or Glycine-hydroxylysine-hydroxyproline (Gly-X-Hyp). The repeating units are connected",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Discuss the different types of collagen and their specific roles in the body.",
+      "answer": "Collagen is a protein that is found in many parts of the human body, including skin, bones, tendons, ligaments, and blood vessels. It is the most abundant protein in the body and plays a critical role in maintaining the structure and function of various tissues.\n\nThere are three main types of collagen: Type I, Type II, and Type III. Each type has its own unique properties and functions within the body.\n\nType I Collagen:\nThis is the most abundant form of collagen in the body and is responsible for providing strength and structure to connective tissues such as skin, tendons, ligaments, and bones. It",
+      "latency_s": 10.37
+    }
+  ]
+}

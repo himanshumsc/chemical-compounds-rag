@@ -1,0 +1,58 @@
+{
+  "compound_id": 115,
+  "compound_name": "Polymethyl Methacrylate",
+  "source_file": "compound_115_Polymethyl Methacrylate.json",
+  "main_entry_length": 4436,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0634_Polymethyl_Methacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents polymethyl methacrylate (PMMA). PMMA is a transparent thermoplastic often used as a lightweight and shatter-resistant alternative to glass. Key properties include:\n\n1. **Transparency**: It allows up to 92% of visible light to pass through.\n2. **Durability**: Resistant to weathering and UV light.\n3. **Lightweight**: Less dense than glass.\n4. **Versatility**: Used in applications like lenses, screens, and acrylic glass.\n\nIt is commonly marketed under trade names like Plexiglas® and Lucite®.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:35"
+    },
+    {
+      "question": "What elements make up the compound Polymethyl Methacrylate (PMMA), and what is its chemical formula?",
+      "answer": "Polymethyl Methacrylate (PMMA) is composed of carbon, hydrogen, and oxygen. Its chemical formula is represented as -[-CH2C(CH3)(COOH)CH2-]-n.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:45",
+      "char_limit": 1000,
+      "answer_length": 141
+    },
+    {
+      "question": "Explain why Polymethyl Methacrylate (PMMA) is preferred over glass for certain applications.",
+      "answer": "Polymethyl Methacrylate (PMMA) is preferred over glass in certain applications because it is more transparent, less dense, stronger, and shatterproof. PMMA is six to seventeen times more resistant to breakage than glass. Another advantage is that if PMMA does break, it falls apart into dull-edged pieces, reducing the risk of injury compared to glass. Additionally, PMMA exhibits a phenomenon known as total internal reflection, allowing a light beam to transmit through a solid tube made of PMMA, reflecting off the inner surface and transmitting around corners and bends. This property is useful in applications requiring light transmission. Furthermore, PMMA's resistance to water, inorganic acids, and bases, along with its thermoplastic properties, makes it versatile for various uses, including windshields, visors, advertising signs, contact lenses, and ophthalmology applications like replacement lenses for the eye. These characteristics make PMMA a preferred choice over glass for many applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:50",
+      "char_limit": 1800,
+      "answer_length": 1010
+    },
+    {
+      "question": "Describe the process of manufacturing Polymethyl Methacrylate (PMMA) starting from its monomer.",
+      "answer": "Polymethyl Methacrylate (PMMA) is manufactured starting from its monomer, methyl methacrylate (CH2=C(CH3)COOCH3). The production of methyl methacrylate involves a reaction between acetone cyanohydrin ((CH3)2COHCN) and methanol (CH3OH) in the presence of a sulfuric acid catalyst. Once the monomer is prepared, polymerization can be initiated using heat, radiation, or free-radical initiators. During the polymerization process, the monomer molecules link together to form long chains, turning into PMMA.\n\nOne common method of processing PMMA involves passing the liquid polymer between two polished stainless steel belts set to the desired thickness for acrylic sheets. After shaping, the material undergoes a curing process involving controlled cooling and heating. The final acrylic product is then cut to the required sizes at the end of the production line. This process results in PMMA, a clear, thermoplastic resin that can be repeatedly heated and cooled without significant degradation, making it suitable for various applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:54",
+      "char_limit": 2000,
+      "answer_length": 1039
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5460,
+  "updated_at": "2025-11-30 13:38:54",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

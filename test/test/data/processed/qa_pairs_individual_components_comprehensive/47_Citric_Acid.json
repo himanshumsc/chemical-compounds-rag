@@ -1,0 +1,58 @@
+{
+  "compound_id": 44,
+  "compound_name": "Citric Acid",
+  "source_file": "compound_044_Citric Acid.json",
+  "main_entry_length": 1496,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0284_Citric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of citric acid. Citric acid is an organic compound with the formula C₆H₈O₇. It's characterized by three carboxyl groups, making it a tricarboxylic acid, and is a key intermediate in the citric acid cycle (Krebs cycle), which is crucial for energy production in cells. Citric acid is also known for its antioxidant properties, helping neutralize free radicals and potentially reducing damage to healthy cells. It is commonly found in citrus fruits and is used as a preservative and flavoring agent in the food industry.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:48"
+    },
+    {
+      "question": "What is the chemical formula of citric acid and what elements does it consist of?",
+      "answer": "The chemical formula of citric acid is HOOCCH2C(OH)(COOH)CH2COOH. It consists of the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:31",
+      "char_limit": 1000,
+      "answer_length": 123
+    },
+    {
+      "question": "Explain the solubility properties of citric acid and what this implies about its interactions with different solvents.",
+      "answer": "Citric acid is soluble in water, alcohol, ether, and other organic solvents. This solubility suggests that citric acid can easily dissolve in a variety of solvent environments, making it versatile for use in different chemical processes and formulations. Its ability to dissolve in water and other polar solvents indicates that it can interact effectively with polar molecules, while its solubility in less polar solvents like ether suggests some compatibility with non-polar environments. This wide range of solubility properties means citric acid can be utilized in numerous applications, including food, drinks, medicines, and industrial processes, where its solubility aids in its dispersion and reactivity within those mediums.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:36",
+      "char_limit": 1800,
+      "answer_length": 732
+    },
+    {
+      "question": "Discuss the role of citric acid in metabolism and its significance in biological systems.",
+      "answer": "Citric acid, also known as 2-hydroxy-1,2,3-propanetricarboxylic acid, plays a crucial role in metabolism within biological systems. It is a key compound in the citric acid cycle, a series of chemical reactions that are essential for the breakdown of carbohydrates, fats, and proteins to produce energy. This cycle is fundamental to cellular respiration, as it helps convert these macromolecules into energy and other compounds necessary for building new cells and tissues. Citric acid is found in plant and animal tissues, with high concentrations in citrus fruits. Its presence in the cycle underscores its significance in energy production and metabolic processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:38",
+      "char_limit": 2000,
+      "answer_length": 666
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4331,
+  "updated_at": "2025-11-30 13:59:38",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

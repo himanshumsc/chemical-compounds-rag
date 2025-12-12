@@ -1,0 +1,38 @@
+{
+  "compound_id": 153,
+  "compound_name": "Sodium Polyacrylate",
+  "source_file": "compound_153_Sodium Polyacrylate.json",
+  "main_entry_length": 1311,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0824_Sodium_Polyacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:38",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium polyacrylate. This compound consists of sodium ions and polyacrylate chains, where the red atoms represent oxygen, white atoms are hydrogen, black atoms are carbon, and the turquoise atom is sodium. Sodium polyacrylate is known for its high absorbency and ability to form a gel-like substance when it comes into contact with water. It's widely used in products like diapers and other absorbent materials. The polymer chains can cross-link, forming a mesh that expands when hydrated.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:59"
+    },
+    {
+      "question": "What is the chemical formula representation of Sodium Polyacrylate?",
+      "answer": "The chemical formula representation of Sodium Polyacrylate is -[-CH2-CH(COONa)-]n-, indicating it is a polymer made up of repeating units of sodium acrylate.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility behavior of Sodium Polyacrylate in water.",
+      "answer": "Sodium Polyacrylate is insoluble in water but can swell significantly when in contact with water. This swelling is due to its ability to absorb large amounts of fluid, up to 800 times its volume, which makes it useful in applications like disposable diapers where fluid absorption is critical.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process by which Sodium Polyacrylate is synthesized.",
+      "answer": "Sodium Polyacrylate is synthesized through a reaction between acrylic acid (H2C=CHCOOH) and its sodium salt (H2C=CHCOONa). This reaction forms a long-chain copolymer consisting of alternating units of acrylic acid and sodium acrylate. This type of polymer, known as a copolymer, is made from two different monomers, which in this case are acrylic acid and sodium acrylate.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

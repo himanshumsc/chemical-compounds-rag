@@ -1,0 +1,27 @@
+{
+  "source_file": "127_Potassium_Bisulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Potassium Bisulfate (KHSO₄). Key properties of Potassium Bisulfate include:\n\n1. **Structure**: It consists of one potassium atom (yellow), one sulfur atom (yellow), four oxygen atoms (red), and one hydrogen atom (white).\n2. **Functionality**:\n   - It acts as a preservative in foods by interfering with the growth of insects, bacteria, and fungi that cause food spoilage.\n   - It serves as a leavening agent in cake mixes.\n   - In the wine industry, it converts certain compounds naturally found in grapes into potassium bitar",
+      "latency_s": 16.88
+    },
+    {
+      "question": "What is the chemical formula of Potassium Bisulfate and which elements does it contain?",
+      "answer": "The chemical formula for Potassium Bisulfate is \\( \\text{KHSO}_4 \\).\n\nThis compound contains the following elements:\n- Potassium (K)\n- Hydrogen (H)\n- Sulfur (S)\n- Oxygen (O)\n\nIn this formula, each element's symbol represents one atom of that element in the molecule. The subscript numbers indicate how many atoms of each element are present in the molecule.",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Explain the process of how Potassium Bisulfate is typically made.",
+      "answer": "Potassium bisulfate, also known as potassium hydrogen sulfate or potassium hydrogen sulfite, is an inorganic compound with the chemical formula KHSO4. It is a white crystalline solid that dissolves readily in water and is used in various industrial processes.\n\nThe production of potassium bisulfate typically involves the following steps:\n\n1. **Sulfuric Acid Production**: The first step in producing potassium bisulfate is to produce sulfuric acid (H2SO4). This is usually done by the contact process, where sulfur dioxide (SO2) is oxidized to sulfur trioxide (SO3), which then reacts with",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Discuss the properties of Potassium Bisulfate that make it suitable as a food additive and any potential hazards associated with its use.",
+      "answer": "Potassium bisulfate, also known as potassium hydrogen sulfate or potassium sulfite, is a chemical compound with the formula KHSO4. It is a white crystalline solid that is soluble in water. Potassium bisulfate has several properties that make it suitable for use as a food additive:\n\n1. **Antioxidant Properties**: Potassium bisulfate acts as an antioxidant by scavenging free radicals, which can help prevent the oxidation of fats and oils in food products. This property makes it useful in extending the shelf life of foods.\n\n2. **Preservative**: It can inhibit the growth of microorganisms such as",
+      "latency_s": 10.65
+    }
+  ]
+}

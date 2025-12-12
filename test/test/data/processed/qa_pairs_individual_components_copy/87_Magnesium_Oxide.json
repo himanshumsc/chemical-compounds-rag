@@ -1,0 +1,36 @@
+{
+  "compound_id": 83,
+  "compound_name": "Magnesium Oxide",
+  "source_file": "compound_083_Magnesium Oxide.json",
+  "main_entry_length": 2807,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0470_Magnesium_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:43",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Magnesium Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula for Magnesium Oxide and what elements does it contain?",
+      "answer": "The chemical formula for Magnesium Oxide is MgO, and it contains the elements magnesium and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the different methods used to prepare Magnesium Oxide and how they affect its chemical reactivity.",
+      "answer": "Magnesium Oxide can be prepared using several methods: Dead-burning involves heating magnesium hydroxide or carbonate to 1,500°C to 2,000°C, producing a largely unreactive product. Hard-burning heats them to 1,000°C to 1,500°C, retaining some reactivity. Light-burning is done at 700°C to 1,000°C, resulting in a product with more reactivity. Fusion involves heating beyond 2,650°C to produce a dense, inert product.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "How are the specific forms of Magnesium Oxide used in various industries, and what are the hazards associated with its use?",
+      "answer": "Dead-burned Magnesium Oxide is used as refractory brick in cement kilns, furnaces, and crucibles, and in steel manufacturing equipment. Hard-burned Magnesium Oxide is used in fertilizer and animal feed production, and in extracting uranium oxide. While the compound itself is generally safe, the production processes involve high temperatures that can present hazards if not managed properly.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

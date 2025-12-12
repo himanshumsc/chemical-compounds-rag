@@ -1,0 +1,27 @@
+{
+  "source_file": "45_Cholesterol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cholesterol. Cholesterol is a sterol, which means it is a type of lipid that contains a steroid nucleus. The key properties of cholesterol include:\n\n1. **Chemical Composition**: Cholesterol consists of carbon (black atoms), hydrogen (white atoms), and oxygen (red atom). It has a complex ring structure with a hydroxyl group attached to one of the rings.\n\n2. **Function in the Body**: Cholesterol plays a crucial role in various biological processes:\n   - It is essential for the formation of cell membranes.\n   - It is a precursor for the synthesis of bile acids,",
+      "latency_s": 16.71
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of cholesterol?",
+      "answer": "The chemical formula for cholesterol is C27H46O. \n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C): 12.01 g/mol × 27 = 324.27 g/mol\n- Hydrogen (H): 1.008 g/mol × 46 = 46.37 g/mol\n- Oxygen (O): 16.00 g/mol × 1 = 16.00 g/mol\n\nAdding these together gives us the total molecular weight:\n\\[",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Explain the solubility properties of cholesterol and the types of solvents in which it dissolves.",
+      "answer": "Cholesterol is a sterol, a type of lipid that is insoluble in water but soluble in organic solvents. This property is due to its hydrophobic nature, meaning that it does not interact well with polar or ionic substances like water.\n\n### Solubility Properties:\n1. **Hydrophobic Nature**: Cholesterol has a hydrophobic core composed of a steroid nucleus, which is non-polar and does not dissolve easily in water. The polar groups (like the hydroxyl group) are relatively small and do not significantly increase the molecule's solubility in water.\n2. **Solubility in",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Discuss the significance of cholesterol being classified as a sterol and a member of the lipid family. How does this classification relate to its chemical structure and biological role?",
+      "answer": "Cholesterol is indeed classified as both a sterol and a member of the lipid family, which underscores its unique chemical structure and biological function.\n\n### Classification as a Sterol\n\nSterols are a subset of lipids that contain a sterane skeleton, which is a four-ring structure with a single double bond at C-5. Cholesterol's sterane skeleton consists of three fused rings (A, B, and C) and one additional ring (D), making it a tetracyclic compound. The presence of the double bond at C-5 is what distinguishes sterols from other steroids. This double bond is crucial for",
+      "latency_s": 10.39
+    }
+  ]
+}

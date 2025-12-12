@@ -1,0 +1,17 @@
+2025-11-23 04:07:35,117 [INFO] ======================================================================
+2025-11-23 04:07:35,117 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-23 04:07:35,117 [INFO] ======================================================================
+2025-11-23 04:07:35,118 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-23 04:07:35,118 [INFO] Output directory: /home/himanshu/dev/output/qwen_rag
+2025-11-23 04:07:35,118 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-23 04:07:35,118 [INFO] Max tokens: 500
+2025-11-23 04:07:35,118 [INFO] vLLM available: True
+2025-11-23 04:07:35,118 [INFO] ChromaDB available: True
+2025-11-23 04:07:35,118 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-23 04:07:35,118 [INFO] Test limit: All files
+2025-11-23 04:07:35,118 [INFO] ======================================================================
+2025-11-23 04:07:35,118 [INFO] Initializing model...
+2025-11-23 04:07:36,136 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-23 04:07:39,643 [INFO] ChromaDB search system initialized successfully
+2025-11-23 04:07:39,643 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-23 04:07:39,643 [INFO] vLLM is REQUIRED - no Transformers fallback available

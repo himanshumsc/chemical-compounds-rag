@@ -1,0 +1,38 @@
+{
+  "compound_id": 148,
+  "compound_name": "Sodium Fluoride",
+  "source_file": "compound_148_Sodium Fluoride.json",
+  "main_entry_length": 2472,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0798_Sodium_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:17",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium fluoride (NaF). In this diagram, the green sphere represents a fluorine atom, while the turquoise sphere represents a sodium atom. Sodium fluoride is an ionic compound formed by the combination of sodium ions (Na⁺) and fluoride ions (F⁻). It is commonly used to prevent tooth decay and is added to toothpaste and municipal water supplies. It is effective in strengthening tooth enamel and reducing dental caries.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:48"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Fluoride?",
+      "answer": "The chemical formula of Sodium Fluoride is NaF, and its molecular weight is 41.99 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "What are the key differences in solubility of Sodium Fluoride in water compared to ethyl alcohol?",
+      "answer": "Sodium Fluoride is moderately soluble in water, meaning it dissolves to a significant extent. However, it is insoluble in ethyl alcohol, indicating that it does not dissolve in this solvent.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the chemical reaction involved in producing Sodium Fluoride using hydrogen fluoride and sodium carbonate.",
+      "answer": "Sodium Fluoride can be produced by reacting hydrogen fluoride (HF) with sodium carbonate (Na2CO3). The chemical equation for this reaction is: 2HF + Na2CO3 → 2NaF + H2O + CO2. In this reaction, hydrogen fluoride reacts with sodium carbonate to form sodium fluoride, water, and carbon dioxide.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

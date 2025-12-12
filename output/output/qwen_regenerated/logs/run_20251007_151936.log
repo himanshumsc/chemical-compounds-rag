@@ -1,0 +1,9 @@
+2025-10-07 15:19:50,809 [INFO] [MainThread] Batch start idx=0 size=2
+2025-10-07 15:19:51,867 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 15:20:25,224 [INFO] [MainThread] Batch generate done
+2025-10-07 15:20:25,228 [INFO] [MainThread] Batch start idx=2 size=2
+2025-10-07 15:20:25,978 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 15:20:54,427 [INFO] [MainThread] Batch generate done
+2025-10-07 15:20:54,427 [INFO] [MainThread] Batch start idx=4 size=2
+2025-10-07 15:20:55,421 [INFO] [MainThread] Batch generate start prompts=8 (mixed image/text)
+2025-10-07 15:21:24,090 [INFO] [MainThread] Batch generate done

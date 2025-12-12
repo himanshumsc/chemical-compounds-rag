@@ -1,0 +1,58 @@
+{
+  "compound_id": 61,
+  "compound_name": "Ethylene Oxide",
+  "source_file": "compound_061_Ethylene Oxide.json",
+  "main_entry_length": 2831,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0368_Ethylene_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is ethylene oxide. It consists of a three-membered ring with two carbon atoms (black) and one oxygen atom (red). Key properties include:\n\n1. **Reactivity**: Ethylene oxide is highly reactive due to the strained ring structure.\n2. **Uses**: Primarily used in the production of ethylene glycol, which is a precursor to antifreeze and plastics. It is also used to synthesize ethoxylates and ethanolamines for detergents.\n3. **Production**: Made via direct oxidation of ethylene gas, using a silver catalyst at 200°C to 300°C.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:38"
+    },
+    {
+      "question": "What is the molecular formula of ethylene oxide, and what elements does it contain?",
+      "answer": "The molecular formula of ethylene oxide is (CH2)2O. It contains the elements carbon, hydrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:14",
+      "char_limit": 1000,
+      "answer_length": 106
+    },
+    {
+      "question": "Explain the industrial methods used to produce ethylene oxide and the main differences between them.",
+      "answer": "Ethylene oxide is produced industrially using two primary methods: the chlorhydrin process and direct oxidation of ethylene gas.\n\n1. **Chlorhydrin Process**: This was the original method for producing ethylene oxide, developed by French chemist Charles Adolphe Wurtz in 1859. In this process, ethylene chlorhydrin (2-chloroethanol) is reacted with an inorganic base such as sodium hydroxide (NaOH) to produce ethylene oxide. This method was the principal means of production for over a century.\n\n2. **Direct Oxidation**: After World War II, a more efficient method was developed—the direct oxidation of ethylene gas. This process involves the oxidation of ethylene at temperatures of 200°C to 300°C over a silver catalyst. The chemical reaction is represented as 2CH2=CH2 + O2 → 2CH2CH2O. Although the yield from direct oxidation is slightly less than that from the chlorhydrin process, the latter results in significant chlorine waste, making direct oxidation the preferable method commercially due to its overall efficiency.\n\nThe key difference between these methods is that the chlorhydrin process involves the use of chlorine and results in chlorine waste, while the direct oxidation method is more efficient and environmentally friendly, utilizing oxygen and a silver catalyst without chlorine byproducts.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:21",
+      "char_limit": 1800,
+      "answer_length": 1310
+    },
+    {
+      "question": "Discuss the primary industrial uses of ethylene oxide and the potential hazards associated with its handling.",
+      "answer": "Ethylene oxide is primarily used in the manufacture of ethylene glycol, which accounts for about 60% of its production. Ethylene glycol is used as an antifreeze and a raw material for producing plastics. Ethylene oxide is also used to produce higher glycols, such as diethylene and triethylene glycol. Another significant application of ethylene oxide is in synthesizing ethoxylates and ethanolamines, which are used in synthetic detergents as surfactants to reduce surface tension and improve lathering ability.\n\nIn terms of hazards, ethylene oxide is a flammable and colorless gas with an ether-like odor. It is highly unstable and can catch fire or explode easily, necessitating careful handling. Despite these risks, ethylene oxide is an important industrial chemical, ranking nineteenth by volume among chemicals produced in the United States.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:03:24",
+      "char_limit": 2000,
+      "answer_length": 848
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5697,
+  "updated_at": "2025-11-30 14:03:24",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

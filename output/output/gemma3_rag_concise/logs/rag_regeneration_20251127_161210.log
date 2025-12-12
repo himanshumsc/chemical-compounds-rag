@@ -1,0 +1,77 @@
+2025-11-27 16:12:10,303 [INFO] ======================================================================
+2025-11-27 16:12:10,303 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-27 16:12:10,303 [INFO] ======================================================================
+2025-11-27 16:12:10,303 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-27 16:12:10,304 [INFO] Output directory: /home/himanshu/dev/output/gemma3_rag_concise
+2025-11-27 16:12:10,304 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-27 16:12:10,304 [INFO] Model path: /home/himanshu/dev/models/GEMMA3_QAT_Q4_0_UNQUANTIZED
+2025-11-27 16:12:10,304 [INFO] Tokenizer id: google/gemma-3-12b-it
+2025-11-27 16:12:10,304 [INFO] Quantization: bitsandbytes | dtype: bfloat16 | max model len: 8192 | gpu util: 0.8 | enforce eager: True
+2025-11-27 16:12:10,304 [INFO] Character limits: Q1=600, Q2=1000, Q3=1800, Q4=2000
+2025-11-27 16:12:10,304 [INFO] Max tokens: Q1=200, Q2=333, Q3=600, Q4=666
+2025-11-27 16:12:10,304 [INFO] Prompt instruction: Answers should be brief, concise, and to the point
+2025-11-27 16:12:10,304 [INFO] vLLM available: True
+2025-11-27 16:12:10,304 [INFO] ChromaDB available: True
+2025-11-27 16:12:10,304 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-27 16:12:10,304 [INFO] Test limit: 3
+2025-11-27 16:12:10,304 [INFO] ======================================================================
+2025-11-27 16:12:10,304 [INFO] vLLM is available - proceeding with initialization...
+2025-11-27 16:12:10,304 [INFO] Initializing model...
+2025-11-27 16:12:10,304 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-27 16:12:10,304 [INFO] vLLM is REQUIRED - no Transformers fallback available
+2025-11-27 16:12:10,304 [INFO] Multimodal profiling ENABLED (required for Q1 image questions)
+2025-11-27 16:12:10,304 [INFO] Environment variables: VLLM_SKIP_MM_PROFILE=not set, SKIP_MM_PROFILE=not set
+2025-11-27 16:12:10,304 [INFO] Starting vLLM initialization (this may take 20-30 seconds)...
+2025-11-27 16:15:15,656 [INFO] vLLM config -> tokenizer:google/gemma-3-12b-it quantization:bitsandbytes dtype:bfloat16 max_len:8192 gpu_util:0.80 enforce_eager:True
+2025-11-27 16:15:15,657 [INFO] vLLM initialized successfully for all question types
+2025-11-27 16:15:15,657 [INFO] Character limits: Q1=600, Q2=1000, Q3=1800, Q4=2000
+2025-11-27 16:15:15,657 [INFO] Max tokens: Q1=200, Q2=333, Q3=600, Q4=666
+2025-11-27 16:15:15,657 [INFO] Initializing processor for chat template formatting...
+2025-11-27 16:15:19,703 [INFO] Processor initialized successfully
+2025-11-27 16:15:19,703 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-27 16:15:26,789 [INFO] ChromaDB search system initialized successfully
+2025-11-27 16:15:26,789 [INFO] Model initialized. Using vLLM: True, RAG: True
+2025-11-27 16:15:26,790 [INFO] TEST MODE: Processing 3 files
+2025-11-27 16:15:26,790 [INFO] Total files to process: 3
+2025-11-27 16:15:26,790 [INFO] 
+Processing batch 1 (1 files)
+2025-11-27 16:15:26,791 [INFO] Loading: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-27 16:15:27,393 [INFO]   Batch Q1: Generating 1 vision questions with RAG (char limit: 600)...
+2025-11-27 16:15:50,772 [INFO]     Q1[0] done: 22.44s (RAG: True, chunks: 5, len: 196 chars)
+2025-11-27 16:15:50,773 [INFO]   Batch Q2-Q4: Generating 3 text questions with RAG (char limits: Q2=1000, Q3=1800, Q4=2000)...
+2025-11-27 16:16:02,411 [INFO]     Q2[0] done: 11.48s (RAG: True, chunks: 5, len: 217 chars)
+2025-11-27 16:16:02,411 [INFO]     Q3[0] done: 11.48s (RAG: True, chunks: 5, len: 213 chars)
+2025-11-27 16:16:02,411 [INFO]     Q4[0] done: 11.48s (RAG: True, chunks: 5, len: 209 chars)
+2025-11-27 16:16:02,413 [INFO]   ✓ Saved 100_Nicotine__answers.json
+2025-11-27 16:16:03,413 [INFO] 
+Processing batch 2 (1 files)
+2025-11-27 16:16:03,414 [INFO] Loading: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-27 16:16:03,835 [INFO]   Batch Q1: Generating 1 vision questions with RAG (char limit: 600)...
+2025-11-27 16:16:13,704 [INFO]     Q1[0] done: 9.38s (RAG: True, chunks: 5, len: 216 chars)
+2025-11-27 16:16:13,704 [INFO]   Batch Q2-Q4: Generating 3 text questions with RAG (char limits: Q2=1000, Q3=1800, Q4=2000)...
+2025-11-27 16:16:38,842 [INFO]     Q2[0] done: 24.97s (RAG: True, chunks: 5, len: 126 chars)
+2025-11-27 16:16:38,842 [INFO]     Q3[0] done: 24.97s (RAG: True, chunks: 5, len: 223 chars)
+2025-11-27 16:16:38,842 [INFO]     Q4[0] done: 24.97s (RAG: True, chunks: 5, len: 549 chars)
+2025-11-27 16:16:38,843 [INFO]   ✓ Saved 101_Nitric_Acid__answers.json
+2025-11-27 16:16:39,843 [INFO] 
+Processing batch 3 (1 files)
+2025-11-27 16:16:39,845 [INFO] Loading: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-27 16:16:40,211 [INFO]   Batch Q1: Generating 1 vision questions with RAG (char limit: 600)...
+2025-11-27 16:16:50,616 [INFO]     Q1[0] done: 9.95s (RAG: True, chunks: 5, len: 203 chars)
+2025-11-27 16:16:50,616 [INFO]   Batch Q2-Q4: Generating 3 text questions with RAG (char limits: Q2=1000, Q3=1800, Q4=2000)...
+2025-11-27 16:17:11,884 [INFO]     Q2[0] done: 21.13s (RAG: True, chunks: 5, len: 66 chars)
+2025-11-27 16:17:11,885 [INFO]     Q3[0] done: 21.13s (RAG: True, chunks: 5, len: 195 chars)
+2025-11-27 16:17:11,885 [INFO]     Q4[0] done: 21.13s (RAG: True, chunks: 5, len: 383 chars)
+2025-11-27 16:17:11,885 [INFO]   ✓ Saved 102_Nitric_Oxide__answers.json
+2025-11-27 16:17:11,886 [INFO] 
+======================================================================
+2025-11-27 16:17:11,886 [INFO] REGENERATION SUMMARY
+2025-11-27 16:17:11,886 [INFO] ======================================================================
+2025-11-27 16:17:11,886 [INFO] Total files: 3
+2025-11-27 16:17:11,886 [INFO] Successful: 3
+2025-11-27 16:17:11,886 [INFO] Failed: 0
+2025-11-27 16:17:11,886 [INFO] Total time: 105.10s (1.75 min)
+2025-11-27 16:17:11,886 [INFO] Average per file: 35.03s
+2025-11-27 16:17:11,887 [INFO] vLLM used: True
+2025-11-27 16:17:11,887 [INFO] Summary saved to: /home/himanshu/dev/output/gemma3_rag_concise/rag_regeneration_summary.json
+2025-11-27 16:17:11,887 [INFO] ======================================================================

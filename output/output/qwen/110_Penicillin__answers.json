@@ -1,0 +1,27 @@
+{
+  "source_file": "110_Penicillin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Penicillin. Key properties of Penicillin include:\n\n1. **Antibacterial Activity**: Penicillin is known for its ability to inhibit bacterial growth by preventing the formation of new cell walls.\n2. **Chemical Composition**:\n   - Red atoms represent oxygen.\n   - White atoms represent hydrogen.\n   - Black atoms represent carbon.\n   - Blue atoms represent nitrogen.\n   - Yellow atoms represent sulfur.\n3. **Molecular Structure**:\n   - The structure includes a benzene ring (indicated by the striped sticks).\n   - There are double bonds (indicated by gray",
+      "latency_s": 16.63
+    },
+    {
+      "question": "What is the basic chemical structure and formula of penicillin as described in the compound information?",
+      "answer": "Penicillin is a group of antibiotics that share a similar basic chemical structure, which is derived from the β-lactam ring and the thiazole ring. The most common type of penicillin is penicillin G (also known as benzylpenicillin), which has the following basic chemical structure:\n\n\\[\n\\text{CH}_3 - \\text{CH}(\\text{CH}_2)_{4} - \\text{COOH}\n\\]\n\nThis structure includes the carboxylic acid group (-COOH) at one end and the benzyl group at the other. The benzyl group is",
+      "latency_s": 10.57
+    },
+    {
+      "question": "How do penicillins function as antibiotics according to the provided compound information?",
+      "answer": "Penicillins are a class of antibiotics that work by inhibiting the growth and division of bacteria, which is essential for their survival and reproduction. They achieve this through several mechanisms:\n\n1. **Inhibition of Cell Wall Synthesis**: Penicillins primarily act on the cell wall synthesis process in bacteria. The cell wall is a rigid layer surrounding bacterial cells that provides structural support and protection. It is composed mainly of peptidoglycan, a polymer made up of sugars and amino acids.\n\n2. **Blocking the Cross-Linking of Peptidoglycan**: Penicillins bind to an enzyme called",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Explain the process of producing biosynthetic and semi-synthetic penicillins as mentioned in the compound information.",
+      "answer": "Penicillins are a class of antibiotics that are derived from the fungus Penicillium. They are produced through two main processes: biosynthesis and semi-synthesis.\n\n### Biosynthesis\n\nBiosynthesis refers to the natural production of penicillin by the Penicillium fungi. This process involves the following steps:\n\n1. **Fungal Cultivation**: The Penicillium fungi are grown in a controlled environment, typically in a liquid medium called a broth. The broth contains nutrients such as glucose, peptone, and yeast extract.\n\n2. **Penicillin Production**: Once the fungi are grown, they produce",
+      "latency_s": 10.57
+    }
+  ]
+}

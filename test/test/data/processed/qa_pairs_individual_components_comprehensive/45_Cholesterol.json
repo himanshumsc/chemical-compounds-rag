@@ -1,0 +1,58 @@
+{
+  "compound_id": 42,
+  "compound_name": "Cholesterol",
+  "source_file": "compound_042_Cholesterol.json",
+  "main_entry_length": 1573,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0274_Cholesterol_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents cholesterol. Cholesterol is a type of lipid molecule and a crucial component of cell membranes, providing fluidity and structural integrity. It is also a precursor for the synthesis of steroid hormones, bile acids, and vitamin D. Cholesterol is transported in the blood by lipoproteins and is essential for various bodily functions, though high levels can lead to health issues like cardiovascular disease.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of cholesterol?",
+      "answer": "The chemical formula of cholesterol is C27H45OH, and its molecular weight is 386.65 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:09",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Explain the solubility properties of cholesterol and the types of solvents in which it dissolves.",
+      "answer": "Cholesterol has specific solubility properties: it is very slightly soluble in water, meaning it does not dissolve well in aqueous environments. However, it is soluble in various organic solvents. These include acetone, alcohol, ether, benzene, and other similar organic solvents. These properties indicate that cholesterol interacts more readily with non-polar or less polar substances rather than with polar solvents like water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:13",
+      "char_limit": 1800,
+      "answer_length": 430
+    },
+    {
+      "question": "Discuss the significance of cholesterol being classified as a sterol and a member of the lipid family. How does this classification relate to its chemical structure and biological role?",
+      "answer": "Cholesterol is classified as a sterol, a type of compound that falls under the larger lipid family. This classification is significant because sterols, including cholesterol, are essential components of cell membranes, contributing to their structure and fluidity. Cholesterol's chemical structure, with the formula C27H45OH, features a hydroxyl group (-OH) attached to a complex carbon framework, characteristic of sterols. This structure allows cholesterol to interact with both hydrophilic and hydrophobic molecules, facilitating its role in cellular membranes.\n\nBeing a lipid, cholesterol is a type of fat, which involves the combination of glycerol and fatty acids. However, unlike other fats, cholesterol has a unique structure that enables it to be a precursor for the synthesis of steroid hormones, bile acids, and vitamin D, highlighting its crucial biological functions. Its classification as a sterol and lipid reflects its dual role in maintaining cell membrane integrity and serving as a biochemical precursor for vital substances.\n\nCholesterol's limited solubility in water but solubility in organic solvents like alcohol and ether further illustrates its lipid nature, affecting how it is transported in the body via lipoproteins. The compound's presence in all higher animals, especially in the brain and spinal cord, underscores its importance in physiological processes. Thus, cholesterol's classification and structure are directly related to its essential roles in biological systems.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:59:18",
+      "char_limit": 2000,
+      "answer_length": 1504
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4132,
+  "updated_at": "2025-11-30 13:59:19",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

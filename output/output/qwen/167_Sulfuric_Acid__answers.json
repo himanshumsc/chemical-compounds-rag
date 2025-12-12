@@ -1,0 +1,27 @@
+{
+  "source_file": "167_Sulfuric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows sulfuric acid (H₂SO₄). The key properties of sulfuric acid include:\n\n1. **Strong Acid**: Sulfuric acid is one of the strongest mineral acids, meaning it can ionize completely in water to form hydrogen ions (H⁺) and sulfate ions (SO₄²⁻).\n\n2. **High Boiling Point**: Due to its strong hydrogen bonding, sulfuric acid has a high boiling point compared to other acids.\n\n3. **Strong Oxidizing Agent**: It can oxidize many substances, including metals and organic compounds.\n\n4. **Solubility",
+      "latency_s": 16.9
+    },
+    {
+      "question": "What is the chemical formula for sulfuric acid and what elements does it contain?",
+      "answer": "The chemical formula for sulfuric acid is H₂SO₄. It contains three main elements: hydrogen (H), sulfur (S), and oxygen (O). Specifically, there are two hydrogen atoms, one sulfur atom, and four oxygen atoms in each molecule of sulfuric acid.",
+      "latency_s": 10.71
+    },
+    {
+      "question": "Explain the primary method used today for the industrial production of sulfuric acid and how it differs from the original method developed by John Roebuck.",
+      "answer": "The primary method used today for the industrial production of sulfuric acid is the Contact Process, also known as the Roebuck Process or the Oxidation Process. This process was developed in the late 19th century by John Roebuck and later refined by others.\n\n### Original Method (Roebuck Process)\nJohn Roebuck's method involved the oxidation of sulfur to produce sulfur dioxide, which would then be further oxidized to form sulfur trioxide. The sulfur dioxide was produced by burning sulfur in air or oxygen, while the sulfur trioxide was formed by passing the sulfur dioxide over heated catalysts such as platinum or van",
+      "latency_s": 10.71
+    },
+    {
+      "question": "Considering its properties and uses, discuss the significance of sulfuric acid in modern industry and any potential hazards associated with its use.",
+      "answer": "Sulfuric acid, also known as H2SO4, is one of the most widely used chemicals in the world. It is a strong mineral acid that is highly corrosive and toxic. Despite these properties, it plays an essential role in various industries due to its unique chemical properties.\n\nOne of the primary uses of sulfuric acid is in the production of fertilizers. It is used in the production of ammonium sulfate, which is a popular fertilizer. Additionally, sulfuric acid is used in the production of nitric acid, which is another important fertilizer. The production of sulfuric acid involves the oxidation of sulfur dioxide (SO",
+      "latency_s": 10.71
+    }
+  ]
+}

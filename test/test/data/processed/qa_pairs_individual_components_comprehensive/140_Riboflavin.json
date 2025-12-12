@@ -1,0 +1,58 @@
+{
+  "compound_id": 136,
+  "compound_name": "Riboflavin",
+  "source_file": "compound_136_Riboflavin.json",
+  "main_entry_length": 4196,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0734_Riboflavin_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:28",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of riboflavin, also known as vitamin B2. Key properties include:\n\n- **Atoms**: Red atoms are oxygen, white are hydrogen, black are carbon, and blue are nitrogen.\n- **Structure**: It contains a conjugated ring system with nitrogen atoms, indicative of its role in biological systems.\n- **Function**: Riboflavin is essential for energy production and cellular function. It acts as a precursor for coenzymes involved in redox reactions.\n- **Sources**: Found in foods like brewer’s yeast, dark green vegetables, dairy products, and nuts.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:15"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of riboflavin?",
+      "answer": "The chemical formula of riboflavin is C17H20N4O6, and its molecular weight is 376.36 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:31",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "How does riboflavin interact with light and what is its stability under different conditions?",
+      "answer": "Riboflavin, also known as Vitamin B2, is relatively stable when exposed to heat but tends to decompose when exposed to light for extended periods. This instability in the presence of light is likely due to its chemical structure, which includes elements that may react or break down upon light exposure. Therefore, care should be taken to protect riboflavin from prolonged light exposure to maintain its stability.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:36",
+      "char_limit": 1800,
+      "answer_length": 414
+    },
+    {
+      "question": "Describe the synthesis process of riboflavin using Bacillus subtilis or Ashbya gossifyii.",
+      "answer": "Riboflavin is produced synthetically using either the genetically-modified bacterium Bacillus subtilis or the fungus Ashbya gossifyii. The synthesis process involves culturing these organisms in a large vat seeded with small amounts of riboflavin. Over time, the bacteria or fungi produce large quantities of riboflavin. Once the desired amount is achieved, the vat is heated to a temperature that kills the bacteria or fungi, leaving behind crystalline riboflavin. The riboflavin is then separated and purified for use.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:40",
+      "char_limit": 2000,
+      "answer_length": 520
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6560,
+  "updated_at": "2025-11-30 13:43:41",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

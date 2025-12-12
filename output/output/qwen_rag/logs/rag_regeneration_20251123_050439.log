@@ -1,0 +1,1195 @@
+2025-11-23 05:04:39,355 [INFO] ======================================================================
+2025-11-23 05:04:39,355 [INFO] QWEN Answer Regeneration with vLLM + RAG
+2025-11-23 05:04:39,355 [INFO] ======================================================================
+2025-11-23 05:04:39,355 [INFO] Input directory: /home/himanshu/dev/output/qwen_regenerated
+2025-11-23 05:04:39,355 [INFO] Output directory: /home/himanshu/dev/output/qwen_rag
+2025-11-23 05:04:39,355 [INFO] QA directory: /home/himanshu/dev/test/data/processed/qa_pairs_individual_components
+2025-11-23 05:04:39,355 [INFO] Q1 max_tokens: 300 (matches OpenAI), Q2-Q4 max_tokens: 500 (matches comprehensive)
+2025-11-23 05:04:39,355 [INFO] vLLM available: True
+2025-11-23 05:04:39,355 [INFO] ChromaDB available: True
+2025-11-23 05:04:39,356 [INFO] ChromaDB path: /home/himanshu/dev/data/chromadb
+2025-11-23 05:04:39,356 [INFO] Test limit: All files
+2025-11-23 05:04:39,356 [INFO] ======================================================================
+2025-11-23 05:04:39,356 [INFO] Initializing model...
+2025-11-23 05:04:40,393 [INFO] Initializing vLLM for ALL questions (text and vision)...
+2025-11-23 05:04:40,394 [INFO] vLLM is REQUIRED - no Transformers fallback available
+2025-11-23 05:04:40,394 [INFO] Environment variables set: VLLM_SKIP_MM_PROFILE=1, SKIP_MM_PROFILE=1
+2025-11-23 05:04:40,394 [INFO] Starting vLLM initialization (this may take 20-30 seconds)...
+2025-11-23 05:05:06,720 [INFO] vLLM initialized successfully for all question types
+2025-11-23 05:05:06,720 [INFO] Q1 max_tokens: 300 (matches OpenAI), Q2-Q4 max_tokens: 500 (matches comprehensive)
+2025-11-23 05:05:06,720 [INFO] Initializing ChromaDB search system from /home/himanshu/dev/data/chromadb...
+2025-11-23 05:05:10,911 [INFO] ChromaDB search system initialized successfully
+2025-11-23 05:05:10,911 [INFO] Model initialized. Using vLLM: True, RAG: True
+2025-11-23 05:05:10,912 [INFO] Total files to process: 178
+2025-11-23 05:05:10,912 [INFO] 
+Processing batch 1 (10 files)
+2025-11-23 05:05:10,913 [INFO] Loading: 100_Nicotine__answers.json (source: 100_Nicotine.json)
+2025-11-23 05:05:10,913 [INFO] Loading: 101_Nitric_Acid__answers.json (source: 101_Nitric_Acid.json)
+2025-11-23 05:05:10,913 [INFO] Loading: 102_Nitric_Oxide__answers.json (source: 102_Nitric_Oxide.json)
+2025-11-23 05:05:10,913 [INFO] Loading: 103_Nitrogen_Dioxide__answers.json (source: 103_Nitrogen_Dioxide.json)
+2025-11-23 05:05:10,914 [INFO] Loading: 104_Nitroglycerin__answers.json (source: 104_Nitroglycerin.json)
+2025-11-23 05:05:10,915 [INFO] Loading: 105_Nitrous_Oxide__answers.json (source: 105_Nitrous_Oxide.json)
+2025-11-23 05:05:10,916 [INFO] Loading: 106_NN-Diethyl-3-Methylbenzamide__answers.json (source: 106_NN-Diethyl-3-Methylbenzamide.json)
+2025-11-23 05:05:10,917 [INFO] Loading: 107_Nylon_6_and_Nylon_66__answers.json (source: 107_Nylon_6_and_Nylon_66.json)
+2025-11-23 05:05:10,918 [INFO] Loading: 108_Oxalic_Acid__answers.json (source: 108_Oxalic_Acid.json)
+2025-11-23 05:05:10,918 [INFO] Loading: 109_Pectin__answers.json (source: 109_Pectin.json)
+2025-11-23 05:05:15,245 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:06:14,765 [INFO]     Q1[0] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[1] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[2] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[3] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[4] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[5] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,765 [INFO]     Q1[6] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,766 [INFO]     Q1[7] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,766 [INFO]     Q1[8] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,766 [INFO]     Q1[9] done: 54.57s (RAG: True, chunks: 5)
+2025-11-23 05:06:14,766 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:06:58,053 [INFO]     Q2[0] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,053 [INFO]     Q3[0] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,053 [INFO]     Q4[0] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q2[1] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q3[1] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q4[1] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q2[2] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q3[2] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q4[2] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q2[3] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q3[3] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,054 [INFO]     Q4[3] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q2[4] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q3[4] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q4[4] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q2[5] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q3[5] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q4[5] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q2[6] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q3[6] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,055 [INFO]     Q4[6] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q2[7] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q3[7] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q4[7] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q2[8] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q3[8] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q4[8] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q2[9] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q3[9] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,056 [INFO]     Q4[9] done: 41.92s (RAG: True, chunks: 5)
+2025-11-23 05:06:58,057 [INFO]   ✓ Saved 100_Nicotine__answers.json
+2025-11-23 05:06:58,058 [INFO]   ✓ Saved 101_Nitric_Acid__answers.json
+2025-11-23 05:06:58,058 [INFO]   ✓ Saved 102_Nitric_Oxide__answers.json
+2025-11-23 05:06:58,059 [INFO]   ✓ Saved 103_Nitrogen_Dioxide__answers.json
+2025-11-23 05:06:58,060 [INFO]   ✓ Saved 104_Nitroglycerin__answers.json
+2025-11-23 05:06:58,060 [INFO]   ✓ Saved 105_Nitrous_Oxide__answers.json
+2025-11-23 05:06:58,061 [INFO]   ✓ Saved 106_NN-Diethyl-3-Methylbenzamide__answers.json
+2025-11-23 05:06:58,062 [INFO]   ✓ Saved 107_Nylon_6_and_Nylon_66__answers.json
+2025-11-23 05:06:58,063 [INFO]   ✓ Saved 108_Oxalic_Acid__answers.json
+2025-11-23 05:06:58,063 [INFO]   ✓ Saved 109_Pectin__answers.json
+2025-11-23 05:06:59,064 [INFO] 
+Processing batch 2 (10 files)
+2025-11-23 05:06:59,064 [INFO] Loading: 10_Aluminum_Hydroxide__answers.json (source: 10_Aluminum_Hydroxide.json)
+2025-11-23 05:06:59,065 [INFO] Loading: 110_Penicillin__answers.json (source: 110_Penicillin.json)
+2025-11-23 05:06:59,066 [INFO] Loading: 111_Perchlorates__answers.json (source: 111_Perchlorates.json)
+2025-11-23 05:06:59,067 [INFO] Loading: 112_Petrolatum__answers.json (source: 112_Petrolatum.json)
+2025-11-23 05:06:59,068 [INFO] Loading: 113_Petroleum__answers.json (source: 113_Petroleum.json)
+2025-11-23 05:06:59,069 [INFO] Loading: 114_Phenol__answers.json (source: 114_Phenol.json)
+2025-11-23 05:06:59,069 [INFO] Loading: 115_Phosphoric_Acid__answers.json (source: 115_Phosphoric_Acid.json)
+2025-11-23 05:06:59,070 [INFO] Loading: 116_Polycarbonates__answers.json (source: 116_Polycarbonates.json)
+2025-11-23 05:06:59,071 [INFO] Loading: 117_Polyethylene__answers.json (source: 117_Polyethylene.json)
+2025-11-23 05:06:59,072 [INFO] Loading: 118_Polymethyl_Methacrylate__answers.json (source: 118_Polymethyl_Methacrylate.json)
+2025-11-23 05:07:02,987 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:07:57,159 [INFO]     Q1[0] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[1] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[2] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[3] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[4] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[5] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[6] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[7] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[8] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]     Q1[9] done: 49.61s (RAG: True, chunks: 5)
+2025-11-23 05:07:57,160 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:08:39,941 [INFO]     Q2[0] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q3[0] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q4[0] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q2[1] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q3[1] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q4[1] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q2[2] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q3[2] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q4[2] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q2[3] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,941 [INFO]     Q3[3] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[3] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[4] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[4] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[4] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[5] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[5] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[5] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[6] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[6] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[6] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[7] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[7] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[7] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[8] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[8] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q4[8] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q2[9] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,942 [INFO]     Q3[9] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,943 [INFO]     Q4[9] done: 41.21s (RAG: True, chunks: 5)
+2025-11-23 05:08:39,943 [INFO]   ✓ Saved 10_Aluminum_Hydroxide__answers.json
+2025-11-23 05:08:39,943 [INFO]   ✓ Saved 110_Penicillin__answers.json
+2025-11-23 05:08:39,944 [INFO]   ✓ Saved 111_Perchlorates__answers.json
+2025-11-23 05:08:39,944 [INFO]   ✓ Saved 112_Petrolatum__answers.json
+2025-11-23 05:08:39,945 [INFO]   ✓ Saved 113_Petroleum__answers.json
+2025-11-23 05:08:39,945 [INFO]   ✓ Saved 114_Phenol__answers.json
+2025-11-23 05:08:39,945 [INFO]   ✓ Saved 115_Phosphoric_Acid__answers.json
+2025-11-23 05:08:39,946 [INFO]   ✓ Saved 116_Polycarbonates__answers.json
+2025-11-23 05:08:39,947 [INFO]   ✓ Saved 117_Polyethylene__answers.json
+2025-11-23 05:08:39,947 [INFO]   ✓ Saved 118_Polymethyl_Methacrylate__answers.json
+2025-11-23 05:08:40,947 [INFO] 
+Processing batch 3 (10 files)
+2025-11-23 05:08:40,948 [INFO] Loading: 119_Polypropylene__answers.json (source: 119_Polypropylene.json)
+2025-11-23 05:08:40,949 [INFO] Loading: 11_Aluminum_Oxide__answers.json (source: 11_Aluminum_Oxide.json)
+2025-11-23 05:08:40,950 [INFO] Loading: 120_Polysiloxane__answers.json (source: 120_Polysiloxane.json)
+2025-11-23 05:08:40,951 [INFO] Loading: 121_PolyStyrene-Butadiene-Styrene__answers.json (source: 121_PolyStyrene-Butadiene-Styrene.json)
+2025-11-23 05:08:40,951 [INFO] Loading: 122_Polystyrene__answers.json (source: 122_Polystyrene.json)
+2025-11-23 05:08:40,952 [INFO] Loading: 123_Polytetrafluoroethylene__answers.json (source: 123_Polytetrafluoroethylene.json)
+2025-11-23 05:08:40,953 [INFO] Loading: 124_Polyurethane__answers.json (source: 124_Polyurethane.json)
+2025-11-23 05:08:40,954 [INFO] Loading: 125_Polyvinyl_Chloride__answers.json (source: 125_Polyvinyl_Chloride.json)
+2025-11-23 05:08:40,954 [INFO] Loading: 126_Potassium_Bicarbonate__answers.json (source: 126_Potassium_Bicarbonate.json)
+2025-11-23 05:08:40,955 [INFO] Loading: 127_Potassium_Bisulfate__answers.json (source: 127_Potassium_Bisulfate.json)
+2025-11-23 05:08:45,441 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:09:40,404 [INFO]     Q1[0] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,404 [INFO]     Q1[1] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,404 [INFO]     Q1[2] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,404 [INFO]     Q1[3] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,404 [INFO]     Q1[4] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]     Q1[5] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]     Q1[6] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]     Q1[7] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]     Q1[8] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]     Q1[9] done: 49.90s (RAG: True, chunks: 5)
+2025-11-23 05:09:40,405 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:10:28,151 [INFO]     Q2[0] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q3[0] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q4[0] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q2[1] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q3[1] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q4[1] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q2[2] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q3[2] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q4[2] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,151 [INFO]     Q2[3] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q3[3] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q4[3] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q2[4] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q3[4] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q4[4] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q2[5] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q3[5] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q4[5] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q2[6] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q3[6] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q4[6] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q2[7] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,152 [INFO]     Q3[7] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q4[7] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q2[8] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q3[8] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q4[8] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q2[9] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q3[9] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,153 [INFO]     Q4[9] done: 46.34s (RAG: True, chunks: 5)
+2025-11-23 05:10:28,154 [INFO]   ✓ Saved 119_Polypropylene__answers.json
+2025-11-23 05:10:28,154 [INFO]   ✓ Saved 11_Aluminum_Oxide__answers.json
+2025-11-23 05:10:28,154 [INFO]   ✓ Saved 120_Polysiloxane__answers.json
+2025-11-23 05:10:28,155 [INFO]   ✓ Saved 121_PolyStyrene-Butadiene-Styrene__answers.json
+2025-11-23 05:10:28,155 [INFO]   ✓ Saved 122_Polystyrene__answers.json
+2025-11-23 05:10:28,156 [INFO]   ✓ Saved 123_Polytetrafluoroethylene__answers.json
+2025-11-23 05:10:28,156 [INFO]   ✓ Saved 124_Polyurethane__answers.json
+2025-11-23 05:10:28,156 [INFO]   ✓ Saved 125_Polyvinyl_Chloride__answers.json
+2025-11-23 05:10:28,159 [INFO]   ✓ Saved 126_Potassium_Bicarbonate__answers.json
+2025-11-23 05:10:28,159 [INFO]   ✓ Saved 127_Potassium_Bisulfate__answers.json
+2025-11-23 05:10:29,159 [INFO] 
+Processing batch 4 (10 files)
+2025-11-23 05:10:29,160 [INFO] Loading: 128_Potassium_Bitartrate__answers.json (source: 128_Potassium_Bitartrate.json)
+2025-11-23 05:10:29,161 [INFO] Loading: 129_Potassium_Carbonate__answers.json (source: 129_Potassium_Carbonate.json)
+2025-11-23 05:10:29,162 [INFO] Loading: 12_Aluminum_Potassium_Sulfate__answers.json (source: 12_Aluminum_Potassium_Sulfate.json)
+2025-11-23 05:10:29,163 [INFO] Loading: 130_Potassium_Chloride__answers.json (source: 130_Potassium_Chloride.json)
+2025-11-23 05:10:29,163 [INFO] Loading: 131_Potassium_Fluoride__answers.json (source: 131_Potassium_Fluoride.json)
+2025-11-23 05:10:29,164 [INFO] Loading: 132_Potassium_Hydroxide__answers.json (source: 132_Potassium_Hydroxide.json)
+2025-11-23 05:10:29,165 [INFO] Loading: 133_Potassium_Iodide__answers.json (source: 133_Potassium_Iodide.json)
+2025-11-23 05:10:29,166 [INFO] Loading: 134_Potassium_Nitrate__answers.json (source: 134_Potassium_Nitrate.json)
+2025-11-23 05:10:29,166 [INFO] Loading: 135_Potassium_Sulfate__answers.json (source: 135_Potassium_Sulfate.json)
+2025-11-23 05:10:29,167 [INFO] Loading: 136_Propane__answers.json (source: 136_Propane.json)
+2025-11-23 05:10:33,030 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:11:28,403 [INFO]     Q1[0] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[1] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[2] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[3] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[4] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[5] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[6] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[7] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[8] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]     Q1[9] done: 50.89s (RAG: True, chunks: 5)
+2025-11-23 05:11:28,404 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:12:17,403 [INFO]     Q2[0] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,403 [INFO]     Q3[0] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,403 [INFO]     Q4[0] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,403 [INFO]     Q2[1] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,403 [INFO]     Q3[1] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q4[1] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q2[2] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q3[2] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q4[2] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q2[3] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q3[3] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q4[3] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q2[4] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,404 [INFO]     Q3[4] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q4[4] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q2[5] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q3[5] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q4[5] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q2[6] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q3[6] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q4[6] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q2[7] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q3[7] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,405 [INFO]     Q4[7] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q2[8] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q3[8] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q4[8] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q2[9] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q3[9] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,406 [INFO]     Q4[9] done: 47.63s (RAG: True, chunks: 5)
+2025-11-23 05:12:17,407 [INFO]   ✓ Saved 128_Potassium_Bitartrate__answers.json
+2025-11-23 05:12:17,407 [INFO]   ✓ Saved 129_Potassium_Carbonate__answers.json
+2025-11-23 05:12:17,408 [INFO]   ✓ Saved 12_Aluminum_Potassium_Sulfate__answers.json
+2025-11-23 05:12:17,408 [INFO]   ✓ Saved 130_Potassium_Chloride__answers.json
+2025-11-23 05:12:17,409 [INFO]   ✓ Saved 131_Potassium_Fluoride__answers.json
+2025-11-23 05:12:17,409 [INFO]   ✓ Saved 132_Potassium_Hydroxide__answers.json
+2025-11-23 05:12:17,410 [INFO]   ✓ Saved 133_Potassium_Iodide__answers.json
+2025-11-23 05:12:17,410 [INFO]   ✓ Saved 134_Potassium_Nitrate__answers.json
+2025-11-23 05:12:17,411 [INFO]   ✓ Saved 135_Potassium_Sulfate__answers.json
+2025-11-23 05:12:17,412 [INFO]   ✓ Saved 136_Propane__answers.json
+2025-11-23 05:12:18,412 [INFO] 
+Processing batch 5 (10 files)
+2025-11-23 05:12:18,412 [INFO] Loading: 137_Propylene__answers.json (source: 137_Propylene.json)
+2025-11-23 05:12:18,413 [INFO] Loading: 138_Pyridoxine__answers.json (source: 138_Pyridoxine.json)
+2025-11-23 05:12:18,414 [INFO] Loading: 139_Retinol__answers.json (source: 139_Retinol.json)
+2025-11-23 05:12:18,415 [INFO] Loading: 13_Ammonia__answers.json (source: 13_Ammonia.json)
+2025-11-23 05:12:18,415 [INFO] Loading: 140_Riboflavin__answers.json (source: 140_Riboflavin.json)
+2025-11-23 05:12:18,416 [INFO] Loading: 141_Saccharin__answers.json (source: 141_Saccharin.json)
+2025-11-23 05:12:18,417 [INFO] Loading: 142_Silicon_Dioxide__answers.json (source: 142_Silicon_Dioxide.json)
+2025-11-23 05:12:18,417 [INFO] Loading: 143_Silver_Iodide__answers.json (source: 143_Silver_Iodide.json)
+2025-11-23 05:12:18,418 [INFO] Loading: 144_Silver_Nitrate__answers.json (source: 144_Silver_Nitrate.json)
+2025-11-23 05:12:18,419 [INFO] Loading: 145_SilverI_Oxide__answers.json (source: 145_SilverI_Oxide.json)
+2025-11-23 05:12:23,822 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:13:19,885 [INFO]     Q1[0] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[1] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[2] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[3] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[4] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[5] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[6] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[7] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[8] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]     Q1[9] done: 50.12s (RAG: True, chunks: 5)
+2025-11-23 05:13:19,886 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:14:03,610 [INFO]     Q2[0] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,610 [INFO]     Q3[0] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,610 [INFO]     Q4[0] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q2[1] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q3[1] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q4[1] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q2[2] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q3[2] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q4[2] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q2[3] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q3[3] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q4[3] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q2[4] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q3[4] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,611 [INFO]     Q4[4] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q2[5] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q3[5] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q4[5] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q2[6] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q3[6] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q4[6] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q2[7] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q3[7] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q4[7] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q2[8] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q3[8] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,612 [INFO]     Q4[8] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,613 [INFO]     Q2[9] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,613 [INFO]     Q3[9] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,613 [INFO]     Q4[9] done: 42.34s (RAG: True, chunks: 5)
+2025-11-23 05:14:03,613 [INFO]   ✓ Saved 137_Propylene__answers.json
+2025-11-23 05:14:03,614 [INFO]   ✓ Saved 138_Pyridoxine__answers.json
+2025-11-23 05:14:03,614 [INFO]   ✓ Saved 139_Retinol__answers.json
+2025-11-23 05:14:03,615 [INFO]   ✓ Saved 13_Ammonia__answers.json
+2025-11-23 05:14:03,615 [INFO]   ✓ Saved 140_Riboflavin__answers.json
+2025-11-23 05:14:03,615 [INFO]   ✓ Saved 141_Saccharin__answers.json
+2025-11-23 05:14:03,616 [INFO]   ✓ Saved 142_Silicon_Dioxide__answers.json
+2025-11-23 05:14:03,616 [INFO]   ✓ Saved 143_Silver_Iodide__answers.json
+2025-11-23 05:14:03,617 [INFO]   ✓ Saved 144_Silver_Nitrate__answers.json
+2025-11-23 05:14:03,617 [INFO]   ✓ Saved 145_SilverI_Oxide__answers.json
+2025-11-23 05:14:04,618 [INFO] 
+Processing batch 6 (10 files)
+2025-11-23 05:14:04,618 [INFO] Loading: 146_SilverI_Sulfide__answers.json (source: 146_SilverI_Sulfide.json)
+2025-11-23 05:14:04,619 [INFO] Loading: 147_Sodium_Acetate__answers.json (source: 147_Sodium_Acetate.json)
+2025-11-23 05:14:04,620 [INFO] Loading: 148_Sodium_Bicarbonate__answers.json (source: 148_Sodium_Bicarbonate.json)
+2025-11-23 05:14:04,621 [INFO] Loading: 149_Sodium_Carbonate__answers.json (source: 149_Sodium_Carbonate.json)
+2025-11-23 05:14:04,622 [INFO] Loading: 14_Ammonium_Chloride__answers.json (source: 14_Ammonium_Chloride.json)
+2025-11-23 05:14:04,623 [INFO] Loading: 150_Sodium_Chloride__answers.json (source: 150_Sodium_Chloride.json)
+2025-11-23 05:14:04,624 [INFO] Loading: 151_Sodium_Cyclamate__answers.json (source: 151_Sodium_Cyclamate.json)
+2025-11-23 05:14:04,625 [INFO] Loading: 152_Sodium_Fluoride__answers.json (source: 152_Sodium_Fluoride.json)
+2025-11-23 05:14:04,626 [INFO] Loading: 153_Sodium_Hydroxide__answers.json (source: 153_Sodium_Hydroxide.json)
+2025-11-23 05:14:04,626 [INFO] Loading: 154_Sodium_Hypochlorite__answers.json (source: 154_Sodium_Hypochlorite.json)
+2025-11-23 05:14:08,493 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:15:03,268 [INFO]     Q1[0] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,268 [INFO]     Q1[1] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,268 [INFO]     Q1[2] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[3] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[4] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[5] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[6] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[7] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[8] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]     Q1[9] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:15:03,269 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:15:46,940 [INFO]     Q2[0] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q3[0] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q4[0] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q2[1] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q3[1] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q4[1] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q2[2] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,940 [INFO]     Q3[2] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[2] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[3] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[3] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[3] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[4] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[4] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[4] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[5] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[5] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[5] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[6] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[6] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[6] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[7] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[7] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q4[7] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q2[8] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,941 [INFO]     Q3[8] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,942 [INFO]     Q4[8] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,942 [INFO]     Q2[9] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,942 [INFO]     Q3[9] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,942 [INFO]     Q4[9] done: 42.29s (RAG: True, chunks: 5)
+2025-11-23 05:15:46,942 [INFO]   ✓ Saved 146_SilverI_Sulfide__answers.json
+2025-11-23 05:15:46,943 [INFO]   ✓ Saved 147_Sodium_Acetate__answers.json
+2025-11-23 05:15:46,943 [INFO]   ✓ Saved 148_Sodium_Bicarbonate__answers.json
+2025-11-23 05:15:46,944 [INFO]   ✓ Saved 149_Sodium_Carbonate__answers.json
+2025-11-23 05:15:46,944 [INFO]   ✓ Saved 14_Ammonium_Chloride__answers.json
+2025-11-23 05:15:46,944 [INFO]   ✓ Saved 150_Sodium_Chloride__answers.json
+2025-11-23 05:15:46,945 [INFO]   ✓ Saved 151_Sodium_Cyclamate__answers.json
+2025-11-23 05:15:46,945 [INFO]   ✓ Saved 152_Sodium_Fluoride__answers.json
+2025-11-23 05:15:46,946 [INFO]   ✓ Saved 153_Sodium_Hydroxide__answers.json
+2025-11-23 05:15:46,946 [INFO]   ✓ Saved 154_Sodium_Hypochlorite__answers.json
+2025-11-23 05:15:47,947 [INFO] 
+Processing batch 7 (10 files)
+2025-11-23 05:15:47,947 [INFO] Loading: 155_Sodium_Perborate__answers.json (source: 155_Sodium_Perborate.json)
+2025-11-23 05:15:47,949 [INFO] Loading: 156_Sodium_Phosphate__answers.json (source: 156_Sodium_Phosphate.json)
+2025-11-23 05:15:47,950 [INFO] Loading: 157_Sodium_Polyacrylate__answers.json (source: 157_Sodium_Polyacrylate.json)
+2025-11-23 05:15:47,950 [INFO] Loading: 158_Sodium_Silicate__answers.json (source: 158_Sodium_Silicate.json)
+2025-11-23 05:15:47,951 [INFO] Loading: 159_Sodium_Sulfite__answers.json (source: 159_Sodium_Sulfite.json)
+2025-11-23 05:15:47,952 [INFO] Loading: 15_Ammonium_Hydroxide__answers.json (source: 15_Ammonium_Hydroxide.json)
+2025-11-23 05:15:47,953 [INFO] Loading: 160_Sodium_Tetraborate__answers.json (source: 160_Sodium_Tetraborate.json)
+2025-11-23 05:15:47,954 [INFO] Loading: 161_Sodium_Thiosulfate__answers.json (source: 161_Sodium_Thiosulfate.json)
+2025-11-23 05:15:47,955 [INFO] Loading: 162_Stannous_Fluoride__answers.json (source: 162_Stannous_Fluoride.json)
+2025-11-23 05:15:47,955 [INFO] Loading: 163_Styrene__answers.json (source: 163_Styrene.json)
+2025-11-23 05:15:51,981 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:16:47,205 [INFO]     Q1[0] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[1] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[2] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[3] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[4] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[5] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[6] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,205 [INFO]     Q1[7] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,206 [INFO]     Q1[8] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,206 [INFO]     Q1[9] done: 50.58s (RAG: True, chunks: 5)
+2025-11-23 05:16:47,206 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:17:28,621 [INFO]     Q2[0] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,621 [INFO]     Q3[0] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,621 [INFO]     Q4[0] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[1] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[1] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[1] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[2] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[2] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[2] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[3] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[3] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[3] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[4] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[4] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[4] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[5] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[5] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[5] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q2[6] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q3[6] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,622 [INFO]     Q4[6] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q2[7] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q3[7] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q4[7] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q2[8] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q3[8] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q4[8] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q2[9] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q3[9] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]     Q4[9] done: 40.05s (RAG: True, chunks: 5)
+2025-11-23 05:17:28,623 [INFO]   ✓ Saved 155_Sodium_Perborate__answers.json
+2025-11-23 05:17:28,624 [INFO]   ✓ Saved 156_Sodium_Phosphate__answers.json
+2025-11-23 05:17:28,624 [INFO]   ✓ Saved 157_Sodium_Polyacrylate__answers.json
+2025-11-23 05:17:28,625 [INFO]   ✓ Saved 158_Sodium_Silicate__answers.json
+2025-11-23 05:17:28,625 [INFO]   ✓ Saved 159_Sodium_Sulfite__answers.json
+2025-11-23 05:17:28,626 [INFO]   ✓ Saved 15_Ammonium_Hydroxide__answers.json
+2025-11-23 05:17:28,626 [INFO]   ✓ Saved 160_Sodium_Tetraborate__answers.json
+2025-11-23 05:17:28,626 [INFO]   ✓ Saved 161_Sodium_Thiosulfate__answers.json
+2025-11-23 05:17:28,627 [INFO]   ✓ Saved 162_Stannous_Fluoride__answers.json
+2025-11-23 05:17:28,628 [INFO]   ✓ Saved 163_Styrene__answers.json
+2025-11-23 05:17:29,628 [INFO] 
+Processing batch 8 (10 files)
+2025-11-23 05:17:29,628 [INFO] Loading: 164_Sucrose__answers.json (source: 164_Sucrose.json)
+2025-11-23 05:17:29,630 [INFO] Loading: 165_Sucrose_Polyester__answers.json (source: 165_Sucrose_Polyester.json)
+2025-11-23 05:17:29,630 [INFO] Loading: 166_Sulfur_Dioxide__answers.json (source: 166_Sulfur_Dioxide.json)
+2025-11-23 05:17:29,631 [INFO] Loading: 167_Sulfuric_Acid__answers.json (source: 167_Sulfuric_Acid.json)
+2025-11-23 05:17:29,632 [INFO] Loading: 168_Tannic_Acid__answers.json (source: 168_Tannic_Acid.json)
+2025-11-23 05:17:29,633 [INFO] Loading: 169_Testosterone__answers.json (source: 169_Testosterone.json)
+2025-11-23 05:17:29,633 [INFO] Loading: 16_Ammonium_Nitrate__answers.json (source: 16_Ammonium_Nitrate.json)
+2025-11-23 05:17:29,634 [INFO] Loading: 170_Theobromine__answers.json (source: 170_Theobromine.json)
+2025-11-23 05:17:29,635 [INFO] Loading: 171_Thiamine__answers.json (source: 171_Thiamine.json)
+2025-11-23 05:17:29,636 [INFO] Loading: 172_Toluene__answers.json (source: 172_Toluene.json)
+2025-11-23 05:17:34,850 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:18:30,424 [INFO]     Q1[0] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,424 [INFO]     Q1[1] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,424 [INFO]     Q1[2] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[3] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[4] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[5] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[6] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[7] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[8] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]     Q1[9] done: 49.84s (RAG: True, chunks: 5)
+2025-11-23 05:18:30,425 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:19:13,493 [INFO]     Q2[0] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,493 [INFO]     Q3[0] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,493 [INFO]     Q4[0] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,493 [INFO]     Q2[1] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,493 [INFO]     Q3[1] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q4[1] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q2[2] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q3[2] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q4[2] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q2[3] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q3[3] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q4[3] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q2[4] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q3[4] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q4[4] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,494 [INFO]     Q2[5] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q3[5] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q4[5] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q2[6] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q3[6] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q4[6] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q2[7] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q3[7] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q4[7] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q2[8] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q3[8] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q4[8] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,495 [INFO]     Q2[9] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,496 [INFO]     Q3[9] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,496 [INFO]     Q4[9] done: 41.60s (RAG: True, chunks: 5)
+2025-11-23 05:19:13,496 [INFO]   ✓ Saved 164_Sucrose__answers.json
+2025-11-23 05:19:13,497 [INFO]   ✓ Saved 165_Sucrose_Polyester__answers.json
+2025-11-23 05:19:13,498 [INFO]   ✓ Saved 166_Sulfur_Dioxide__answers.json
+2025-11-23 05:19:13,498 [INFO]   ✓ Saved 167_Sulfuric_Acid__answers.json
+2025-11-23 05:19:13,499 [INFO]   ✓ Saved 168_Tannic_Acid__answers.json
+2025-11-23 05:19:13,499 [INFO]   ✓ Saved 169_Testosterone__answers.json
+2025-11-23 05:19:13,500 [INFO]   ✓ Saved 16_Ammonium_Nitrate__answers.json
+2025-11-23 05:19:13,500 [INFO]   ✓ Saved 170_Theobromine__answers.json
+2025-11-23 05:19:13,501 [INFO]   ✓ Saved 171_Thiamine__answers.json
+2025-11-23 05:19:13,502 [INFO]   ✓ Saved 172_Toluene__answers.json
+2025-11-23 05:19:14,502 [INFO] 
+Processing batch 9 (10 files)
+2025-11-23 05:19:14,503 [INFO] Loading: 173_Triclocarban__answers.json (source: 173_Triclocarban.json)
+2025-11-23 05:19:14,504 [INFO] Loading: 174_Triclosan__answers.json (source: 174_Triclosan.json)
+2025-11-23 05:19:14,505 [INFO] Loading: 175_Urea__answers.json (source: 175_Urea.json)
+2025-11-23 05:19:14,506 [INFO] Loading: 176_Vanillin__answers.json (source: 176_Vanillin.json)
+2025-11-23 05:19:14,507 [INFO] Loading: 177_Water__answers.json (source: 177_Water.json)
+2025-11-23 05:19:14,507 [INFO] Loading: 178_Zinc_Oxide__answers.json (source: 178_Zinc_Oxide.json)
+2025-11-23 05:19:14,508 [INFO] Loading: 17_Ammonium_Sulfate__answers.json (source: 17_Ammonium_Sulfate.json)
+2025-11-23 05:19:14,509 [INFO] Loading: 18_Amoxicillin__answers.json (source: 18_Amoxicillin.json)
+2025-11-23 05:19:14,510 [INFO] Loading: 19_Amyl_Acetate__answers.json (source: 19_Amyl_Acetate.json)
+2025-11-23 05:19:14,510 [INFO] Loading: 1_13-Butadiene__answers.json (source: 1_13-Butadiene.json)
+2025-11-23 05:19:19,138 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:20:14,813 [INFO]     Q1[0] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,813 [INFO]     Q1[1] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,813 [INFO]     Q1[2] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,813 [INFO]     Q1[3] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,813 [INFO]     Q1[4] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]     Q1[5] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]     Q1[6] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]     Q1[7] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]     Q1[8] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]     Q1[9] done: 50.50s (RAG: True, chunks: 5)
+2025-11-23 05:20:14,814 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:20:58,923 [INFO]     Q2[0] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q3[0] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q4[0] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q2[1] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q3[1] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q4[1] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q2[2] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q3[2] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q4[2] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q2[3] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,924 [INFO]     Q3[3] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q4[3] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q2[4] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q3[4] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q4[4] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q2[5] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q3[5] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q4[5] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q2[6] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q3[6] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,925 [INFO]     Q4[6] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q2[7] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q3[7] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q4[7] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q2[8] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q3[8] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q4[8] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q2[9] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q3[9] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,926 [INFO]     Q4[9] done: 42.77s (RAG: True, chunks: 5)
+2025-11-23 05:20:58,927 [INFO]   ✓ Saved 173_Triclocarban__answers.json
+2025-11-23 05:20:58,927 [INFO]   ✓ Saved 174_Triclosan__answers.json
+2025-11-23 05:20:58,928 [INFO]   ✓ Saved 175_Urea__answers.json
+2025-11-23 05:20:58,928 [INFO]   ✓ Saved 176_Vanillin__answers.json
+2025-11-23 05:20:58,929 [INFO]   ✓ Saved 177_Water__answers.json
+2025-11-23 05:20:58,929 [INFO]   ✓ Saved 178_Zinc_Oxide__answers.json
+2025-11-23 05:20:58,929 [INFO]   ✓ Saved 17_Ammonium_Sulfate__answers.json
+2025-11-23 05:20:58,930 [INFO]   ✓ Saved 18_Amoxicillin__answers.json
+2025-11-23 05:20:58,930 [INFO]   ✓ Saved 19_Amyl_Acetate__answers.json
+2025-11-23 05:20:58,931 [INFO]   ✓ Saved 1_13-Butadiene__answers.json
+2025-11-23 05:20:59,931 [INFO] 
+Processing batch 10 (10 files)
+2025-11-23 05:20:59,932 [INFO] Loading: 20_Amyl_Nitrite__answers.json (source: 20_Amyl_Nitrite.json)
+2025-11-23 05:20:59,933 [INFO] Loading: 21_Ascorbic_Acid__answers.json (source: 21_Ascorbic_Acid.json)
+2025-11-23 05:20:59,934 [INFO] Loading: 22_Benzene__answers.json (source: 22_Benzene.json)
+2025-11-23 05:20:59,934 [INFO] Loading: 23_Benzoic_Acid__answers.json (source: 23_Benzoic_Acid.json)
+2025-11-23 05:20:59,935 [INFO] Loading: 24_Beta-Carotene__answers.json (source: 24_Beta-Carotene.json)
+2025-11-23 05:20:59,936 [INFO] Loading: 25_Boric_Acid__answers.json (source: 25_Boric_Acid.json)
+2025-11-23 05:20:59,937 [INFO] Loading: 26_Butane__answers.json (source: 26_Butane.json)
+2025-11-23 05:20:59,938 [INFO] Loading: 27_Butyl_Acetate__answers.json (source: 27_Butyl_Acetate.json)
+2025-11-23 05:20:59,938 [INFO] Loading: 28_Butyl_Mercaptan__answers.json (source: 28_Butyl_Mercaptan.json)
+2025-11-23 05:20:59,939 [INFO] Loading: 29_Caffeine__answers.json (source: 29_Caffeine.json)
+2025-11-23 05:21:05,218 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:22:00,543 [INFO]     Q1[0] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[1] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[2] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[3] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[4] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[5] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[6] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[7] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,544 [INFO]     Q1[8] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,545 [INFO]     Q1[9] done: 49.49s (RAG: True, chunks: 5)
+2025-11-23 05:22:00,545 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:22:44,227 [INFO]     Q2[0] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,227 [INFO]     Q3[0] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,227 [INFO]     Q4[0] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,227 [INFO]     Q2[1] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,227 [INFO]     Q3[1] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q4[1] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q2[2] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q3[2] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q4[2] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q2[3] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q3[3] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q4[3] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q2[4] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q3[4] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,228 [INFO]     Q4[4] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q2[5] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q3[5] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q4[5] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q2[6] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q3[6] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q4[6] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q2[7] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q3[7] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q4[7] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,229 [INFO]     Q2[8] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]     Q3[8] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]     Q4[8] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]     Q2[9] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]     Q3[9] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]     Q4[9] done: 42.05s (RAG: True, chunks: 5)
+2025-11-23 05:22:44,230 [INFO]   ✓ Saved 20_Amyl_Nitrite__answers.json
+2025-11-23 05:22:44,231 [INFO]   ✓ Saved 21_Ascorbic_Acid__answers.json
+2025-11-23 05:22:44,231 [INFO]   ✓ Saved 22_Benzene__answers.json
+2025-11-23 05:22:44,232 [INFO]   ✓ Saved 23_Benzoic_Acid__answers.json
+2025-11-23 05:22:44,232 [INFO]   ✓ Saved 24_Beta-Carotene__answers.json
+2025-11-23 05:22:44,233 [INFO]   ✓ Saved 25_Boric_Acid__answers.json
+2025-11-23 05:22:44,233 [INFO]   ✓ Saved 26_Butane__answers.json
+2025-11-23 05:22:44,233 [INFO]   ✓ Saved 27_Butyl_Acetate__answers.json
+2025-11-23 05:22:44,234 [INFO]   ✓ Saved 28_Butyl_Mercaptan__answers.json
+2025-11-23 05:22:44,234 [INFO]   ✓ Saved 29_Caffeine__answers.json
+2025-11-23 05:22:45,234 [INFO] 
+Processing batch 11 (10 files)
+2025-11-23 05:22:45,235 [INFO] Loading: 2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen__answers.json (source: 2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen.json)
+2025-11-23 05:22:45,236 [INFO] Loading: 30_Calcium_Carbonate__answers.json (source: 30_Calcium_Carbonate.json)
+2025-11-23 05:22:45,237 [INFO] Loading: 31_Calcium_Hydroxide__answers.json (source: 31_Calcium_Hydroxide.json)
+2025-11-23 05:22:45,238 [INFO] Loading: 32_Calcium_Oxide__answers.json (source: 32_Calcium_Oxide.json)
+2025-11-23 05:22:45,239 [INFO] Loading: 33_Calcium_Phosphate__answers.json (source: 33_Calcium_Phosphate.json)
+2025-11-23 05:22:45,239 [INFO] Loading: 34_Calcium_Silicate__answers.json (source: 34_Calcium_Silicate.json)
+2025-11-23 05:22:45,239 [INFO] Loading: 35_Calcium_Sulfate__answers.json (source: 35_Calcium_Sulfate.json)
+2025-11-23 05:22:45,240 [INFO] Loading: 36_Camphor__answers.json (source: 36_Camphor.json)
+2025-11-23 05:22:45,241 [INFO] Loading: 37_Carbon_Dioxide__answers.json (source: 37_Carbon_Dioxide.json)
+2025-11-23 05:22:45,241 [INFO] Loading: 38_Carbon_Monoxide__answers.json (source: 38_Carbon_Monoxide.json)
+2025-11-23 05:22:49,501 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:23:44,558 [INFO]     Q1[0] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,558 [INFO]     Q1[1] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,558 [INFO]     Q1[2] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,558 [INFO]     Q1[3] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[4] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[5] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[6] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[7] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[8] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]     Q1[9] done: 50.31s (RAG: True, chunks: 5)
+2025-11-23 05:23:44,559 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:24:27,567 [INFO]     Q2[0] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,567 [INFO]     Q3[0] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,567 [INFO]     Q4[0] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,567 [INFO]     Q2[1] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,567 [INFO]     Q3[1] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[1] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[2] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q3[2] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[2] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[3] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q3[3] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[3] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[4] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q3[4] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[4] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[5] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q3[5] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[5] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[6] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q3[6] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q4[6] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,568 [INFO]     Q2[7] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q3[7] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q4[7] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q2[8] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q3[8] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q4[8] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q2[9] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q3[9] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]     Q4[9] done: 41.63s (RAG: True, chunks: 5)
+2025-11-23 05:24:27,569 [INFO]   ✓ Saved 2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen__answers.json
+2025-11-23 05:24:27,570 [INFO]   ✓ Saved 30_Calcium_Carbonate__answers.json
+2025-11-23 05:24:27,570 [INFO]   ✓ Saved 31_Calcium_Hydroxide__answers.json
+2025-11-23 05:24:27,571 [INFO]   ✓ Saved 32_Calcium_Oxide__answers.json
+2025-11-23 05:24:27,571 [INFO]   ✓ Saved 33_Calcium_Phosphate__answers.json
+2025-11-23 05:24:27,572 [INFO]   ✓ Saved 34_Calcium_Silicate__answers.json
+2025-11-23 05:24:27,572 [INFO]   ✓ Saved 35_Calcium_Sulfate__answers.json
+2025-11-23 05:24:27,572 [INFO]   ✓ Saved 36_Camphor__answers.json
+2025-11-23 05:24:27,573 [INFO]   ✓ Saved 37_Carbon_Dioxide__answers.json
+2025-11-23 05:24:27,573 [INFO]   ✓ Saved 38_Carbon_Monoxide__answers.json
+2025-11-23 05:24:28,573 [INFO] 
+Processing batch 12 (10 files)
+2025-11-23 05:24:28,574 [INFO] Loading: 39_Carbon_Tetrachloride__answers.json (source: 39_Carbon_Tetrachloride.json)
+2025-11-23 05:24:28,575 [INFO] Loading: 3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas__answers.json (source: 3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas.json)
+2025-11-23 05:24:28,576 [INFO] Loading: 40_Cellulose__answers.json (source: 40_Cellulose.json)
+2025-11-23 05:24:28,577 [INFO] Loading: 41_Cellulose_Nitrate__answers.json (source: 41_Cellulose_Nitrate.json)
+2025-11-23 05:24:28,578 [INFO] Loading: 42_Cellulose_Xanthate__answers.json (source: 42_Cellulose_Xanthate.json)
+2025-11-23 05:24:28,579 [INFO] Loading: 43_Chloroform__answers.json (source: 43_Chloroform.json)
+2025-11-23 05:24:28,580 [INFO] Loading: 44_Chlorophyll__answers.json (source: 44_Chlorophyll.json)
+2025-11-23 05:24:28,581 [INFO] Loading: 45_Cholesterol__answers.json (source: 45_Cholesterol.json)
+2025-11-23 05:24:28,582 [INFO] Loading: 46_Cinnamaldehyde__answers.json (source: 46_Cinnamaldehyde.json)
+2025-11-23 05:24:28,582 [INFO] Loading: 47_Citric_Acid__answers.json (source: 47_Citric_Acid.json)
+2025-11-23 05:24:33,458 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:24:39,392 [ERROR]     Q1 batch error: The decoder prompt (length 8255) is longer than the maximum model length of 8192. Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.
+Traceback (most recent call last):
+  File "/home/himanshu/dev/code/multimodal_qa_runner_vllm.py", line 616, in regenerate_from_existing_answers
+    q1_batch_results = wrapper.generate_with_vision_batch(q1_prompts, q1_images, max_new_tokens=max_new_tokens)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/multimodal_qa_runner_vllm.py", line 331, in generate_with_vision_batch
+    outputs = self.vllm_llm.generate(multimodal_prompts, self.vllm_sampling_params_q1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 440, in generate
+    self._validate_and_add_requests(
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1613, in _validate_and_add_requests
+    raise e
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1601, in _validate_and_add_requests
+    request_id = self._add_request(
+                 ^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1700, in _add_request
+    engine_request, tokenization_kwargs = self._process_inputs(
+                                          ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/entrypoints/llm.py", line 1680, in _process_inputs
+    engine_request = self.processor.process_inputs(
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/processor.py", line 442, in process_inputs
+    self._validate_model_inputs(encoder_inputs, decoder_inputs)
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/processor.py", line 517, in _validate_model_inputs
+    self._validate_model_input(decoder_inputs, prompt_type="decoder")
+  File "/home/himanshu/dev/code/.venv_phi4_req/lib64/python3.11/site-packages/vllm/v1/engine/processor.py", line 591, in _validate_model_input
+    raise ValueError(
+ValueError: The decoder prompt (length 8255) is longer than the maximum model length of 8192. Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.
+
+2025-11-23 05:25:15,858 [ERROR]     Q1[3] individual error: The decoder prompt (length 8255) is longer than the maximum model length of 8192. Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.
+2025-11-23 05:26:30,786 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:27:12,275 [INFO]     Q2[0] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q3[0] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q4[0] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q2[1] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q3[1] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q4[1] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q2[2] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,275 [INFO]     Q3[2] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q4[2] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q2[3] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q3[3] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q4[3] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q2[4] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q3[4] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q4[4] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q2[5] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q3[5] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q4[5] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q2[6] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,276 [INFO]     Q3[6] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q4[6] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q2[7] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q3[7] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q4[7] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q2[8] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q3[8] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q4[8] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q2[9] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q3[9] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,277 [INFO]     Q4[9] done: 40.13s (RAG: True, chunks: 5)
+2025-11-23 05:27:12,278 [INFO]   ✓ Saved 39_Carbon_Tetrachloride__answers.json
+2025-11-23 05:27:12,278 [INFO]   ✓ Saved 3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas__answers.json
+2025-11-23 05:27:12,279 [INFO]   ✓ Saved 40_Cellulose__answers.json
+2025-11-23 05:27:12,279 [INFO]   ✓ Saved 41_Cellulose_Nitrate__answers.json
+2025-11-23 05:27:12,280 [INFO]   ✓ Saved 42_Cellulose_Xanthate__answers.json
+2025-11-23 05:27:12,280 [INFO]   ✓ Saved 43_Chloroform__answers.json
+2025-11-23 05:27:12,280 [INFO]   ✓ Saved 44_Chlorophyll__answers.json
+2025-11-23 05:27:12,281 [INFO]   ✓ Saved 45_Cholesterol__answers.json
+2025-11-23 05:27:12,281 [INFO]   ✓ Saved 46_Cinnamaldehyde__answers.json
+2025-11-23 05:27:12,282 [INFO]   ✓ Saved 47_Citric_Acid__answers.json
+2025-11-23 05:27:13,282 [INFO] 
+Processing batch 13 (10 files)
+2025-11-23 05:27:13,282 [INFO] Loading: 48_Collagen__answers.json (source: 48_Collagen.json)
+2025-11-23 05:27:13,283 [INFO] Loading: 49_CopperI_Oxide__answers.json (source: 49_CopperI_Oxide.json)
+2025-11-23 05:27:13,284 [INFO] Loading: 4_246-Trinitrotoluene_TNT__answers.json (source: 4_246-Trinitrotoluene_TNT.json)
+2025-11-23 05:27:13,285 [INFO] Loading: 50_CopperII_Oxide__answers.json (source: 50_CopperII_Oxide.json)
+2025-11-23 05:27:13,286 [INFO] Loading: 51_CopperII_Sulfate__answers.json (source: 51_CopperII_Sulfate.json)
+2025-11-23 05:27:13,287 [INFO] Loading: 52_Cumene__answers.json (source: 52_Cumene.json)
+2025-11-23 05:27:13,287 [INFO] Loading: 53_Cyanoacrylate__answers.json (source: 53_Cyanoacrylate.json)
+2025-11-23 05:27:13,288 [INFO] Loading: 54_Cyanocobalamin__answers.json (source: 54_Cyanocobalamin.json)
+2025-11-23 05:27:13,289 [INFO] Loading: 55_Denatonium_Benzoate__answers.json (source: 55_Denatonium_Benzoate.json)
+2025-11-23 05:27:13,289 [INFO] Loading: 56_Dichlorodifluoromethane__answers.json (source: 56_Dichlorodifluoromethane.json)
+2025-11-23 05:27:17,871 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:28:13,195 [INFO]     Q1[0] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[1] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[2] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[3] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[4] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[5] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[6] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[7] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[8] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]     Q1[9] done: 49.97s (RAG: True, chunks: 5)
+2025-11-23 05:28:13,196 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:28:57,976 [INFO]     Q2[0] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q3[0] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q4[0] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q2[1] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q3[1] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q4[1] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q2[2] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q3[2] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q4[2] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q2[3] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,977 [INFO]     Q3[3] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q4[3] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q2[4] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q3[4] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q4[4] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q2[5] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q3[5] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q4[5] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q2[6] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q3[6] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,978 [INFO]     Q4[6] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q2[7] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q3[7] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q4[7] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q2[8] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q3[8] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q4[8] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q2[9] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q3[9] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,979 [INFO]     Q4[9] done: 43.27s (RAG: True, chunks: 5)
+2025-11-23 05:28:57,980 [INFO]   ✓ Saved 48_Collagen__answers.json
+2025-11-23 05:28:57,980 [INFO]   ✓ Saved 49_CopperI_Oxide__answers.json
+2025-11-23 05:28:57,981 [INFO]   ✓ Saved 4_246-Trinitrotoluene_TNT__answers.json
+2025-11-23 05:28:57,981 [INFO]   ✓ Saved 50_CopperII_Oxide__answers.json
+2025-11-23 05:28:57,982 [INFO]   ✓ Saved 51_CopperII_Sulfate__answers.json
+2025-11-23 05:28:57,982 [INFO]   ✓ Saved 52_Cumene__answers.json
+2025-11-23 05:28:57,983 [INFO]   ✓ Saved 53_Cyanoacrylate__answers.json
+2025-11-23 05:28:57,983 [INFO]   ✓ Saved 54_Cyanocobalamin__answers.json
+2025-11-23 05:28:57,984 [INFO]   ✓ Saved 55_Denatonium_Benzoate__answers.json
+2025-11-23 05:28:57,984 [INFO]   ✓ Saved 56_Dichlorodifluoromethane__answers.json
+2025-11-23 05:28:58,984 [INFO] 
+Processing batch 14 (10 files)
+2025-11-23 05:28:58,985 [INFO] Loading: 57_Dichlorodiphenyltrichloroethane__answers.json (source: 57_Dichlorodiphenyltrichloroethane.json)
+2025-11-23 05:28:58,986 [INFO] Loading: 58_Dimethyl_Ketone__answers.json (source: 58_Dimethyl_Ketone.json)
+2025-11-23 05:28:58,987 [INFO] Loading: 59_Ethyl_Acetate__answers.json (source: 59_Ethyl_Acetate.json)
+2025-11-23 05:28:58,988 [INFO] Loading: 5_Acetic_acid__answers.json (source: 5_Acetic_acid.json)
+2025-11-23 05:28:58,988 [INFO] Loading: 60_Ethyl_Alcohol__answers.json (source: 60_Ethyl_Alcohol.json)
+2025-11-23 05:28:58,989 [INFO] Loading: 61_Ethylbenzene__answers.json (source: 61_Ethylbenzene.json)
+2025-11-23 05:28:58,989 [INFO] Loading: 62_Ethylene__answers.json (source: 62_Ethylene.json)
+2025-11-23 05:28:58,990 [INFO] Loading: 63_Ethylene_Glycol__answers.json (source: 63_Ethylene_Glycol.json)
+2025-11-23 05:28:58,991 [INFO] Loading: 64_Ethylene_Oxide__answers.json (source: 64_Ethylene_Oxide.json)
+2025-11-23 05:28:58,992 [INFO] Loading: 65_Folic_Acid__answers.json (source: 65_Folic_Acid.json)
+2025-11-23 05:29:03,707 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:29:59,132 [INFO]     Q1[0] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[1] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[2] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[3] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[4] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[5] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,132 [INFO]     Q1[6] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,133 [INFO]     Q1[7] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,133 [INFO]     Q1[8] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,133 [INFO]     Q1[9] done: 50.19s (RAG: True, chunks: 5)
+2025-11-23 05:29:59,133 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:30:44,284 [INFO]     Q2[0] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,284 [INFO]     Q3[0] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,284 [INFO]     Q4[0] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,284 [INFO]     Q2[1] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,284 [INFO]     Q3[1] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,284 [INFO]     Q4[1] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q2[2] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q3[2] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q4[2] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q2[3] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q3[3] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q4[3] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q2[4] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q3[4] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q4[4] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q2[5] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,285 [INFO]     Q3[5] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q4[5] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q2[6] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q3[6] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q4[6] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q2[7] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q3[7] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q4[7] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q2[8] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q3[8] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q4[8] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,286 [INFO]     Q2[9] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,287 [INFO]     Q3[9] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,287 [INFO]     Q4[9] done: 43.54s (RAG: True, chunks: 5)
+2025-11-23 05:30:44,287 [INFO]   ✓ Saved 57_Dichlorodiphenyltrichloroethane__answers.json
+2025-11-23 05:30:44,288 [INFO]   ✓ Saved 58_Dimethyl_Ketone__answers.json
+2025-11-23 05:30:44,288 [INFO]   ✓ Saved 59_Ethyl_Acetate__answers.json
+2025-11-23 05:30:44,288 [INFO]   ✓ Saved 5_Acetic_acid__answers.json
+2025-11-23 05:30:44,289 [INFO]   ✓ Saved 60_Ethyl_Alcohol__answers.json
+2025-11-23 05:30:44,289 [INFO]   ✓ Saved 61_Ethylbenzene__answers.json
+2025-11-23 05:30:44,290 [INFO]   ✓ Saved 62_Ethylene__answers.json
+2025-11-23 05:30:44,290 [INFO]   ✓ Saved 63_Ethylene_Glycol__answers.json
+2025-11-23 05:30:44,291 [INFO]   ✓ Saved 64_Ethylene_Oxide__answers.json
+2025-11-23 05:30:44,291 [INFO]   ✓ Saved 65_Folic_Acid__answers.json
+2025-11-23 05:30:45,291 [INFO] 
+Processing batch 15 (10 files)
+2025-11-23 05:30:45,292 [INFO] Loading: 66_Formaldehyde__answers.json (source: 66_Formaldehyde.json)
+2025-11-23 05:30:45,293 [INFO] Loading: 67_Fructose__answers.json (source: 67_Fructose.json)
+2025-11-23 05:30:45,294 [INFO] Loading: 68_Gamma-123456-Hexachlorocyclohexane__answers.json (source: 68_Gamma-123456-Hexachlorocyclohexane.json)
+2025-11-23 05:30:45,295 [INFO] Loading: 69_Gelatin__answers.json (source: 69_Gelatin.json)
+2025-11-23 05:30:45,295 [INFO] Loading: 6_Acetylene__answers.json (source: 6_Acetylene.json)
+2025-11-23 05:30:45,296 [INFO] Loading: 70_Glucose__answers.json (source: 70_Glucose.json)
+2025-11-23 05:30:45,297 [INFO] Loading: 71_Glycerol__answers.json (source: 71_Glycerol.json)
+2025-11-23 05:30:45,298 [INFO] Loading: 72_Hexane__answers.json (source: 72_Hexane.json)
+2025-11-23 05:30:45,299 [INFO] Loading: 73_Hydrogen_Chloride__answers.json (source: 73_Hydrogen_Chloride.json)
+2025-11-23 05:30:45,300 [INFO] Loading: 74_Hydrogen_Peroxide__answers.json (source: 74_Hydrogen_Peroxide.json)
+2025-11-23 05:30:49,922 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:31:45,614 [INFO]     Q1[0] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[1] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[2] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[3] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[4] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[5] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[6] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[7] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[8] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]     Q1[9] done: 50.46s (RAG: True, chunks: 5)
+2025-11-23 05:31:45,615 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:32:28,694 [INFO]     Q2[0] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,694 [INFO]     Q3[0] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,694 [INFO]     Q4[0] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q2[1] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q3[1] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q4[1] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q2[2] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q3[2] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q4[2] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q2[3] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q3[3] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q4[3] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q2[4] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,695 [INFO]     Q3[4] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q4[4] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q2[5] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q3[5] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q4[5] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q2[6] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q3[6] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q4[6] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q2[7] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q3[7] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q4[7] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q2[8] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q3[8] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,696 [INFO]     Q4[8] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,697 [INFO]     Q2[9] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,697 [INFO]     Q3[9] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,697 [INFO]     Q4[9] done: 41.72s (RAG: True, chunks: 5)
+2025-11-23 05:32:28,697 [INFO]   ✓ Saved 66_Formaldehyde__answers.json
+2025-11-23 05:32:28,698 [INFO]   ✓ Saved 67_Fructose__answers.json
+2025-11-23 05:32:28,698 [INFO]   ✓ Saved 68_Gamma-123456-Hexachlorocyclohexane__answers.json
+2025-11-23 05:32:28,699 [INFO]   ✓ Saved 69_Gelatin__answers.json
+2025-11-23 05:32:28,699 [INFO]   ✓ Saved 6_Acetylene__answers.json
+2025-11-23 05:32:28,699 [INFO]   ✓ Saved 70_Glucose__answers.json
+2025-11-23 05:32:28,700 [INFO]   ✓ Saved 71_Glycerol__answers.json
+2025-11-23 05:32:28,700 [INFO]   ✓ Saved 72_Hexane__answers.json
+2025-11-23 05:32:28,701 [INFO]   ✓ Saved 73_Hydrogen_Chloride__answers.json
+2025-11-23 05:32:28,701 [INFO]   ✓ Saved 74_Hydrogen_Peroxide__answers.json
+2025-11-23 05:32:29,701 [INFO] 
+Processing batch 16 (10 files)
+2025-11-23 05:32:29,702 [INFO] Loading: 75_Hydroxytoluene__answers.json (source: 75_Hydroxytoluene.json)
+2025-11-23 05:32:29,703 [INFO] Loading: 76_IronII_Oxide__answers.json (source: 76_IronII_Oxide.json)
+2025-11-23 05:32:29,705 [INFO] Loading: 77_IronIII_Oxide__answers.json (source: 77_IronIII_Oxide.json)
+2025-11-23 05:32:29,705 [INFO] Loading: 78_Isoamyl_Acetate__answers.json (source: 78_Isoamyl_Acetate.json)
+2025-11-23 05:32:29,706 [INFO] Loading: 79_Isoprene__answers.json (source: 79_Isoprene.json)
+2025-11-23 05:32:29,707 [INFO] Loading: 7_Acetylsalicylic_Acid__answers.json (source: 7_Acetylsalicylic_Acid.json)
+2025-11-23 05:32:29,708 [INFO] Loading: 80_Isopropyl_Alcohol__answers.json (source: 80_Isopropyl_Alcohol.json)
+2025-11-23 05:32:29,709 [INFO] Loading: 81_L-Aspartyl-L-Phenylalanine_Methyl_Ester__answers.json (source: 81_L-Aspartyl-L-Phenylalanine_Methyl_Ester.json)
+2025-11-23 05:32:29,709 [INFO] Loading: 82_Lactic_Acid__answers.json (source: 82_Lactic_Acid.json)
+2025-11-23 05:32:29,710 [INFO] Loading: 83_Lactose__answers.json (source: 83_Lactose.json)
+2025-11-23 05:32:34,968 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:33:31,361 [INFO]     Q1[0] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[1] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[2] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[3] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[4] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[5] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[6] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,361 [INFO]     Q1[7] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,362 [INFO]     Q1[8] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,362 [INFO]     Q1[9] done: 50.64s (RAG: True, chunks: 5)
+2025-11-23 05:33:31,362 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:34:13,915 [INFO]     Q2[0] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q3[0] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q4[0] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q2[1] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q3[1] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q4[1] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q2[2] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q3[2] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q4[2] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q2[3] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,916 [INFO]     Q3[3] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[3] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q2[4] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q3[4] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[4] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q2[5] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q3[5] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[5] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q2[6] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q3[6] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[6] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q2[7] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q3[7] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[7] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q2[8] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q3[8] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,917 [INFO]     Q4[8] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,918 [INFO]     Q2[9] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,918 [INFO]     Q3[9] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,918 [INFO]     Q4[9] done: 41.23s (RAG: True, chunks: 5)
+2025-11-23 05:34:13,918 [INFO]   ✓ Saved 75_Hydroxytoluene__answers.json
+2025-11-23 05:34:13,918 [INFO]   ✓ Saved 76_IronII_Oxide__answers.json
+2025-11-23 05:34:13,919 [INFO]   ✓ Saved 77_IronIII_Oxide__answers.json
+2025-11-23 05:34:13,919 [INFO]   ✓ Saved 78_Isoamyl_Acetate__answers.json
+2025-11-23 05:34:13,920 [INFO]   ✓ Saved 79_Isoprene__answers.json
+2025-11-23 05:34:13,920 [INFO]   ✓ Saved 7_Acetylsalicylic_Acid__answers.json
+2025-11-23 05:34:13,920 [INFO]   ✓ Saved 80_Isopropyl_Alcohol__answers.json
+2025-11-23 05:34:13,921 [INFO]   ✓ Saved 81_L-Aspartyl-L-Phenylalanine_Methyl_Ester__answers.json
+2025-11-23 05:34:13,921 [INFO]   ✓ Saved 82_Lactic_Acid__answers.json
+2025-11-23 05:34:13,921 [INFO]   ✓ Saved 83_Lactose__answers.json
+2025-11-23 05:34:14,922 [INFO] 
+Processing batch 17 (10 files)
+2025-11-23 05:34:14,924 [INFO] Loading: 84_Luminol__answers.json (source: 84_Luminol.json)
+2025-11-23 05:34:14,926 [INFO] Loading: 85_Magnesium_Chloride__answers.json (source: 85_Magnesium_Chloride.json)
+2025-11-23 05:34:14,927 [INFO] Loading: 86_Magnesium_Hydroxide__answers.json (source: 86_Magnesium_Hydroxide.json)
+2025-11-23 05:34:14,928 [INFO] Loading: 87_Magnesium_Oxide__answers.json (source: 87_Magnesium_Oxide.json)
+2025-11-23 05:34:14,929 [INFO] Loading: 88_Magnesium_Silicate_Hydroxide__answers.json (source: 88_Magnesium_Silicate_Hydroxide.json)
+2025-11-23 05:34:14,930 [INFO] Loading: 89_Magnesium_Sulfate__answers.json (source: 89_Magnesium_Sulfate.json)
+2025-11-23 05:34:14,931 [INFO] Loading: 8_Alpha-Tocopherol__answers.json (source: 8_Alpha-Tocopherol.json)
+2025-11-23 05:34:14,932 [INFO] Loading: 90_Menthol__answers.json (source: 90_Menthol.json)
+2025-11-23 05:34:14,933 [INFO] Loading: 91_MercuryII_Sulfide__answers.json (source: 91_MercuryII_Sulfide.json)
+2025-11-23 05:34:14,935 [INFO] Loading: 92_Methane__answers.json (source: 92_Methane.json)
+2025-11-23 05:34:19,238 [INFO]   Batch Q1: Generating 10 vision questions with RAG...
+2025-11-23 05:35:14,108 [INFO]     Q1[0] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,108 [INFO]     Q1[1] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,108 [INFO]     Q1[2] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,108 [INFO]     Q1[3] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,108 [INFO]     Q1[4] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]     Q1[5] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]     Q1[6] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]     Q1[7] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]     Q1[8] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]     Q1[9] done: 50.04s (RAG: True, chunks: 5)
+2025-11-23 05:35:14,109 [INFO]   Batch Q2-Q4: Generating 30 text questions with RAG...
+2025-11-23 05:35:57,407 [INFO]     Q2[0] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q3[0] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q4[0] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q2[1] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q3[1] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q4[1] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q2[2] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,407 [INFO]     Q3[2] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q4[2] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q2[3] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q3[3] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q4[3] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q2[4] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q3[4] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q4[4] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q2[5] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q3[5] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q4[5] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,408 [INFO]     Q2[6] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q3[6] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q4[6] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q2[7] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q3[7] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q4[7] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q2[8] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q3[8] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q4[8] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q2[9] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q3[9] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,409 [INFO]     Q4[9] done: 41.97s (RAG: True, chunks: 5)
+2025-11-23 05:35:57,410 [INFO]   ✓ Saved 84_Luminol__answers.json
+2025-11-23 05:35:57,410 [INFO]   ✓ Saved 85_Magnesium_Chloride__answers.json
+2025-11-23 05:35:57,411 [INFO]   ✓ Saved 86_Magnesium_Hydroxide__answers.json
+2025-11-23 05:35:57,411 [INFO]   ✓ Saved 87_Magnesium_Oxide__answers.json
+2025-11-23 05:35:57,412 [INFO]   ✓ Saved 88_Magnesium_Silicate_Hydroxide__answers.json
+2025-11-23 05:35:57,412 [INFO]   ✓ Saved 89_Magnesium_Sulfate__answers.json
+2025-11-23 05:35:57,412 [INFO]   ✓ Saved 8_Alpha-Tocopherol__answers.json
+2025-11-23 05:35:57,413 [INFO]   ✓ Saved 90_Menthol__answers.json
+2025-11-23 05:35:57,413 [INFO]   ✓ Saved 91_MercuryII_Sulfide__answers.json
+2025-11-23 05:35:57,414 [INFO]   ✓ Saved 92_Methane__answers.json
+2025-11-23 05:35:58,414 [INFO] 
+Processing batch 18 (8 files)
+2025-11-23 05:35:58,417 [INFO] Loading: 93_Methyl-t-butyl_Ether__answers.json (source: 93_Methyl-t-butyl_Ether.json)
+2025-11-23 05:35:58,418 [INFO] Loading: 94_Methyl_Alcohol__answers.json (source: 94_Methyl_Alcohol.json)
+2025-11-23 05:35:58,420 [INFO] Loading: 95_Methyl_Mercaptan__answers.json (source: 95_Methyl_Mercaptan.json)
+2025-11-23 05:35:58,421 [INFO] Loading: 96_Monosodium_Glutamate__answers.json (source: 96_Monosodium_Glutamate.json)
+2025-11-23 05:35:58,422 [INFO] Loading: 97_Naphthalene__answers.json (source: 97_Naphthalene.json)
+2025-11-23 05:35:58,424 [INFO] Loading: 98_Naproxen__answers.json (source: 98_Naproxen.json)
+2025-11-23 05:35:58,425 [INFO] Loading: 99_Niacin__answers.json (source: 99_Niacin.json)
+2025-11-23 05:35:58,425 [INFO] Loading: 9_Aluminum_Fluoride__answers.json (source: 9_Aluminum_Fluoride.json)
+2025-11-23 05:36:02,238 [INFO]   Batch Q1: Generating 8 vision questions with RAG...
+2025-11-23 05:36:47,858 [INFO]     Q1[0] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,858 [INFO]     Q1[1] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,858 [INFO]     Q1[2] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,858 [INFO]     Q1[3] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,858 [INFO]     Q1[4] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,859 [INFO]     Q1[5] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,859 [INFO]     Q1[6] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,859 [INFO]     Q1[7] done: 41.35s (RAG: True, chunks: 5)
+2025-11-23 05:36:47,859 [INFO]   Batch Q2-Q4: Generating 24 text questions with RAG...
+2025-11-23 05:37:25,124 [INFO]     Q2[0] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q3[0] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q4[0] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q2[1] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q3[1] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q4[1] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q2[2] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q3[2] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q4[2] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,124 [INFO]     Q2[3] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q3[3] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q4[3] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q2[4] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q3[4] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q4[4] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q2[5] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q3[5] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q4[5] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q2[6] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q3[6] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,125 [INFO]     Q4[6] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,126 [INFO]     Q2[7] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,126 [INFO]     Q3[7] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,126 [INFO]     Q4[7] done: 36.21s (RAG: True, chunks: 5)
+2025-11-23 05:37:25,126 [INFO]   ✓ Saved 93_Methyl-t-butyl_Ether__answers.json
+2025-11-23 05:37:25,127 [INFO]   ✓ Saved 94_Methyl_Alcohol__answers.json
+2025-11-23 05:37:25,127 [INFO]   ✓ Saved 95_Methyl_Mercaptan__answers.json
+2025-11-23 05:37:25,128 [INFO]   ✓ Saved 96_Monosodium_Glutamate__answers.json
+2025-11-23 05:37:25,129 [INFO]   ✓ Saved 97_Naphthalene__answers.json
+2025-11-23 05:37:25,129 [INFO]   ✓ Saved 98_Naproxen__answers.json
+2025-11-23 05:37:25,130 [INFO]   ✓ Saved 99_Niacin__answers.json
+2025-11-23 05:37:25,130 [INFO]   ✓ Saved 9_Aluminum_Fluoride__answers.json
+2025-11-23 05:37:25,131 [INFO] 
+======================================================================
+2025-11-23 05:37:25,131 [INFO] REGENERATION SUMMARY
+2025-11-23 05:37:25,131 [INFO] ======================================================================
+2025-11-23 05:37:25,131 [INFO] Total files: 178
+2025-11-23 05:37:25,132 [INFO] Successful: 178
+2025-11-23 05:37:25,132 [INFO] Failed: 0
+2025-11-23 05:37:25,132 [INFO] Total time: 1934.22s (32.24 min)
+2025-11-23 05:37:25,132 [INFO] Average per file: 10.87s
+2025-11-23 05:37:25,132 [INFO] vLLM used: True
+2025-11-23 05:37:25,132 [INFO] Summary saved to: /home/himanshu/dev/output/qwen_rag/rag_regeneration_summary.json
+2025-11-23 05:37:25,132 [INFO] ======================================================================

@@ -1,0 +1,38 @@
+{
+  "compound_id": 53,
+  "compound_name": "Dichlorodifluoromethane",
+  "source_file": "compound_053_Dichlorodifluoromethane.json",
+  "main_entry_length": 1505,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0328_Dichlorodifluoromethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is dichlorodifluoromethane. It is a chlorofluorocarbon (CFC) commonly used as a refrigerant and aerosol propellant. The compound consists of carbon (black), fluorine (turquoise), and chlorine (green) atoms. Dichlorodifluoromethane is nonflammable and non-toxic, making it a safer alternative to earlier refrigerants like ammonia and sulfur dioxide. However, it has been phased out due to its role in depleting the ozone layer.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:07"
+    },
+    {
+      "question": "What is the chemical formula of Dichlorodifluoromethane, and what elements does it comprise?",
+      "answer": "Dichlorodifluoromethane has the chemical formula CCl2F2. It comprises the elements carbon (C), chlorine (Cl), and fluorine (F).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does dichlorodifluoromethane's solubility vary between water and other solvents like alcohol and ether?",
+      "answer": "Dichlorodifluoromethane is very slightly soluble in water, meaning it does not dissolve well. However, it is soluble in alcohol and ether, indicating that it can dissolve more readily in these solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain why dichlorodifluoromethane is categorized as both a chlorofluorocarbon (CFC) and an alkyl halide.",
+      "answer": "Dichlorodifluoromethane is categorized as a chlorofluorocarbon (CFC) because it consists of carbon, chlorine, and fluorine atoms. CFCs are derivatives of alkanes, where hydrogen atoms are replaced by chlorine and/or fluorine atoms. It is also an alkyl halide, a type of organic compound where halogens (like chlorine and fluorine) replace hydrogen atoms in alkanes. This dual classification arises from its composition and structure, featuring halogens bonded to a carbon framework.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

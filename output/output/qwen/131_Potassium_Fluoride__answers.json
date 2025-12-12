@@ -1,0 +1,27 @@
+{
+  "source_file": "131_Potassium_Fluoride.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Potassium Fluoride (KF). Key properties of Potassium Fluoride include:\n\n1. **Formula**: KF, where K represents potassium and F represents fluorine.\n2. **Appearance**: It appears as a white crystalline solid.\n3. **Uses**:\n   - As a fluoridating agent, it provides fluorine atoms to other compounds in organic chemical synthesis.\n   - Used in metallurgy as a flux to finish metals, make coatings for metals, and in tin plating.\n4. **Potential Hazards**: It can be toxic if ingested or inhaled, and it should",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Fluoride?",
+      "answer": "The chemical formula for Potassium Fluoride (KF) is simply KF, where K represents potassium and F represents fluorine.\n\nTo calculate the molecular weight of KF, we need to sum the atomic weights of its constituent elements:\n\n- The atomic weight of potassium (K) is approximately 39.10 g/mol.\n- The atomic weight of fluorine (F) is approximately 18.99 g/mol.\n\nSo, the molecular weight of KF is calculated as follows:\n\\[ \\text{Molecular weight of KF} = 39.10 \\, \\text{g/mol}",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain the solubility properties of Potassium Fluoride in different solvents.",
+      "answer": "Potassium fluoride (KF) is an ionic compound, meaning it dissociates into its constituent ions when dissolved in water or other polar solvents. The solubility of KF in various solvents can be understood by considering the nature of these solvents and their interactions with the ions.\n\n### Solubility in Water:\n- **Solubility**: Potassium fluoride is highly soluble in water.\n- **Reason**: Water is a polar solvent that can effectively solvate the ionic species (K⁺ and F⁻). The strong hydrogen bonding network in water helps to stabilize the ions, making KF highly soluble.\n\n### Sol",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Describe the process of synthesizing Potassium Fluoride from potassium carbonate and hydrofluoric acid.",
+      "answer": "Synthesizing Potassium Fluoride (KF) from Potassium Carbonate (K₂CO₃) and Hydrofluoric Acid (HF) involves a series of chemical reactions that must be carefully controlled to avoid hazards and ensure the desired product is formed. Here's a step-by-step description of the process:\n\n### Materials Needed:\n1. Potassium Carbonate (K₂CO₃)\n2. Hydrofluoric Acid (HF)\n3. Distilled water\n4. Appropriate glassware and equipment for handling acids\n\n### Safety Precautions:\n- Wear appropriate personal protective equipment (PPE), including gloves, goggles",
+      "latency_s": 10.58
+    }
+  ]
+}

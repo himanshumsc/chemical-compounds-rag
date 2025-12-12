@@ -1,0 +1,58 @@
+{
+  "compound_id": 124,
+  "compound_name": "Potassium Bitartrate",
+  "source_file": "compound_124_Potassium Bitartrate.json",
+  "main_entry_length": 2669,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0680_Potassium_Bitartrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is potassium bitartrate, commonly known as cream of tartar. Its molecular structure includes oxygen (red), hydrogen (white), carbon (black), and potassium (blue) atoms. \n\nKey properties and uses include:\n\n1. **Food Production**: It's used in baking to stabilize egg whites, add body, and produce creamy textures in sugar-based foods.\n2. **Leavening Agent**: It helps baked goods rise.\n3. **Anticaking Agent**: It stabilizes and thickens some food products.\n4. **Acidic Taste**: Adds a pleasantly acidic flavor to foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:35"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bitartrate?",
+      "answer": "The chemical formula of Potassium Bitartrate is KHC4H4O6, and its molecular weight is 188.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:48",
+      "char_limit": 1000,
+      "answer_length": 99
+    },
+    {
+      "question": "Describe the solubility properties of Potassium Bitartrate in different solvents.",
+      "answer": "Potassium bitartrate is somewhat soluble in cold water and very soluble in hot water. It is insoluble in alcohol.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:51",
+      "char_limit": 1800,
+      "answer_length": 113
+    },
+    {
+      "question": "Explain how Potassium Bitartrate is produced and name one of its historical uses.",
+      "answer": "Potassium bitartrate is produced by treating wine lees (the solid material left after grapes have been crushed to make wine) with hot water, which dissolves the potassium bitartrate. The hot solution is then allowed to evaporate, and as potassium bitartrate crystals form, they are removed and purified.\n\nOne of its historical uses was by ancient people in a wide range of household applications, including cooking and baking.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:54",
+      "char_limit": 2000,
+      "answer_length": 426
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4435,
+  "updated_at": "2025-11-30 13:40:54",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

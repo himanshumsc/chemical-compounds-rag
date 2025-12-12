@@ -1,0 +1,38 @@
+{
+  "compound_id": 107,
+  "compound_name": "Perchlorates",
+  "source_file": "compound_107_Perchlorates.json",
+  "main_entry_length": 2497,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0592_Perchlorates_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of the perchlorate ion (ClO₄⁻). The diagram illustrates a central chlorine atom (green) surrounded by four oxygen atoms (red).\n\nKey properties of the perchlorate ion include:\n\n1. **Stability**: It is a stable ion, often used in various chemical processes.\n2. **Oxidizing Agent**: Perchlorates are strong oxidizers, making them useful in propellants and explosives.\n3. **Solubility**: They are highly soluble in water, which can lead to environmental concerns if not managed properly.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:26"
+    },
+    {
+      "question": "What are the chemical formulas for the most important perchlorates?",
+      "answer": "The most important perchlorates and their chemical formulas are ammonium perchlorate (NH4ClO4), potassium perchlorate (KClO4), and sodium perchlorate (NaClO4).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does the method of production differ between ammonium perchlorate and potassium perchlorate?",
+      "answer": "Ammonium perchlorate is produced by reacting ammonium hydroxide (NH4OH), hydrochloric acid (HCl), and sodium chlorate (NaClO3). Potassium perchlorate, on the other hand, can be produced either by electrolyzing potassium chlorate (KClO3) in water or by heating potassium chlorate (KClO3) to obtain a mixture of potassium perchlorate and potassium chloride (KCl), from which KCl is removed.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the environmental and safety concerns associated with perchlorates.",
+      "answer": "Perchlorates, widely used in the production of explosives, fireworks, and as jet and rocket propellants, pose environmental concerns due to their presence in water supplies. Their production increased significantly during World War II and the Cold War era. The potential contamination of water sources has led to growing concerns about their environmental impact and safety, as perchlorates are known to decompose explosively when heated, further accentuating their hazardous nature.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}
