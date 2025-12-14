@@ -1,0 +1,39 @@
+# EDA Output Files (generated data)
+output/*.json
+output/*.csv
+output/*.parquet
+output/*.md
+
+# Plots (generated visualizations)
+plots/
+
+# Logs
+*.log
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Keep directory structure
+!output/.gitkeep
+!plots/.gitkeep
+
