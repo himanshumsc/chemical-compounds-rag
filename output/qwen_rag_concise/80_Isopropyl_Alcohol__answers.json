@@ -1,0 +1,59 @@
+{
+  "source_file": "80_Isopropyl_Alcohol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Isopropyl alcohol. Key properties: It dissolves many organic compounds, used as a solvent for gums, oils, plastics, and coatings.",
+      "latency_s": 39.85,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of isopropyl alcohol?",
+      "answer": "Isopropyl alcohol: C3H8O, 60.08 g/mol",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why isopropyl alcohol is commonly used as a rubbing alcohol in medical settings.",
+      "answer": "Isopropyl alcohol is commonly used as a rubbing alcohol in medical settings due to its bactericidal properties, which help prevent the spread of microorganisms. It effectively disinfects skin and wounds, making it suitable for use in first aid and cleaning surgical sites. Its quick-drying action and pleasant odor also contribute to its widespread use in healthcare settings.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the industrial process used to produce isopropyl alcohol and identify the catalyst involved.",
+      "answer": "Isopropyl alcohol is produced industrially through the hydration of propylene, a reaction catalyzed by acid catalysts, typically sulfuric acid or phosphoric acid.",
+      "latency_s": 25.51,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:45:27",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:45:27",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

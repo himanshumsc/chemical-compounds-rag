@@ -1,0 +1,58 @@
+{
+  "compound_id": 143,
+  "compound_name": "Sodium Acetate",
+  "source_file": "compound_143_Sodium Acetate.json",
+  "main_entry_length": 1796,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0770_Sodium_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium acetate trihydrate. Sodium acetate is composed of sodium (Na), carbon (C), hydrogen (H), and oxygen (O) atoms. In the diagram, red atoms are oxygen, white atoms are hydrogen, black atoms are carbon, and the turquoise atom is sodium. Sodium acetate is commonly used in the textile industry as a mordant and for fabric stabilization. It can be converted to its anhydrous form by heating to remove water molecules.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:24"
+    },
+    {
+      "question": "What is the chemical formula of sodium acetate and its molecular weight?",
+      "answer": "The chemical formula of sodium acetate is NaC2H3O2, and its molecular weight is 82.03 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:38",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Explain the process of how sodium acetate is prepared using sodium hydroxide and acetic acid.",
+      "answer": "Sodium acetate is prepared by reacting sodium hydroxide (NaOH) with acetic acid (HC2H3O2). The chemical reaction is as follows:\n\nNaOH + HC2H3O2 → NaC2H3O2 + H2O\n\nIn this process, sodium acetate forms as the trihydrate, NaC2H3O2·3H2O. The trihydrate is then recovered by evaporating the reacting solution. The anhydrous form of sodium acetate can be obtained by heating the trihydrate to remove the water of hydration.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:40",
+      "char_limit": 1800,
+      "answer_length": 417
+    },
+    {
+      "question": "Discuss why sodium acetate is used in the textile industry and describe its physical properties that make it suitable for this application.",
+      "answer": "Sodium acetate is used in the textile industry as a mordant in the dyeing of fabrics and to stabilize and improve the finish of fabrics. A mordant is a substance that helps fix dyes to fabrics, enhancing their colorfastness. The physical properties of sodium acetate that make it suitable for this application include its ability to form a stable crystalline solid and its hygroscopic nature, which allows it to absorb moisture from the air. This hygroscopicity may help in maintaining the appropriate moisture levels during the dyeing process. Sodium acetate is also very soluble in water, which facilitates its application in aqueous dyeing solutions. Its solid state and stability allow it to be easily handled and incorporated into textile processing.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:43",
+      "char_limit": 2000,
+      "answer_length": 755
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3241,
+  "updated_at": "2025-11-30 13:44:43",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

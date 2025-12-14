@@ -1,0 +1,36 @@
+{
+  "compound_id": 79,
+  "compound_name": "L-Aspartyl-L-Phenylalanine Methyl Ester",
+  "source_file": "compound_079_L-Aspartyl-L-Phenylalanine Methyl Ester.json",
+  "main_entry_length": 1553,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0452_L-Aspartyl-L-Phenylalanine_Methyl_Ester_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:27",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is L-Aspartyl-L-Phenylalanine Methyl Ester.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of L-Aspartyl-L-Phenylalanine Methyl Ester?",
+      "answer": "The molecular formula of L-Aspartyl-L-Phenylalanine Methyl Ester is C14H18N2O5, and its molecular weight is 294.30 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why L-Aspartyl-L-Phenylalanine Methyl Ester is considered a dipeptide and how it compares to sucrose in terms of sweetness and caloric content.",
+      "answer": "L-Aspartyl-L-Phenylalanine Methyl Ester, also known as aspartame, is considered a dipeptide because it is composed of two amino acids joined together. It is 180 to 200 times as sweet as sucrose (table sugar) but provides no calories, making it a suitable sugar substitute for those looking to reduce caloric intake.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the solubility characteristics of L-Aspartyl-L-Phenylalanine Methyl Ester and its implications for use in food products.",
+      "answer": "L-Aspartyl-L-Phenylalanine Methyl Ester is slightly soluble in water and insoluble in alcohol, benzene, ether, and most other organic solvents. This solubility profile means that while it can be used in aqueous food products, its insolubility in organic solvents limits its use to food and beverage applications where water is the primary solvent.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

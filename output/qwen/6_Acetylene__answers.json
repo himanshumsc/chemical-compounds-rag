@@ -1,0 +1,27 @@
+{
+  "source_file": "6_Acetylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows acetylene (C₂H₂). Key properties of acetylene include:\n\n1. **Structure**: It consists of two carbon atoms bonded together with two hydrogen atoms attached to each carbon atom.\n2. **Bonding**: The carbon-carbon bond is a double bond, which makes it highly reactive compared to other hydrocarbons.\n3. **Uses**: Acetylene is widely used in various applications due to its high reactivity:\n   - **Manufacturing**: Used in the production of vinyl chloride, vinylidene chloride, vinyl acetate, acrylonitrile, and tr",
+      "latency_s": 16.63
+    },
+    {
+      "question": "What is the molecular formula of Acetylene and what elements does it consist of?",
+      "answer": "The molecular formula for acetylene is \\( C_2H_2 \\). It consists of two carbon (C) atoms and two hydrogen (H) atoms.",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Explain why acetylene is highly flammable and how this property is utilized.",
+      "answer": "Acetylene, also known as ethyne, is a highly flammable gas due to its chemical structure and reactivity. It is composed of two carbon atoms and two hydrogen atoms (C₂H₂), which makes it highly reactive with oxygen in the air. This reactivity is what makes acetylene highly flammable.\n\n### Why Acetylene is Highly Flammable\n\n1. **Chemical Structure**: The double bond between the two carbon atoms in acetylene makes it highly reactive. This double bond can easily break and reform, allowing for rapid reactions with other substances.\n2. **Energy Content**: Acetylene has a",
+      "latency_s": 10.42
+    },
+    {
+      "question": "Describe the historical development in the production of Acetylene, including the roles of calcium carbide and the BASF process.",
+      "answer": "Acetylene is a chemical compound with the formula C2H2, commonly known as ethyne. It has been used for various purposes since its discovery in 1834 by Michael Faraday. However, it wasn't until the late 19th century that acetylene became widely used due to the development of efficient methods for its production.\n\n### Historical Development\n\n#### Early Production Methods (1830s-1870s)\nThe early production of acetylene was primarily through the electrolysis of water or the reduction of carbon dioxide with hydrogen. These methods were not practical on an industrial scale because",
+      "latency_s": 10.42
+    }
+  ]
+}

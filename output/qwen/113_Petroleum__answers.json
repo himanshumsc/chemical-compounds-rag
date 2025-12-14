@@ -1,0 +1,27 @@
+{
+  "source_file": "113_Petroleum.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image does not contain a molecular structure diagram. Instead, it provides information about petroleum, including how it is formed and its physical properties. The text describes that petroleum is a thick, oily liquid with a dark yellow to brown to greenish-black color and a strong, unpleasant odor. It also mentions that many of the hydrocarbons in petroleum have side chains consisting of carbon and hydrogen atoms.\n\nIf you are referring to a specific chemical compound, please provide more details or clarify your question.",
+      "latency_s": 16.77
+    },
+    {
+      "question": "What are the primary components of petroleum, and how do they differ in terms of chemical bonding?",
+      "answer": "Petroleum is primarily composed of hydrocarbons, which are organic compounds consisting solely of carbon and hydrogen atoms. These hydrocarbons can be categorized into several types based on their molecular structure:\n\n1. **Alkanes (Saturated Hydrocarbons)**: These are the simplest hydrocarbons with only single bonds between carbon atoms. Examples include methane (CH4), ethane (C2H6), and propane (C3H8).\n\n2. **Alkenes (Unsaturated Hydrocarbons)**: These contain at least one double bond between two carbon atoms. Examples include ethene (C2H4) and",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Explain the refining process of petroleum and the significance of different temperature fractions in this process.",
+      "answer": "The refining process of petroleum, also known as crude oil, involves several steps to transform it into various useful products such as gasoline, diesel fuel, jet fuel, kerosene, lubricants, and asphalt. The refining process is complex and can be broadly divided into two main stages: primary refining and secondary refining.\n\n### Primary Refining\n\nPrimary refining, or distillation, is the first stage where crude oil is heated in a large cylindrical vessel called a fractionating column. This process separates the crude oil into different temperature fractions based on their boiling points. The fractionating column is designed with multiple trays or plates that increase the surface area for",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Discuss the environmental impact of petroleum extraction and usage, particularly focusing on its role in energy production and transportation.",
+      "answer": "Petroleum extraction and usage have significant environmental impacts, primarily due to their role in energy production and transportation.\n\nFirstly, petroleum extraction involves drilling into the earth's crust to extract crude oil. This process can cause significant damage to the environment. Drilling operations can lead to soil erosion, loss of biodiversity, and contamination of water sources. The use of chemicals during the extraction process can also harm aquatic life and ecosystems. Moreover, the drilling process can release methane, a potent greenhouse gas, into the atmosphere, contributing to climate change.\n\nSecondly, the combustion of petroleum products releases pollutants such as carbon dioxide (CO2), nitrogen oxides (",
+      "latency_s": 10.65
+    }
+  ]
+}

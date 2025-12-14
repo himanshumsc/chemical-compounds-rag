@@ -1,0 +1,38 @@
+{
+  "compound_id": 149,
+  "compound_name": "Sodium Hydroxide",
+  "source_file": "compound_149_Sodium Hydroxide.json",
+  "main_entry_length": 1304,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0804_Sodium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents sodium hydroxide (NaOH). In this diagram, the turquoise atom is sodium (Na), the red atom is oxygen (O), and the white atom is hydrogen (H).\n\n**Key Properties of Sodium Hydroxide:**\n\n1. **Chemical Formula:** NaOH\n2. **Appearance:** White, crystalline solid\n3. **Solubility:** Highly soluble in water, releasing heat\n4. **Uses:** Commonly used in soap making, paper production, and as a chemical reactant\n5. **Reactivity:** Strong base, reacts with acids to form salts and water\n6. **Safety:** Corrosive, can cause chemical burns",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:51"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide and what elements does it contain?",
+      "answer": "The chemical formula for sodium hydroxide is NaOH. It contains the elements sodium (Na), oxygen (O), and hydrogen (H).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why sodium hydroxide is considered a deliquescent solid and its implications.",
+      "answer": "Sodium hydroxide is considered a deliquescent solid because it absorbs moisture from the air. This property means that sodium hydroxide can attract and absorb water vapor, which can lead to it dissolving in the absorbed moisture and potentially forming a liquid solution on exposure to air. This characteristic requires it to be stored in airtight containers to prevent it from absorbing moisture and reacting with carbon dioxide in the air to form sodium carbonate.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process by which sodium hydroxide is commercially produced and its relation to chlorine gas.",
+      "answer": "Sodium hydroxide is commercially produced through the electrolysis of a sodium chloride solution. In this process, an electric current is applied to break down the sodium chloride (NaCl) into its component elements, sodium (Na) and chlorine (Cl). The chlorine is released as a gas, while the sodium reacts with water to form sodium hydroxide (NaOH). This process not only produces sodium hydroxide but also generates chlorine gas as a byproduct, illustrating the interconnected nature of chemical manufacturing.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

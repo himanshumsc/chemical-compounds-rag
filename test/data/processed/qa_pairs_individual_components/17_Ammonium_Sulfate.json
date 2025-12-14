@@ -1,0 +1,38 @@
+{
+  "compound_id": 13,
+  "compound_name": "Ammonium Sulfate",
+  "source_file": "compound_013_Ammonium Sulfate.json",
+  "main_entry_length": 1944,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0128_Ammonium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows ammonium sulfate, a chemical compound with the formula \\((\\text{NH}_4)_2\\text{SO}_4\\). The diagram illustrates its ionic structure, consisting of ammonium ions (\\(\\text{NH}_4^+\\)) and sulfate ions (\\(\\text{SO}_4^{2-}\\)). Key properties of ammonium sulfate include its use as a fertilizer, providing essential nitrogen and sulfur for plant growth. It is also used in water treatment to control acidity. It appears as a white crystalline solid, is highly soluble in water, and is non-flammable.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ammonium sulfate?",
+      "answer": "The chemical formula of ammonium sulfate is (NH4)2SO4, and its molecular weight is 132.14 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why ammonium sulfate is primarily used in fertilizers.",
+      "answer": "Ammonium sulfate is primarily used in fertilizers because it provides two essential nutrients that plants require for growth: nitrogen and sulfur. These elements are vital for the synthesis of proteins and other important compounds within plants.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe how ammonium sulfate is produced using gypsum, ammonia, and carbon dioxide.",
+      "answer": "Ammonium sulfate can be produced by treating gypsum (CaSO4·2H2O) with ammonia (NH3) and carbon dioxide (CO2). In this reaction, gypsum reacts with ammonia and carbon dioxide to generate ammonium sulfate as a product. This method is an alternative to the direct reaction of ammonia with sulfuric acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

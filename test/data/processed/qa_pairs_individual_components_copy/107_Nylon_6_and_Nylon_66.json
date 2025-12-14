@@ -1,0 +1,36 @@
+{
+  "compound_id": 103,
+  "compound_name": "Nylon 6 and Nylon 66",
+  "source_file": "compound_103_Nylon 6 and Nylon 66.json",
+  "main_entry_length": 3325,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0570_Nylon_6_and_Nylon_66_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Nylon 6 and Nylon 66.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What are the chemical formulas for Nylon 6 and Nylon 66, and what elements do they contain?",
+      "answer": "Nylon 6 has the chemical formula -[-CO(CH2)5NH-]-n, and Nylon 66 has the formula -[-CO(CH2)4CO-NH(CH2)6NH-]-n. Both compounds contain carbon, hydrogen, oxygen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the difference between thermoplastic polymers and thermosetting plastics in the context of Nylon 6 and Nylon 66.",
+      "answer": "Nylon 6 and Nylon 66 are examples of thermoplastic polymers, meaning they can be repeatedly melted and hardened through alternate heating and cooling. This is in contrast to thermosetting plastics, which cannot be re-melted once they have hardened. The thermoplastic nature of Nylon allows it to be molded and shaped multiple times, making it versatile for various applications.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the commercial production process for Nylon 66 and how it differs from the production of Nylon 6.",
+      "answer": "The commercial production of Nylon 66 involves a reaction between adipic acid (HOOC(CH2)4COOH) and hexamethylenediamine (H2N(CH2)6NH2) to form a monomer which then polymerizes into the polymer. This process was originally developed by Wallace Carothers in 1935. In contrast, Nylon 6 is produced by polymerizing aminocaproic acid (H2N(CH2)5COOH). Although both result in polyamides with methylene groups joined by amide groups, the specific structures differ, with Nylon 66 having a more complex formation procedure.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

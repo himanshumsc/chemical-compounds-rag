@@ -1,0 +1,59 @@
+{
+  "source_file": "71_Glycerol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows glycerol, a trihydroxy compound composed of 3 carbon, 8 hydrogen, and 3 oxygen atoms. It is a key component in soap production and acts as a sweetener and thickener in food.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glycerol?",
+      "answer": "The chemical formula of glycerol is C3H8O3, with a molecular weight of 92.09 g/mol.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is glycerol classified as a trihydric alcohol, and what are its solubility properties?",
+      "answer": "Glycerol is classified as a trihydric alcohol because it has three hydroxyl groups (-OH). It is highly soluble in water and ethanol, and slightly soluble in acetone.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the traditional method of producing glycerol and its significance in the soap industry.",
+      "answer": "Glycerol is traditionally produced by the saponification of fats and oils, where the triglycerides react with a base like KOH or NaOH to yield soap and glycerol. This process is fundamental in soap manufacturing, as glycerol serves as a moisturizing agent, improving the quality and effectiveness of soaps. It is crucial for maintaining the product's texture and preventing it from drying out.\n\nThe saponification reaction is a chemical synthesis where triglycerides are hydrolyzed to yield fatty acids and glycerol. This method is significant in the soap industry as it ensures the production of glycerol, which is essential for maintaining the soap's moisturizing properties and overall quality.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

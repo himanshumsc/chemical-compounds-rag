@@ -1,0 +1,27 @@
+{
+  "source_file": "128_Potassium_Bitartrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Bitartrate (also known as Potassium Tartrate). The key properties of Potassium Bitartrate include:\n\n1. **Chemical Composition**: It consists of potassium (K), carbon (C), hydrogen (H), and oxygen (O). Specifically, it has one potassium atom, four carbon atoms, eight hydrogen atoms, and six oxygen atoms.\n\n2. **Common Uses**:\n   - It is used as a leavening agent in baked goods to cause products to rise.\n   - It acts as an anticaking agent and stabilizer to thicken some food",
+      "latency_s": 16.7
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bitartrate?",
+      "answer": "The chemical formula for Potassium Bitartrate, also known as Potassium Acid Tartarate or Potassium Citrate, is:\n\n\\[ \\text{KHC}_4\\text{O}_6 \\]\n\nThis formula represents one molecule of potassium bitartrate.\n\nTo calculate the molecular weight (or molar mass), we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K): 39.10 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Carbon (C): 12.01 g/mol\n- Oxygen (O",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Describe the solubility properties of Potassium Bitartrate in different solvents.",
+      "answer": "Potassium bitartrate, also known as potassium acid tartrate or potassium oxalate, has distinct solubility characteristics in various solvents. Understanding these properties is crucial for its use in various applications such as food processing, pharmaceuticals, and industrial processes.\n\n### Solubility in Water\nPotassium bitartrate is highly soluble in water. It dissolves readily at room temperature, forming a clear solution. This property makes it suitable for use in many aqueous-based formulations.\n\n### Solubility in Alcohols\nIn alcohols, particularly ethanol (ethanol) and methanol (methyl alcohol",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain how Potassium Bitartrate is produced and name one of its historical uses.",
+      "answer": "Potassium bitartrate, also known as potassium acid tartrate or potassium oxalate, is a compound with the chemical formula KHC4H4O6·3H2O. It is produced through a process that involves the reaction of tartaric acid (C4H4O6) with potassium hydroxide (KOH). Tartaric acid is naturally found in grapes and other fruits, while potassium hydroxide is a strong base.\n\nThe production process typically involves dissolving tartaric acid in water and then adding potassium hydroxide to this solution. The reaction produces potassium bitartrate",
+      "latency_s": 10.58
+    }
+  ]
+}

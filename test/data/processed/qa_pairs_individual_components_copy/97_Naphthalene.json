@@ -1,0 +1,36 @@
+{
+  "compound_id": 94,
+  "compound_name": "Naphthalene",
+  "source_file": "compound_094_Naphthalene.json",
+  "main_entry_length": 2324,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0524_Naphthalene_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Naphthalene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of naphthalene?",
+      "answer": "The chemical formula of naphthalene is C10H8, and its molecular weight is 128.17 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of naphthalene and explain what solvents it is soluble in.",
+      "answer": "Naphthalene is insoluble in water but is soluble in ethyl alcohol. It is very soluble in ether and acetone, which are organic solvents. These solubility properties are typical for aromatic hydrocarbons.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the significance of naphthalene being an aromatic hydrocarbon and discuss its structural composition.",
+      "answer": "Naphthalene is classified as an aromatic hydrocarbon, meaning it contains one or more planar sets of carbon atoms that follow Huckel's rule, making them stable and highly unsaturated. Structurally, naphthalene consists of two benzene rings fused together, as determined by Richard August Carl Emil Erlenmeyer. This fusion of benzene rings contributes to its stability and characteristic properties such as volatility and a distinctive odor.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

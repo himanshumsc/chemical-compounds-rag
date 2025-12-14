@@ -1,0 +1,58 @@
+{
+  "compound_id": 142,
+  "compound_name": "Silver(I) Sulfide",
+  "source_file": "compound_142_Silver(I) Sulfide.json",
+  "main_entry_length": 2550,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0766_Silver(I)_Sulfide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is silver(I) sulfide (Ag₂S). The diagram displays two silver atoms (Ag) and one sulfur atom (S). Silver(I) sulfide naturally occurs as a source of silver metal. It is primarily used in ceramic glazes, giving them a glossy or metallic sheen, and in the niello process for black metallic inlays. Silver(I) sulfide is an irritant to the skin, eyes, and respiratory system, and can cause a condition called argyria if absorbed through the skin or ingested, leading to a bluish-black discoloration.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:23"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Sulfide?",
+      "answer": "The chemical formula of Silver(I) Sulfide is Ag2S, and its molecular weight is 247.80 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:32",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "How is Silver(I) Sulfide naturally and synthetically produced?",
+      "answer": "Silver(I) sulfide occurs naturally as the minerals acanthite and argentite. It can be extracted from these minerals through grinding, crushing, and washing the mineral ore. Synthetically, silver(I) sulfide is produced by passing hydrogen sulfide (H2S) gas through an aqueous solution of silver nitrate (AgNO3). This reaction results in the formation of silver(I) sulfide (Ag2S) and nitric acid (HNO3), with the silver(I) sulfide precipitating out of the solution. The precipitated compound can be filtered and purified by washing with hot water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:34",
+      "char_limit": 1800,
+      "answer_length": 545
+    },
+    {
+      "question": "Describe the primary uses and potential hazards associated with Silver(I) Sulfide.",
+      "answer": "Silver(I) sulfide (Ag2S) is primarily used in the production of glazes for ceramics, where it imparts a glassy or metallic sheen. It is also used in niello, an ancient technique for creating black, metallic inlays on pottery. Although naturally occurring silver(I) sulfide can be used to extract silver metal by converting it to silver(I) sulfate through roasting, this process is not widely used commercially due to more efficient sources of silver.\n\nPotential hazards of silver(I) sulfide include its irritant effect on the skin, eyes, and respiratory system. While there are no reported long-term effects of exposure, ingestion or absorption through skin cuts can lead to argyreia, a condition where skin and mucous membranes turn bluish-black.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:36",
+      "char_limit": 2000,
+      "answer_length": 747
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3462,
+  "updated_at": "2025-11-30 13:44:36",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

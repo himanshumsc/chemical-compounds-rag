@@ -1,0 +1,27 @@
+{
+  "source_file": "37_Carbon_Dioxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows carbon dioxide (CO₂). The red atoms represent oxygen, and the black atom represents carbon. The gray sticks indicate double bonds between the carbon and each of the two oxygen atoms.\n\nKey properties of carbon dioxide include:\n1. **Chemical Formula**: CO₂.\n2. **Molecular Structure**: It consists of one carbon atom bonded to two oxygen atoms with double bonds.\n3. **Physical State**: At room temperature and pressure, it is a colorless, odorless gas.\n4. **Solubility**: It dissolves in water to form carbonic acid, which is responsible for the",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula of carbon dioxide, and what elements does it comprise?",
+      "answer": "The chemical formula for carbon dioxide is \\( \\text{CO}_2 \\). This compound consists of one carbon (C) atom and two oxygen (O) atoms.",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Explain the role of carbon dioxide in the carbonation of beverages and its effects on taste and preservation.",
+      "answer": "Carbon dioxide (CO2) plays a crucial role in the carbonation process of beverages, which is essential for enhancing their taste and extending their shelf life.\n\n### Role of Carbon Dioxide in Carbonation\n\n1. **Gas Dissolution**: When CO2 is dissolved in water or other liquids, it forms carbonic acid. This reaction is driven by the equilibrium between CO2 and carbonic acid:\n   \\[\n   \\text{CO}_2 + \\text{H}_2\\text{O} \\rightleftharpoons \\text{H}_2\\text{CO}_3\n   \\]\n   The presence of",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Describe the significance of supercritical carbon dioxide (SC-CO2) and its properties.",
+      "answer": "Supercritical carbon dioxide (SC-CO2), also known as supercritical fluid CO2, is a state of matter that occurs when carbon dioxide is at or above its critical temperature (31°C or 87.8°F) and critical pressure (7.38 MPa or 72.7 atm). At these conditions, carbon dioxide behaves like neither a gas nor a liquid but rather a unique state where it has properties of both.\n\n### Properties of Supercritical Carbon Dioxide:\n\n1. **High Solvent Power**: SC-CO2 has high solvent power due to its ability to dissolve both polar and",
+      "latency_s": 10.39
+    }
+  ]
+}

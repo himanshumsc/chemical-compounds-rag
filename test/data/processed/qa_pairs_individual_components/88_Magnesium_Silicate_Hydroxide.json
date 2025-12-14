@@ -1,0 +1,38 @@
+{
+  "compound_id": 84,
+  "compound_name": "Magnesium Silicate Hydroxide",
+  "source_file": "compound_084_Magnesium Silicate Hydroxide.json",
+  "main_entry_length": 4194,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0474_Magnesium_Silicate_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:48",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows magnesium silicate, specifically magnesium silicate hydroxide. Key properties include:\n\n- Occurrence: It is a component of talc, one of the softest minerals, ranking 1 on the Mohs scale.\n- Appearance: Typically a fine white powder, odorless, and non-combustible.\n- Solubility: Insoluble in most solvents and resistant to heat.\n- Absorption: Tends to absorb moisture from the air.\n- Variability: The mineral can appear in various colors due to impurities.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:08"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Silicate Hydroxide?",
+      "answer": "The chemical formula of Magnesium Silicate Hydroxide is Mg3Si4O10(OH)2, and its molecular weight is 379.27 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Discuss the solubility and physical state characteristics of Magnesium Silicate Hydroxide.",
+      "answer": "Magnesium Silicate Hydroxide is insoluble in water and most organic solvents. It is typically found as a solid, particularly as a fine white powder with no odor. It is also non-combustible, resistant to heat, and has a tendency to absorb moisture from the air.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how Magnesium Silicate Hydroxide is typically obtained and some common uses for this compound.",
+      "answer": "Magnesium Silicate Hydroxide, also known as talc, is typically obtained from natural sources like talc minerals. The extraction process involves separating the mineral from waste products, crushing, purifying, and processing it into the desired form. It is widely used as the main ingredient in talcum powder for its moisture-absorbing and skin-soothing properties. Additionally, it is used in cosmetic products, paints, rubber products, ceramics, as a food additive, and in various industrial applications such as lubricants and fillers.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

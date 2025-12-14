@@ -1,0 +1,38 @@
+{
+  "compound_id": 78,
+  "compound_name": "Lactose",
+  "source_file": "compound_078_Lactose.json",
+  "main_entry_length": 2434,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0448_Lactose_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:23",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is lactose. Lactose is a disaccharide sugar composed of glucose and galactose units. It is commonly found in milk and dairy products. Key properties of lactose include its role as a major carbohydrate in milk, its use in the preparation of baby foods and food for convalescents, and its ability to be converted between alpha and beta isomers. Lactose is also used in the dairy industry to feed foals. It is important for individuals with lactose intolerance to manage their intake, as they lack the enzyme lactase needed to digest it properly.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:59"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactose?",
+      "answer": "The chemical formula of lactose is C12H22O11, and its molecular weight is 342.30 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility characteristics of lactose in different solvents.",
+      "answer": "Lactose is very soluble in water, slightly soluble in ethyl alcohol, and insoluble in organic solvents. This solubility profile affects its use in food and pharmaceutical applications, where water solubility is often crucial.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of obtaining alpha-lactose monohydrate from lactose and why this form is commonly used.",
+      "answer": "To obtain alpha-lactose monohydrate, lactose is dissolved in water and treated with activated carbon to remove any color. The water is then allowed to evaporate, leaving behind alpha-lactose monohydrate. This form is commonly used because it is the stable form of lactose at room temperature, making it suitable for various commercial applications, such as in baby foods and dairy products.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

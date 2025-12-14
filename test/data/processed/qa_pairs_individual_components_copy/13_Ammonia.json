@@ -1,0 +1,36 @@
+{
+  "compound_id": 9,
+  "compound_name": "Ammonia",
+  "source_file": "compound_009_Ammonia.json",
+  "main_entry_length": 4304,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0108_Ammonia_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:14",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Ammonia.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula for ammonia and which elements does it contain?",
+      "answer": "The chemical formula for ammonia is NH3. It contains two elements: nitrogen (N) and hydrogen (H).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does the Haber-Bosch process produce ammonia, and why is it significant?",
+      "answer": "The Haber-Bosch process produces ammonia by combining nitrogen and hydrogen gases at high temperatures (400°C to 650°C) and pressures (200 to 400 atmospheres) over a catalyst made of finely-divided iron. This process is significant because it was developed to meet Germany's need for explosives during World War I and remains the most common method for ammonia production, allowing for large-scale production of fertilizers.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the role and environmental significance of ammonia in the atmosphere and its industrial applications.",
+      "answer": "Ammonia was present in the primordial atmosphere of Earth and may have been a source of nitrogen for the earliest forms of life. It is also a major component of the atmosphere of many planets in our solar system. Industrially, ammonia is primarily used in the production of fertilizers, with about 90% of its use in the United States directed towards this purpose. It can be applied directly as a liquid or in various compound forms such as ammonium nitrate. The widespread use of ammonia in agriculture underscores its importance in supporting global food production. However, improper management can lead to environmental issues such as water pollution and contribution to greenhouse gas emissions.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "64_Ethylene_Oxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Ethylene Oxide**.\n\nKey properties:\n\n*   Formula: C₂H₄O\n*   Used to produce ethylene glycol (antifreeze & plastics).\n*   Reacts with water to form ethanolamines.\n*   Oxidation takes place at 200-300°C over a silver catalyst.",
+      "latency_s": 24.14,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the molecular formula of ethylene oxide, and what elements does it contain?",
+      "answer": "The provided sources do not contain information about ethylene oxide. They detail acetylene, acetic acid, and alpha-tocopherol.",
+      "latency_s": 50.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the industrial methods used to produce ethylene oxide and the main differences between them.",
+      "answer": "The provided text does not contain information about ethylene oxide production methods. It details other chemical compounds like carbohydrates, acetylenes, acetic acid, 1,3-butadiene, and their properties/uses, but not ethylene oxide. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 50.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the primary industrial uses of ethylene oxide and the potential hazards associated with its handling.",
+      "answer": "I am sorry, but the provided context does not contain information about ethylene oxide. The documents focus on 1,3-butadiene and acetic acid. Therefore, I cannot answer your question regarding ethylene oxide based on the given materials.",
+      "latency_s": 50.22,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:06:19",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:06:19",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

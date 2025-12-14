@@ -1,0 +1,59 @@
+{
+  "source_file": "49_CopperI_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows Copper(I) oxide. It is a red compound with 1 oxygen and 2 copper atoms. It is used as a pigment in glass and glazes, providing brick-red or yellowish colors. It inhibits fungal growth.",
+      "latency_s": 39.8,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(I) Oxide?",
+      "answer": "Copper(I) Oxide formula: Cu2O, Molecular weight: 142.1 g/mol",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the stability and transformation behavior of Copper(I) Oxide in different air conditions.",
+      "answer": "Copper(I) Oxide is relatively stable in air but can oxidize to Copper(II) Oxide under certain conditions. It does not react significantly with oxygen or water at normal temperatures. However, it can transform into Copper(II) Oxide due to the influence of moisture and oxygen.",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the process and precautions involved in synthesizing Copper(I) Oxide industrially from copper metal.",
+      "answer": "Copper(I) oxide is synthesized industrially by heating copper metal in the presence of oxygen. The reaction is carried out in a furnace at high temperature (typically 500-600°C). The precautions involve ensuring proper ventilation, safety equipment (e.g., respirators, gloves), and monitoring oxygen levels. The process is exothermic, requiring careful temperature control to prevent over-reduction to copper metal.",
+      "latency_s": 26.58,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:41:28",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:41:28",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

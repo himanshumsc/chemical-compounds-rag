@@ -1,0 +1,27 @@
+{
+  "source_file": "99_Niacin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows niacin (vitamin B3). Key properties of niacin include:\n\n1. **Chemical Composition**: Niacin consists of carbon (black atoms), hydrogen (white atoms), oxygen (red atoms), and nitrogen (blue atom).\n2. **Structure**: It has a six-membered ring with alternating double bonds, which is characteristic of nicotinic acid.\n3. **Function**: Niacin is essential for various biological processes, including energy metabolism, skin health, and nerve function.\n4. **Synthesis**: Niacin is synthesized naturally in the human body from tryptoph",
+      "latency_s": 16.5
+    },
+    {
+      "question": "What is the chemical formula of niacin, and what elements does it contain?",
+      "answer": "Niacin, also known as vitamin B3, has two forms: nicotinic acid (chemical formula: C6H5NO2) and niacinamide (chemical formula: C6H7NO2). Both forms are derivatives of nicotinamide adenine dinucleotide (NAD).\n\nThe elements that niacin contains are:\n\n- Carbon (C)\n- Hydrogen (H)\n- Nitrogen (N)\n- Oxygen (O)\n\nThese elements are present in both nicotinic acid and niacinamide.",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the difference between nicotinic acid and nicotinamide, given they are both forms of niacin.",
+      "answer": "Nicotinic acid and nicotinamide are both forms of niacin, which is a B-complex vitamin essential for various bodily functions. While they are structurally similar, there are some key differences in their chemical composition and how they are metabolized by the body.\n\n### Nicotinic Acid:\n- **Chemical Structure:** Nicotinic acid has an additional hydroxyl group on the nitrogen atom compared to nicotinamide.\n- **Metabolism:** Nicotinic acid is directly absorbed into the bloodstream and is converted into nicotinamide (niacinamide) in the liver. This conversion process is relatively slow",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe how a diet primarily consisting of corn products can lead to pellagra, despite corn being a good source of niacin.",
+      "answer": "Pellagra is a disease that results from a deficiency in the B vitamin niacin (also known as vitamin B3). Despite corn being a good source of niacin, a diet primarily consisting of corn products can still lead to pellagra due to several reasons:\n\n1. **Low Niacin Content in Corn**: While corn is a good source of niacin, it does not contain enough niacin per serving to meet the daily requirement for most adults. The amount of niacin in corn varies depending on the variety and processing method.\n\n2. **Processing Methods**: If corn is processed into products like cornmeal or grits without",
+      "latency_s": 10.37
+    }
+  ]
+}

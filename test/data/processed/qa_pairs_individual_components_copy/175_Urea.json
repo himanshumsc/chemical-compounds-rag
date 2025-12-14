@@ -1,0 +1,36 @@
+{
+  "compound_id": 171,
+  "compound_name": "Urea",
+  "source_file": "compound_171_Urea.json",
+  "main_entry_length": 2343,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0918_Urea_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:52",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Urea.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of urea?",
+      "answer": "The chemical formula of urea is (NH2)2CO and its molecular weight is 60.06 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the significance of Friedrich Wöhler's synthesis of urea in 1828.",
+      "answer": "Friedrich Wöhler synthesized urea in 1828, marking a pivotal moment in chemistry. This was the first time an organic compound was synthesized from inorganic materials, demonstrating that organic compounds could be created without a 'vital force' and were subject to the same natural laws as inorganic compounds. Wöhler's discovery is considered foundational in the field of organic chemistry.",
+      "difficulty_level": "intermediate",
+      "topic_category": "history"
+    },
+    {
+      "question": "Describe the urea cycle and its importance in animal metabolism.",
+      "answer": "The urea cycle is a series of seven chemical reactions that convert the nitrogen from decomposing proteins into urea, which is less toxic. This cycle is crucial in animal metabolism as it prevents the accumulation of ammonia, which is toxic, thus allowing animals to safely excrete nitrogen waste. Urea is formed in the liver and then transferred to the kidneys for excretion.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

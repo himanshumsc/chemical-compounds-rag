@@ -1,0 +1,27 @@
+{
+  "source_file": "56_Dichlorodifluoromethane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows dichlorodifluoromethane (also known as Freon-12 or R-12). This compound has the following key properties:\n\n1. **Chemical Formula**: It is represented as CHClF₂.\n2. **Molecular Structure**: The diagram indicates that it consists of one carbon atom (black), two chlorine atoms (green), and two fluorine atoms (turquoise).\n3. **Physical Properties**:\n   - **Color**: Colorless gas.\n   - **Boiling Point**: -29.8°C (-21.64°F).",
+      "latency_s": 16.46
+    },
+    {
+      "question": "What is the chemical formula of Dichlorodifluoromethane, and what elements does it comprise?",
+      "answer": "The chemical formula for dichlorodifluoromethane (also known as Freon-12 or R-12) is \\(\\text{CHClF}_2\\). This compound consists of the following elements:\n\n- Carbon (C)\n- Hydrogen (H)\n- Chlorine (Cl)\n- Fluorine (F)\n\nSo, dichlorodifluoromethane comprises carbon, hydrogen, chlorine, and fluorine.",
+      "latency_s": 10.35
+    },
+    {
+      "question": "How does dichlorodifluoromethane's solubility vary between water and other solvents like alcohol and ether?",
+      "answer": "Dichlorodifluoromethane (also known as Freon-12 or R-12) is a chlorofluorocarbon (CFC) that has been widely used in refrigeration systems, air conditioning units, and other applications due to its low toxicity and non-flammability. However, it is important to note that CFCs have been phased out by many countries under the Montreal Protocol due to their potential to deplete the ozone layer.\n\nRegarding the solubility of dichlorodifluoromethane in different solvents:\n\n### Solubility in Water:\nDichlor",
+      "latency_s": 10.35
+    },
+    {
+      "question": "Explain why dichlorodifluoromethane is categorized as both a chlorofluorocarbon (CFC) and an alkyl halide.",
+      "answer": "Dichlorodifluoromethane, also known by its common name Freon-12 or R-12, is indeed categorized as both a chlorofluorocarbon (CFC) and an alkyl halide. Let's break down the reasons for each categorization:\n\n### Chlorofluorocarbon (CFC)\nA CFC is a class of organic compounds that contain only carbon, fluorine, and chlorine atoms. The term \"chlorofluorocarbon\" comes from the fact that these compounds contain chlorine and fluorine in addition to carbon.\n\n- **Structure**: Dichlorod",
+      "latency_s": 10.35
+    }
+  ]
+}

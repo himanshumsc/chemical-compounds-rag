@@ -1,0 +1,58 @@
+{
+  "compound_id": 30,
+  "compound_name": "Calcium Phosphate",
+  "source_file": "compound_030_Calcium Phosphate.json",
+  "main_entry_length": 3766,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0206_Calcium_Phosphate_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is calcium phosphate. In the diagram, red atoms represent oxygen, yellow atoms represent phosphorus, and turquoise atoms represent calcium; gray sticks indicate double bonds. Key properties include:\n\n- Dibasic and tribasic forms are insoluble in water and alcohol but soluble in most acids.\n- Monobasic calcium phosphate is soluble in water and acids but insoluble in alcohol.\n- All forms are non-flammable.\n\nCalcium phosphate is often obtained from minerals like apatite.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:07"
+    },
+    {
+      "question": "What are the different forms of calcium phosphate mentioned, and how do they differ in terms of composition?",
+      "answer": "The different forms of calcium phosphate mentioned are:\n\n1. **Dibasic Calcium Phosphate (CaHPO4)**: Also called calcium monohydrogen phosphate or dicalcium orthophosphate. It usually exists as a hydrate (CaHPO4·2H2O). It decomposes at 109°C and is insoluble in water and alcohol, but soluble in acids.\n\n2. **Monobasic Calcium Phosphate (Ca(H2PO4)2)**: Known as calcium hypophosphite or monocalcium orthophosphate, it exists as a hydrate (Ca(H2PO4)2·H2O). It decomposes at 200°C and is soluble in water and acids, but insoluble in alcohol.\n\n3. **Tribasic Calcium Phosphate (Ca3(PO4)2)**: Also called tricalcium phosphate or calcium orthophosphate. It differs from the other forms by containing no hydrogen atoms. It is insoluble in water and alcohol, but soluble in acids.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:22",
+      "char_limit": 1000,
+      "answer_length": 771
+    },
+    {
+      "question": "Describe the solubility characteristics of the three forms of calcium phosphate.",
+      "answer": "The solubility characteristics of the three forms of calcium phosphate are as follows:\n\n1. **Dibasic Calcium Phosphate (CaHPO4)**: Insoluble in water and alcohol but soluble in most acids.\n\n2. **Monobasic Calcium Phosphate (Ca(H2PO4)2)**: Soluble in water and acids, and insoluble in alcohol.\n\n3. **Tribasic Calcium Phosphate (Ca3(PO4)2)**: Insoluble in water and alcohol but soluble in most acids.  \n\nThese solubility properties are consistent across each respective form of calcium phosphate.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:26",
+      "char_limit": 1800,
+      "answer_length": 494
+    },
+    {
+      "question": "Explain how tribasic calcium phosphate can be synthesized and its primary uses.",
+      "answer": "Tribasic calcium phosphate (Ca3(PO4)2), also known as calcium orthophosphate or tricalcium phosphate, can be synthesized directly from rock and minerals such as apatite and phosphorite, which contain calcium phosphate mixed with other compounds. It can also be produced synthetically by reacting phosphoric acid (H3PO4) with solid calcium hydroxide (Ca(OH)2), or through the reaction between calcium chloride (CaCl2) and sodium triphosphate (Na5P3O10).\n\nTribasic calcium phosphate is a solid, tasteless, odorless, colorless to white crystalline or powdery compound. It is insoluble in water and alcohol but soluble in most acids. The compound is used in a variety of applications, including as a dietary supplement to provide calcium and phosphorus, which are essential for healthy bones and teeth. It is also used in the production of fertilizers, providing phosphorus necessary for plant growth. Additionally, tricalcium phosphate has applications in the medical and dental fields, particularly in bone grafting and as a component in dental products to replace hydroxyapatite lost to decay.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:56:32",
+      "char_limit": 2000,
+      "answer_length": 1092
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6530,
+  "updated_at": "2025-11-30 13:56:32",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

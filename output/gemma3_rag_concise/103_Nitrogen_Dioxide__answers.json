@@ -1,0 +1,59 @@
+{
+  "source_file": "103_Nitrogen_Dioxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Nitrogen Dioxide (NO₂)**. It's formed from nitrogen and oxygen. Naturally occurring, it's produced by burning fossil fuels and can create yellowish-brown smog.",
+      "latency_s": 34.71,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitrogen dioxide?",
+      "answer": "Nitrogen dioxide information is not present in the provided text.",
+      "latency_s": 48.69,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain how nitrogen dioxide is produced naturally and through human activities.",
+      "answer": "The provided text does not contain information about nitrogen dioxide, its natural production, or how it's produced by human activities. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 48.69,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the uses of nitrogen dioxide in industrial applications and the associated safety hazards.",
+      "answer": "Nitrogen dioxide (NO2) isn't explicitly detailed in the provided text. The database primarily focuses on carbohydrates, carboxylic groups, and specific compounds like 1,3-butadiene, acetic acid, and CFCs. It does not contain information about the industrial uses or safety hazards of nitrogen dioxide.\n\n\n\nTherefore, I cannot answer your question based on the provided context.",
+      "latency_s": 48.69,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:35:37",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:35:37",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

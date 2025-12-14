@@ -1,0 +1,38 @@
+{
+  "compound_id": 154,
+  "compound_name": "Sodium Silicate",
+  "source_file": "compound_154_Sodium Silicate.json",
+  "main_entry_length": 2840,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0830_Sodium_Silicate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium silicate. Key properties include:\n\n- **Composition**: It consists of silicon (orange), oxygen (red), and sodium (turquoise) atoms.\n- **Structure**: The diagram indicates a silicon atom bonded to oxygen atoms, forming a silicate anion with sodium ions.\n- **Production**: Made by fusing sand (silicon dioxide) with soda ash (sodium carbonate) or sodium hydroxide.\n- **Uses**: Commonly used in soaps, detergents, and as a cleaning agent due to its effectiveness and reduced corrosiveness on metals.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:59"
+    },
+    {
+      "question": "What is the chemical formula of sodium metasilicate, and what elements does it contain?",
+      "answer": "The chemical formula of sodium metasilicate is Na2SiO3. It contains the elements sodium (Na), silicon (Si), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process of manufacturing sodium silicate.",
+      "answer": "Sodium silicates are manufactured by fusing sand (silicon dioxide) and soda ash (sodium carbonate) or sodium hydroxide in a gas-fired open hearth furnace, similar to steel manufacturing. The reaction yields lumps of sodium silicate, which are broken apart and dissolved in a stream of hot steam. The sand and soda ash proportions, reaction temperature, and residual water content determine the final product's physical properties.",
+      "difficulty_level": "intermediate",
+      "topic_category": "how_it_is_made"
+    },
+    {
+      "question": "Explain how the physical properties of sodium silicate vary and identify one key factor that influences these variations.",
+      "answer": "The physical properties of sodium silicate vary considerably, ranging from white powders with different water solubility levels to greenish, glass-like solids, and liquids with varying viscosities (from about 0.5 poise to over 600,000 poise). One key factor influencing these variations is the relative proportions of sodium oxide (Na2O) and silicon dioxide (SiO2) present in the compound.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

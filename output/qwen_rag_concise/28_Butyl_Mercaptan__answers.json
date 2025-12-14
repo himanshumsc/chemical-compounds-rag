@@ -1,0 +1,59 @@
+{
+  "source_file": "28_Butyl_Mercaptan.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Butyl mercaptan. White atoms are hydrogen, black are carbon, turquoise is selenium. Mobile liquid, strong skunk-like odor.",
+      "latency_s": 39.65,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "answer": "Butyl mercaptan's molecular formula is C4H9SH; it contains carbon, hydrogen, and sulfur.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl mercaptan and name its three isomers.",
+      "answer": "Isomers are compounds with the same molecular formula but different structural arrangements. Butyl mercaptan's three isomers are:\n1. 1-Methyl-2-propyl mercaptan\n2. 1-Methyl-3-propyl mercaptan\n3. 2-Methyl-2-propyl mercaptan",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "answer": "Butyl mercaptan is produced by the reaction of butadiene with hydrogen sulfide. It is used as a fungicide, fumigant, and in the production of adhesives and coatings. It is toxic and may cause irritation to eyes and respiratory system.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:37:23",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:37:23",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

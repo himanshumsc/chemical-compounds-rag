@@ -1,0 +1,27 @@
+{
+  "source_file": "35_Calcium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Calcium Sulfate (CaSO₄). Here are some of its key properties:\n\n1. **Composition**:\n   - Red atoms represent oxygen.\n   - Turquoise atom represents calcium.\n   - Yellow atom represents sulfur.\n\n2. **Structure**:\n   - The molecule consists of one calcium ion (Ca²⁺) bonded to one sulfate ion (SO₄²⁻).\n   - The sulfate ion has four oxygen atoms arranged around it in a tetrahedral configuration.\n\n3. **Solubility**:\n   - Anhydrous calcium sulfate (CaSO₄) is",
+      "latency_s": 16.61
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of anhydrous calcium sulfate?",
+      "answer": "Anhydrous calcium sulfate, also known as gypsum or calcium sulfate dihydrate (CaSO₄·2H₂O), has a chemical formula of CaSO₄. However, when it is in its anhydrous form, it does not contain water molecules.\n\nThe molecular weight of anhydrous calcium sulfate (CaSO₄) can be calculated by summing the atomic weights of each element:\n\n- Calcium (Ca): 40.08 g/mol\n- Sulfur (S): 32.06 g/mol\n- Oxygen (O): 16.00 g",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain the difference between the anhydrous and hydrated forms of calcium sulfate.",
+      "answer": "Calcium sulfate, also known as gypsum or plaster of Paris, exists in two main forms: anhydrous and hydrated.\n\n1. **Anhydrous Calcium Sulfate (Calcium Sulfate Dihydrate):**\n   - **Chemical Formula:** CaSO4·2H2O\n   - **Appearance:** It is a white powder.\n   - **Properties:** When heated, it loses its water molecules to form anhydrous calcium sulfate (CaSO4). This process is called dehydration.\n   - **Uses:** Anhydrous calcium sulfate is used in the production of Portland cement",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Given its solubility characteristics, why might anhydrous calcium sulfate be used in industrial applications?",
+      "answer": "Anhydrous calcium sulfate (also known as gypsum or calcium sulfate dihydrate) has several unique properties that make it useful in various industrial applications. Here are some reasons why anhydrous calcium sulfate might be used:\n\n1. **Cement Industry**: Anhydrous calcium sulfate is a key component in the production of Portland cement. It reacts with other materials to form the desired cement paste, which is essential for the setting and hardening of concrete.\n\n2. **Papermaking**: In the papermaking process, anhydrous calcium sulfate is used as a filler in the pulp to improve the brightness and opacity of the final",
+      "latency_s": 10.41
+    }
+  ]
+}

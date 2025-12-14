@@ -1,0 +1,58 @@
+{
+  "compound_id": 39,
+  "compound_name": "Cellulose Xanthate",
+  "source_file": "compound_039_Cellulose Xanthate.json",
+  "main_entry_length": 5065,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0258_Cellulose_Xanthate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't see molecular structure diagrams in the image. However, the text describes the process of making rayon using cellulose xanthate. This compound is formed by treating cellulose with carbon disulfide in an alkaline solution, making it soluble. Cellulose xanthate is a key intermediate in the viscose process for producing rayon. It reverts to cellulose when the carbon disulfide is removed, allowing the formation of fibers from the solution.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:36"
+    },
+    {
+      "question": "What is the chemical formula for cellulose xanthate and which elements does it contain?",
+      "answer": "The chemical formula for cellulose xanthate is [C6H7O2(OH)2OCS2Na]n. It contains the elements carbon, hydrogen, oxygen, sulfur, and sodium.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:29",
+      "char_limit": 1000,
+      "answer_length": 139
+    },
+    {
+      "question": "Explain how cellulose xanthate is transformed into rayon fibers during the viscose process.",
+      "answer": "Cellulose xanthate is transformed into rayon fibers through the viscose process. This process begins with treating wood pulp or wood chips, typically from spruce or pine trees, with carbon disulfide (CS2). This treatment converts the cellulose in the wood into cellulose xanthate, which is a soluble compound. The cellulose xanthate is then dissolved in sodium hydroxide (NaOH), creating a thick, viscous solution. This viscosity is why the process is named the viscose process.\n\nThe cellulose xanthate solution is allowed to stand in a \"ripening room\" for 8 to 10 hours. During this time, the cellulose xanthate gradually releases its carbon disulfide and reverts to cellulose. This results in cellulose that is easier to manipulate into long fibers. The production of these fibers involves forcing the cellulose from the viscous solution through plates called spinnerettes, which have many small holes. This process forms the long fibers that are eventually made into rayon. Rayon is valued for its soft, silky feel, strength, and resistance to chemicals, though it is highly flammable.",
+      "difficulty_level": "intermediate",
+      "topic_category": "process",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:34",
+      "char_limit": 1800,
+      "answer_length": 1088
+    },
+    {
+      "question": "What are some advantages and disadvantages of using rayon, and what legislative measure was introduced in response to one of its disadvantages?",
+      "answer": "Rayon, made from cellulose xanthate, offers several advantages as a fabric. It has a soft, silky feel that is comfortable against the skin and boasts strong, abrasion-resistant fibers. Additionally, it is easy to dye, resistant to bleaches and most chemicals, and does not accumulate static charges, allowing it to hang smoothly from the body.\n\nHowever, rayon also has notable disadvantages. It tends to wrinkle easily, shrinks when wet, and is highly flammable, which is considered its greatest disadvantage in commercial products. In response to the flammability issue, the U.S. Congress passed the Flammable Fabrics Act of 1953, which banned the sale of fabrics likely to catch fire. This legislation requires manufacturers to treat rayon fibers to reduce their flammability.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:39",
+      "char_limit": 2000,
+      "answer_length": 778
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6845,
+  "updated_at": "2025-11-30 13:58:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

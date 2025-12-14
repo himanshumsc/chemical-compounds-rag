@@ -1,0 +1,27 @@
+{
+  "source_file": "43_Chloroform.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows chloroform (CHCl₃). Chloroform is a colorless, non-flammable liquid with a sweet odor. It is highly soluble in water and has a boiling point of 61°C. It was historically used as an anesthetic due to its ability to induce unconsciousness without causing respiratory depression. However, it has been largely replaced by safer alternatives because of its potential for liver toxicity and carcinogenicity.",
+      "latency_s": 16.49
+    },
+    {
+      "question": "What are the chemical formula and molecular weight of chloroform?",
+      "answer": "The chemical formula for chloroform is CHCl₃, which stands for carbon (C), one hydrogen (H), and three chlorine (Cl) atoms.\n\nTo calculate the molecular weight of chloroform, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Chlorine (Cl): 35.45 g/mol\n\nNow, multiply these atomic weights by their respective numbers in the formula:\n- Carbon: \\(12.01 \\times 3 = 3",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain why chloroform was replaced by other compounds as an anesthetic in the twenty-first century.",
+      "answer": "Chloroform, a chlorinated hydrocarbon, was once widely used as an anesthetic due to its effectiveness and ease of administration. However, it was eventually replaced by other compounds for several reasons:\n\n1. **Toxicity**: Chloroform is highly toxic and can cause severe health issues if inhaled or ingested. It has been linked to liver damage, kidney problems, and even cancer. The toxicity of chloroform led to its replacement with safer alternatives.\n\n2. **Anesthetic Properties**: While chloroform was effective as an anesthetic, it did not provide the level of control over depth of anesthesia that modern",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Describe the commercial production process of chloroform. Include the chemical reaction involved.",
+      "answer": "Chloroform (CHCl3) is a colorless, non-flammable liquid with a sweet odor. It is primarily used as an inhalation anesthetic and solvent in various industries. The commercial production of chloroform involves several steps, including the synthesis from its precursor, chloral hydrate.\n\n### Chemical Reaction Involved\n\nThe primary reaction for producing chloroform is the hydrolysis of chloral hydrate:\n\n\\[ \\text{CHCl}(\\text{OH})_2 + \\text{H}_2\\text{O} \\rightarrow \\text{CHCl}_3 + 2\\text{",
+      "latency_s": 10.41
+    }
+  ]
+}

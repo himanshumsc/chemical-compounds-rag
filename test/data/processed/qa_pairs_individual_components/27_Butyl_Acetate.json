@@ -1,0 +1,38 @@
+{
+  "compound_id": 23,
+  "compound_name": "Butyl Acetate",
+  "source_file": "compound_023_Butyl Acetate.json",
+  "main_entry_length": 2439,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0176_Butyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:10",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image represents butyl acetate. It is an ester formed by reacting acetic acid (CH₃COOH) with butyl alcohols. Butyl acetate exists in three isomers: *n*-butyl acetate, *sec*-butyl acetate, and *tert*-butyl acetate. \n\nKey properties include its use as a solvent in lacquers, paints, resins, and coatings for furniture and automobiles. *n*-Butyl acetate is also used as an odor enhancer in perfumes and in synthesizing flavors and pharmaceuticals. It is favored over other solvents due to environmental concerns associated with more hazardous pollutants.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:55"
+    },
+    {
+      "question": "What is the molecular formula of butyl acetate and what elements does it consist of?",
+      "answer": "The molecular formula of butyl acetate is C6H12O2. It consists of carbon (C), hydrogen (H), and oxygen (O) elements.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl acetate and list its three isomeric forms.",
+      "answer": "Isomers are compounds with the same molecular formula but different structural formulas and properties. Butyl acetate has three isomeric forms: n-butyl acetate, sec-butyl acetate, and tert-butyl acetate. Each isomer has a different structural arrangement despite having the same molecular formula, C6H12O2.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the industrial production process for butyl acetate and its primary uses.",
+      "answer": "All three isomers of butyl acetate are produced by reacting acetic acid (CH3COOH) with the corresponding butyl alcohol (n-butyl, sec-butyl, or tert-butyl alcohol). The primary use of butyl acetate is as a solvent in the production of lacquers, paints, photographic film, resins, and various coatings. Additionally, n-butyl acetate is used as an odor enhancer in perfumes and in the synthesis of synthetic flavors, pharmaceuticals, and other organic compounds.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

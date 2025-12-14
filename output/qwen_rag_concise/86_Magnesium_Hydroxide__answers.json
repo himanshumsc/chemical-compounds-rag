@@ -1,0 +1,59 @@
+{
+  "source_file": "86_Magnesium_Hydroxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Molecular structure shows Magnesium Hydroxide. Key properties: Base, reacts with excess stomach acid, reduces heartburn, used as antacid.",
+      "latency_s": 39.57,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Magnesium Hydroxide?",
+      "answer": "Magnesium Hydroxide: Formula - Mg(OH)2; Molecular Weight - 58.38 g/mol",
+      "latency_s": 25.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the solubility and decomposition properties of Magnesium Hydroxide.",
+      "answer": "Magnesium Hydroxide is slightly soluble in water. It decomposes into magnesium ions and hydroxide ions when heated. Magnesium Hydroxide is used in the pharmaceutical industry as an antacid and in the production of other magnesium compounds.",
+      "latency_s": 25.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the process by which Magnesium Hydroxide is produced from seawater.",
+      "answer": "Magnesium Hydroxide is produced from seawater by treating seawater with lime (Ca(OH)2), which reacts with magnesium ions in the water. The reaction forms magnesium hydroxide (Mg(OH)2) and calcium hydroxide, both precipitating out of the water. This process involves calcium hydroxide neutralizing magnesium ions to form Mg(OH)2, which sediment, making it separable from the seawater.",
+      "latency_s": 25.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:46:43",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:46:43",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 142,
+  "compound_name": "Silver(I) Sulfide",
+  "source_file": "compound_142_Silver(I) Sulfide.json",
+  "main_entry_length": 2550,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0766_Silver(I)_Sulfide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is silver(I) sulfide (Ag₂S). The diagram displays two silver atoms (Ag) and one sulfur atom (S). Silver(I) sulfide naturally occurs as a source of silver metal. It is primarily used in ceramic glazes, giving them a glossy or metallic sheen, and in the niello process for black metallic inlays. Silver(I) sulfide is an irritant to the skin, eyes, and respiratory system, and can cause a condition called argyria if absorbed through the skin or ingested, leading to a bluish-black discoloration.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:23"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Sulfide?",
+      "answer": "The chemical formula of Silver(I) Sulfide is Ag2S, and its molecular weight is 247.80 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is Silver(I) Sulfide naturally and synthetically produced?",
+      "answer": "Silver(I) Sulfide occurs naturally as the minerals acanthite and argentite, which can be extracted by grinding, crushing, and washing the mineral ore. It can also be synthetically prepared by passing hydrogen sulfide (H2S) gas through an aqueous solution of silver nitrate, which results in the precipitation of Silver(I) Sulfide.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the primary uses and potential hazards associated with Silver(I) Sulfide.",
+      "answer": "Silver(I) Sulfide is primarily used in the production of glazes for ceramics, providing a glassy or metallic sheen. It is also used in niello, an ancient technique for creating black, metallic inlays on pottery. As for hazards, Silver(I) Sulfide is an irritant to the skin, eyes, and respiratory system. Although no long-term effects are reported, absorption through cuts or ingestion can cause argyreia, a condition that turns skin and mucous membranes bluish-black.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

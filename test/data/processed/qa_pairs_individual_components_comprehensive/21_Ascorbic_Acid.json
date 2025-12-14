@@ -1,0 +1,58 @@
+{
+  "compound_id": 17,
+  "compound_name": "Ascorbic Acid",
+  "source_file": "compound_017_Ascorbic Acid.json",
+  "main_entry_length": 1461,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0144_Ascorbic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is ascorbic acid, commonly known as vitamin C. Key properties of ascorbic acid include:\n\n1. **Chemical Formula**: C₆H₈O₆.\n2. **Appearance**: A white to slightly yellow crystalline powder.\n3. **Solubility**: Highly soluble in water.\n4. **Function**: Acts as an antioxidant and is essential for the synthesis of collagen, aiding in wound healing and maintaining healthy skin, cartilage, and bones.\n5. **Deficiency**: Leads to scurvy, characterized by bleeding gums and joint pain.\n\nVitamin C is crucial for immune function and the absorption of iron from...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ascorbic Acid?",
+      "answer": "The chemical formula of Ascorbic Acid is C6H8O6, and its molecular weight is 176.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:44",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Explain why Ascorbic Acid is considered an essential vitamin for humans.",
+      "answer": "Ascorbic acid, or vitamin C, is considered an essential vitamin for humans because it plays a crucial role in building collagen, the protein that serves as a support structure for the body. It is a water-soluble vitamin, meaning the body cannot store excess amounts and excretes any surplus in the urine. Consequently, humans must consume vitamin C daily in their diets to meet their nutritional needs. Ascorbic acid is found in many fruits and vegetables, with citrus fruits like oranges and lemons being particularly rich sources. Historically, the deficiency of vitamin C led to scurvy, a disease characterized by symptoms such as joint pain, fatigue, bleeding gums, tooth loss, and slow wound healing due to the breakdown of the body's connective tissue. The essential nature of vitamin C in preventing such deficiency-related diseases underscores its importance in human health.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:47",
+      "char_limit": 1800,
+      "answer_length": 883
+    },
+    {
+      "question": "Discuss the solubility properties of Ascorbic Acid and the implications for its storage and consumption.",
+      "answer": "Ascorbic acid, also known as vitamin C, is a solid organic acid with the chemical formula C6H8O6. It is soluble in water and alcohol, but insoluble in ether, benzene, and chloroform. These solubility properties have important implications for its storage and consumption. \n\nAscorbic acid's water solubility means it can be easily absorbed by the body when consumed in foods or supplements, which is critical since it is a vital dietary vitamin for humans. The body cannot store excess vitamin C, as it is water-soluble and any surplus is excreted in the urine. This necessitates regular consumption through diet, particularly from fruits and vegetables, to prevent deficiency diseases such as scurvy.\n\nFor storage, the water solubility of ascorbic acid suggests it should be kept in dry conditions to prevent it from dissolving prematurely. Its insolubility in organic solvents like ether and benzene indicates that it is stable in certain non-aqueous environments, potentially affecting how it can be formulated in various industrial applications, such as food preservation.\n\nOverall, understanding the solubility of ascorbic acid helps in effectively managing its dietary intake and ensuring its stability in storage and industrial use.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:53:53",
+      "char_limit": 2000,
+      "answer_length": 1238
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3636,
+  "updated_at": "2025-11-30 13:53:53",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

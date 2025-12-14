@@ -1,0 +1,38 @@
+{
+  "compound_id": 17,
+  "compound_name": "Ascorbic Acid",
+  "source_file": "compound_017_Ascorbic Acid.json",
+  "main_entry_length": 1461,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0144_Ascorbic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is ascorbic acid, commonly known as vitamin C. Key properties of ascorbic acid include:\n\n1. **Chemical Formula**: C₆H₈O₆.\n2. **Appearance**: A white to slightly yellow crystalline powder.\n3. **Solubility**: Highly soluble in water.\n4. **Function**: Acts as an antioxidant and is essential for the synthesis of collagen, aiding in wound healing and maintaining healthy skin, cartilage, and bones.\n5. **Deficiency**: Leads to scurvy, characterized by bleeding gums and joint pain.\n\nVitamin C is crucial for immune function and the absorption of iron from...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:41"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ascorbic Acid?",
+      "answer": "The chemical formula for Ascorbic Acid is C6H8O6, and its molecular weight is 176.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Ascorbic Acid is considered an essential vitamin for humans.",
+      "answer": "Ascorbic Acid, also known as vitamin C, is considered an essential vitamin because it plays a crucial role in building collagen, a protein that serves as a support structure for the body. Since it is water-soluble and the body excretes any excess in the urine without storing it, humans need to consume it regularly in their diet. A deficiency in vitamin C can lead to scurvy, which is characterized by symptoms such as joint pain, fatigue, bleeding gums, tooth loss, slow wound healing, and bruising.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the solubility properties of Ascorbic Acid and the implications for its storage and consumption.",
+      "answer": "Ascorbic Acid is soluble in water and alcohol but insoluble in ether, benzene, and chloroform. This property implies that it can be easily dissolved in water-based solutions, making it readily available for absorption in the human body when consumed. The solubility in water also means that it can be excreted efficiently by the body, reinforcing the need for regular intake through diet. Additionally, because it is not soluble in organic solvents like ether, benzene, and chloroform, it cannot be stored or extracted using these substances, guiding how it should be handled and preserved.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

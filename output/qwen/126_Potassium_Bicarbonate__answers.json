@@ -1,0 +1,27 @@
+{
+  "source_file": "126_Potassium_Bicarbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Bicarbonate (KHCO₃). Here are some of its key properties:\n\n1. **Composition**:\n   - Red atoms represent oxygen.\n   - White atom represents hydrogen.\n   - Black atom represents carbon.\n   - Turquoise atom represents potassium.\n\n2. **Properties**:\n   - **Use as a Leavening Agent**: It is used in baking to produce carbon dioxide gas, which causes bread to rise.\n   - **Food Additive**: It helps maintain proper acidity in foods.\n   - **Supply of Potassium**: It provides potassium to the diet.\n   -",
+      "latency_s": 16.88
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bicarbonate?",
+      "answer": "The chemical formula for Potassium Bicarbonate (also known as Potassium Hydrogen Carbonate) is:\n\n\\[ \\text{KHCO}_3 \\]\n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K): 39.10 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Carbon (C): 12.01 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, let's calculate the molecular weight:\n\n\\[\n\\begin{align*}\n\\text",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Explain why Potassium Bicarbonate does not have a boiling point.",
+      "answer": "Potassium bicarbonate, also known as sodium hydrogen carbonate or baking soda, is a salt that dissociates into ions in water. Its chemical formula is \\( \\text{KHCO}_3 \\). When it dissolves in water, it forms a solution of potassium ions (\\( \\text{K}^+ \\)) and bicarbonate ions (\\( \\text{HCO}_3^- \\)). The structure of this compound is such that it can form an infinite network of ions in the solid state due to strong electrostatic interactions between the positive and negative charges.\n\nThe reason why potassium bicarbonate does not have a boiling point in the",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Describe the process of how Potassium Bicarbonate is manufactured.",
+      "answer": "Potassium bicarbonate, also known as potassium hydrogen carbonate or potassium acid carbonate, is primarily manufactured through the chemical reaction between potassium hydroxide (KOH) and carbon dioxide (CO2). Here's a detailed description of the manufacturing process:\n\n### 1. **Raw Materials:**\n   - **Potassium Hydroxide (KOH):** This is typically produced by electrolysis of brine (sodium chloride solution).\n   - **Carbon Dioxide (CO2):** This can be obtained from various sources such as industrial processes that produce CO2 as a byproduct.\n\n### 2. **Reaction:**\n   -",
+      "latency_s": 10.65
+    }
+  ]
+}

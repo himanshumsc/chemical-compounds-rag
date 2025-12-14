@@ -1,0 +1,59 @@
+{
+  "source_file": "116_Polycarbonates.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Polycarbonate**. Key properties: It's made from the reaction of phosgene and bisphenol A. Used in DVDs, fuses, and various applications due to its strength and transparency.",
+      "latency_s": 19.77,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the key elements that make up polycarbonates, and what is their state at room temperature?",
+      "answer": "The provided text does not mention polycarbonates. It details various chemical compounds like carbohydrates, CFCs, acetylene, 1,3-butadiene, and acetic acid.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How are polycarbonates typically synthesized from phosgene and bisphenol A?",
+      "answer": "The provided text does not contain information about the synthesis of polycarbonates from phosgene and bisphenol A. It discusses acetylene, 1,3-butadiene, aluminum fluoride, acetic acid, and carbohydrates, but not polycarbonate synthesis.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the advantages of using polycarbonates over glass in various applications.",
+      "answer": "The provided text doesn't discuss polycarbonates or their comparison to glass. It details uses and properties of aluminum hydroxide, acetic acid, 1,3-butadiene and general chemical terms. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:38:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:38:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

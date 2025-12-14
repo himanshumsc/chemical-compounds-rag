@@ -1,0 +1,38 @@
+{
+  "compound_id": 136,
+  "compound_name": "Riboflavin",
+  "source_file": "compound_136_Riboflavin.json",
+  "main_entry_length": 4196,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0734_Riboflavin_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:28",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of riboflavin, also known as vitamin B2. Key properties include:\n\n- **Atoms**: Red atoms are oxygen, white are hydrogen, black are carbon, and blue are nitrogen.\n- **Structure**: It contains a conjugated ring system with nitrogen atoms, indicative of its role in biological systems.\n- **Function**: Riboflavin is essential for energy production and cellular function. It acts as a precursor for coenzymes involved in redox reactions.\n- **Sources**: Found in foods like brewer’s yeast, dark green vegetables, dairy products, and nuts.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:15"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of riboflavin?",
+      "answer": "The chemical formula of riboflavin is C17H20N4O6, and its molecular weight is 376.36 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does riboflavin interact with light and what is its stability under different conditions?",
+      "answer": "Riboflavin tends to decompose when exposed to light for extended periods, although it is relatively stable when exposed to heat. It is very slightly soluble in water and ethyl alcohol, very soluble in alkaline solvents, but this leads to decomposition.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the synthesis process of riboflavin using Bacillus subtilis or Ashbya gossifyii.",
+      "answer": "Riboflavin is synthetically produced using the genetically-modified bacterium Bacillus subtilis or a fungus called Ashbya gossifyii. These organisms are cultured in a large vat seeded with small amounts of riboflavin. Over time, they generate large quantities of riboflavin. The vat is then heated to kill the bacteria or fungi, leaving crystalline riboflavin behind, which is then separated and purified.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

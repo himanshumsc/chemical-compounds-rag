@@ -1,0 +1,36 @@
+{
+  "compound_id": 66,
+  "compound_name": "Gelatin",
+  "source_file": "compound_066_Gelatin.json",
+  "main_entry_length": 3591,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0388_Gelatin_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:31",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Gelatin.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What elements are present in gelatin, and what is its state at room temperature?",
+      "answer": "Gelatin contains the elements carbon, hydrogen, oxygen, nitrogen, and others. It is in a solid state at room temperature.",
+      "difficulty_level": "basic",
+      "topic_category": "elements"
+    },
+    {
+      "question": "Explain why gelatin is classified as a mixture rather than a compound.",
+      "answer": "Gelatin is classified as a mixture because its components, which are water-soluble proteins with high molecular weights, are not chemically combined with each other. Unlike compounds, mixtures do not have a definite composition and are composed of varying amounts of different substances.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of making gelatin from animal parts and differentiate between Type A and Type B gelatin.",
+      "answer": "Gelatin is made by boiling animal parts with high protein content, such as skin, ligaments, tendons, cartilage, and bones, to break down molecular bonds between collagen strands. The collagen is further broken down by additional boiling with either acid or alkali. Type A gelatin results from boiling collagen in an acidic solution, while Type B gelatin is produced by boiling collagen in an alkaline solution.",
+      "difficulty_level": "advanced",
+      "topic_category": "how it is made"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

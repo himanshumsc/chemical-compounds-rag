@@ -1,0 +1,36 @@
+{
+  "compound_id": 55,
+  "compound_name": "Dimethyl Ketone",
+  "source_file": "compound_055_Dimethyl Ketone.json",
+  "main_entry_length": 2593,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0340_Dimethyl_Ketone_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:47",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Dimethyl Ketone.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Dimethyl Ketone?",
+      "answer": "The chemical formula of Dimethyl Ketone, also known as acetone, is CH3COCH3, and its molecular weight is 58.08 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility and state properties of Dimethyl Ketone.",
+      "answer": "Dimethyl Ketone is a liquid compound that is miscible with water, alcohol, ether, benzene, and chloroform. This means it can dissolve in these substances in any proportion.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process by which Dimethyl Ketone is produced using the Hock process.",
+      "answer": "In the Hock process, cumene (C6H5CH(CH3)2) is first oxidized to produce cumene hydroperoxide (C6H5C(CH3)2COOH). This intermediate is then reduced to produce acetone and phenol (C6H5OH).",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

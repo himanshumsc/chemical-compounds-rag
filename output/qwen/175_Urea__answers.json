@@ -1,0 +1,27 @@
+{
+  "source_file": "175_Urea.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows urea (chemical formula: CO(NH₂)₂). Key properties of urea include:\n\n1. **Composition**: Urea consists of one carbon atom, one oxygen atom, two nitrogen atoms, and four hydrogen atoms.\n2. **Structure**: It has a central carbon atom bonded to an oxygen atom and two nitrogen atoms, each bonded to two hydrogen atoms.\n3. **Function**: Urea is primarily produced by the liver as a waste product from the breakdown of proteins in the body. It is excreted through urine and serves as a nitrogen source for plants.\n4. **Role in Metabol",
+      "latency_s": 16.44
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of urea?",
+      "answer": "The chemical formula for urea is \\(\\text{CO(NH}_2\\text{)}_2\\). To find the molecular weight, we need to sum the atomic weights of all the atoms in the molecule.\n\n- Carbon (C): 12.01 g/mol\n- Oxygen (O): 16.00 g/mol\n- Nitrogen (N): 14.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n\nNow, let's calculate the molecular weight:\n\n\\[\n\\text{Molecular weight} = (\\text{1 carbon atom})",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Explain the significance of Friedrich Wöhler's synthesis of urea in 1828.",
+      "answer": "Friedrich Wöhler's synthesis of urea in 1828 is considered one of the most significant achievements in the history of chemistry, challenging the prevailing belief that organic compounds could only be produced by living organisms. This discovery was pivotal for several reasons:\n\n1. **Breakthrough in Organic Chemistry**: Before Wöhler's experiment, it was widely believed that organic compounds were \"vital\" or \"organized,\" meaning they could only be synthesized by living organisms. Wöhler's synthesis of urea, a compound previously thought to be exclusively produced by living organisms, demonstrated that organic compounds could also be synthesized from inorganic",
+      "latency_s": 10.38
+    },
+    {
+      "question": "Describe the urea cycle and its importance in animal metabolism.",
+      "answer": "The urea cycle, also known as the ornithine cycle or the Krebs cycle of urea synthesis, is a metabolic pathway found in animals, including humans, that converts ammonia into urea. This process is crucial for maintaining homeostasis by neutralizing excess ammonia, which is toxic to cells.\n\n### Components of the Urea Cycle:\n1. **Ornithine**: Amino acid that serves as the starting point.\n2. **Arginase**: An enzyme that catalyzes the conversion of arginine back to ornithine.\n3. **Arginase**: Converts arginine into citrulline.",
+      "latency_s": 10.38
+    }
+  ]
+}

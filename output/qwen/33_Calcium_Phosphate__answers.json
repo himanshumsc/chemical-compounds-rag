@@ -1,0 +1,27 @@
+{
+  "source_file": "33_Calcium_Phosphate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Calcium Phosphate. The key properties of Calcium Phosphate include:\n\n1. **Solubility**: \n   - Dibasic and tribasic forms are insoluble in water and alcohol but soluble in most acids.\n   - Monobasic calcium phosphate is soluble in water and acids and insoluble in alcohol.\n\n2. **Non-flammability**: All three compounds (dibasic, tribasic, and monobasic) are non-flammable.\n\n3. **Occurrence**:\n   - Tribasic calcium phosphate can be obtained directly from rock and minerals such as apatite, which is a complex and",
+      "latency_s": 16.59
+    },
+    {
+      "question": "What are the different forms of calcium phosphate mentioned, and how do they differ in terms of composition?",
+      "answer": "Calcium phosphate is a compound that contains calcium and phosphorus. It can exist in several forms, each with distinct chemical compositions and properties. Here are some of the main forms:\n\n1. **Dicalcium Phosphate (DCP)**:\n   - **Composition**: It has the formula CaHPO4·H2O.\n   - **Properties**: DCP is a white, crystalline powder that is highly soluble in water. It is commonly used as a dietary supplement and in food products for its ability to enhance the texture and stability of foods.\n\n2. **Tricalcium Phosphate (TCP)**:\n   -",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Describe the solubility characteristics of the three forms of calcium phosphate.",
+      "answer": "Calcium phosphate exists in several forms, each with distinct solubility characteristics. The most common forms are hydroxyapatite, dicalcium phosphate dihydrate (DCPD), and tricalcium phosphate (TCP). Here's an overview of their solubility:\n\n1. **Hydroxyapatite (HAp)**:\n   - **Chemical Formula**: Ca10(PO4)6(OH)2\n   - **Solubility**: Hydroxyapatite is highly insoluble in water and physiological fluids. It is the primary mineral component of bone and teeth.\n   - **Mechanism**: Hydro",
+      "latency_s": 10.39
+    },
+    {
+      "question": "Explain how tribasic calcium phosphate can be synthesized and its primary uses.",
+      "answer": "Tribasic calcium phosphate (Ca3(PO4)2·3H2O), also known as tricalcium phosphate, is a naturally occurring mineral that is often used in various applications due to its biocompatibility and ability to dissolve in the body. It is primarily synthesized through a process involving the reaction of calcium hydroxide with phosphoric acid.\n\n### Synthesis of Tribasic Calcium Phosphate\n\n1. **Materials Needed:**\n   - Calcium Hydroxide (Ca(OH)2)\n   - Phosphoric Acid (H3PO4)\n\n2. **Process:**\n   - Dissolve calcium hydro",
+      "latency_s": 10.39
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "page_index": 0,
+    "image_index_on_page": 0,
+    "label": "page_first_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0000_img_00_page_first_image_e38b1b1b.png",
+    "md5": "e38b1b1ba168e26c92e28bbd3a850af9",
+    "width": 1088,
+    "height": 1388
+  },
+  {
+    "page_index": 2,
+    "image_index_on_page": 0,
+    "label": "page_first_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0002_img_00_page_first_image_c1d1c980.png",
+    "md5": "c1d1c98088021deacb3f63496b4b56b8",
+    "width": 1458,
+    "height": 325
+  },
+  {
+    "page_index": 2,
+    "image_index_on_page": 1,
+    "label": "page_additional_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0002_img_01_page_additional_image_1b72b4e4.png",
+    "md5": "1b72b4e4a2e389e13a2b1d7ae0a5db25",
+    "width": 545,
+    "height": 371
+  },
+  {
+    "page_index": 3,
+    "image_index_on_page": 0,
+    "label": "page_first_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0003_img_00_page_first_image_7a91aba1.png",
+    "md5": "7a91aba1b289a53b241073f98414649b",
+    "width": 470,
+    "height": 191
+  },
+  {
+    "page_index": 183,
+    "image_index_on_page": 0,
+    "label": "page_first_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0183_img_00_page_first_image_7045811c.png",
+    "md5": "7045811c592e59385218aa9d1bc7df6a",
+    "width": 588,
+    "height": 215
+  },
+  {
+    "page_index": 267,
+    "image_index_on_page": 0,
+    "label": "page_first_image",
+    "file": "/home/himanshu/dev/test/extracted_images/images/page_0267_img_00_page_first_image_75eb50e3.png",
+    "md5": "75eb50e31e4003b3e27729126fa04ec4",
+    "width": 888,
+    "height": 242
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "source_file": "75_Hydroxytoluene.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts BHA (butylated hydroxyanisole) and BHT (butylated hydroxytoluene). They are antioxidants used as food preservatives. Key properties: prevent spoilage, found in oils, fats, and processed foods.",
+      "latency_s": 21.07,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the chemical formulas and molecular weights of BHA and BHT?",
+      "answer": "The provided text does not contain information about BHA or BHT. It discusses compounds like acetic acid, acetaminophen, and carbohydrates, but not those specifically requested.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How do BHA and BHT function as food preservatives?",
+      "answer": "I am sorry, but the provided text does not contain information about BHA or BHT. Therefore, I cannot answer your question about how they function as food preservatives. The database focuses on mustard gas, 1,3-butadiene, alpha tocopherol, carbohydrates, acetic acid and related terminology.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the process of synthesizing BHA and BHT, including the reactants and conditions required.",
+      "answer": "The provided text does not contain information about the synthesis of BHA or BHT. It describes chemical compounds generally, provides definitions of terms, and details uses/properties of acetic acid and acetaminophen. It does not address the synthesis of BHA or BHT.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:09:01",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:09:01",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

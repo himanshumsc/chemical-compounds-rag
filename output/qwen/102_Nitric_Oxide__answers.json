@@ -1,0 +1,27 @@
+{
+  "source_file": "102_Nitric_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Nitric Oxide (NO). It consists of one oxygen atom (red) and one nitrogen atom (blue), bonded together.\n\nKey properties of Nitric Oxide (NO):\n\n1. **Chemical Composition**: NO is composed of one nitrogen atom and one oxygen atom.\n2. **Bonding**: The bond between nitrogen and oxygen is a polar covalent bond, where the oxygen atom has a slight negative charge due to its electronegativity compared to nitrogen.\n3. **Color**: Nitric oxide is typically colorless under normal conditions.\n4. **Reactivity**: Nitric oxide is highly reactive",
+      "latency_s": 16.74
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitric oxide?",
+      "answer": "The chemical formula for nitric oxide (NO) is simply NO, as it consists of one nitrogen atom and one oxygen atom.\n\nTo calculate the molecular weight of nitric oxide, we need to sum the atomic weights of the constituent atoms:\n\n- Nitrogen (N) has an atomic weight of approximately 14.01 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nSo, the molecular weight of nitric oxide (NO) is calculated as follows:\n\\[ \\text{Molecular weight of NO} = 14.01 \\, \\text{",
+      "latency_s": 11.36
+    },
+    {
+      "question": "Explain how nitric oxide is formed in the atmosphere and its role in pollution.",
+      "answer": "Nitric oxide (NO) is a simple molecule composed of one nitrogen atom and one oxygen atom, with the chemical formula NO. It plays a significant role in atmospheric chemistry and can contribute to air pollution.\n\n### Formation of Nitric Oxide in the Atmosphere\n\n1. **Natural Sources:**\n   - **Biogenic Processes:** Certain bacteria and fungi release NO as part of their metabolic processes.\n   - **Volcanic Emissions:** Volcanoes can emit NO directly into the atmosphere.\n\n2. **Anthropogenic Sources:**\n   - **Combustion Processes:** The burning of fossil fuels (coal, oil, natural",
+      "latency_s": 11.36
+    },
+    {
+      "question": "Describe the industrial uses of nitric oxide and its potential hazards.",
+      "answer": "Nitric oxide (NO) is a colorless, odorless gas that plays a crucial role in various biological processes, including blood pressure regulation and immune function. However, it also has significant applications in industry, particularly in the production of fertilizers, explosives, and other chemicals.\n\n### Industrial Uses of Nitric Oxide\n\n1. **Fertilizer Production**: Nitric oxide is a key component in the Haber-Bosch process, which is used to synthesize ammonia (NH₃). Ammonia is then converted into urea, a widely used fertilizer.\n2. **Explosives**: Nitric oxide is involved",
+      "latency_s": 11.36
+    }
+  ]
+}

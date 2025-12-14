@@ -1,0 +1,59 @@
+{
+  "source_file": "33_Calcium_Phosphate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows calcium phosphate. It is dibasic and tribasic, insoluble in water and alcohol but soluble in most acids.",
+      "latency_s": 40.24,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the different forms of calcium phosphate mentioned, and how do they differ in terms of composition?",
+      "answer": "Calcium phosphate forms include hydroxyapatite (Ca10(PO4)6(OH)2) and dicalcium phosphate (CaHPO4). Hydroxyapatite is the most common and crystalline form in human bone. Dicalcium phosphate is less crystalline and more soluble in water.",
+      "latency_s": 25.55,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the solubility characteristics of the three forms of calcium phosphate.",
+      "answer": "Calcium phosphate is insoluble in water and organic solvents.",
+      "latency_s": 25.55,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain how tribasic calcium phosphate can be synthesized and its primary uses.",
+      "answer": "Tribasic calcium phosphate is synthesized by reacting calcium hydroxide with a solution of phosphoric acid. This reaction yields calcium phosphate with the formula Ca3(PO4)2·3H2O. It is used as a dietary supplement to provide calcium and phosphorus.",
+      "latency_s": 25.55,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:38:40",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:38:40",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

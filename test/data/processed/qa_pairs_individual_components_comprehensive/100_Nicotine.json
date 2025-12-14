@@ -1,0 +1,58 @@
+{
+  "compound_id": 97,
+  "compound_name": "Nicotine",
+  "source_file": "compound_097_Nicotine.json",
+  "main_entry_length": 2348,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0538_Nicotine_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:40",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of nicotine. In this diagram, white atoms represent hydrogen, black atoms represent carbon, and blue atoms represent nitrogen.\n\nKey properties of nicotine include:\n\n- **Solubility**: Nicotine is more soluble in organic solvents like ether and chloroform than in water.\n- **Use**: Primarily found in tobacco products for smoking and chewing. It's also available in products like nicotine gums and patches to aid smoking cessation.\n- **Hazards**: Nicotine is toxic and was historically used as an insecticide and fumigant.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:00:56"
+    },
+    {
+      "question": "What is the molecular formula of nicotine and what elements does it consist of?",
+      "answer": "The molecular formula of nicotine is C5H4NC4H7NCH3. It consists of the elements carbon, hydrogen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:33",
+      "char_limit": 1000,
+      "answer_length": 111
+    },
+    {
+      "question": "Describe the solubility properties of nicotine and the implications for its extraction process.",
+      "answer": "Nicotine is miscible with water and very soluble in ethyl alcohol, ether, and chloroform. These solubility properties are crucial for its extraction process. Nicotine is typically extracted by soaking the stems and leaves of the tobacco plant in water, allowing the nicotine to dissolve into the water. To separate nicotine from this aqueous solution, a solvent like ether or chloroform, in which nicotine is more soluble, can be used. When mixed, the nicotine transfers from the water layer to the solvent layer, from which it can be removed through evaporation. This solubility in organic solvents facilitates the efficient extraction of nicotine from the water solution.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:36",
+      "char_limit": 1800,
+      "answer_length": 673
+    },
+    {
+      "question": "Explain how the historical development and synthesis of nicotine have impacted its applications and uses.",
+      "answer": "The historical development and synthesis of nicotine have significantly influenced its applications and uses. Nicotine's chemical structure was determined in 1843 by Belgian chemist Louise Melsens, and it was first synthesized in 1904 by A. Pictet and A. Rotschy. This understanding of nicotine's structure and synthesis paved the way for its extraction and use.\n\nNicotine is a thick, colorless to yellow, oily liquid with a bitter taste, commonly found in high concentrations in tobacco leaves. It is extracted by soaking tobacco plant stems and leaves in water, followed by a process involving ether or chloroform to separate and purify the nicotine. This extraction method has facilitated the use of nicotine in tobacco products for smoking and chewing, with nicotine content in cigarettes averaging 15 to 25 milligrams. Additionally, nicotine is utilized in products like nicotine gums and patches to aid smoking cessation.\n\nHistorically, nicotine was also employed as an insecticide and fumigant, exemplified by products like Black Leaf 40, a 40 percent nicotine sulfate solution in water. However, the use of nicotine-containing insecticides has declined.\n\nIn summary, the determination of nicotine's chemical structure and the development of its synthesis and extraction methods have enabled its widespread use in tobacco products and smoking cessation aids, while its historical role as an insecticide has diminished.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:35:40",
+      "char_limit": 2000,
+      "answer_length": 1425
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4393,
+  "updated_at": "2025-11-30 13:35:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

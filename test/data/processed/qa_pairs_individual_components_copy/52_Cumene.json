@@ -1,0 +1,36 @@
+{
+  "compound_id": 49,
+  "compound_name": "Cumene",
+  "source_file": "compound_049_Cumene.json",
+  "main_entry_length": 2347,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0306_Cumene_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cumene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of cumene and its molecular weight?",
+      "answer": "The chemical formula of cumene is C6H5CH(CH3)2, and its molecular weight is 120.19 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the primary industrial uses of cumene.",
+      "answer": "Cumene is primarily used as a raw material in the synthesis of other organic compounds such as phenol, acetone, acetophenone, and methyl styrene. It also serves as a thinner for paints, lacquers, and enamels. The compounds derived from cumene, such as phenol and acetone, are used in the production of various plastics like polystyrene, phenol-formaldehyde resins, and polycarbonates.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the chemical reaction used to synthesize cumene and the alternative sources from which it can be extracted.",
+      "answer": "Cumene is synthesized through a straightforward chemical reaction between benzene (C6H6) and propene (propylene; CH3CH=CH2). Additionally, it can be extracted from petroleum or from coal tar, which is the thick black material left after soft coal is converted to coke.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

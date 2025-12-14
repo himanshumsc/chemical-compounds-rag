@@ -1,0 +1,27 @@
+{
+  "source_file": "91_MercuryII_Sulfide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **Mercury(II) Sulfide** (HgS). Here are some of its key properties:\n\n1. **Structure**: Mercury(II) sulfide consists of one mercury atom (Hg) and one sulfur atom (S), bonded together by a double bond.\n\n2. **Synthesis**: It can be synthesized by heating mercury and sulfur together in a gaseous state or by heating mercury with a solution of potassium pentasulfide (K₂S₅).\n\n3. **Common Names**: The compound is commonly known as English vermilion or simply vermilion. The",
+      "latency_s": 16.51
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Mercury(II) Sulfide?",
+      "answer": "The chemical formula for Mercury(II) Sulfide is HgS.\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- The atomic weight of Mercury (Hg) is approximately 200.59 g/mol.\n- The atomic weight of Sulfur (S) is approximately 32.07 g/mol.\n\nSo, the molecular weight of Mercury(II) Sulfide (HgS) is calculated as follows:\n\\[ \\text{Molecular Weight} = (\\text{Atomic Weight of Hg}) + (\\text{Atomic Weight of",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe the solubility characteristics of Mercury(II) Sulfide and its behavior upon heating.",
+      "answer": "Mercury(II) sulfide, also known as mercuric sulfide or HgS, is an inorganic compound with a molecular weight of 200.61 g/mol. It is a black, brittle solid that is insoluble in water but soluble in dilute acids.\n\n### Solubility Characteristics:\n- **Solubility in Water:** Mercury(II) sulfide is insoluble in water. This means that it does not dissolve in water under normal conditions.\n- **Solubility in Dilute Acids:** In contrast to its insolubility in water, mercury(II) sulfide is",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the synthesis process of Mercury(II) Sulfide and how its different forms are produced.",
+      "answer": "Mercury(II) sulfide, also known as mercuric sulfide or mercury(I) sulfide, is a chemical compound with the formula HgS. It can exist in several different forms due to its complex structure and the various ways it can be synthesized.\n\n### Synthesis Process\n\nThe most common method for synthesizing mercury(II) sulfide involves reacting mercury metal with sulfur gas (S₂). The reaction typically occurs at high temperatures, around 300°C to 400°C, under an inert atmosphere such as nitrogen or argon to prevent oxidation of the mercury:\n\n\\[ \\text{Hg",
+      "latency_s": 10.37
+    }
+  ]
+}

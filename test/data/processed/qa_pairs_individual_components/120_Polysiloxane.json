@@ -1,0 +1,38 @@
+{
+  "compound_id": 117,
+  "compound_name": "Polysiloxane",
+  "source_file": "compound_117_Polysiloxane.json",
+  "main_entry_length": 1447,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0642_Polysiloxane_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:02",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of polysiloxane. Polysiloxanes consist of a backbone of alternating silicon (turquoise atoms) and oxygen (red atoms) atoms, with organic groups attached to the silicon. These compounds exhibit a range of physical states, from liquids to semi-solid, rubber-like materials. They are generally chemically inert, resistant to heat, and have versatile applications due to their stability and flexibility. Polysiloxanes are commonly used in products like lubricants, adhesives, and sealants.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:46"
+    },
+    {
+      "question": "What elements are always present in the structure of polysiloxane, and which elements are almost always present?",
+      "answer": "In the structure of polysiloxane, silicon and oxygen are always present. Carbon and hydrogen are almost always present.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the structural difference between a linear and a cyclic polysiloxane molecule.",
+      "answer": "Polysiloxane molecules can be structured in two ways: linear or cyclic. In a linear polysiloxane, the silicon-oxygen backbone (-Si-O-Si-O-Si-O-Si-) is arranged in a straight chain. In a cyclic polysiloxane, the silicon-oxygen backbone forms a ring structure. Both structures involve additional oxygen atoms attached to each silicon in the chain.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "How do modifications to the organosiloxane polymers influence the properties and applications of polysiloxanes?",
+      "answer": "Modifications to organosiloxane polymers are achieved by using various alkyl groups in chains of different lengths and conformations. These modifications allow researchers to produce a wide array of products with distinct properties and applications. By altering the alkyl groups attached to the silicon-oxygen backbone, the chemical and physical properties of the polysiloxane, such as flexibility, hydrophobicity, and thermal stability, can be tailored to meet specific industrial and commercial needs.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

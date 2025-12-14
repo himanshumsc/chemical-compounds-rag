@@ -1,0 +1,27 @@
+{
+  "source_file": "122_Polystyrene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polystyrene. Polystyrene is a synthetic polymer with the chemical formula (C₈H₈)n, where n represents the number of styrene monomer units. Here are some key properties of polystyrene:\n\n1. **Structure**: Polystyrene consists of long chains of styrene monomers linked together by single bonds between carbon atoms.\n2. **Appearance**: It is a white or translucent solid.\n3. **Properties**:\n   - **Heat Resistance**: Polystyrene has a relatively high melting point, making it suitable for use in applications that",
+      "latency_s": 16.77
+    },
+    {
+      "question": "What is the chemical formula and the basic structural unit of polystyrene?",
+      "answer": "The chemical formula for styrene, which is the monomer from which polystyrene is polymerized, is:\n\n\\[ \\text{C}_8\\text{H}_8 \\]\n\nPolystyrene is a linear polymer formed by the polymerization of styrene monomers. The basic structural unit or repeating unit in polystyrene is the styrene monomer itself, which can be represented as:\n\n\\[ \\text{CH}_2=\\text{CH}-\\text{C}_6\\text{H}_5 \\]\n\nThis structure shows the double bond (C=C) and the phenyl group (-C_",
+      "latency_s": 10.72
+    },
+    {
+      "question": "How does polystyrene demonstrate its properties as a thermoplastic polymer, and what are its implications for practical applications?",
+      "answer": "Polystyrene is a thermoplastic polymer that exhibits several key properties characteristic of this class of materials:\n\n1. **Thermoplastic Polymer Properties**:\n   - **Melting Point**: Polystyrene has a relatively low melting point, which allows it to be melted and reshaped when heated.\n   - **Formability**: When heated above its melting point, polystyrene can be molded into various shapes due to its plasticity.\n   - **Shrinkage**: After cooling and solidifying, polystyrene tends to shrink slightly, which can affect the final dimensions of the molded part.\n\n2. **",
+      "latency_s": 10.72
+    },
+    {
+      "question": "Describe the process of polymerization of styrene to form polystyrene and the role of polymerization initiators in this process.",
+      "answer": "Polymerization is a chemical reaction where monomers (small molecules) join together to form a polymer (a large molecule). In the case of styrene, which is a monomer, it undergoes polymerization to form polystyrene, a polymer.\n\nThe process of styrene polymerization can be broadly divided into two types: free radical polymerization and ionic polymerization. Here we will focus on free radical polymerization, as it is the most common method for styrene polymerization.\n\n### Free Radical Polymerization of Styrene\n\n1. **Initiation**: This step involves the formation of free radicals from a polymerization",
+      "latency_s": 10.72
+    }
+  ]
+}

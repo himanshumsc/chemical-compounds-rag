@@ -1,0 +1,36 @@
+{
+  "compound_id": 69,
+  "compound_name": "Hexane",
+  "source_file": "compound_069_Hexane.json",
+  "main_entry_length": 2712,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0404_Hexane_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:45",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Hexane.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hexane?",
+      "answer": "The chemical formula of hexane is C6H14, and its molecular weight is 86.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why hexane is considered a saturated hydrocarbon and what implications this has for its chemical structure.",
+      "answer": "Hexane is considered a saturated hydrocarbon because it contains only carbon and hydrogen atoms connected by single bonds, with no double or triple bonds. This classification implies that hexane is an alkane, which is a type of organic compound where all carbon atoms are fully 'saturated' with hydrogen atoms, maximizing the number of hydrogen atoms bonded to the carbon skeleton.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the process by which hexane is obtained from petroleum and explain why its low boiling point is significant in this process.",
+      "answer": "Hexane is obtained from petroleum through fractional distillation, a process where petroleum is heated in tall towers. As a liquid with a low boiling point of 68.73°C, hexane boils off and rises to the upper levels of the tower. It then condenses and is collected as part of petroleum ether or ligroin. Its low boiling point is significant because it allows hexane to be separated from other components of petroleum based on differences in boiling points, enabling its isolation by condensation at the upper levels of the distillation tower.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

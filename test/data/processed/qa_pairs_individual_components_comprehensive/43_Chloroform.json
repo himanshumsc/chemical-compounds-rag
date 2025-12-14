@@ -1,0 +1,58 @@
+{
+  "compound_id": 40,
+  "compound_name": "Chloroform",
+  "source_file": "compound_040_Chloroform.json",
+  "main_entry_length": 4514,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0262_Chloroform_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image represents chloroform, with the chemical formula CHCl₃. It consists of one carbon atom (black), one hydrogen atom (white), and three chlorine atoms (green). Chloroform is a colorless, sweet-smelling liquid that has been used historically as an anesthetic. However, due to its potential health risks and more effective alternatives, its use in medicine has declined. Today, chloroform is primarily used in the production of hydrochlorofluorocarbons (HCFCs).",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:38"
+    },
+    {
+      "question": "What are the chemical formula and molecular weight of chloroform?",
+      "answer": "The chemical formula of chloroform is CHCl3, and its molecular weight is 119.38 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:43",
+      "char_limit": 1000,
+      "answer_length": 86
+    },
+    {
+      "question": "Explain why chloroform was replaced by other compounds as an anesthetic in the twenty-first century.",
+      "answer": "Chloroform was replaced by other compounds as an anesthetic in the twenty-first century because the newer compounds are more effective and have fewer undesirable side effects. The provided context highlights that although chloroform was once widely used as an anesthetic, its use declined due to these issues. Chloroform's potential hazards, including its irritant effects on the skin, eyes, and respiratory system, and its history of improper doses leading to severe consequences like coma and death, contributed to the search for safer alternatives. Consequently, its use as an anesthetic has been largely abandoned in favor of compounds that offer improved efficacy and safety profiles.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:45",
+      "char_limit": 1800,
+      "answer_length": 689
+    },
+    {
+      "question": "Describe the commercial production process of chloroform. Include the chemical reaction involved.",
+      "answer": "Chloroform is commercially produced through the reaction between chlorine gas and methane gas. In this process, each of the four hydrogen atoms in methane is replaced, one at a time, by chlorine atoms. Careful control of the reaction conditions is necessary to maximize the production of chloroform. Additionally, chloroform can also be synthesized by the reaction between acetone and bleaching powder (CaOCl2) in the presence of sulfuric acid (H2SO4) as follows: 2CH3COCH3 + 6CaOCl2 → 2CHCl3 + (CH3COO)2Ca + 3CaCl2 + 2Ca(OH)2.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:57",
+      "char_limit": 2000,
+      "answer_length": 527
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 10007,
+  "updated_at": "2025-11-30 13:58:57",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

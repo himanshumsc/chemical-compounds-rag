@@ -1,0 +1,38 @@
+{
+  "compound_id": 47,
+  "compound_name": "Copper(II) Oxide",
+  "source_file": "compound_047_Copper(II) Oxide.json",
+  "main_entry_length": 1253,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0298_Copper(II)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:09",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Copper(II) oxide (CuO). Key properties of Copper(II) oxide include:\n\n- It is used in glazes and artificial gems, imparting a bluish to greenish tint.\n- It serves as an insecticide and fumigant, particularly for potato plants.\n- It acts as an antifouling agent, preventing barnacle growth on boats.\n- It’s used as a wood preservative for marine structures.\n- It is involved in preparing superconducting materials, manufacturing batteries, and as a welding flux.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:58"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Oxide?",
+      "answer": "The chemical formula of Copper(II) Oxide is CuO, and its molecular weight is 79.54 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility and natural occurrence of Copper(II) Oxide.",
+      "answer": "Copper(II) Oxide is insoluble in water and organic solvents but soluble in dilute acids and ammonium hydroxide. It naturally occurs in the minerals tenorite, melaconite, and paramelaconite.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process of synthesizing Copper(II) Oxide from copper nitrate and its potential use in industry.",
+      "answer": "Copper(II) Oxide can be synthesized by heating copper(II) nitrate [Cu(NO3)2] to a high temperature, known as red heat. This process decomposes the nitrate to form Copper(II) Oxide. In industry, Copper(II) Oxide is commonly used as a pigment to color ceramics, enamels, and porcelain.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

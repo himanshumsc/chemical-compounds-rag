@@ -1,0 +1,38 @@
+{
+  "compound_id": 21,
+  "compound_name": "Boric Acid",
+  "source_file": "compound_021_Boric Acid.json",
+  "main_entry_length": 4110,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0166_Boric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image represents boric acid. It's composed of hydrogen (white atoms), oxygen (red atoms), and boron (yellow atom). Boric acid is a weak acid with antiseptic, antifungal, and insecticidal properties. It is often used in medical and household applications, such as eye washes, antiseptics, and pest control. It is also used in the production of glass, ceramics, and as a pH buffer in swimming pools.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:48"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of boric acid?",
+      "answer": "The chemical formula of boric acid is H3BO3, and its molecular weight is 61.83 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how the solubility of boric acid in water changes with temperature.",
+      "answer": "The solubility of boric acid in water increases with temperature. In cold water, about 5 grams of boric acid dissolve in 100 mL of water. At 100°C, its solubility increases significantly to 25 grams per 100 mL of water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical and modern uses of boric acid and its potential hazards.",
+      "answer": "Historically, boric acid has been used by the Greeks as an antiseptic, as well as for preserving foods and cleaning. In modern times, it is primarily used in the production of heat-resistant glass, like borosilicate glass, and as an antiseptic in eyewashes, ointments, and mouthwashes. It is also used as a pesticide and in flame retardant materials. However, boric acid is considered hazardous if it enters the body through wounds or ingestion, which led to its ban in products like talcum powders and salves for diaper rashes due to toxicity concerns.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 89,
+  "compound_name": "Methyl Alcohol",
+  "source_file": "compound_089_Methyl Alcohol.json",
+  "main_entry_length": 2814,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0500_Methyl_Alcohol_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:07",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is methyl alcohol, also known as methanol (CH₃OH). It consists of a carbon atom (black), an oxygen atom (red), and hydrogen atoms (white). Methanol is a simple alcohol and is a colorless, volatile liquid with a distinctive odor. It is used as an industrial solvent, antifreeze, and fuel. Methanol is also employed in the production of formaldehyde and other chemicals. It is toxic to humans if ingested, inhaled, or absorbed through the skin.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methyl alcohol?",
+      "answer": "The chemical formula of methyl alcohol is CH3OH, and its molecular weight is 32.04 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how methyl alcohol is commercially produced.",
+      "answer": "Methyl alcohol is commercially produced by reacting carbon monoxide with water at a temperature of about 250°C (480°F) and pressures of 50 to 100 atmospheres. This reaction is carried out over a mixed catalyst of copper, zinc oxide, and aluminum oxide. Although there are experimental methods involving the oxidation of simple hydrocarbons over a catalyst of molybdenum metal, they are not competitive with the traditional carbon monoxide-hydrogen process.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the environmental concerns associated with the use of methyl alcohol in producing MTBE and the impact on its demand.",
+      "answer": "Methyl alcohol has been used in large quantities for the production of MTBE (methyl-tert-butyl ether), a gasoline additive aimed at improving fuel efficiency and reducing atmospheric pollutants. However, environmental concerns arose regarding MTBE's potential to contaminate soil and water. This led to a decline in its use as a gasoline additive, with several states implementing bans. Consequently, the demand for methyl alcohol for MTBE production has dropped significantly in recent years.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

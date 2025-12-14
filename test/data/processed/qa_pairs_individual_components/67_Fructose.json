@@ -1,0 +1,38 @@
+{
+  "compound_id": 64,
+  "compound_name": "Fructose",
+  "source_file": "compound_064_Fructose.json",
+  "main_entry_length": 2271,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0380_Fructose_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of fructose. Fructose is a simple sugar, or monosaccharide, with the chemical formula C₆H₁₂O₆. It is characterized by its sweetness and is commonly found in fruits, honey, and root vegetables. Fructose is often used in food products as a sweetener and preservative, notably in high-fructose corn syrup (HFCS). It is highly soluble in water and has a key role in various metabolic pathways. However, excessive consumption can lead to health issues like obesity and insulin resistance.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:39"
+    },
+    {
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "answer": "The chemical formula of fructose is C6H12O6. It contains the elements carbon (C), hydrogen (H), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the structural difference between fructose and sucrose.",
+      "answer": "Fructose is classified as a monosaccharide, which means it consists of one ring structure. In contrast, sucrose is a disaccharide, meaning it consists of two ring structures. This structural difference arises because sucrose is composed of one glucose and one fructose ring bonded together, while fructose alone has a single ring structure.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the commercial production process of fructose.",
+      "answer": "Fructose is commercially produced by the hydrolysis of beet sugar or inulin, a polysaccharide found in plants like dahlias, Jerusalem artichokes, and chicory. Hydrolysis involves breaking down these materials into simpler elements by reacting them with water. After hydrolysis, the mixture is treated with lime (calcium oxide, CaO) to extract the fructose. The fructose is then refined by removing impurities that result from the preparation process.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

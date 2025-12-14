@@ -1,0 +1,27 @@
+{
+  "source_file": "65_Folic_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows folic acid (also known as vitamin B9). Key properties of folic acid include:\n\n1. **Chemical Composition**: Folic acid consists of a pteridine ring attached to a tetrahydrofolate moiety. The pteridine ring contains nitrogen atoms, while the tetrahydrofolate part includes carbon, oxygen, and nitrogen atoms.\n\n2. **Role in Metabolism**: Folic acid plays a crucial role in the metabolism of one-carbon units, which are essential for various biological processes such as DNA synthesis, protein synthesis, and amino acid metabolism.\n\n3.",
+      "latency_s": 16.68
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of folic acid?",
+      "answer": "The chemical formula for folic acid (also known as vitamin B9 or folate) is:\n\n\\[ \\text{C}_{19} \\text{H}_{20} \\text{N}_{8} \\text{O}_{6} \\]\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Nitrogen (N): 14.01 g/mol\n- Oxygen (O): 16.00 g/mol",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Why is folic acid considered essential for the production of proteins and nucleic acids?",
+      "answer": "Folic acid, also known as vitamin B9 or folate, is an essential nutrient that plays a crucial role in various biological processes within the body. Its importance in protein and nucleic acid synthesis is due to its role in DNA replication and repair, which are fundamental for cell division and growth.\n\n### Role in Protein Synthesis:\nProteins are synthesized through a process called translation, where ribosomes read the genetic code (DNA) and translate it into amino acids, which then assemble into proteins. Folate is involved in the synthesis of tetrahydrofolate (THF), which is a coenzyme that helps in the conversion",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Explain the solubility characteristics of folic acid and their implications for its use in medical applications.",
+      "answer": "Folic acid, also known as vitamin B9 or folate, is a water-soluble B vitamin that plays a crucial role in various biological processes, including DNA synthesis, cell division, and protein metabolism. Its solubility characteristics are important for understanding how it can be effectively used in medical applications.\n\n### Solubility Characteristics:\n1. **Water Solubility**: Folic acid is highly soluble in water. This property makes it easier to dissolve in aqueous solutions, which is beneficial for oral administration. When taken orally, folic acid dissolves quickly in the stomach and intestines, allowing it to be absorbed into the",
+      "latency_s": 10.36
+    }
+  ]
+}

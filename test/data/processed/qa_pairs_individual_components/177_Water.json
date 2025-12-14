@@ -1,0 +1,38 @@
+{
+  "compound_id": 173,
+  "compound_name": "Water",
+  "source_file": "compound_173_Water.json",
+  "main_entry_length": 1444,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0930_Water_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is water (H₂O), composed of two hydrogen atoms (white) and one oxygen atom (red). \n\nKey properties of water include:\n\n1. **High Boiling Point**: Due to hydrogen bonding, water has a higher boiling point than expected for its molecular weight.\n2. **Surface Tension**: Strong hydrogen bonds create high surface tension, allowing some insects to walk on water.\n3. **Solvent Abilities**: Known as the \"universal solvent,\" water's polarity allows it to dissolve many substances by interacting with their positive or negative charges.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:18"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of water?",
+      "answer": "The chemical formula of water is H2O or HOH, and its molecular weight is 18.02 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the dipole nature of water and its implications.",
+      "answer": "Water is a strong dipole, meaning there is a separation of electrical charges within the molecule. One part of the molecule is negatively charged, while another part is positively charged. This dipole character results in the formation of hydrogen bonds between water molecules, where the positive end of one molecule is attracted to the negative end of another. These hydrogen bonds contribute to water's unique properties, such as its high boiling and melting points compared to other similar-sized molecules.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe a reaction involving water and a metal, and explain the safety considerations involved.",
+      "answer": "When water reacts with metals such as sodium or potassium, the reaction is quite violent and produces elemental hydrogen gas and an inorganic base. For example, when sodium reacts with water, it forms sodium hydroxide and hydrogen gas. These reactions can be hazardous due to the rapid release of hydrogen gas, which is flammable, and the generation of heat, which can ignite the hydrogen. Therefore, such reactions must be carried out with caution, using proper safety measures to prevent explosions or fires.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

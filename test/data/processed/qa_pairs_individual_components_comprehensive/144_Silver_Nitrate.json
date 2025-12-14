@@ -1,0 +1,58 @@
+{
+  "compound_id": 140,
+  "compound_name": "Silver Nitrate",
+  "source_file": "compound_140_Silver Nitrate.json",
+  "main_entry_length": 1449,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0756_Silver_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:42",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents silver nitrate (AgNO₃). It consists of a silver atom (turquoise), nitrogen atom (blue), and oxygen atoms (red). Silver nitrate is a versatile compound used in photography, medicine, and as a precursor in chemical synthesis. It is highly soluble in water, and its ability to darken upon exposure to light made it vital in early photographic processes. Silver nitrate is also employed in medical applications for its antiseptic properties.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:22"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver Nitrate?",
+      "answer": "The chemical formula of Silver Nitrate is AgNO3, and its molecular weight is 169.87 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:14",
+      "char_limit": 1000,
+      "answer_length": 90
+    },
+    {
+      "question": "Describe the solubility characteristics of Silver Nitrate and its behavior in the presence of light.",
+      "answer": "Silver nitrate (AgNO3) is soluble in water, glycerol, and hot ethyl alcohol, and it is moderately soluble in acetone. In its pure form, silver nitrate is not affected by light. However, trace amounts of organic impurities can catalyze the conversion of silver ions (Ag+) to grayish neutral silver atoms (AgO), giving the salt a grayish tint.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:16",
+      "char_limit": 1800,
+      "answer_length": 341
+    },
+    {
+      "question": "How has Silver Nitrate been historically used in medicine, and what are some of its current applications?",
+      "answer": "Historically, silver nitrate has been used in medicine for its therapeutic effects, which have been known for centuries. The Greeks and Romans utilized aqueous solutions of silver nitrate to treat wounds and cuts. In 1881, German physician Carl Crede developed the practice of applying a 2 percent solution of silver nitrate to the eyes of newborn babies to prevent gonorrheal ophthalmia, a bacterial infection that can cause blindness.\n\nCurrently, silver nitrate is still widely used in medicine, primarily for its antiseptic and germicidal properties. It is used in the synthesis of other silver compounds, as a catalyst in certain industrial chemical reactions, and in photographic processes. Silver nitrate also finds applications in hair dye and as a flower preservative by adding a small amount of silver nitrate solution to water where flowers are stored. Additionally, it is noted as an irritant that can cause burns, indicating its potent chemical activity.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:44:21",
+      "char_limit": 2000,
+      "answer_length": 966
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3928,
+  "updated_at": "2025-11-30 13:44:21",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

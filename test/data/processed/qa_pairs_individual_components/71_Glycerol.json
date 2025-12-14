@@ -1,0 +1,38 @@
+{
+  "compound_id": 68,
+  "compound_name": "Glycerol",
+  "source_file": "compound_068_Glycerol.json",
+  "main_entry_length": 2759,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0400_Glycerol_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:38",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown is glycerol. It consists of three carbon atoms (black), three oxygen atoms (red), and eight hydrogen atoms (white). Glycerol is a simple polyol compound commonly used in food products as a sweetener and thickener due to its moisture-retaining properties. It is also a byproduct of soap manufacturing, obtained via saponification. Additionally, glycerol can be synthesized from propylene or from simple sugars using hydrogen and a nickel catalyst.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:18"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glycerol?",
+      "answer": "The chemical formula of glycerol is CH2OHCHOHCH2OH, and its molecular weight is 92.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is glycerol classified as a trihydric alcohol, and what are its solubility properties?",
+      "answer": "Glycerol is classified as a trihydric alcohol because its molecules contain three hydroxyl (-OH) groups. It is miscible with water and alcohol but insoluble in ether, benzene, and chloroform.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the traditional method of producing glycerol and its significance in the soap industry.",
+      "answer": "The traditional method of producing glycerol is through the saponification of fats. Fats, which are esters of glycerol and alcohols, are hydrolyzed in the presence of a catalyst, converting them into glycerol and alcohols. This process is significant in the soap industry because glycerol is obtained as a byproduct, and saponification is the usual method for soap production.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

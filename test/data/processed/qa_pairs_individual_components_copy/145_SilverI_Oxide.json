@@ -1,0 +1,36 @@
+{
+  "compound_id": 141,
+  "compound_name": "Silver(I) Oxide",
+  "source_file": "compound_141_Silver(I) Oxide.json",
+  "main_entry_length": 1002,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0762_Silver(I)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:46",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Silver(I) Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Oxide?",
+      "answer": "The chemical formula of Silver(I) Oxide is Ag2O, and its molecular weight is 231.74 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is Silver(I) Oxide typically produced?",
+      "answer": "Silver(I) Oxide is produced by reacting silver nitrate (AgNO3) with sodium hydroxide (NaOH) or potassium hydroxide (KOH). The reaction forms silver(I) oxide (Ag2O) as a precipitate along with sodium nitrate (NaNO3) and water. The reaction can be represented as: 2AgNO3 + 2NaOH → Ag2O + 2NaNO3 + H2O.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the solubility and decomposition characteristics of Silver(I) Oxide and their implications for its use.",
+      "answer": "Silver(I) Oxide is slightly soluble in water and insoluble in ethyl alcohol. It decomposes at about 200°C (400°F), which means it cannot be melted and has no boiling point. These properties make it suitable for applications where a stable solid is required at room temperature, such as polishing glass and coloring glass. However, its limited solubility and tendency to decompose at relatively low temperatures restrict its use in aqueous and high-temperature applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

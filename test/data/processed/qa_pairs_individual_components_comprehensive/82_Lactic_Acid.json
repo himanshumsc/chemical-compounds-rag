@@ -1,0 +1,58 @@
+{
+  "compound_id": 77,
+  "compound_name": "Lactic Acid",
+  "source_file": "compound_077_Lactic Acid.json",
+  "main_entry_length": 4568,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0442_Lactic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:19",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is lactic acid. It consists of carbon (black), hydrogen (white), and oxygen (red) atoms. Lactic acid is an organic compound with the formula C₃H₆O₃. It plays a crucial role in various biochemical processes, especially in anaerobic respiration. In muscle cells, lactic acid is produced when glucose is broken down without oxygen, often during intense exercise. It is also commonly produced through the fermentation of glucose by yeast. Lactic acid is used in food, pharmaceuticals, and cosmetics.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:57"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of lactic acid?",
+      "answer": "The chemical formula of lactic acid is CH3CHOHCOOH, and its molecular weight is 90.08 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:45",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Explain the difference between D-lactic acid and L-lactic acid.",
+      "answer": "D-lactic acid and L-lactic acid are two isomeric forms of lactic acid, which means they have the same molecular formula (CH3CHOHCOOH) but different structural formulas and distinct chemical and physical properties. The D form of lactic acid is produced during metabolic reactions in muscle tissue, whereas the L form is produced by yeast cells during fermentation. The difference between these isomers lies in the orientation of one group of atoms in their structure. Synthetic production of lactic acid results in a racemic mixture containing equal amounts of the D and L forms.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:47",
+      "char_limit": 1800,
+      "answer_length": 579
+    },
+    {
+      "question": "Describe how the synthetic production of lactic acid is accomplished and what role do enzymes play in natural production.",
+      "answer": "The synthetic production of lactic acid begins with the addition of hydrogen cyanide (HCN) to acetaldehyde (ethanal; CH3CHO), resulting in the formation of lactonitrile (CH3CH2OCN). The lactonitrile is then hydrolyzed using a strong acid, such as sulfuric acid, as a catalyst to produce lactic acid.\n\nIn natural production, enzymes play a critical role. In muscle cells, lactic acid is produced during anaerobic respiration, where an enzyme is used to oxidize glucose in the absence of oxygen, resulting in the production of the D isomer of lactic acid. Similarly, during fermentation by yeast cells, an enzyme that is almost identical to the one used in muscle cells (differing only in the orientation of one group of atoms) converts glucose into the L isomer of lactic acid. Thus, enzymes are essential in determining the specific isomer of lactic acid produced during these biological processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:50",
+      "char_limit": 2000,
+      "answer_length": 898
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7180,
+  "updated_at": "2025-11-30 14:08:50",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

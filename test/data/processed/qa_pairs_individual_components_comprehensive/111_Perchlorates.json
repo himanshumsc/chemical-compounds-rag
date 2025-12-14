@@ -1,0 +1,58 @@
+{
+  "compound_id": 107,
+  "compound_name": "Perchlorates",
+  "source_file": "compound_107_Perchlorates.json",
+  "main_entry_length": 2497,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0592_Perchlorates_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of the perchlorate ion (ClO₄⁻). The diagram illustrates a central chlorine atom (green) surrounded by four oxygen atoms (red).\n\nKey properties of the perchlorate ion include:\n\n1. **Stability**: It is a stable ion, often used in various chemical processes.\n2. **Oxidizing Agent**: Perchlorates are strong oxidizers, making them useful in propellants and explosives.\n3. **Solubility**: They are highly soluble in water, which can lead to environmental concerns if not managed properly.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:26"
+    },
+    {
+      "question": "What are the chemical formulas for the most important perchlorates?",
+      "answer": "The most important perchlorates and their chemical formulas, as provided in the context, are:\n\n1. Ammonium perchlorate: NH4ClO4\n2. Potassium perchlorate: KClO4\n3. Sodium perchlorate: NaClO4",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:08",
+      "char_limit": 1000,
+      "answer_length": 189
+    },
+    {
+      "question": "How does the method of production differ between ammonium perchlorate and potassium perchlorate?",
+      "answer": "The production methods for ammonium perchlorate and potassium perchlorate differ as follows:\n\nAmmonium perchlorate is produced through a reaction involving ammonium hydroxide (NH4OH), hydrochloric acid (HCl), and sodium chlorate (NaClO3).\n\nPotassium perchlorate can be produced by two methods:\n1. Electrolyzing potassium chlorate (KClO3) in water.\n2. Heating potassium chlorate (KClO3), which results in a mixture of potassium perchlorate and potassium chloride (KCl), with the potassium chloride being removed.\n\nThese methods highlight the different chemical reactions and processes used to obtain each perchlorate compound.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:10",
+      "char_limit": 1800,
+      "answer_length": 625
+    },
+    {
+      "question": "Discuss the environmental and safety concerns associated with perchlorates.",
+      "answer": "Perchlorates are compounds consisting of salts of perchloric acid, HClO4. They include ammonium perchlorate, potassium perchlorate, and sodium perchlorate. These compounds are primarily used in the production of explosives, fireworks, and as jet and rocket fuels due to their highly unstable oxidizing properties. \n\nEnvironmental and safety concerns associated with perchlorates stem from their instability and explosive nature. As oxidizing agents, perchlorates can supply oxygen to other substances or remove hydrogen from them, posing a significant risk of spontaneous explosion. This instability makes them hazardous to handle and store.\n\nAdditionally, there are growing concerns about the presence of perchlorates in water supplies. Although the text does not elaborate on the specific environmental impact, the widespread concern suggests potential contamination risks, possibly affecting water quality and safety.\n\nIn summary, the primary environmental and safety issues with perchlorates are their instability, potential for explosion, and concerns about water contamination.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:13",
+      "char_limit": 2000,
+      "answer_length": 1083
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4615,
+  "updated_at": "2025-11-30 13:37:13",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

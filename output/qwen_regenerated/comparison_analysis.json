@@ -1,0 +1,1315 @@
+{
+  "summary": {
+    "total_files_compared": 178,
+    "total_questions_per_file": 4,
+    "total_answers_compared": 712
+  },
+  "statistics": {
+    "Q1": {
+      "avg_char_count_original": 548.95,
+      "avg_char_count_regenerated": 1260.29,
+      "avg_char_increase": 711.34,
+      "char_increase_percentage": 129.58,
+      "avg_word_count_original": 82.45,
+      "avg_word_count_regenerated": 190.65,
+      "avg_word_increase": 108.2,
+      "word_increase_percentage": 131.23,
+      "avg_latency_original_s": 16.68,
+      "avg_latency_regenerated_s": 9.49,
+      "avg_latency_improvement_s": 7.19,
+      "latency_improvement_percentage": 43.09,
+      "truncated_original": 158,
+      "truncated_regenerated": 3
+    },
+    "Q2": {
+      "avg_char_count_original": 391.34,
+      "avg_char_count_regenerated": 712.47,
+      "avg_char_increase": 321.13,
+      "char_increase_percentage": 82.06,
+      "avg_word_count_original": 62.91,
+      "avg_word_count_regenerated": 114.32,
+      "avg_word_increase": 51.41,
+      "word_increase_percentage": 81.72,
+      "avg_latency_original_s": 10.53,
+      "avg_latency_regenerated_s": 9.98,
+      "avg_latency_improvement_s": 0.55,
+      "latency_improvement_percentage": 5.2,
+      "truncated_original": 137,
+      "truncated_regenerated": 11
+    },
+    "Q3": {
+      "avg_char_count_original": 572.92,
+      "avg_char_count_regenerated": 1968.78,
+      "avg_char_increase": 1395.85,
+      "char_increase_percentage": 243.64,
+      "avg_word_count_original": 86.93,
+      "avg_word_count_regenerated": 295.7,
+      "avg_word_increase": 208.78,
+      "word_increase_percentage": 240.17,
+      "avg_latency_original_s": 10.53,
+      "avg_latency_regenerated_s": 9.98,
+      "avg_latency_improvement_s": 0.55,
+      "latency_improvement_percentage": 5.2,
+      "truncated_original": 170,
+      "truncated_regenerated": 84
+    },
+    "Q4": {
+      "avg_char_count_original": 583.07,
+      "avg_char_count_regenerated": 2197.16,
+      "avg_char_increase": 1614.1,
+      "char_increase_percentage": 276.83,
+      "avg_word_count_original": 87.43,
+      "avg_word_count_regenerated": 328.72,
+      "avg_word_increase": 241.29,
+      "word_increase_percentage": 275.99,
+      "avg_latency_original_s": 10.53,
+      "avg_latency_regenerated_s": 9.98,
+      "avg_latency_improvement_s": 0.55,
+      "latency_improvement_percentage": 5.2,
+      "truncated_original": 171,
+      "truncated_regenerated": 121
+    }
+  },
+  "detailed_comparisons": [
+    {
+      "filename": "100_Nicotine__answers.json",
+      "source_file": "100_Nicotine.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 609,
+            "word_count": 93,
+            "latency_s": 20.5,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1295,
+            "word_count": 195,
+            "latency_s": 12.99,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 686,
+            "word_diff": 102,
+            "char_diff_pct": 112.64367816091954,
+            "word_diff_pct": 109.6774193548387,
+            "latency_diff_s": -7.51,
+            "latency_improvement_pct": 36.63414634146341
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the molecular formula of nicotine and what elements does it consist of?",
+          "original": {
+            "char_count": 112,
+            "word_count": 18,
+            "latency_s": 10.52,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 336,
+            "word_count": 57,
+            "latency_s": 10.14,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 224,
+            "word_diff": 39,
+            "char_diff_pct": 200.0,
+            "word_diff_pct": 216.66666666666666,
+            "latency_diff_s": -0.379999999999999,
+            "latency_improvement_pct": 3.612167300380219
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Describe the solubility properties of nicotine and the implications for its extraction process.",
+          "original": {
+            "char_count": 627,
+            "word_count": 94,
+            "latency_s": 10.52,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2458,
+            "word_count": 359,
+            "latency_s": 10.14,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1831,
+            "word_diff": 265,
+            "char_diff_pct": 292.0255183413078,
+            "word_diff_pct": 281.9148936170213,
+            "latency_diff_s": -0.379999999999999,
+            "latency_improvement_pct": 3.612167300380219
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Explain how the historical development and synthesis of nicotine have impacted its applications and ...",
+          "original": {
+            "char_count": 680,
+            "word_count": 99,
+            "latency_s": 10.52,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2439,
+            "word_count": 357,
+            "latency_s": 10.14,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1759,
+            "word_diff": 258,
+            "char_diff_pct": 258.6764705882353,
+            "word_diff_pct": 260.6060606060606,
+            "latency_diff_s": -0.379999999999999,
+            "latency_improvement_pct": 3.612167300380219
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:32:09"
+        }
+      }
+    },
+    {
+      "filename": "101_Nitric_Acid__answers.json",
+      "source_file": "101_Nitric_Acid.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 556,
+            "word_count": 88,
+            "latency_s": 20.5,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1000,
+            "word_count": 164,
+            "latency_s": 8.46,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 444,
+            "word_diff": 76,
+            "char_diff_pct": 79.85611510791367,
+            "word_diff_pct": 86.36363636363636,
+            "latency_diff_s": -12.04,
+            "latency_improvement_pct": 58.731707317073166
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+          "original": {
+            "char_count": 123,
+            "word_count": 21,
+            "latency_s": 10.52,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 328,
+            "word_count": 56,
+            "latency_s": 10.15,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 205,
+            "word_diff": 35,
+            "char_diff_pct": 166.66666666666669,
+            "word_diff_pct": 166.66666666666669,
+            "latency_diff_s": -0.3699999999999992,
+            "latency_improvement_pct": 3.5171102661596882
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+          "original": {
+            "char_count": 531,
+            "word_count": 82,
+            "latency_s": 10.52,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2099,
+            "word_count": 337,
+            "latency_s": 10.15,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1568,
+            "word_diff": 255,
+            "char_diff_pct": 295.29190207156313,
+            "word_diff_pct": 310.9756097560976,
+            "latency_diff_s": -0.3699999999999992,
+            "latency_improvement_pct": 3.5171102661596882
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Explain why nitric acid is considered a strong oxidizing agent and describe its reaction with metals...",
+          "original": {
+            "char_count": 544,
+            "word_count": 86,
+            "latency_s": 10.52,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1982,
+            "word_count": 307,
+            "latency_s": 10.15,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1438,
+            "word_diff": 221,
+            "char_diff_pct": 264.3382352941177,
+            "word_diff_pct": 256.9767441860465,
+            "latency_diff_s": -0.3699999999999992,
+            "latency_improvement_pct": 3.5171102661596882
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:32:28"
+        }
+      }
+    },
+    {
+      "filename": "102_Nitric_Oxide__answers.json",
+      "source_file": "102_Nitric_Oxide.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 572,
+            "word_count": 88,
+            "latency_s": 16.74,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1789,
+            "word_count": 272,
+            "latency_s": 11.28,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1217,
+            "word_diff": 184,
+            "char_diff_pct": 212.76223776223776,
+            "word_diff_pct": 209.0909090909091,
+            "latency_diff_s": -5.459999999999999,
+            "latency_improvement_pct": 32.61648745519713
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula and molecular weight of nitric oxide?",
+          "original": {
+            "char_count": 480,
+            "word_count": 83,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 603,
+            "word_count": 103,
+            "latency_s": 10.16,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 123,
+            "word_diff": 20,
+            "char_diff_pct": 25.624999999999996,
+            "word_diff_pct": 24.096385542168676,
+            "latency_diff_s": -1.1999999999999993,
+            "latency_improvement_pct": 10.563380281690135
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Explain how nitric oxide is formed in the atmosphere and its role in pollution.",
+          "original": {
+            "char_count": 579,
+            "word_count": 86,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2324,
+            "word_count": 366,
+            "latency_s": 10.16,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1745,
+            "word_diff": 280,
+            "char_diff_pct": 301.38169257340246,
+            "word_diff_pct": 325.5813953488372,
+            "latency_diff_s": -1.1999999999999993,
+            "latency_improvement_pct": 10.563380281690135
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Describe the industrial uses of nitric oxide and its potential hazards.",
+          "original": {
+            "char_count": 579,
+            "word_count": 84,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2354,
+            "word_count": 347,
+            "latency_s": 10.16,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1775,
+            "word_diff": 263,
+            "char_diff_pct": 306.56303972366146,
+            "word_diff_pct": 313.0952380952381,
+            "latency_diff_s": -1.1999999999999993,
+            "latency_improvement_pct": 10.563380281690135
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:32:50"
+        }
+      }
+    },
+    {
+      "filename": "103_Nitrogen_Dioxide__answers.json",
+      "source_file": "103_Nitrogen_Dioxide.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 606,
+            "word_count": 95,
+            "latency_s": 16.74,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1341,
+            "word_count": 198,
+            "latency_s": 9.15,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 735,
+            "word_diff": 103,
+            "char_diff_pct": 121.28712871287128,
+            "word_diff_pct": 108.42105263157895,
+            "latency_diff_s": -7.589999999999998,
+            "latency_improvement_pct": 45.340501792114694
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula and molecular weight of nitrogen dioxide?",
+          "original": {
+            "char_count": 490,
+            "word_count": 83,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 736,
+            "word_count": 121,
+            "latency_s": 10.15,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 246,
+            "word_diff": 38,
+            "char_diff_pct": 50.204081632653065,
+            "word_diff_pct": 45.78313253012048,
+            "latency_diff_s": -1.209999999999999,
+            "latency_improvement_pct": 10.651408450704219
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Explain how nitrogen dioxide is produced naturally and through human activities.",
+          "original": {
+            "char_count": 587,
+            "word_count": 85,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1971,
+            "word_count": 288,
+            "latency_s": 10.15,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1384,
+            "word_diff": 203,
+            "char_diff_pct": 235.77512776831347,
+            "word_diff_pct": 238.8235294117647,
+            "latency_diff_s": -1.209999999999999,
+            "latency_improvement_pct": 10.651408450704219
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Describe the uses of nitrogen dioxide in industrial applications and the associated safety hazards.",
+          "original": {
+            "char_count": 579,
+            "word_count": 89,
+            "latency_s": 11.36,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2244,
+            "word_count": 344,
+            "latency_s": 10.15,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1665,
+            "word_diff": 255,
+            "char_diff_pct": 287.56476683937825,
+            "word_diff_pct": 286.5168539325843,
+            "latency_diff_s": -1.209999999999999,
+            "latency_improvement_pct": 10.651408450704219
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:33:10"
+        }
+      }
+    },
+    {
+      "filename": "104_Nitroglycerin__answers.json",
+      "source_file": "104_Nitroglycerin.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 571,
+            "word_count": 78,
+            "latency_s": 16.48,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1641,
+            "word_count": 234,
+            "latency_s": 11.35,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1070,
+            "word_diff": 156,
+            "char_diff_pct": 187.3905429071804,
+            "word_diff_pct": 200.0,
+            "latency_diff_s": -5.130000000000001,
+            "latency_improvement_pct": 31.128640776699037
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula and the molecular weight of Nitroglycerin?",
+          "original": {
+            "char_count": 344,
+            "word_count": 65,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 714,
+            "word_count": 132,
+            "latency_s": 10.19,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 370,
+            "word_diff": 67,
+            "char_diff_pct": 107.55813953488371,
+            "word_diff_pct": 103.07692307692307,
+            "latency_diff_s": -0.3200000000000003,
+            "latency_improvement_pct": 3.044719314938157
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "How does Nitroglycerin function as a vasodilator in medicine?",
+          "original": {
+            "char_count": 614,
+            "word_count": 91,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1963,
+            "word_count": 298,
+            "latency_s": 10.19,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1349,
+            "word_diff": 207,
+            "char_diff_pct": 219.70684039087948,
+            "word_diff_pct": 227.47252747252747,
+            "latency_diff_s": -0.3200000000000003,
+            "latency_improvement_pct": 3.044719314938157
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "What is the primary method for synthesizing Nitroglycerin as discovered by Ascanio Sobrero, and what...",
+          "original": {
+            "char_count": 525,
+            "word_count": 72,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1941,
+            "word_count": 301,
+            "latency_s": 10.19,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1416,
+            "word_diff": 229,
+            "char_diff_pct": 269.7142857142857,
+            "word_diff_pct": 318.05555555555554,
+            "latency_diff_s": -0.3200000000000003,
+            "latency_improvement_pct": 3.044719314938157
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:33:32"
+        }
+      }
+    },
+    {
+      "filename": "105_Nitrous_Oxide__answers.json",
+      "source_file": "105_Nitrous_Oxide.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 537,
+            "word_count": 82,
+            "latency_s": 16.48,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1138,
+            "word_count": 179,
+            "latency_s": 8.38,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 601,
+            "word_diff": 97,
+            "char_diff_pct": 111.91806331471138,
+            "word_diff_pct": 118.29268292682926,
+            "latency_diff_s": -8.1,
+            "latency_improvement_pct": 49.1504854368932
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula and molecular weight of Nitrous Oxide?",
+          "original": {
+            "char_count": 497,
+            "word_count": 80,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 703,
+            "word_count": 111,
+            "latency_s": 10.17,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 206,
+            "word_diff": 31,
+            "char_diff_pct": 41.4486921529175,
+            "word_diff_pct": 38.75,
+            "latency_diff_s": -0.33999999999999986,
+            "latency_improvement_pct": 3.2350142721217874
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Explain the solubility properties of Nitrous Oxide and its implications for usage.",
+          "original": {
+            "char_count": 566,
+            "word_count": 91,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2383,
+            "word_count": 371,
+            "latency_s": 10.17,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1817,
+            "word_diff": 280,
+            "char_diff_pct": 321.0247349823322,
+            "word_diff_pct": 307.69230769230774,
+            "latency_diff_s": -0.33999999999999986,
+            "latency_improvement_pct": 3.2350142721217874
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Discuss the historical discovery and early experimentation of Nitrous Oxide.",
+          "original": {
+            "char_count": 578,
+            "word_count": 89,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2226,
+            "word_count": 359,
+            "latency_s": 10.17,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1648,
+            "word_diff": 270,
+            "char_diff_pct": 285.121107266436,
+            "word_diff_pct": 303.3707865168539,
+            "latency_diff_s": -0.33999999999999986,
+            "latency_improvement_pct": 3.2350142721217874
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:33:51"
+        }
+      }
+    },
+    {
+      "filename": "106_NN-Diethyl-3-Methylbenzamide__answers.json",
+      "source_file": "106_NN-Diethyl-3-Methylbenzamide.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 465,
+            "word_count": 72,
+            "latency_s": 16.68,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1733,
+            "word_count": 247,
+            "latency_s": 12.89,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1268,
+            "word_diff": 175,
+            "char_diff_pct": 272.68817204301075,
+            "word_diff_pct": 243.05555555555554,
+            "latency_diff_s": -3.789999999999999,
+            "latency_improvement_pct": 22.72182254196642
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula of N,N-Diethyl-3-Methylbenzamide, and what elements does it contain?",
+          "original": {
+            "char_count": 477,
+            "word_count": 81,
+            "latency_s": 10.56,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 749,
+            "word_count": 117,
+            "latency_s": 10.17,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 272,
+            "word_diff": 36,
+            "char_diff_pct": 57.023060796645694,
+            "word_diff_pct": 44.44444444444444,
+            "latency_diff_s": -0.39000000000000057,
+            "latency_improvement_pct": 3.6931818181818232
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Describe the solubility characteristics of N,N-Diethyl-3-Methylbenzamide.",
+          "original": {
+            "char_count": 491,
+            "word_count": 66,
+            "latency_s": 10.56,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1972,
+            "word_count": 287,
+            "latency_s": 10.17,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1481,
+            "word_diff": 221,
+            "char_diff_pct": 301.62932790224033,
+            "word_diff_pct": 334.8484848484849,
+            "latency_diff_s": -0.39000000000000057,
+            "latency_improvement_pct": 3.6931818181818232
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Explain the process by which N,N-Diethyl-3-Methylbenzamide (DEET) repels insects and discuss its saf...",
+          "original": {
+            "char_count": 559,
+            "word_count": 85,
+            "latency_s": 10.56,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2407,
+            "word_count": 365,
+            "latency_s": 10.17,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1848,
+            "word_diff": 280,
+            "char_diff_pct": 330.59033989266544,
+            "word_diff_pct": 329.4117647058823,
+            "latency_diff_s": -0.39000000000000057,
+            "latency_improvement_pct": 3.6931818181818232
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:34:16"
+        }
+      }
+    },
+    {
+      "filename": "107_Nylon_6_and_Nylon_66__answers.json",
+      "source_file": "107_Nylon_6_and_Nylon_66.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 482,
+            "word_count": 73,
+            "latency_s": 16.68,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1058,
+            "word_count": 167,
+            "latency_s": 8.33,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 576,
+            "word_diff": 94,
+            "char_diff_pct": 119.50207468879668,
+            "word_diff_pct": 128.76712328767124,
+            "latency_diff_s": -8.35,
+            "latency_improvement_pct": 50.0599520383693
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What are the chemical formulas for Nylon 6 and Nylon 66, and what elements do they contain?",
+          "original": {
+            "char_count": 474,
+            "word_count": 72,
+            "latency_s": 10.56,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1188,
+            "word_count": 158,
+            "latency_s": 10.2,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 714,
+            "word_diff": 86,
+            "char_diff_pct": 150.63291139240508,
+            "word_diff_pct": 119.44444444444444,
+            "latency_diff_s": -0.3600000000000012,
+            "latency_improvement_pct": 3.4090909090909207
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Explain the difference between thermoplastic polymers and thermosetting plastics in the context of N...",
+          "original": {
+            "char_count": 674,
+            "word_count": 90,
+            "latency_s": 10.56,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2274,
+            "word_count": 338,
+            "latency_s": 10.2,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1600,
+            "word_diff": 248,
+            "char_diff_pct": 237.38872403560828,
+            "word_diff_pct": 275.55555555555554,
+            "latency_diff_s": -0.3600000000000012,
+            "latency_improvement_pct": 3.4090909090909207
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Describe the commercial production process for Nylon 66 and how it differs from the production of Ny...",
+          "original": {
+            "char_count": 489,
+            "word_count": 65,
+            "latency_s": 10.56,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2069,
+            "word_count": 299,
+            "latency_s": 10.2,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1580,
+            "word_diff": 234,
+            "char_diff_pct": 323.10838445807775,
+            "word_diff_pct": 360.0,
+            "latency_diff_s": -0.3600000000000012,
+            "latency_improvement_pct": 3.4090909090909207
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:34:35"
+        }
+      }
+    },
+    {
+      "filename": "108_Oxalic_Acid__answers.json",
+      "source_file": "108_Oxalic_Acid.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 527,
+            "word_count": 78,
+            "latency_s": 16.62,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1269,
+            "word_count": 198,
+            "latency_s": 9.22,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 742,
+            "word_diff": 120,
+            "char_diff_pct": 140.79696394686906,
+            "word_diff_pct": 153.84615384615387,
+            "latency_diff_s": -7.4,
+            "latency_improvement_pct": 44.52466907340554
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the chemical formula of oxalic acid and what type of compound is it?",
+          "original": {
+            "char_count": 368,
+            "word_count": 59,
+            "latency_s": 10.51,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 306,
+            "word_count": 48,
+            "latency_s": 10.2,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": -62,
+            "word_diff": -11,
+            "char_diff_pct": -16.847826086956523,
+            "word_diff_pct": -18.64406779661017,
+            "latency_diff_s": -0.3100000000000005,
+            "latency_improvement_pct": 2.9495718363463417
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Describe the solubility properties of oxalic acid in different solvents.",
+          "original": {
+            "char_count": 581,
+            "word_count": 91,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1927,
+            "word_count": 277,
+            "latency_s": 10.2,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1346,
+            "word_diff": 186,
+            "char_diff_pct": 231.66953528399313,
+            "word_diff_pct": 204.39560439560438,
+            "latency_diff_s": -0.3100000000000005,
+            "latency_improvement_pct": 2.9495718363463417
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Explain how the synthesis of oxalic acid by Friedrich Wöhler contributed to the development of chemi...",
+          "original": {
+            "char_count": 621,
+            "word_count": 97,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2422,
+            "word_count": 364,
+            "latency_s": 10.2,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1801,
+            "word_diff": 267,
+            "char_diff_pct": 290.0161030595813,
+            "word_diff_pct": 275.25773195876286,
+            "latency_diff_s": -0.3100000000000005,
+            "latency_improvement_pct": 2.9495718363463417
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:34:55"
+        }
+      }
+    },
+    {
+      "filename": "109_Pectin__answers.json",
+      "source_file": "109_Pectin.json",
+      "questions": [
+        {
+          "question_num": 1,
+          "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are ...",
+          "original": {
+            "char_count": 596,
+            "word_count": 89,
+            "latency_s": 16.62,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 948,
+            "word_count": 143,
+            "latency_s": 7.85,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 352,
+            "word_diff": 54,
+            "char_diff_pct": 59.06040268456376,
+            "word_diff_pct": 60.67415730337079,
+            "latency_diff_s": -8.770000000000001,
+            "latency_improvement_pct": 52.76774969915765
+          }
+        },
+        {
+          "question_num": 2,
+          "question": "What is the solubility characteristic of pectin, and how does this property relate to its primary us...",
+          "original": {
+            "char_count": 566,
+            "word_count": 87,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 1171,
+            "word_count": 185,
+            "latency_s": 10.24,
+            "is_truncated": false,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 605,
+            "word_diff": 98,
+            "char_diff_pct": 106.8904593639576,
+            "word_diff_pct": 112.64367816091954,
+            "latency_diff_s": -0.2699999999999996,
+            "latency_improvement_pct": 2.5689819219790637
+          }
+        },
+        {
+          "question_num": 3,
+          "question": "Explain why pectin is classified as a mixture and not a compound, and describe its chemical structur...",
+          "original": {
+            "char_count": 580,
+            "word_count": 90,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2032,
+            "word_count": 303,
+            "latency_s": 10.24,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1452,
+            "word_diff": 213,
+            "char_diff_pct": 250.3448275862069,
+            "word_diff_pct": 236.66666666666666,
+            "latency_diff_s": -0.2699999999999996,
+            "latency_improvement_pct": 2.5689819219790637
+          }
+        },
+        {
+          "question_num": 4,
+          "question": "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubil...",
+          "original": {
+            "char_count": 611,
+            "word_count": 91,
+            "latency_s": 10.51,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "regenerated": {
+            "char_count": 2248,
+            "word_count": 338,
+            "latency_s": 10.24,
+            "is_truncated": true,
+            "ends_with_ellipsis": false
+          },
+          "differences": {
+            "char_diff": 1637,
+            "word_diff": 247,
+            "char_diff_pct": 267.92144026186577,
+            "word_diff_pct": 271.42857142857144,
+            "latency_diff_s": -0.2699999999999996,
+            "latency_improvement_pct": 2.5689819219790637
+          }
+        }
+      ],
+      "metadata": {
+        "original": {
+          "has_regenerated_at": false,
+          "has_max_tokens": false,
+          "regenerated_with": "transformers"
+        },
+        "regenerated": {
+          "has_regenerated_at": true,
+          "has_max_tokens": true,
+          "regenerated_with": "vllm",
+          "max_tokens": 500,
+          "regenerated_at": "2025-11-22 23:35:14"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 176,
+  "compound_name": "2-(4-Isobutylphenyl)propionic Acid (Ibuprofen)",
+  "source_file": "compound_176_2-4-Isobutylphenylpropionic_Acid_Ibuprofen.json",
+  "main_entry_length": 1501,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0060_2-(4-Isobutylphenyl)propionic_Acid_(Ibuprofen)_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:17",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of ibuprofen, also known as 2-(4-isobutylphenyl)propionic acid. \n\nKey Properties:\n- Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID).\n- It is commonly used for pain relief, reducing inflammation, and lowering fever.\n- It works by inhibiting the production of prostaglandins, compounds that trigger inflammation and pain.\n- Ibuprofen is often marketed under various brand names and is available over-the-counter.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:59"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of 2-(4-Isobutylphenyl)propionic acid?",
+      "answer": "The chemical formula of 2-(4-Isobutylphenyl)propionic acid is C13H18O2, and its molecular weight is 206.28 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:41",
+      "char_limit": 1000,
+      "answer_length": 113
+    },
+    {
+      "question": "Why was 2-(4-Isobutylphenyl)propionic acid, also known as ibuprofen, developed as an analgesic and anti-inflammatory medication?",
+      "answer": "2-(4-Isobutylphenyl)propionic acid, also known as ibuprofen, was developed as an analgesic and anti-inflammatory medication by researchers at the Boots Company, a British drug manufacturer, in the early 1960s. The development was driven by the discovery that the anti-inflammatory property of aspirin was due to the presence of a carboxylic acid (-COOH) group in the compound. Researchers aimed to find other carboxylic acids with similar properties. After testing more than 600 compounds, they found that ibuprofen met this criterion, being twice as effective as aspirin in its anti-inflammatory properties.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:43",
+      "char_limit": 1800,
+      "answer_length": 608
+    },
+    {
+      "question": "Given that 2-(4-Isobutylphenyl)propionic acid decomposes above its melting point, what implications does this have for its storage and use in pharmaceutical applications?",
+      "answer": "2-(4-Isobutylphenyl)propionic acid, commonly known as ibuprofen, decomposes above its melting point of 76°C (169°F). This implies that in pharmaceutical applications, ibuprofen must be stored and handled below its melting point to prevent decomposition, which could affect its efficacy and safety as a medication. Storage conditions should ensure that the temperature does not exceed its melting point to maintain the compound's stability. This is crucial for maintaining the integrity of the drug in its solid, crystalline form, which is necessary for its use as an analgesic and anti-inflammatory medication. Additionally, since it is slightly soluble in water but soluble in most organic solvents, careful consideration of solvent use is important for pharmaceutical formulations.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:55:45",
+      "char_limit": 2000,
+      "answer_length": 783
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 1601,
+  "updated_at": "2025-11-30 13:55:46",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

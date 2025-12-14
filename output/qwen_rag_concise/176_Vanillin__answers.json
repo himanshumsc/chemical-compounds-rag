@@ -1,0 +1,59 @@
+{
+  "source_file": "176_Vanillin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows vanillin, a compound with oxygen, hydrogen, and carbon atoms. It has a benzene ring and double bonds, giving it aromatic properties and enhancing its smell.",
+      "latency_s": 40.54,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of vanillin and what elements does it contain?",
+      "answer": "Vanillin formula: C8H8O3; contains Carbon, Hydrogen, and Oxygen.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is vanillin classified as an ether in organic chemistry, and what are its solubility properties?",
+      "answer": "Vanillin is classified as an ether in organic chemistry because it contains an ether linkage (-O-), where one oxygen atom is bonded to two carbon atoms. It is soluble in organic solvents like ethanol, acetone, and dichloromethane due to its hydrophobic nature and polar nature from the ether linkage.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the historical significance of vanillin as a spice and how it is naturally obtained.",
+      "answer": "Vanillin was historically significant as a spice used in various food products, flavorings, and perfumes. It is naturally obtained from the vanilla bean of the vanilla orchid, a process that involves pollination by a tiny moth, followed by fermentation and drying. This process yields vanillin, a compound with a sweet, vanilla-like aroma, making it a crucial ingredient in desserts and confections.",
+      "latency_s": 26.62,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:36:04",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:36:04",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

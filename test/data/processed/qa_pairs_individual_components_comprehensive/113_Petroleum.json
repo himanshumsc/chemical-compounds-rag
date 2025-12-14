@@ -1,0 +1,58 @@
+{
+  "compound_id": 109,
+  "compound_name": "Petroleum",
+  "source_file": "compound_109_Petroleum.json",
+  "main_entry_length": 5494,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0604_Petroleum_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:30",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't identify or analyze diagrams or molecular structures in images, but I can provide general information about petroleum based on text. Petroleum is a complex mixture of hydrocarbons, which can include alkanes, cycloalkanes, and aromatic hydrocarbons. It is generally a thick, oily liquid that ranges in color from dark yellow to brown or greenish-black and has a strong, unpleasant odor. Its properties can vary depending on its source and composition.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:24"
+    },
+    {
+      "question": "What are the primary components of petroleum, and how do they differ in terms of chemical bonding?",
+      "answer": "Petroleum is a complex mixture of hydrocarbons, primarily consisting of compounds made of carbon and hydrogen. The hydrocarbons in petroleum include alkanes, alkenes, alkynes, cyclic hydrocarbons, and aromatic hydrocarbons. Alkanes have single bonds, alkenes have at least one double bond, alkynes have at least one triple bond, cyclic hydrocarbons have carbon atoms arranged in a ring, and aromatic hydrocarbons have rings with alternating single and double bonds. Additionally, small amounts of organic compounds with oxygen, sulfur, nitrogen, and other elements are present.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:27",
+      "char_limit": 1000,
+      "answer_length": 577
+    },
+    {
+      "question": "Explain the refining process of petroleum and the significance of different temperature fractions in this process.",
+      "answer": "The refining process of petroleum involves heating it to high temperatures in a tall cylindrical tower. This process separates the complex mixture of hydrocarbons in petroleum into useful components. As petroleum is heated, different hydrocarbons boil off at various temperatures and rise in the tower; the higher they rise, the more they cool.\n\nDifferent hydrocarbons condense back into liquids at specific heights, corresponding to their boiling points. Traps are placed at various heights to catch these hydrocarbons as they condense. For example, hydrocarbons that condense at temperatures between 40°C and 170°C form the gasoline or petrol fraction. Another level catches hydrocarbons condensing between 170°C and 250°C, known as the kerosene fraction. Other major fractions include diesel and fuel oil, while anything boiling above 400°C is the residual oil fraction.\n\nThe significance of these temperature fractions lies in their commercial value. Gasoline is used predominantly as fuel for vehicles, kerosene is used for lamps and heaters, diesel powers trucks and some cars, and residual oil is used for industrial purposes. Each fraction can also be further refined to produce even smaller fractions, enhancing the utility and value derived from petroleum.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:39",
+      "char_limit": 1800,
+      "answer_length": 1266
+    },
+    {
+      "question": "Discuss the environmental impact of petroleum extraction and usage, particularly focusing on its role in energy production and transportation.",
+      "answer": "Petroleum extraction and usage have significant environmental impacts, especially in energy production and transportation. As a fossil fuel, petroleum is formed from the compression of ancient organic matter over millions of years. Its extraction involves drilling into porous rock formations, where it is often trapped along with natural gas. This process can disrupt geological formations and lead to potential spills or leaks, which pose risks to surrounding ecosystems.\n\nIn energy production, petroleum is primarily refined into various fuels such as gasoline, diesel, and jet fuel, which are crucial for powering vehicles and aircraft. The combustion of these fuels in internal combustion engines releases carbon dioxide and other pollutants into the atmosphere, contributing to air pollution and climate change. The refining process also produces residual fuel oils used for electricity generation, further contributing to greenhouse gas emissions.\n\nTransportation heavily relies on petroleum-derived fuels, with about 90% of petroleum in the United States used in vehicles. This widespread dependency leads to high consumption rates, necessitating continuous extraction and refining, which can exacerbate environmental degradation.\n\nOverall, the environmental impact of petroleum is multifaceted, affecting air quality, climate change, and ecological systems due to the extraction, refining, and combustion processes associated with its use in energy and transportation.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:50",
+      "char_limit": 2000,
+      "answer_length": 1477
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 19637,
+  "updated_at": "2025-11-30 13:37:50",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

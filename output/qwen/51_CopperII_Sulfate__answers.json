@@ -1,0 +1,27 @@
+{
+  "source_file": "51_CopperII_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Copper(II) Sulfate pentahydrate (CuSO₄·5H₂O). Key properties of this compound include:\n\n1. **Chemical Composition**: It consists of copper (Cu), sulfur (S), oxygen (O), and water molecules (H₂O).\n   - Copper is represented by the teal-colored sphere.\n   - Sulfur is represented by the yellow-colored sphere.\n   - Oxygen atoms are represented by the red spheres.\n   - Water molecules are not explicitly shown but are implied as part of the hydrate.\n\n2. **Charge**: The compound has a net",
+      "latency_s": 16.41
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(II) Sulfate?",
+      "answer": "The chemical formula for Copper(II) Sulfate is \\(\\text{CuSO}_4\\).\n\nTo find the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Copper (Cu): 63.546 g/mol\n- Sulfur (S): 32.065 g/mol\n- Oxygen (O): 16.00 g/mol\n\nThe formula \\(\\text{CuSO}_4\\) contains:\n- 1 copper atom\n- 1 sulfur atom\n- 4 oxygen atoms\n\nSo, the molecular weight is calculated as follows",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Describe the color transition of Copper(II) Sulfate when it changes from its anhydrous to hydrated form and explain the significance of this property.",
+      "answer": "Copper(II) sulfate, when in its anhydrous form (CuSO₄), is typically a bright blue powder. When it transitions to its hydrated form (CuSO₄·5H₂O), which is commonly known as \"blue vitriol\" or \"copper sulfate pentahydrate,\" the color changes to a deep blue-green.\n\nThe color change occurs due to the presence of water molecules in the hydrated form. The copper(II) ion in CuSO₄·5H₂O is surrounded by five water molecules, forming a complex that absorbs light in the blue region of the",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain how Copper(II) Sulfate is produced and discuss its potential environmental hazards.",
+      "answer": "Copper(II) sulfate, also known as blue vitriol or copper(II) oxide hydrate, is a compound with the chemical formula CuSO₄·5H₂O. It is commonly used in agriculture as a fungicide and in various industrial applications due to its fungicidal properties.\n\n### Production of Copper(II) Sulfate\n\nThe production of copper(II) sulfate can be achieved through several methods:\n\n1. **Direct Synthesis**: Copper(II) sulfate can be synthesized by reacting copper metal with sulfuric acid (H₂SO₄). The reaction is:\n   \\[\n   \\",
+      "latency_s": 10.41
+    }
+  ]
+}

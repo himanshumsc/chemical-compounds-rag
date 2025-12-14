@@ -1,0 +1,27 @@
+{
+  "source_file": "18_Amoxicillin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Amoxicillin. Key properties of Amoxicillin include:\n\n1. **Chemical Composition**: Amoxicillin is an antibiotic that belongs to the penicillin class. It contains atoms of oxygen (red), hydrogen (white), carbon (black), nitrogen (blue), and sulfur (green).\n\n2. **Semisynthetic Nature**: Amoxicillin is a semisynthetic antibiotic, meaning it is derived from naturally occurring organisms like bacteria or yeast through chemical synthesis.\n\n3. **Preparation Process**: The preparation of amoxicillin begins with the antibiotic penicillin itself, which is produced",
+      "latency_s": 16.66
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of Amoxicillin?",
+      "answer": "Amoxicillin is an antibiotic used to treat bacterial infections. Its molecular formula is C16H19N3O5S, which indicates the number of each type of atom in one molecule of amoxicillin.\n\nTo calculate the molecular weight (also known as molar mass), we sum the atomic weights of all the atoms in the molecular formula:\n\n- Carbon (C): 12.01 g/mol × 16 = 192.16 g/mol\n- Hydrogen (H): 1.008 g/mol × 19 = 19.052 g/mol",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Why is Amoxicillin classified as an organic compound, and what is its primary function?",
+      "answer": "Amoxicillin is classified as an organic compound because it contains carbon atoms in its molecular structure, which is the defining characteristic of organic compounds. Organic compounds are substances that contain carbon and can be complex, including hydrocarbons, alcohols, acids, esters, and many others.\n\nThe primary function of amoxicillin is to act as an antibiotic. It belongs to the class of beta-lactam antibiotics, specifically a penicillin derivative. Amoxicillin is used to treat bacterial infections by inhibiting the growth of bacteria. It works by preventing the formation of cell walls in bacteria, which stops them from dividing and multiplying.",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the solubility characteristics of Amoxicillin and how these properties might influence its pharmaceutical application.",
+      "answer": "Amoxicillin is a semi-synthetic antibiotic that belongs to the class of beta-lactam antibiotics, specifically penicillins. It is widely used in the treatment of various bacterial infections due to its broad spectrum of activity against Gram-positive and some Gram-negative bacteria.\n\n### Solubility Characteristics of Amoxicillin:\n\n1. **Water Solubility**: Amoxicillin has moderate water solubility. This means it dissolves relatively well in water but not as easily as highly water-soluble compounds like sodium chloride or glucose. Its solubility in water at room temperature is approximately 20 mg/mL.\n\n2.",
+      "latency_s": 10.37
+    }
+  ]
+}

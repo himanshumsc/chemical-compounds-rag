@@ -1,0 +1,38 @@
+{
+  "compound_id": 75,
+  "compound_name": "Isoprene",
+  "source_file": "compound_075_Isoprene.json",
+  "main_entry_length": 4033,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0432_Isoprene_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:11",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows isoprene. Isoprene is a hydrocarbon compound with the formula C₅H₈. It is a colorless volatile liquid at room temperature and is a key building block for natural rubber. Its structure consists of a chain of five carbon atoms with two double bonds, making it an unsaturated compound. Isoprene is primarily obtained through the cracking of hydrocarbons from petroleum, specifically in the naphtha portion. It is essential in producing synthetic rubbers and other polymers.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:47"
+    },
+    {
+      "question": "What is the chemical formula of isoprene, and what elements does it contain?",
+      "answer": "The chemical formula of isoprene is CH2=CH(CH3)CH=CH2. It contains the elements carbon and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why isoprene is classified as an alkadiene and as a member of the terpene family.",
+      "answer": "Isoprene is classified as an alkadiene because it is an unsaturated hydrocarbon with two double bonds, as indicated by 'diene.' It is also a member of the terpene family because terpenes are compounds made of two or more isoprene units. Examples of terpenes include substances like geraniol and vitamin A, which consist of multiple isoprene units.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the environmental impact of isoprene and its role in the synthesis of other compounds in the body.",
+      "answer": "Isoprene and other terpenes are known to undergo reactions in the atmosphere that contribute to the formation of pollutants such as ozone and oxides of nitrogen. This highlights its environmental impact. In the human body, isoprene is a key intermediary in the synthesis of cholesterol, illustrating its biological significance. Plants also produce isoprene, which is associated with photosynthesis and affected by environmental factors like temperature and sunlight.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

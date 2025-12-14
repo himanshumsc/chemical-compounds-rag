@@ -1,0 +1,27 @@
+{
+  "source_file": "28_Butyl_Mercaptan.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Butyl mercaptan (C₄H₉SH). Here are its key properties:\n\n1. **Chemical Composition**:\n   - White atoms represent hydrogen.\n   - Black atoms represent carbon.\n   - The turquoise atom represents selenium.\n\n2. **Physical Properties**:\n   - All three isomers of butyl mercaptan are mobile liquids with very strong skunk-like odors.\n   - They flow easily, indicating they are liquid compounds.\n\n3. **Odor**:\n   - Butyl mercaptans have a very strong skunk-like odor, which is why they",
+      "latency_s": 16.57
+    },
+    {
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "answer": "Butyl mercaptan, also known as 1-butanol mercaptan or tert-butyl mercaptan, has the molecular formula \\( \\text{C}_4\\text{H}_{9}\\text{S} \\).\n\nThe elements that it contains are:\n\n- Carbon (C)\n- Hydrogen (H)\n- Sulfur (S)\n\nSo, butyl mercaptan consists of carbon, hydrogen, and sulfur atoms in the ratio of 4:9:1 respectively.",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl mercaptan and name its three isomers.",
+      "answer": "Isomers are molecules that have the same molecular formula but differ in their structure or arrangement of atoms. This difference in structure can lead to different physical and chemical properties, which in turn can affect how these molecules interact with other substances.\n\nButyl mercaptan (C₄H₉SH) is an organic compound that contains a sulfur atom bonded to a hydrocarbon chain. The term \"isomers\" applies to butyl mercaptan when considering its structural variations due to the different ways the carbon atoms can be arranged around the sulfur atom.\n\n### Isomers of Butyl Mercaptan\n\nThe three primary isomers of butyl",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "answer": "Butyl mercaptan is an organic compound with the chemical formula C4H9SH. It is a colorless liquid at room temperature with a strong, unpleasant odor. The production method typically involves reacting butanol (C4H9OH) with hydrogen sulfide (H2S) in the presence of a catalyst under high pressure and temperature conditions.\n\n### Production Method:\n1. **Raw Materials**: Butanol and hydrogen sulfide.\n2. **Reaction Conditions**: High pressure (typically 50-100 atmospheres) and elevated temperatures (around 150-200°C).\n3. **C",
+      "latency_s": 10.37
+    }
+  ]
+}

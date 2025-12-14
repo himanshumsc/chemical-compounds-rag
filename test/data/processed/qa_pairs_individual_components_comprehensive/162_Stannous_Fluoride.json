@@ -1,0 +1,58 @@
+{
+  "compound_id": 158,
+  "compound_name": "Stannous Fluoride",
+  "source_file": "compound_158_Stannous Fluoride.json",
+  "main_entry_length": 2985,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0850_Stannous_Fluoride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:56",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of stannous fluoride (SnF₂). In this structure, green atoms represent tin (Sn) and the turquoise atom represents fluorine (F). Stannous fluoride is notable for its effectiveness in preventing cavities, as it kills bacteria and helps in the remineralization of tooth enamel. It is commonly used in toothpastes and dental rinses. Its preparation involves reacting stannous oxide (SnO) with hydrofluoric acid (H₂F₂) in an oxygen-free environment. Despite its benefits, it can impart a somewhat bitter taste.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:37"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of stannous fluoride?",
+      "answer": "The chemical formula of stannous fluoride is SnF2, and its molecular weight is 156.71 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:37",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Why is stannous fluoride considered more effective in preventing cavities compared to other fluoride compounds?",
+      "answer": "Stannous fluoride is considered more effective in preventing cavities compared to other fluoride compounds primarily because research by Joseph C. Muhler and Harry G. Day found it to be significantly more effective at preventing cavities. Additionally, stannous fluoride can be incorporated into toothpastes without affecting their other properties, making it a practical choice for dental care products. This efficacy is due to its dual action: it kills bacteria that cause tooth decay and reacts with other chemicals in the mouth to form new enamel to replace the enamel destroyed by bacteria or worn away by mechanical processes. These attributes led to its adoption in the first toothpaste containing stannous fluoride, released by Proctor & Gamble as Crest in 1955. However, stannous fluoride has a somewhat bitter and unpleasant taste, which is a noted disadvantage. Despite this, its ability to prevent cavities, gingivitis, and bad breath has supported its use in dental care.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:42",
+      "char_limit": 1800,
+      "answer_length": 984
+    },
+    {
+      "question": "Explain the dual mechanism by which stannous fluoride helps in preventing tooth decay.",
+      "answer": "Stannous fluoride helps prevent tooth decay through a dual mechanism. First, it kills bacteria that cause tooth decay, thereby reducing the bacterial population that contributes to the demineralization of tooth enamel. Second, stannous fluoride reacts with other chemicals in the mouth to form new enamel, replacing enamel that has been destroyed by bacterial activity or mechanical wear. This dual action strengthens tooth enamel and reduces the rate of tooth decay.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:47:44",
+      "char_limit": 2000,
+      "answer_length": 467
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4653,
+  "updated_at": "2025-11-30 13:47:45",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

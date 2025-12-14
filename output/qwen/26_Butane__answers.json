@@ -1,0 +1,27 @@
+{
+  "source_file": "26_Butane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows butane. Butane is a hydrocarbon with the chemical formula C₄H₁₀. Here are some of its key properties:\n\n1. **Structure**: Butane has four carbon atoms and ten hydrogen atoms arranged in a linear or branched configuration.\n2. **Boiling Point**: Butane has a boiling point of approximately -0.5°C (31°F).\n3. **Uses**: Butane is commonly used as a fuel for portable stoves, lighters, and other small appliances due to its ease of ignition and relatively high energy density compared to other hydrocarbons like",
+      "latency_s": 16.41
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of butane?",
+      "answer": "Butane is an alkane with the chemical formula \\( \\text{C}_4\\text{H}_{10} \\). This means it has four carbon atoms and ten hydrogen atoms.\n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nSo, for one molecule of butane (\\( \\text{C}_4\\text{H}_{10} \\)):",
+      "latency_s": 10.32
+    },
+    {
+      "question": "Explain the difference between the two isomeric forms of butane.",
+      "answer": "Butane, with its molecular formula C4H10, exists in two isomeric forms: n-butane and isobutane (also known as 2-methylpropane). These isomers differ in their structure and properties due to the arrangement of carbon atoms.\n\n### 1. n-Butane:\n- **Structure**: It has a linear chain of four carbon atoms.\n- **Chemical Formula**: C4H10\n- **Bonding**: Each carbon atom is bonded to three hydrogen atoms except for the terminal carbon which is bonded to two hydrogen atoms.\n- **Physical Properties**:\n  - Bo",
+      "latency_s": 10.32
+    },
+    {
+      "question": "Discuss the solubility and state of butane, and its implications for its use as a fuel.",
+      "answer": "Butane is a hydrocarbon with the chemical formula C4H10. It is a colorless, odorless gas at room temperature and standard pressure. Butane's solubility in water is very low, which means it does not dissolve easily in water. This property makes butane useful in various applications where it can be separated from other substances without dissolving into them.\n\n### Solubility:\n- **In Water**: Butane has a very low solubility in water. At 25°C (77°F) and 1 atm pressure, the solubility of butane in water is approximately 0",
+      "latency_s": 10.32
+    }
+  ]
+}

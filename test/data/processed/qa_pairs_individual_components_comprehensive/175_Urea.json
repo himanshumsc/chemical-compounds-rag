@@ -1,0 +1,58 @@
+{
+  "compound_id": 171,
+  "compound_name": "Urea",
+  "source_file": "compound_171_Urea.json",
+  "main_entry_length": 2343,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0918_Urea_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:52",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of urea. Urea is an organic compound with the formula CO(NH₂)₂. It consists of a carbonyl group (C=O) attached to two amine groups (NH₂). Urea is a colorless, odorless solid that is highly soluble in water and is commonly used in fertilizers due to its high nitrogen content. It is also a key compound in the urea cycle, which processes nitrogen in the body to produce a less toxic form than ammonia, facilitating its excretion.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:19"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of urea?",
+      "answer": "The chemical formula of urea is (NH2)2CO, and its molecular weight is 60.06 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:51",
+      "char_limit": 1000,
+      "answer_length": 82
+    },
+    {
+      "question": "Explain the significance of Friedrich Wöhler's synthesis of urea in 1828.",
+      "answer": "Friedrich Wöhler's synthesis of urea in 1828 is significant because it marked the first time an organic compound was synthesized from inorganic materials, challenging the prevailing belief that organic compounds could only be produced by living organisms through some supernatural force. This discovery demonstrated that organic compounds are governed by the same natural laws as inorganic compounds, fundamentally altering the understanding of chemistry. Wöhler's work effectively laid the foundation for the field of organic chemistry, earning him the title \"Father of Organic Chemistry.\" Prior to this, it was thought that a \"vital force\" was necessary for the synthesis of organic substances, but Wöhler's synthesis showed that such compounds could be created through chemical reactions in a laboratory setting, paving the way for further advancements in the synthesis of organic molecules.",
+      "difficulty_level": "intermediate",
+      "topic_category": "history",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:50:55",
+      "char_limit": 1800,
+      "answer_length": 894
+    },
+    {
+      "question": "Describe the urea cycle and its importance in animal metabolism.",
+      "answer": "The urea cycle is a series of seven chemical reactions that occur in the bodies of terrestrial animals to manage the disposal of poisonous nitrogen compounds resulting from protein decomposition. Proteins, being large and complex compounds, contain substantial amounts of nitrogen. When they break down, this nitrogen is converted into ammonia (NH3), a toxic substance for animals. To prevent the harmful buildup of ammonia, the urea cycle converts it into urea, which is less toxic and can be safely excreted in urine. This conversion process is essential for the survival of animals, as it helps in managing the nitrogenous waste produced during the metabolism of proteins. Urea itself is formed in the liver and then transferred to the kidneys for excretion. The conversion and excretion of ammonia as urea are crucial for maintaining nitrogen balance and preventing ammonia toxicity in animal bodies.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:51:02",
+      "char_limit": 2000,
+      "answer_length": 904
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6332,
+  "updated_at": "2025-11-30 13:51:02",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

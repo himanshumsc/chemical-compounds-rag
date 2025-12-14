@@ -1,0 +1,27 @@
+{
+  "source_file": "101_Nitric_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows nitric acid (HNO₃). Nitric acid is a strong mineral acid with several key properties:\n\n1. **Chemical Composition**: It consists of one hydrogen atom (H), one nitrogen atom (N), and three oxygen atoms (O).\n\n2. **Structure**: The molecule has a central nitrogen atom bonded to three oxygen atoms, with one of these oxygen atoms also bonded to a hydrogen atom.\n\n3. **Properties**:\n   - **Strong Mineral Acid**: Nitric acid is highly acidic.\n   - **Corrosive**: It can corrode many metals and other materials.",
+      "latency_s": 20.5
+    },
+    {
+      "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+      "answer": "The primary elements that make up nitric acid are nitrogen (N), oxygen (O), and hydrogen (H). Its chemical formula is HNO₃.",
+      "latency_s": 10.52
+    },
+    {
+      "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+      "answer": "Nitric acid, with the chemical formula HNO₃, is a strong mineral acid that plays a significant role in various industrial processes and laboratory applications due to its high reactivity and corrosive properties.\n\n### Physical State:\n- **Liquid**: Nitric acid is typically found as a clear, colorless liquid at room temperature.\n- **Density**: It has a density of approximately 1.42 g/cm³ at 20°C.\n- **Boiling Point**: The boiling point of pure nitric acid is around 83°C (181°F).\n\n### Solubility Characteristics:\n- **Solubility in",
+      "latency_s": 10.52
+    },
+    {
+      "question": "Explain why nitric acid is considered a strong oxidizing agent and describe its reaction with metals.",
+      "answer": "Nitric acid (HNO₃) is considered a strong oxidizing agent due to several reasons:\n\n1. **Electronegativity**: Nitric acid has a high electronegativity, meaning the nitrogen atom in HNO₃ can attract electrons strongly. This makes it capable of accepting electrons from other substances.\n\n2. **Oxidation State of Nitrogen**: In nitric acid, the nitrogen atom is in an oxidation state of +5. This high oxidation state makes it highly reactive and able to gain electrons or donate them to reduce itself.\n\n3. **Proton Donor**: Nitric acid is a strong",
+      "latency_s": 10.52
+    }
+  ]
+}

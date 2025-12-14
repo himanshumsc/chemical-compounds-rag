@@ -1,0 +1,38 @@
+{
+  "compound_id": 27,
+  "compound_name": "Calcium Carbonate",
+  "source_file": "compound_027_Calcium Carbonate.json",
+  "main_entry_length": 2173,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0194_Calcium_Carbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:46",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of calcium carbonate (CaCO₃). The red atoms represent oxygen, the black atom is carbon, and the white atom is calcium. Calcium carbonate is a common compound used as an antacid to neutralize stomach acid, relieving symptoms like indigestion and heartburn. It's also used in agriculture to maintain soil acidity and provide calcium to plants. Additionally, it's utilized in the construction industry as a primary component of cement and lime.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:01"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of calcium carbonate?",
+      "answer": "The chemical formula of calcium carbonate is CaCO3, and its molecular weight is 100.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility characteristics of calcium carbonate and how they affect its use in different environments.",
+      "answer": "Calcium carbonate is very slightly soluble in water, soluble in dilute acids, and insoluble in organic solvents. Its slight water solubility makes it stable in aquatic and soil environments, allowing it to be used in agriculture to maintain soil acidity and provide calcium. Its solubility in acids also makes it effective as an antacid to neutralize stomach acid.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process by which calcium carbonate can be synthesized in the laboratory and how its physical form might vary depending on its crystal structure.",
+      "answer": "Calcium carbonate can be synthesized in the laboratory by reacting calcium chloride (CaCl2) with sodium carbonate (Na2CO3), which results in the precipitation of calcium carbonate. The physical properties of calcium carbonate can vary depending on its crystal structure, such as calcite or aragonite. Calcite has a melting point of 1330°C, while aragonite decomposes at about 825°C. These differences can influence its application in various industries.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "68_Gamma-123456-Hexachlorocyclohexane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows **Gamma 1,2,3,4,5,6 Hexachlorocyclohexane**.\n\n### Key Properties:\n- **Non-flammable**: It does not ignite under normal conditions.\n- **Stable**: It remains stable in the presence of heat, light, strong acids, and carbon dioxide.\n- **Primary Commercial Uses**:\n  - As a pesticide in agriculture.\n  - As a treatment for external parasites such as head lice, scabies, and other external parasitic infestations.\n\n### How it is Made:\nGamma-1,2,3,4,5",
+      "latency_s": 16.51
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane?",
+      "answer": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane (also known as 1,2,3,4,5,6-Hexachlorocyclohexane) has the following chemical formula:\n\n\\[ \\text{C}_6\\text{H}_0\\text{Cl}_6 \\]\n\nThis simplifies to:\n\n\\[ \\text{C}_6\\text{Cl}_6 \\]\n\nThe molecular weight can be calculated by summing the atomic weights of carbon (C) and chlorine (Cl):\n\n- Carbon (C): \\( 12.0",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Explain the isomeric nature of Gamma-1,2,3,4,5,6-Hexachlorocyclohexane and identify the most commercially important isomer.",
+      "answer": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane (also known as gamma-HCH) is a chlorinated hydrocarbon that exists in several isomeric forms due to the different positions of the chlorine atoms on the cyclohexane ring. The isomers of hexachlorocyclohexane are named based on the position of the chlorine atoms relative to each other.\n\nThe isomers of hexachlorocyclohexane can be classified into two main groups: the alpha (α), beta (β), and gamma (γ) isomers, which are further",
+      "latency_s": 10.43
+    },
+    {
+      "question": "Discuss the commercial uses and potential health hazards associated with Gamma-1,2,3,4,5,6-Hexachlorocyclohexane.",
+      "answer": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane (also known as gamma-HCH or gamma-CH) is a chlorinated hydrocarbon that was once widely used in various commercial applications due to its insecticidal properties. However, it has been largely phased out due to its harmful effects on human health and the environment.\n\n### Commercial Uses\n\n1. **Agricultural Pesticide**: Gamma-HCH was commonly used as an agricultural pesticide to control insects such as mosquitoes, flies, and other pests. It was effective but also posed significant risks to both humans and non-target",
+      "latency_s": 10.43
+    }
+  ]
+}

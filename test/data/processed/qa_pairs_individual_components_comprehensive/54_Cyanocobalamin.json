@@ -1,0 +1,58 @@
+{
+  "compound_id": 51,
+  "compound_name": "Cyanocobalamin",
+  "source_file": "compound_051_Cyanocobalamin.json",
+  "main_entry_length": 1581,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0316_Cyanocobalamin_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the diagram is cyanocobalamin, a form of vitamin B12. Key properties of cyanocobalamin include:\n\n1. **Complex Structure**: It contains a cobalt atom (yellow) at its core, surrounded by a corrin ring.\n2. **Essential Nutrient**: Vital for red blood cell formation, neurological function, and DNA synthesis.\n3. **Water-Soluble**: Easily absorbed and excreted by the body.\n4. **Therapeutic Use**: Used to treat vitamin B12 deficiency and related anemia.\n5. **Synthetic Origin**: Commonly produced for supplements and fortified foods.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:10"
+    },
+    {
+      "question": "What is the chemical formula of cyanocobalamin, and which elements does it contain?",
+      "answer": "The chemical formula of cyanocobalamin is C63H88CoN14O14P. It contains the elements carbon, hydrogen, cobalt, nitrogen, oxygen, and phosphorus.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:42",
+      "char_limit": 1000,
+      "answer_length": 143
+    },
+    {
+      "question": "Describe the solubility properties of cyanocobalamin and its physical state.",
+      "answer": "Cyanocobalamin, also known as vitamin B12, is a solid compound that occurs as dark red crystals or a red powder. It is odorless and tasteless. The compound is soluble in water and alcohol but insoluble in acetone, ether, and chloroform.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:44",
+      "char_limit": 1800,
+      "answer_length": 236
+    },
+    {
+      "question": "Explain the role of cyanocobalamin in the human body and the consequences of its deficiency.",
+      "answer": "Cyanocobalamin, commonly known as vitamin B12, is crucial for human health, specifically in DNA synthesis within cells and the proper functioning of red blood cells and nerves. It exists in several active forms, including hydroxocobalamin and nitrocobalamin. Cyanocobalamin appears as dark red crystals or a red powder that is odorless and tasteless and is soluble in water and alcohol but insoluble in acetone, ether, and chloroform. \n\nA deficiency in vitamin B12 leads to pernicious anemia, characterized by smaller and fewer red blood cells with reduced hemoglobin content. This condition causes general weakness, nervous disorders, gastrointestinal issues, and can be fatal if untreated. Cyanocobalamin is essential for producing properly functioning red blood cells, white blood cells, and platelets.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:48",
+      "char_limit": 2000,
+      "answer_length": 805
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3702,
+  "updated_at": "2025-11-30 14:00:48",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 37,
+  "compound_name": "Cellulose",
+  "source_file": "compound_037_Cellulose.json",
+  "main_entry_length": 1524,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0246_Cellulose_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is cellulose. Cellulose is a polysaccharide consisting of a linear chain of several hundred to many thousands of β(1→4) linked D-glucose units. It is a primary structural component of plant cell walls and is the most abundant organic polymer on Earth.\n\nKey properties of cellulose include:\n\n1. **Insolubility in Water**: Cellulose is not soluble in water due to its strong hydrogen bonding.\n2. **High Tensile Strength**: This makes it an important material in plant structure.\n3. **Biodegradability**: It can be broken down by microorganisms, making it...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:31"
+    },
+    {
+      "question": "What is the chemical formula for cellulose and what does the subscript 'n' signify?",
+      "answer": "The chemical formula for cellulose is (C6H10O5)n. The subscript 'n' signifies that a large number of glucose monomers combine to form the cellulose polymer, indicating that cellulose is a polysaccharide made up of many glucose units.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:06",
+      "char_limit": 1000,
+      "answer_length": 233
+    },
+    {
+      "question": "Describe the solubility properties of cellulose and explain why it behaves that way.",
+      "answer": "Cellulose is insoluble in water and all common organic solvents. This insolubility is due to its structure as a polysaccharide fiber composed of glucose monomers forming a large polymer. The extensive hydrogen bonding between the hydroxyl groups of glucose units in cellulose contributes to its rigidity and insolubility, as these interactions make the cellulose chains tightly packed and stable. Additionally, cellulose's large molecular weight, often exceeding 100,000 g/mol, further contributes to its insolubility by limiting its interaction with solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:10",
+      "char_limit": 1800,
+      "answer_length": 560
+    },
+    {
+      "question": "Cellulose is described as providing structural support for plants. Discuss how its structure contributes to this function and compare its occurrence in various natural sources.",
+      "answer": "Cellulose provides structural support for plants through its polysaccharide structure, which consists of many glucose monomers joined to form a large polymer. This structure allows it to form strong fibers that are integral to the cell walls of plants, providing rigidity and strength. Cellulose is a colorless to white, tasteless, odorless fiber found in the cell walls of all land plants, some bacteria, seaweeds, algae, and fungi, making it the most common organic compound in nature.\n\nThe occurrence of cellulose varies in different natural sources: Cotton is the purest form with about 90% cellulose content. Flax (linen fiber) contains about 70-75% cellulose. Wood comprises about 40-50% cellulose, while seaweeds and algae contain about 25-30% cellulose. This variation in cellulose content reflects its differing roles and adaptations in various organisms.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:58:16",
+      "char_limit": 2000,
+      "answer_length": 864
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7316,
+  "updated_at": "2025-11-30 13:58:16",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

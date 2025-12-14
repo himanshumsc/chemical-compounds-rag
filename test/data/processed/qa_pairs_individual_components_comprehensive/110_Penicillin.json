@@ -1,0 +1,58 @@
+{
+  "compound_id": 106,
+  "compound_name": "Penicillin",
+  "source_file": "compound_106_Penicillin.json",
+  "main_entry_length": 5267,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0586_Penicillin_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:18",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is penicillin. Its molecular structure includes red atoms for oxygen, white atoms for hydrogen, black atoms for carbon, blue atoms for nitrogen, and a yellow atom for sulfur. Penicillin is an antibiotic that was discovered to have antibacterial properties. It works by interfering with the formation of the bacterial cell wall, effectively killing or inhibiting the growth of bacteria. It's widely used to treat various bacterial infections.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:17"
+    },
+    {
+      "question": "What is the basic chemical structure and formula of penicillin as described in the compound information?",
+      "answer": "The basic chemical structure of penicillin consists of a bicyclic compound derived from two amino acids, cysteine and valine. The formula provided is (CH3)2C5H3NSO(COOH)NHCOR, where R represents any one of a number of substituted groups. The compound type is a bicyclic acid and it contains the elements carbon, hydrogen, oxygen, nitrogen, and sulfur. Each form of penicillin is distinguished by different side chains attached to this basic structure.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:01",
+      "char_limit": 1000,
+      "answer_length": 451
+    },
+    {
+      "question": "How do penicillins function as antibiotics according to the provided compound information?",
+      "answer": "Penicillins function as antibiotics by inactivating an enzyme used in the formation of bacterial cell walls. This inactivation prevents bacteria from making cell walls, leading to their death. Penicillins do not have the same effect on viruses and are therefore not effective against viral diseases.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:03",
+      "char_limit": 1800,
+      "answer_length": 299
+    },
+    {
+      "question": "Explain the process of producing biosynthetic and semi-synthetic penicillins as mentioned in the compound information.",
+      "answer": "Biosynthetic penicillins, also known as natural penicillins, are produced by culturing molds such as Penicillium notatum and Penicillium chrysogenum in large vats. During this process, the molds are provided with nutrients, and they naturally produce penicillins, which are then collected and purified. Of the naturally occurring penicillins, penicillin G (benzylpenicillin) is the most commonly used.\n\nSemi-synthetic penicillins are derived from naturally occurring penicillins by chemically altering their structure. For instance, penicillin V is created by replacing the -CH2C6H5 group in natural penicillin G with a -CH2OC6H5 group, resulting in a modified antibiotic with potentially different properties or enhanced efficacy against a broader range of bacteria.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:37:06",
+      "char_limit": 2000,
+      "answer_length": 767
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8800,
+  "updated_at": "2025-11-30 13:37:06",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "173_Triclocarban.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Triclocarban** (C₂₄H₂₂Cl₂N₂O). It's an antimicrobial agent previously used in soaps. Concerns over its potential health and environmental effects led to its discontinuation. It contains carbon, hydrogen, chlorine, and nitrogen.",
+      "latency_s": 21.55,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Triclocarban?",
+      "answer": "I am unable to find information about \"Triclocarban\" within the provided sources. The database contains information on Acetic Acid, Carboxylic Groups, CFCs, and other chemicals, but not Triclocarban.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is Triclocarban considered harmless to humans but effective as an antimicrobial agent against bacteria and fungi?",
+      "answer": "The provided text does not contain any information about Triclocarban. Therefore, it is impossible to answer the question regarding its harmlessness to humans or its antimicrobial properties based on this dataset.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the potential environmental and health concerns associated with the use of Triclocarban in antimicrobial products.",
+      "answer": "The provided text does not contain information about Triclocarban or its environmental/health concerns. It discusses acetic acid, mustard gas, and TNT, detailing their uses, production, and some associated hazards (lead poisoning from sapa, cancer risks from mustard gas, respiratory issues/potential carcinogenicity from TNT). It does not mention Triclocarban.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:52:53",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:52:53",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

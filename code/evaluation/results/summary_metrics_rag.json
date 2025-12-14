@@ -1,0 +1,803 @@
+{
+  "overall": {
+    "bleu_1": {
+      "mean": 0.18272518414294925,
+      "median": 0.18770177904891172,
+      "std": 0.09989719913397298,
+      "min": 0.022172949002217293,
+      "max": 0.5294117647058824,
+      "count": 712
+    },
+    "bleu_2": {
+      "mean": 0.11726652932466242,
+      "median": 0.1138680138638217,
+      "std": 0.0665365719199565,
+      "min": 0.007019488585711019,
+      "max": 0.3919748808200126,
+      "count": 712
+    },
+    "bleu_3": {
+      "mean": 0.07982234849500437,
+      "median": 0.07093732115206419,
+      "std": 0.050319810485496816,
+      "min": 0.002362219874414231,
+      "max": 0.31973283656916457,
+      "count": 712
+    },
+    "bleu_4": {
+      "mean": 0.053223149688175174,
+      "median": 0.043723708294333384,
+      "std": 0.039808493439384,
+      "min": 0.0012510413007488586,
+      "max": 0.25440060383481433,
+      "count": 712
+    }
+  },
+  "per_question_type": {
+    "Q1": {
+      "count": 178,
+      "mean_bleu_4": 0.08722970806996101,
+      "median_bleu_4": 0.07870488994110983,
+      "std_bleu_4": 0.04787032354594797
+    },
+    "Q2": {
+      "count": 178,
+      "mean_bleu_4": 0.026655321293087297,
+      "median_bleu_4": 0.021813453815653795,
+      "std_bleu_4": 0.01968611808031845
+    },
+    "Q3": {
+      "count": 178,
+      "mean_bleu_4": 0.046460330607294945,
+      "median_bleu_4": 0.042840040105893845,
+      "std_bleu_4": 0.028170271206646433
+    },
+    "Q4": {
+      "count": 178,
+      "mean_bleu_4": 0.052547238782357446,
+      "median_bleu_4": 0.04752773146767807,
+      "std_bleu_4": 0.031205422275516325
+    }
+  },
+  "per_compound": {
+    "100_Nicotine": {
+      "mean_bleu_4": 0.06287919612815585,
+      "count": 4
+    },
+    "101_Nitric_Acid": {
+      "mean_bleu_4": 0.06804270524142138,
+      "count": 4
+    },
+    "102_Nitric_Oxide": {
+      "mean_bleu_4": 0.07783742902722371,
+      "count": 4
+    },
+    "103_Nitrogen_Dioxide": {
+      "mean_bleu_4": 0.09153137683316492,
+      "count": 4
+    },
+    "104_Nitroglycerin": {
+      "mean_bleu_4": 0.03047523047745664,
+      "count": 4
+    },
+    "105_Nitrous_Oxide": {
+      "mean_bleu_4": 0.041603701441156014,
+      "count": 4
+    },
+    "106_NN-Diethyl-3-Methylbenzamide": {
+      "mean_bleu_4": 0.02247070746759147,
+      "count": 4
+    },
+    "107_Nylon_6_and_Nylon_66": {
+      "mean_bleu_4": 0.05331131686420745,
+      "count": 4
+    },
+    "108_Oxalic_Acid": {
+      "mean_bleu_4": 0.057585824415409756,
+      "count": 4
+    },
+    "109_Pectin": {
+      "mean_bleu_4": 0.062156477556754956,
+      "count": 4
+    },
+    "10_Aluminum_Hydroxide": {
+      "mean_bleu_4": 0.06052460674080701,
+      "count": 4
+    },
+    "110_Penicillin": {
+      "mean_bleu_4": 0.03807234258683157,
+      "count": 4
+    },
+    "111_Perchlorates": {
+      "mean_bleu_4": 0.05826544707264936,
+      "count": 4
+    },
+    "112_Petrolatum": {
+      "mean_bleu_4": 0.04432474871258362,
+      "count": 4
+    },
+    "113_Petroleum": {
+      "mean_bleu_4": 0.05703011034625549,
+      "count": 4
+    },
+    "114_Phenol": {
+      "mean_bleu_4": 0.05349678916358761,
+      "count": 4
+    },
+    "115_Phosphoric_Acid": {
+      "mean_bleu_4": 0.06036424776116944,
+      "count": 4
+    },
+    "116_Polycarbonates": {
+      "mean_bleu_4": 0.039676435471910354,
+      "count": 4
+    },
+    "117_Polyethylene": {
+      "mean_bleu_4": 0.047068169472475,
+      "count": 4
+    },
+    "118_Polymethyl_Methacrylate": {
+      "mean_bleu_4": 0.07515589408816467,
+      "count": 4
+    },
+    "119_Polypropylene": {
+      "mean_bleu_4": 0.07143606585799289,
+      "count": 4
+    },
+    "11_Aluminum_Oxide": {
+      "mean_bleu_4": 0.08361295349208886,
+      "count": 4
+    },
+    "120_Polysiloxane": {
+      "mean_bleu_4": 0.05097486913865032,
+      "count": 4
+    },
+    "121_PolyStyrene-Butadiene-Styrene": {
+      "mean_bleu_4": 0.08144031291355897,
+      "count": 4
+    },
+    "122_Polystyrene": {
+      "mean_bleu_4": 0.04805214710215409,
+      "count": 4
+    },
+    "123_Polytetrafluoroethylene": {
+      "mean_bleu_4": 0.07203255348430648,
+      "count": 4
+    },
+    "124_Polyurethane": {
+      "mean_bleu_4": 0.04421092272309104,
+      "count": 4
+    },
+    "125_Polyvinyl_Chloride": {
+      "mean_bleu_4": 0.03177090660492975,
+      "count": 4
+    },
+    "126_Potassium_Bicarbonate": {
+      "mean_bleu_4": 0.062389616788307845,
+      "count": 4
+    },
+    "127_Potassium_Bisulfate": {
+      "mean_bleu_4": 0.03867445328872016,
+      "count": 4
+    },
+    "128_Potassium_Bitartrate": {
+      "mean_bleu_4": 0.04426107020300735,
+      "count": 4
+    },
+    "129_Potassium_Carbonate": {
+      "mean_bleu_4": 0.05563467917148195,
+      "count": 4
+    },
+    "12_Aluminum_Potassium_Sulfate": {
+      "mean_bleu_4": 0.04727798714113533,
+      "count": 4
+    },
+    "130_Potassium_Chloride": {
+      "mean_bleu_4": 0.04246854832063465,
+      "count": 4
+    },
+    "131_Potassium_Fluoride": {
+      "mean_bleu_4": 0.06682334365693715,
+      "count": 4
+    },
+    "132_Potassium_Hydroxide": {
+      "mean_bleu_4": 0.09278546034643717,
+      "count": 4
+    },
+    "133_Potassium_Iodide": {
+      "mean_bleu_4": 0.0682336803504297,
+      "count": 4
+    },
+    "134_Potassium_Nitrate": {
+      "mean_bleu_4": 0.04648995933773805,
+      "count": 4
+    },
+    "135_Potassium_Sulfate": {
+      "mean_bleu_4": 0.04005157615712719,
+      "count": 4
+    },
+    "136_Propane": {
+      "mean_bleu_4": 0.040345586994819306,
+      "count": 4
+    },
+    "137_Propylene": {
+      "mean_bleu_4": 0.07968907951467094,
+      "count": 4
+    },
+    "138_Pyridoxine": {
+      "mean_bleu_4": 0.0312609088119365,
+      "count": 4
+    },
+    "139_Retinol": {
+      "mean_bleu_4": 0.043467038892311086,
+      "count": 4
+    },
+    "13_Ammonia": {
+      "mean_bleu_4": 0.07282948475184313,
+      "count": 4
+    },
+    "140_Riboflavin": {
+      "mean_bleu_4": 0.03150067118698302,
+      "count": 4
+    },
+    "141_Saccharin": {
+      "mean_bleu_4": 0.0441443514150877,
+      "count": 4
+    },
+    "142_Silicon_Dioxide": {
+      "mean_bleu_4": 0.047425732272015846,
+      "count": 4
+    },
+    "143_Silver_Iodide": {
+      "mean_bleu_4": 0.04762792279664545,
+      "count": 4
+    },
+    "144_Silver_Nitrate": {
+      "mean_bleu_4": 0.03513923234437794,
+      "count": 4
+    },
+    "145_SilverI_Oxide": {
+      "mean_bleu_4": 0.06513921759899263,
+      "count": 4
+    },
+    "146_SilverI_Sulfide": {
+      "mean_bleu_4": 0.06884206192001747,
+      "count": 4
+    },
+    "147_Sodium_Acetate": {
+      "mean_bleu_4": 0.04894865197158358,
+      "count": 4
+    },
+    "148_Sodium_Bicarbonate": {
+      "mean_bleu_4": 0.06885945104038332,
+      "count": 4
+    },
+    "149_Sodium_Carbonate": {
+      "mean_bleu_4": 0.06483063488175801,
+      "count": 4
+    },
+    "14_Ammonium_Chloride": {
+      "mean_bleu_4": 0.037677285399582164,
+      "count": 4
+    },
+    "150_Sodium_Chloride": {
+      "mean_bleu_4": 0.045170684235191036,
+      "count": 4
+    },
+    "151_Sodium_Cyclamate": {
+      "mean_bleu_4": 0.026144257138043157,
+      "count": 4
+    },
+    "152_Sodium_Fluoride": {
+      "mean_bleu_4": 0.07085535730732655,
+      "count": 4
+    },
+    "153_Sodium_Hydroxide": {
+      "mean_bleu_4": 0.078054717821195,
+      "count": 4
+    },
+    "154_Sodium_Hypochlorite": {
+      "mean_bleu_4": 0.04809739718434857,
+      "count": 4
+    },
+    "155_Sodium_Perborate": {
+      "mean_bleu_4": 0.0764715625942124,
+      "count": 4
+    },
+    "156_Sodium_Phosphate": {
+      "mean_bleu_4": 0.049810631291839186,
+      "count": 4
+    },
+    "157_Sodium_Polyacrylate": {
+      "mean_bleu_4": 0.025427442110078483,
+      "count": 4
+    },
+    "158_Sodium_Silicate": {
+      "mean_bleu_4": 0.04558955591951698,
+      "count": 4
+    },
+    "159_Sodium_Sulfite": {
+      "mean_bleu_4": 0.03458764583911619,
+      "count": 4
+    },
+    "15_Ammonium_Hydroxide": {
+      "mean_bleu_4": 0.04703573344436248,
+      "count": 4
+    },
+    "160_Sodium_Tetraborate": {
+      "mean_bleu_4": 0.041860090956727054,
+      "count": 4
+    },
+    "161_Sodium_Thiosulfate": {
+      "mean_bleu_4": 0.0600079051237573,
+      "count": 4
+    },
+    "162_Stannous_Fluoride": {
+      "mean_bleu_4": 0.059408479891911586,
+      "count": 4
+    },
+    "163_Styrene": {
+      "mean_bleu_4": 0.04560552908692843,
+      "count": 4
+    },
+    "164_Sucrose": {
+      "mean_bleu_4": 0.0320635654752497,
+      "count": 4
+    },
+    "165_Sucrose_Polyester": {
+      "mean_bleu_4": 0.027182570541449687,
+      "count": 4
+    },
+    "166_Sulfur_Dioxide": {
+      "mean_bleu_4": 0.07898338872190862,
+      "count": 4
+    },
+    "167_Sulfuric_Acid": {
+      "mean_bleu_4": 0.10190763709265133,
+      "count": 4
+    },
+    "168_Tannic_Acid": {
+      "mean_bleu_4": 0.0797778152382141,
+      "count": 4
+    },
+    "169_Testosterone": {
+      "mean_bleu_4": 0.037076436625573854,
+      "count": 4
+    },
+    "16_Ammonium_Nitrate": {
+      "mean_bleu_4": 0.05024653700274688,
+      "count": 4
+    },
+    "170_Theobromine": {
+      "mean_bleu_4": 0.0288389058592622,
+      "count": 4
+    },
+    "171_Thiamine": {
+      "mean_bleu_4": 0.060732791431001854,
+      "count": 4
+    },
+    "172_Toluene": {
+      "mean_bleu_4": 0.0359125996134441,
+      "count": 4
+    },
+    "173_Triclocarban": {
+      "mean_bleu_4": 0.03038242848342002,
+      "count": 4
+    },
+    "174_Triclosan": {
+      "mean_bleu_4": 0.012720741432532916,
+      "count": 4
+    },
+    "175_Urea": {
+      "mean_bleu_4": 0.059687316369141354,
+      "count": 4
+    },
+    "176_Vanillin": {
+      "mean_bleu_4": 0.05626812258686105,
+      "count": 4
+    },
+    "177_Water": {
+      "mean_bleu_4": 0.09568499074461276,
+      "count": 4
+    },
+    "178_Zinc_Oxide": {
+      "mean_bleu_4": 0.09185417193768378,
+      "count": 4
+    },
+    "17_Ammonium_Sulfate": {
+      "mean_bleu_4": 0.031704981203688,
+      "count": 4
+    },
+    "18_Amoxicillin": {
+      "mean_bleu_4": 0.05998446883050289,
+      "count": 4
+    },
+    "19_Amyl_Acetate": {
+      "mean_bleu_4": 0.046635417443886544,
+      "count": 4
+    },
+    "1_13-Butadiene": {
+      "mean_bleu_4": 0.06491622852176648,
+      "count": 4
+    },
+    "20_Amyl_Nitrite": {
+      "mean_bleu_4": 0.0291319531711814,
+      "count": 4
+    },
+    "21_Ascorbic_Acid": {
+      "mean_bleu_4": 0.05276945160128031,
+      "count": 4
+    },
+    "22_Benzene": {
+      "mean_bleu_4": 0.05958637409623302,
+      "count": 4
+    },
+    "23_Benzoic_Acid": {
+      "mean_bleu_4": 0.06085781165908344,
+      "count": 4
+    },
+    "24_Beta-Carotene": {
+      "mean_bleu_4": 0.08366476707361227,
+      "count": 4
+    },
+    "25_Boric_Acid": {
+      "mean_bleu_4": 0.05038521279026621,
+      "count": 4
+    },
+    "26_Butane": {
+      "mean_bleu_4": 0.07218325066344713,
+      "count": 4
+    },
+    "27_Butyl_Acetate": {
+      "mean_bleu_4": 0.0525311100344622,
+      "count": 4
+    },
+    "28_Butyl_Mercaptan": {
+      "mean_bleu_4": 0.045829645449928284,
+      "count": 4
+    },
+    "29_Caffeine": {
+      "mean_bleu_4": 0.034438479115352263,
+      "count": 4
+    },
+    "2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen": {
+      "mean_bleu_4": 0.06100000433899244,
+      "count": 4
+    },
+    "30_Calcium_Carbonate": {
+      "mean_bleu_4": 0.024007924939732233,
+      "count": 4
+    },
+    "31_Calcium_Hydroxide": {
+      "mean_bleu_4": 0.08783401786378409,
+      "count": 4
+    },
+    "32_Calcium_Oxide": {
+      "mean_bleu_4": 0.05029100658260277,
+      "count": 4
+    },
+    "33_Calcium_Phosphate": {
+      "mean_bleu_4": 0.10323963302959933,
+      "count": 4
+    },
+    "34_Calcium_Silicate": {
+      "mean_bleu_4": 0.05890501066700706,
+      "count": 4
+    },
+    "35_Calcium_Sulfate": {
+      "mean_bleu_4": 0.04183224201095482,
+      "count": 4
+    },
+    "36_Camphor": {
+      "mean_bleu_4": 0.027406705476153412,
+      "count": 4
+    },
+    "37_Carbon_Dioxide": {
+      "mean_bleu_4": 0.06238868654423001,
+      "count": 4
+    },
+    "38_Carbon_Monoxide": {
+      "mean_bleu_4": 0.06265680292224388,
+      "count": 4
+    },
+    "39_Carbon_Tetrachloride": {
+      "mean_bleu_4": 0.07110241732203475,
+      "count": 4
+    },
+    "3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas": {
+      "mean_bleu_4": 0.052556932659560546,
+      "count": 4
+    },
+    "40_Cellulose": {
+      "mean_bleu_4": 0.054414656151455076,
+      "count": 4
+    },
+    "41_Cellulose_Nitrate": {
+      "mean_bleu_4": 0.06188144310576524,
+      "count": 4
+    },
+    "42_Cellulose_Xanthate": {
+      "mean_bleu_4": 0.04940327751603028,
+      "count": 4
+    },
+    "43_Chloroform": {
+      "mean_bleu_4": 0.04137330051683574,
+      "count": 4
+    },
+    "44_Chlorophyll": {
+      "mean_bleu_4": 0.058023509896070705,
+      "count": 4
+    },
+    "45_Cholesterol": {
+      "mean_bleu_4": 0.05666527941443443,
+      "count": 4
+    },
+    "46_Cinnamaldehyde": {
+      "mean_bleu_4": 0.050759892925009015,
+      "count": 4
+    },
+    "47_Citric_Acid": {
+      "mean_bleu_4": 0.054698828648978355,
+      "count": 4
+    },
+    "48_Collagen": {
+      "mean_bleu_4": 0.06566585549166577,
+      "count": 4
+    },
+    "49_CopperI_Oxide": {
+      "mean_bleu_4": 0.10375468106677385,
+      "count": 4
+    },
+    "4_246-Trinitrotoluene_TNT": {
+      "mean_bleu_4": 0.03929057195323475,
+      "count": 4
+    },
+    "50_CopperII_Oxide": {
+      "mean_bleu_4": 0.06711415137070971,
+      "count": 4
+    },
+    "51_CopperII_Sulfate": {
+      "mean_bleu_4": 0.05606953928345567,
+      "count": 4
+    },
+    "52_Cumene": {
+      "mean_bleu_4": 0.030171676293149995,
+      "count": 4
+    },
+    "53_Cyanoacrylate": {
+      "mean_bleu_4": 0.06153625903566733,
+      "count": 4
+    },
+    "54_Cyanocobalamin": {
+      "mean_bleu_4": 0.05685072328581039,
+      "count": 4
+    },
+    "55_Denatonium_Benzoate": {
+      "mean_bleu_4": 0.034304509910888584,
+      "count": 4
+    },
+    "56_Dichlorodifluoromethane": {
+      "mean_bleu_4": 0.05436421738112265,
+      "count": 4
+    },
+    "57_Dichlorodiphenyltrichloroethane": {
+      "mean_bleu_4": 0.06206214800759864,
+      "count": 4
+    },
+    "58_Dimethyl_Ketone": {
+      "mean_bleu_4": 0.027284297376349218,
+      "count": 4
+    },
+    "59_Ethyl_Acetate": {
+      "mean_bleu_4": 0.0383598434713582,
+      "count": 4
+    },
+    "5_Acetic_acid": {
+      "mean_bleu_4": 0.0897129757554874,
+      "count": 4
+    },
+    "60_Ethyl_Alcohol": {
+      "mean_bleu_4": 0.02444414105139359,
+      "count": 4
+    },
+    "61_Ethylbenzene": {
+      "mean_bleu_4": 0.038337382867437424,
+      "count": 4
+    },
+    "62_Ethylene": {
+      "mean_bleu_4": 0.04898293257159454,
+      "count": 4
+    },
+    "63_Ethylene_Glycol": {
+      "mean_bleu_4": 0.05090284330248657,
+      "count": 4
+    },
+    "64_Ethylene_Oxide": {
+      "mean_bleu_4": 0.07234729808967265,
+      "count": 4
+    },
+    "65_Folic_Acid": {
+      "mean_bleu_4": 0.06921337511492469,
+      "count": 4
+    },
+    "66_Formaldehyde": {
+      "mean_bleu_4": 0.04131871446875185,
+      "count": 4
+    },
+    "67_Fructose": {
+      "mean_bleu_4": 0.04136961180016526,
+      "count": 4
+    },
+    "68_Gamma-123456-Hexachlorocyclohexane": {
+      "mean_bleu_4": 0.05077618082712775,
+      "count": 4
+    },
+    "69_Gelatin": {
+      "mean_bleu_4": 0.03799663058413196,
+      "count": 4
+    },
+    "6_Acetylene": {
+      "mean_bleu_4": 0.04597825483562996,
+      "count": 4
+    },
+    "70_Glucose": {
+      "mean_bleu_4": 0.033377273360384,
+      "count": 4
+    },
+    "71_Glycerol": {
+      "mean_bleu_4": 0.04527324738530074,
+      "count": 4
+    },
+    "72_Hexane": {
+      "mean_bleu_4": 0.05537328814121745,
+      "count": 4
+    },
+    "73_Hydrogen_Chloride": {
+      "mean_bleu_4": 0.060782942501961174,
+      "count": 4
+    },
+    "74_Hydrogen_Peroxide": {
+      "mean_bleu_4": 0.052201760256601684,
+      "count": 4
+    },
+    "75_Hydroxytoluene": {
+      "mean_bleu_4": 0.07682969550653938,
+      "count": 4
+    },
+    "76_IronII_Oxide": {
+      "mean_bleu_4": 0.051337170886088475,
+      "count": 4
+    },
+    "77_IronIII_Oxide": {
+      "mean_bleu_4": 0.07863879322387772,
+      "count": 4
+    },
+    "78_Isoamyl_Acetate": {
+      "mean_bleu_4": 0.02584932350946869,
+      "count": 4
+    },
+    "79_Isoprene": {
+      "mean_bleu_4": 0.06026947293462946,
+      "count": 4
+    },
+    "7_Acetylsalicylic_Acid": {
+      "mean_bleu_4": 0.014962622716883929,
+      "count": 4
+    },
+    "80_Isopropyl_Alcohol": {
+      "mean_bleu_4": 0.04247795917564817,
+      "count": 4
+    },
+    "81_L-Aspartyl-L-Phenylalanine_Methyl_Ester": {
+      "mean_bleu_4": 0.05348351699656364,
+      "count": 4
+    },
+    "82_Lactic_Acid": {
+      "mean_bleu_4": 0.0539478100986549,
+      "count": 4
+    },
+    "83_Lactose": {
+      "mean_bleu_4": 0.04659521818809608,
+      "count": 4
+    },
+    "84_Luminol": {
+      "mean_bleu_4": 0.05051924235277731,
+      "count": 4
+    },
+    "85_Magnesium_Chloride": {
+      "mean_bleu_4": 0.033759667460106016,
+      "count": 4
+    },
+    "86_Magnesium_Hydroxide": {
+      "mean_bleu_4": 0.02813128584021791,
+      "count": 4
+    },
+    "87_Magnesium_Oxide": {
+      "mean_bleu_4": 0.0706488345357019,
+      "count": 4
+    },
+    "88_Magnesium_Silicate_Hydroxide": {
+      "mean_bleu_4": 0.050498764784725696,
+      "count": 4
+    },
+    "89_Magnesium_Sulfate": {
+      "mean_bleu_4": 0.06813892441978496,
+      "count": 4
+    },
+    "8_Alpha-Tocopherol": {
+      "mean_bleu_4": 0.08869346654959295,
+      "count": 4
+    },
+    "90_Menthol": {
+      "mean_bleu_4": 0.03612743288005875,
+      "count": 4
+    },
+    "91_MercuryII_Sulfide": {
+      "mean_bleu_4": 0.06637989286182719,
+      "count": 4
+    },
+    "92_Methane": {
+      "mean_bleu_4": 0.03581226881101086,
+      "count": 4
+    },
+    "93_Methyl-t-butyl_Ether": {
+      "mean_bleu_4": 0.044578127320275156,
+      "count": 4
+    },
+    "94_Methyl_Alcohol": {
+      "mean_bleu_4": 0.04737380599175305,
+      "count": 4
+    },
+    "95_Methyl_Mercaptan": {
+      "mean_bleu_4": 0.019457660245856292,
+      "count": 4
+    },
+    "96_Monosodium_Glutamate": {
+      "mean_bleu_4": 0.03307353768860825,
+      "count": 4
+    },
+    "97_Naphthalene": {
+      "mean_bleu_4": 0.026051826192763607,
+      "count": 4
+    },
+    "98_Naproxen": {
+      "mean_bleu_4": 0.05116524339201084,
+      "count": 4
+    },
+    "99_Niacin": {
+      "mean_bleu_4": 0.05658770946381085,
+      "count": 4
+    },
+    "9_Aluminum_Fluoride": {
+      "mean_bleu_4": 0.08038513559860902,
+      "count": 4
+    }
+  },
+  "answer_lengths": {
+    "qwen_rag": {
+      "mean_chars": 1738.5477528089887,
+      "median_chars": 1808.0,
+      "min_chars": 409,
+      "max_chars": 2942,
+      "mean_tokens": 260.3553370786517,
+      "median_tokens": 270.0,
+      "min_tokens": 63,
+      "max_tokens": 419
+    },
+    "openai": {
+      "mean_chars": 522.2303370786517,
+      "median_chars": 510.5,
+      "min_chars": 80,
+      "max_chars": 2251,
+      "mean_tokens": 79.20505617977528,
+      "median_tokens": 79.0,
+      "min_tokens": 9,
+      "max_tokens": 326
+    },
+    "length_ratio": {
+      "mean_chars_ratio": 6.317347903325256,
+      "mean_tokens_ratio": 6.183174645771091
+    }
+  },
+  "total_pairs": 712
+}

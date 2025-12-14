@@ -1,0 +1,59 @@
+{
+  "source_file": "125_Polyvinyl_Chloride.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts Polyvinyl Chloride (PVC). It's a polymer made of repeating units, offering moldability and solvent bonding. Discovered accidentally, it was initially sought as a rubber substitute.",
+      "latency_s": 20.93,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula for Polyvinyl Chloride and which elements does it contain?",
+      "answer": "The provided text does not contain the chemical formula or elemental composition of Polyvinyl Chloride (PVC). It mentions acrylates and perchloroethylene, but not PVC.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Discuss the solubility properties of Polyvinyl Chloride and the solvents in which it is soluble.",
+      "answer": "The provided text does not contain information about the solubility properties of Polyvinyl Chloride (PVC) or the solvents in which it is soluble. It mentions acrylates generally, but not PVC specifically.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain why Polyvinyl Chloride does not have a boiling point and describe its decomposition behavior.",
+      "answer": "The provided text does not mention Polyvinyl Chloride (PVC). It does discuss acetylene and 1,3-butadiene, but not PVC. Therefore, I cannot answer your question about PVC's boiling point or decomposition behavior based on the supplied context.",
+      "latency_s": 54.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:41:17",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:41:17",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

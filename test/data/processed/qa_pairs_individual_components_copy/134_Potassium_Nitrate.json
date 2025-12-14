@@ -1,0 +1,36 @@
+{
+  "compound_id": 130,
+  "compound_name": "Potassium Nitrate",
+  "source_file": "compound_130_Potassium Nitrate.json",
+  "main_entry_length": 2582,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0706_Potassium_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:02",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Nitrate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Nitrate?",
+      "answer": "The chemical formula of Potassium Nitrate is KNO3, and its molecular weight is 101.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is Potassium Nitrate considered an oxidizing agent, and what role does it play in gunpowder?",
+      "answer": "Potassium Nitrate is considered an oxidizing agent because it provides oxygen for the combustion of other materials. In gunpowder, it serves this role by supplying oxygen that allows carbon and sulfur to burn rapidly, producing gases like carbon dioxide and sulfur dioxide, which contribute to the explosive effect.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Describe the process by which Potassium Nitrate can be commercially produced.",
+      "answer": "Potassium Nitrate can be commercially produced by reacting potassium chloride (KCl) with nitric acid (HNO3) at high temperatures. The chemical reaction is: 3KCl + 4HNO3 → 3KNO3 + Cl2 + NOCl + 2H2O. This process results in the formation of Potassium Nitrate along with chlorine gas, nitrosyl chloride, and water.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 95,
+  "compound_name": "Naproxen",
+  "source_file": "compound_095_Naproxen.json",
+  "main_entry_length": 1369,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0528_Naproxen_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:30",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Naproxen.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Naproxen?",
+      "answer": "The chemical formula of Naproxen is C14H14O3, and its molecular weight is 230.26 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is Naproxen classified as a non-steroidal anti-inflammatory drug (NSAID), and what are its primary uses?",
+      "answer": "Naproxen is classified as a non-steroidal anti-inflammatory drug (NSAID) because it reduces pain, fever, and inflammation without using steroids. It inhibits an enzyme needed to produce these effects. Its primary uses are as an analgesic (pain reliever) and antipyretic (fever-reducing compound).",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Describe the solubility characteristics of Naproxen and explain how these properties might influence its formulation as a pharmaceutical product.",
+      "answer": "Naproxen is insoluble in water but soluble in methyl alcohol and chloroform. These solubility characteristics suggest that Naproxen would not be effective in aqueous solutions, which means it might be formulated with solvents where it is soluble, such as methyl alcohol, for better delivery. Additionally, its sodium salt form is used for better gastrointestinal absorption, addressing its insolubility in water.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

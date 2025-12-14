@@ -1,0 +1,58 @@
+{
+  "compound_id": 59,
+  "compound_name": "Ethylene",
+  "source_file": "compound_059_Ethylene.json",
+  "main_entry_length": 1480,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0358_Ethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows the molecular structure of ethylene (C₂H₄). Ethylene is a simple hydrocarbon composed of two carbon atoms connected by a double bond, with each carbon atom also bonded to two hydrogen atoms. This configuration makes ethylene an unsaturated hydrocarbon and a member of the alkene family.\n\nKey properties of ethylene include:\n- It is a colorless gas with a faint sweet odor.\n- It is highly flammable.\n- Ethylene acts as a plant hormone, influencing growth and fruit ripening.\n- It is widely used in the chemical industry, particularly in the production of polyethylene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethylene?",
+      "answer": "The chemical formula of Ethylene is CH2=CH2, and its molecular weight is 28.05 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:39",
+      "char_limit": 1000,
+      "answer_length": 85
+    },
+    {
+      "question": "Explain why Ethylene is classified as an unsaturated hydrocarbon.",
+      "answer": "Ethylene is classified as an unsaturated hydrocarbon because it contains one or more double bonds, as indicated in the provided context. Specifically, ethylene contains a carbon-carbon double bond in its chemical structure (CH2=CH2). Alkenes, such as ethylene, are a type of hydrocarbon characterized by the presence of at least one double bond between carbon atoms, which makes them unsaturated. This is in contrast to saturated hydrocarbons, which contain only single bonds between carbon atoms. The presence of the double bond in ethylene is what classifies it as an unsaturated hydrocarbon.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:49",
+      "char_limit": 1800,
+      "answer_length": 594
+    },
+    {
+      "question": "Discuss the role of Ethylene as a plant hormone and provide an example of its historical use.",
+      "answer": "Ethylene is a naturally occurring compound in plants where it functions as a hormone, influencing growth and development. The hormonal effects of ethylene were recognized in 1901 by Russian chemists, although its use in agriculture predates this recognition. Historically, ethylene's role in plant processes such as fruit ripening was utilized by ancient cultures. For example, the ancient Chinese reportedly burned incense in closed containers to expedite the ripening of pears, a process likely facilitated by the ethylene gas released during combustion. This use of ethylene, even without understanding the chemical mechanism, highlights its longstanding importance in agricultural practices.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:02:59",
+      "char_limit": 2000,
+      "answer_length": 695
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 14185,
+  "updated_at": "2025-11-30 14:02:59",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

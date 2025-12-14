@@ -1,0 +1,27 @@
+{
+  "source_file": "161_Sodium_Thiosulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Sodium Thiosulfate (Na₂S₂O₃). The key properties of Sodium Thiosulfate include:\n\n1. **Structure**: It consists of two sulfur atoms (yellow), two oxygen atoms (red), and two sodium atoms (turquoise). The gray sticks indicate double bonds.\n\n2. **Common Uses**:\n   - **Antichlor**: Used to remove chlorine from water.\n   - **Bleach for Paper, Pulp, Bone, Straw, Ivory, and Other Materials**: Sodium thiosulfate can bleach these materials.\n   - **Fixing Agent in",
+      "latency_s": 16.57
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Thiosulfate?",
+      "answer": "The chemical formula for Sodium Thiosulfate, also known as sodium hyposulfite or sodium sulfite, is Na2S2O3·5H2O.\n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the formula:\n\n- Sodium (Na): 23.98 g/mol\n- Sulfur (S): 32.07 g/mol\n- Oxygen (O): 16.00 g/mol\n- Hydrogen (H): 1.01 g/mol\n\nThe formula Na2S2O3·5H2O",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain the role of Sodium Thiosulfate as an antichlor in industrial applications.",
+      "answer": "Sodium thiosulfate, also known as sodium sulfite or sodium polysulfite, is a chemical compound with the formula Na2S2O3·5H2O. It is widely used in various industrial and commercial applications due to its ability to neutralize chlorine compounds, which are often present in water and other solutions.\n\n### Role of Sodium Thiosulfate as an Antichlor\n\nIn industrial applications, sodium thiosulfate acts as an antichlor because it reacts with free chlorine (Cl2) to form less reactive chloro compounds that do not interfere with the desired processes. This reaction is particularly important",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Describe the chemical reaction involved in the direct production of Sodium Thiosulfate from sodium sulfite.",
+      "answer": "The direct production of sodium thiosulfate (Na2S2O3) from sodium sulfite (Na2SO3) involves a chemical reaction where sulfur dioxide (SO2) is added to sodium sulfite. This process is often referred to as the oxidation of sodium sulfite to sodium thiosulfate.\n\nHere's the balanced chemical equation for this reaction:\n\n\\[ \\text{Na}_2\\text{SO}_3 + \\text{SO}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{Na}_2\\text{S}_2\\text{O}_3 +",
+      "latency_s": 10.58
+    }
+  ]
+}

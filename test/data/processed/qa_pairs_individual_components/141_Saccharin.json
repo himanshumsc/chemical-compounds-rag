@@ -1,0 +1,38 @@
+{
+  "compound_id": 137,
+  "compound_name": "Saccharin",
+  "source_file": "compound_137_Saccharin.json",
+  "main_entry_length": 1484,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0740_Saccharin_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:31",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents benzoic sulfimide, commonly known as saccharin. Saccharin is an artificial sweetener that is several hundred times sweeter than sucrose (table sugar), making it a popular sugar substitute in various food and beverage products. It is calorie-free and does not affect blood sugar levels, which makes it suitable for people with diabetes. Saccharin was initially used as an antiseptic before its sweetening properties made it a popular dietary additive.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:14"
+    },
+    {
+      "question": "What is the chemical formula of saccharin, and what are its constituent elements?",
+      "answer": "The chemical formula of saccharin is C7H5NO3S. Its constituent elements are carbon (C), hydrogen (H), nitrogen (N), oxygen (O), and sulfur (S).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why saccharin is considered an effective sugar substitute.",
+      "answer": "Saccharin is considered an effective sugar substitute because its water solutions are at least 500 times as sweet as table sugar, and it passes through the human digestive system without being absorbed. Therefore, it has an effective caloric value of zero, making it suitable for diabetics or anyone wishing to reduce their caloric intake.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the historical context and implications of the discovery of saccharin.",
+      "answer": "Saccharin was discovered accidentally in 1879 by researchers Constantine Fahlberg and Ira Remsen at Johns Hopkins University while they were developing new food preservatives. Fahlberg accidentally spilled a substance on his hand and later noticed its sweet taste. He then pursued marketing saccharin as an artificial sweetener, ultimately securing a patent without Remsen's knowledge. This incident highlights the importance of accidental discoveries in chemistry and also raises ethical considerations in scientific collaboration and intellectual property.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

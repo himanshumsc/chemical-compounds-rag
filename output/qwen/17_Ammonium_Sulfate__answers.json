@@ -1,0 +1,27 @@
+{
+  "source_file": "17_Ammonium_Sulfate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows ammonium sulfate (NH₄)₂SO₄. Here are some of its key properties:\n\n1. **Composition**:\n   - Red atoms represent oxygen.\n   - White atoms represent hydrogen.\n   - Blue atoms represent nitrogen.\n   - Yellow atom represents sulfur.\n\n2. **Uses**:\n   - **Fertilizer**: Ammonium sulfate is used as a fertilizer because it supplies both nitrogen and sulfur, which are essential nutrients for plant growth.\n   - **Water Treatment**: It is also used in water treatment plants to control the acidity of the water being processed.\n\n3. **",
+      "latency_s": 16.66
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ammonium sulfate?",
+      "answer": "The chemical formula for ammonium sulfate is \\(\\text{NH}_4\\text{SO}_4\\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Nitrogen (N): 14.01 g/mol\n- Hydrogen (H): 1.01 g/mol\n- Sulfur (S): 32.07 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, let's calculate the molecular weight step by step:\n\n1. Calculate the total weight of nitrogen:\n   \\[",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Explain why ammonium sulfate is primarily used in fertilizers.",
+      "answer": "Ammonium sulfate, also known as (NH4)2SO4, is a common fertilizer because it provides essential nutrients for plants in a form that is readily available and easily absorbed by the plant's roots. Here are some key reasons why ammonium sulfate is widely used in fertilizers:\n\n1. **High Nutrient Content**: Ammonium sulfate contains both nitrogen (N) and sulfur (S), which are two of the most critical macronutrients for plant growth. Nitrogen is crucial for leaf development and protein synthesis, while sulfur is important for chlorophyll production and overall plant health.\n\n2. **Solubility",
+      "latency_s": 10.37
+    },
+    {
+      "question": "Describe how ammonium sulfate is produced using gypsum, ammonia, and carbon dioxide.",
+      "answer": "The production of ammonium sulfate from gypsum (calcium sulfate dihydrate, CaSO₄·2H₂O), ammonia (NH₃), and carbon dioxide (CO₂) involves a series of chemical reactions that can be summarized as follows:\n\n1. **Calcination of Gypsum:**\n   - Gypsum is first heated in the absence of air to remove water. This process is called calcination.\n   - The reaction is:\n     \\[\n     \\text{CaSO}_4 \\cdot 2\\text{H}_2\\text{O} \\rightarrow \\text{CaSO}_4 + 2",
+      "latency_s": 10.37
+    }
+  ]
+}

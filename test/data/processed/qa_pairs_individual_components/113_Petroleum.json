@@ -1,0 +1,38 @@
+{
+  "compound_id": 109,
+  "compound_name": "Petroleum",
+  "source_file": "compound_109_Petroleum.json",
+  "main_entry_length": 5494,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0604_Petroleum_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:30",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "I can't identify or analyze diagrams or molecular structures in images, but I can provide general information about petroleum based on text. Petroleum is a complex mixture of hydrocarbons, which can include alkanes, cycloalkanes, and aromatic hydrocarbons. It is generally a thick, oily liquid that ranges in color from dark yellow to brown or greenish-black and has a strong, unpleasant odor. Its properties can vary depending on its source and composition.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:24"
+    },
+    {
+      "question": "What are the primary components of petroleum, and how do they differ in terms of chemical bonding?",
+      "answer": "Petroleum is primarily a mixture of hydrocarbons, which include alkanes, alkenes, alkynes, cyclic hydrocarbons, and aromatic hydrocarbons. Alkanes have carbon and hydrogen atoms bonded by single bonds. Alkenes contain at least one double bond, while alkynes have at least one triple bond. Cyclic hydrocarbons consist of carbon atoms arranged in a ring, and aromatic hydrocarbons have carbon atoms joined in a ring with alternating single and double bonds.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the refining process of petroleum and the significance of different temperature fractions in this process.",
+      "answer": "The refining process of petroleum involves heating it to high temperatures in a tall cylindrical tower. As the petroleum heats, different hydrocarbons boil off and rise up the tower, cooling as they ascend. Different hydrocarbons condense back to liquid at specific temperatures and are collected at various trap levels. For example, hydrocarbons condensing between 40°C and 170°C form the gasoline fraction, while those between 170°C and 250°C form the kerosene fraction. This separation into fractions allows for the extraction of usable components like gasoline, kerosene, diesel, and residual oil.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the environmental impact of petroleum extraction and usage, particularly focusing on its role in energy production and transportation.",
+      "answer": "Petroleum extraction and usage have significant environmental impacts due to the reliance on fossil fuels for energy production and transportation. The extraction process, which involves drilling into porous rock, can lead to habitat disruption and potential oil spills that harm ecosystems. The combustion of petroleum products like gasoline, diesel, and jet fuel contributes to air pollution and greenhouse gas emissions, which are major factors in climate change. While petroleum is essential for powering vehicles and generating electricity, its environmental footprint necessitates a shift towards more sustainable energy sources.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

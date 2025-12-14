@@ -1,0 +1,59 @@
+{
+  "source_file": "78_Isoamyl_Acetate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "Isoamyl acetate. It's an ester with a fruity odor used in flavorings (gum, candy), perfumes, nail polish, and shoe polish. It contains carbon, hydrogen, and oxygen.",
+      "latency_s": 21.07,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Isoamyl Acetate?",
+      "answer": "Isoamyl Acetate is listed in Source 2 with a page number of 377. The source does not provide a chemical formula or molecular weight.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the solubility properties of Isoamyl Acetate and its implications for industrial uses.",
+      "answer": "The provided text doesn't explicitly mention Isoamyl Acetate's solubility. However, Source 1 states that organic compounds generally dissolve well in organic solvents like acetone, ether, alcohol, and benzene. Given Isoamyl Acetate is an organic ester, it's likely soluble in these solvents.\n\nThis solubility is relevant to industrial uses (Source 5) as it facilitates its use in producing packaging materials, paints, adhesives, and artificial fibers. The ability to dissolve allows for reactions and formulations needed in these processes.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the process by which Isoamyl Acetate is commercially produced and how it relates to its isomers.",
+      "answer": "The provided text doesn't detail the commercial production of Isoamyl Acetate. It focuses on naming conventions, chemical formulas, and general compound information. It does not discuss its isomers or manufacturing processes.",
+      "latency_s": 53.27,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 17:09:01",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 17:09:01",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

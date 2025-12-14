@@ -1,0 +1,38 @@
+{
+  "compound_id": 11,
+  "compound_name": "Ammonium Hydroxide",
+  "source_file": "compound_011_Ammonium Hydroxide.json",
+  "main_entry_length": 1221,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0120_Ammonium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents ammonium hydroxide. It is formed when ammonia gas (NH₃) is dissolved in water, resulting in a solution that contains NH₄⁺ (ammonium) and OH⁻ (hydroxide) ions. Ammonium hydroxide is commonly used as a cleaning agent, in the manufacture of textiles, as a refrigerant, and as a food additive to maintain acidity. It can also be found in the production of soaps, detergents, and other industrial products. Exposure to its vapors can pose health hazards due to the release of ammonia gas.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:06"
+    },
+    {
+      "question": "What is the chemical formula for ammonium hydroxide and which elements does it consist of?",
+      "answer": "The chemical formula for ammonium hydroxide is NH4OH. It consists of nitrogen (N), hydrogen (H), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why ammonium hydroxide does not have a melting or boiling point.",
+      "answer": "Ammonium hydroxide does not have a melting or boiling point because it exists only as an aqueous solution. It is a solution of ammonia gas dissolved in water, so it does not exist in a solid or gaseous state independently, which is why these properties are not applicable.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of how ammonium hydroxide is prepared and discuss its stability.",
+      "answer": "Ammonium hydroxide is prepared by passing ammonia gas (NH3) into water. This process dissolves the ammonia gas in water to form the ammonium hydroxide solution. Once prepared, the solutions of ammonium hydroxide tend to be very stable, meaning they do not readily decompose or react under normal conditions.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

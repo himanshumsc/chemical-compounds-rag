@@ -1,0 +1,58 @@
+{
+  "compound_id": 153,
+  "compound_name": "Sodium Polyacrylate",
+  "source_file": "compound_153_Sodium Polyacrylate.json",
+  "main_entry_length": 1311,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0824_Sodium_Polyacrylate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:38",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium polyacrylate. This compound consists of sodium ions and polyacrylate chains, where the red atoms represent oxygen, white atoms are hydrogen, black atoms are carbon, and the turquoise atom is sodium. Sodium polyacrylate is known for its high absorbency and ability to form a gel-like substance when it comes into contact with water. It's widely used in products like diapers and other absorbent materials. The polymer chains can cross-link, forming a mesh that expands when hydrated.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:59"
+    },
+    {
+      "question": "What is the chemical formula representation of Sodium Polyacrylate?",
+      "answer": "The chemical formula representation of Sodium Polyacrylate is -[-CH2-CH(COONa)-]n-.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:41",
+      "char_limit": 1000,
+      "answer_length": 83
+    },
+    {
+      "question": "Explain the solubility behavior of Sodium Polyacrylate in water.",
+      "answer": "Sodium polyacrylate is described as insoluble in water, but it can swell when water is added. When water interacts with sodium polyacrylate, it forces the carboxyl groups within the polymer to repel each other, causing the polymer mesh to expand and open up. This swelling property enables sodium polyacrylate to absorb large amounts of water, up to 800 times its volume of distilled water. This characteristic is one of the primary reasons for its use in applications like disposable diapers, where it can absorb up to 30 grams of urine per gram of diaper.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:44",
+      "char_limit": 1800,
+      "answer_length": 557
+    },
+    {
+      "question": "Describe the process by which Sodium Polyacrylate is synthesized.",
+      "answer": "Sodium polyacrylate is synthesized through a reaction between acrylic acid (H2C=CHCOOH) and its sodium salt (H2C=CHCOONa). This reaction produces a long-chain copolymer consisting of alternating units of acrylic acid and sodium acrylate. The resulting polymer is a solid, odorless, grainy white powder known for its ability to absorb large amounts of fluid. This copolymer is utilized primarily in the manufacture of disposable diapers due to its impressive absorption capacity.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:46",
+      "char_limit": 2000,
+      "answer_length": 478
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3067,
+  "updated_at": "2025-11-30 13:46:47",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

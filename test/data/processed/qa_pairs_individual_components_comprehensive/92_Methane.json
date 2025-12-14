@@ -1,0 +1,58 @@
+{
+  "compound_id": 88,
+  "compound_name": "Methane",
+  "source_file": "compound_088_Methane.json",
+  "main_entry_length": 1324,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0494_Methane_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of methane (CH₄). Methane consists of one carbon atom (black) and four hydrogen atoms (white). It is a colorless, odorless gas that is the simplest alkane and the main component of natural gas. Methane is a potent greenhouse gas, with a higher capacity to trap heat in the atmosphere than carbon dioxide over a short period. It is used as a fuel and in the production of hydrogen and other chemicals. Methane is found both in natural deposits and can be synthesized through chemical processes.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:10:30"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of methane?",
+      "answer": "The chemical formula of methane is CH4, and its molecular weight is 16.04 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:06",
+      "char_limit": 1000,
+      "answer_length": 80
+    },
+    {
+      "question": "Discuss the solubility properties of methane and its density relative to air.",
+      "answer": "Methane (CH4) is very slightly soluble in water and acetone. It is, however, soluble in ethyl alcohol, methyl alcohol, and ether. Methane is a colorless, odorless, tasteless, flammable gas that is less dense than air. This indicates that methane will rise in air due to its lower density.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:08",
+      "char_limit": 1800,
+      "answer_length": 288
+    },
+    {
+      "question": "Explain how methane is formed and how it is found in nature.",
+      "answer": "Methane is formed from microscopic underwater plants and bacteria that died and settled at the bottom of the ocean millions of years ago. Over time, layers of sand, dirt, and other materials accumulated on top, applying pressure that crushed and heated the organic material. The mineral components of the mud turned into shale rock, while some organic components transformed into natural gas, primarily methane. This natural gas became trapped in porous rocks called reservoir rocks or in larger pockets known as reservoirs or geologic traps.\n\nIn nature, methane is mainly found as the primary component of natural gas. It is commonly located in pockets above petroleum lakes in underground reservoirs or associated with coal deposits. Methane is also produced during the anaerobic decomposition of manure, which can be captured and purified for use.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:10:11",
+      "char_limit": 2000,
+      "answer_length": 850
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8613,
+  "updated_at": "2025-11-30 14:10:11",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 80,
+  "compound_name": "Luminol",
+  "source_file": "compound_080_Luminol.json",
+  "main_entry_length": 1499,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0458_Luminol_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of luminol. Luminol is a chemical compound known for its chemiluminescent properties, meaning it emits light through a chemical reaction. When luminol reacts with an oxidizing agent like hydrogen peroxide in the presence of a catalyst such as the iron in hemoglobin, it produces a blue glow. This property makes it useful in forensic science for detecting trace amounts of blood at crime scenes. The structure includes oxygen (red), hydrogen (white), carbon (black), and nitrogen (blue) atoms.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:58"
+    },
+    {
+      "question": "What is the chemical formula of Luminol and which elements does it contain?",
+      "answer": "The chemical formula of Luminol is C8H7N3O2. It contains the elements carbon, hydrogen, nitrogen, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:08:58",
+      "char_limit": 1000,
+      "answer_length": 109
+    },
+    {
+      "question": "Explain the phenomenon that occurs when luminol is combined with hydrogen peroxide and how it relates to forensic science.",
+      "answer": "Luminol is a chemical compound with the formula C8H7N3O2. When combined with hydrogen peroxide, it undergoes a reaction that produces a bluish-green glow, a phenomenon known as chemiluminescence. This reaction requires a catalyst, which can be a small amount of a metal such as copper or iron. In forensic science, the significant discovery made by German forensic scientist Walter Specht in 1937 was that blood itself can act as the catalyst for the luminol reaction. When a mixture of luminol and hydrogen peroxide is sprayed onto a surface, the iron in hemoglobin, a component of blood, is sufficient to initiate the chemiluminescent reaction. This makes luminol a valuable tool in forensic investigations for detecting traces of blood at crime scenes, even if the blood is not visible to the naked eye. However, it's important to note that other substances can also act as catalysts for this reaction and produce false positives, so positive tests with luminol should be verified with additional evidence.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:02",
+      "char_limit": 1800,
+      "answer_length": 1009
+    },
+    {
+      "question": "Discuss why the boiling point of Luminol is listed as 'not applicable' and what this indicates about its stability at high temperatures.",
+      "answer": "The boiling point of luminol is listed as \"not applicable\" because it decomposes at high temperatures rather than transitioning to a gaseous state. This indicates that luminol is not stable at high temperatures and undergoes chemical decomposition instead of boiling. The context specifies that luminol's lack of a boiling point is due to its decomposition, highlighting its instability when exposed to sufficient heat.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:09:04",
+      "char_limit": 2000,
+      "answer_length": 419
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3160,
+  "updated_at": "2025-11-30 14:09:04",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

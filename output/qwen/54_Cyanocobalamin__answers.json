@@ -1,0 +1,27 @@
+{
+  "source_file": "54_Cyanocobalamin.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Cyanocobalamin (also known as Vitamin B12). Key properties of Cyanocobalamin include:\n\n1. **Composition**: It contains nitrogen (N), cobalt (Co), phosphorus (P), carbon (C), hydrogen (H), and oxygen (O).\n2. **Structure**: Cyanocobalamin has a complex structure with a central cobalt atom surrounded by a corrin ring system, which includes nitrogen atoms. The molecule also contains a cyanide group (-CN) attached to the cobalt.\n3. **Function**: It is essential for the production of",
+      "latency_s": 16.42
+    },
+    {
+      "question": "What is the chemical formula of cyanocobalamin, and which elements does it contain?",
+      "answer": "The chemical formula for cyanocobalamin (also known as vitamin B12) is:\n\n\\[ \\text{C}_{63} \\text{H}_{88} \\text{N}_{14} \\text{O}_{14} \\text{P}_{2} \\text{C}_{55} \\text{H}_{74} \\text{N}_{5} \\text{O}_{4} \\text{S} \\]\n\nThis formula indicates that cyanocobalamin contains the following elements:\n- Carbon (C)\n- Hydrogen (H)\n- Nitrogen (N)",
+      "latency_s": 10.34
+    },
+    {
+      "question": "Describe the solubility properties of cyanocobalamin and its physical state.",
+      "answer": "Cyanocobalamin, also known as vitamin B12, is a water-soluble vitamin that plays a crucial role in various biological processes, including DNA synthesis, cell division, and the maintenance of nerve function. Its solubility properties and physical state are important characteristics to understand for its use in dietary supplements and medical applications.\n\n### Solubility Properties:\n- **Water Solubility**: Cyanocobalamin is highly soluble in water. This property makes it easy to dissolve in aqueous solutions, which is beneficial for its absorption in the body.\n- **Solubility in Other Solvents**: While primarily water",
+      "latency_s": 10.34
+    },
+    {
+      "question": "Explain the role of cyanocobalamin in the human body and the consequences of its deficiency.",
+      "answer": "Cyanocobalamin, also known as vitamin B12, is an essential nutrient for humans that plays a crucial role in various bodily functions. It is primarily involved in the production of red blood cells and DNA synthesis, which are critical processes for cell growth and repair.\n\nThe role of cyanocobalamin in the human body includes:\n\n1. Red Blood Cell Production: Cyanocobalamin is necessary for the production of red blood cells. It helps in the formation of hemoglobin, the protein in red blood cells that carries oxygen throughout the body. Without sufficient cyanocobalamin, red blood cells may become ab",
+      "latency_s": 10.34
+    }
+  ]
+}

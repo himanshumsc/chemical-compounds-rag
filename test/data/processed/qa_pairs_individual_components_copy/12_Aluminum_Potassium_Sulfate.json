@@ -1,0 +1,36 @@
+{
+  "compound_id": 8,
+  "compound_name": "Aluminum Potassium Sulfate",
+  "source_file": "compound_008_Aluminum Potassium Sulfate.json",
+  "main_entry_length": 4489,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0104_Aluminum_Potassium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Aluminum Potassium Sulfate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of aluminum potassium sulfate and what elements does it contain?",
+      "answer": "The chemical formula for aluminum potassium sulfate is KAl(SO4)2. This compound contains the elements potassium (K), aluminum (Al), sulfur (S), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of aluminum potassium sulfate and how it changes with temperature.",
+      "answer": "Aluminum potassium sulfate is soluble in cold water and becomes very soluble in hot water, meaning that it dissolves more readily as the temperature increases. However, it is insoluble in organic solvents such as alcohol, ether, and acetone. This solubility behavior is typical for many inorganic salts, where increased temperature generally enhances solubility in water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical and modern uses of aluminum potassium sulfate and the reasons for its effectiveness in these applications.",
+      "answer": "Historically, alums like aluminum potassium sulfate were used as deodorants due to their astringent properties, which cause tissues to shrink and reduce perspiration. In the textile industry, it serves as a mordant, helping dyes adhere permanently to fibers. In papermaking, it is used to enhance the surface quality of paper and intensify inks. In water treatment, it acts as a flocculant, helping to settle suspended particles. Modern uses also include its role in leather tanning, fabric waterproofing, and as a food additive to control acidity. The compound's effectiveness in these diverse applications is largely due to its ability to interact with other substances to produce desired physical and chemical changes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 24,
+  "compound_name": "Butyl Mercaptan",
+  "source_file": "compound_024_Butyl Mercaptan.json",
+  "main_entry_length": 3793,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0180_Butyl_Mercaptan_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:14",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is butyl mercaptan. It is a compound composed of hydrogen (white atoms), carbon (black atoms), and selenium (turquoise atom), although typically sulfur is involved in mercaptans, not selenium. Butyl mercaptan is known for its strong skunk-like odor. It exists in three isomeric forms, which are mobile liquids. Despite previous beliefs, butyl mercaptans are not responsible for the distinctive odor of skunk spray, though some mercaptans are present in it.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:58"
+    },
+    {
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "answer": "The molecular formula of butyl mercaptan is C4H10S. It contains the elements carbon, hydrogen, and sulfur.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the concept of isomers in the context of butyl mercaptan and name its three isomers.",
+      "answer": "Isomers are molecules that have the same molecular formula but different structural formulas and properties. In the context of butyl mercaptan, there are three isomers: n-butyl mercaptan (1-butanethiol), sec-butyl mercaptan (2-butanethiol), and tert-butyl mercaptan (2-methyl-2-propanethiol). These isomers differ in their expanded chemical formulas and physical properties such as melting and boiling points.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "answer": "Butyl mercaptan is commonly produced through a reaction between an iodobutane and a sulfhydryl compound like KSH, where the sulfhydryl group replaces the iodine. It is used as a solvent, in the preparation of insecticides and herbicides, as an additive for detecting natural gas leaks, and to enhance the flavor and aroma of foods. Despite its applications, butyl mercaptan is highly toxic and flammable, posing health and safety risks primarily to workers handling it. It must be handled with care to prevent exposure and fire hazards.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

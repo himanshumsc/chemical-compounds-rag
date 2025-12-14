@@ -1,0 +1,27 @@
+{
+  "source_file": "114_Phenol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows phenol. Phenol is an aromatic organic compound with the chemical formula C₆H₅OH. Here are some of its key properties:\n\n1. **Structure**: Phenol has a six-carbon ring structure (benzene ring) to which one hydroxyl (-OH) group is attached.\n2. **Chemical Formula**: It is represented as C₆H₅OH.\n3. **Physical Properties**:\n   - **Appearance**: Phenol is a white crystalline solid.\n   - **Melting Point**: Phenol melts at 40°C.",
+      "latency_s": 16.77
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phenol?",
+      "answer": "The chemical formula for phenol is \\( \\text{C}_6\\text{H}_5\\text{OH} \\). This means it has 6 carbon atoms, 5 hydrogen atoms, and one oxygen atom.\n\nTo calculate the molecular weight of phenol, we sum the atomic weights of each element in the molecule:\n\n- Carbon (C): The atomic weight of carbon is approximately 12.01 g/mol.\n- Hydrogen (H): The atomic weight of hydrogen is approximately 1.008 g/mol.\n- Oxygen (O): The atomic weight of oxygen is approximately 16.00",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Discuss the physical state and solubility properties of phenol.",
+      "answer": "Phenol, also known as carbolic acid, is an organic compound with the chemical formula C6H5OH. It is a colorless, crystalline solid at room temperature but can appear as a white powder or a clear liquid under certain conditions.\n\n### Physical State:\n- **Solid**: Phenol is typically found in its solid form at room temperature. It has a melting point of 40°C (104°F).\n- **Liquid**: When heated above its melting point, phenol transitions into a liquid state.\n- **Gas**: Phenol does not exist in gaseous form at room temperature due to its",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Explain the historical significance of phenol and its discovery.",
+      "answer": "Phenol, also known as carbolic acid, is a chemical compound with the molecular formula C6H5OH. It was discovered in 1828 by German chemist Friedrich Wöhler. Phenol has a long history of use in various fields due to its unique properties.\n\nHistorically, phenol played a significant role in the development of modern medicine and sanitation. In the mid-19th century, it was widely used as an antiseptic and disinfectant. The bactericidal properties of phenol were first recognized by Joseph Lister, a Scottish surgeon who introduced phenol as a surgical ant",
+      "latency_s": 10.65
+    }
+  ]
+}

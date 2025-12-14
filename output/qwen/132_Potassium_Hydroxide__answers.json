@@ -1,0 +1,27 @@
+{
+  "source_file": "132_Potassium_Hydroxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Hydroxide (KOH). The key properties of Potassium Hydroxide include:\n\n1. **Chemical Composition**: It consists of one potassium atom (turquoise), one oxygen atom (red), and two hydrogen atoms (white).\n2. **Appearance**: Potassium Hydroxide is a white or colorless solid.\n3. **Solubility**: It is highly soluble in water, forming a strong base solution.\n4. **Concentration**: It is typically available as a concentrated aqueous solution.\n5. **Reactivity**: It reacts vigorously with acids to form salts and",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Hydroxide?",
+      "answer": "The chemical formula for Potassium Hydroxide (also known as KOH) is:\n\n\\[ \\text{KOH} \\]\n\nTo find the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K): 39.10 g/mol\n- Oxygen (O): 16.00 g/mol\n- Hydrogen (H): 1.01 g/mol\n\nNow, calculate the total molecular weight:\n\n\\[\n\\text{Molecular Weight of KOH} = 39.10 \\, \\text{g/mol} + 1",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Why is Potassium Hydroxide considered a deliquescent material, and what happens when it absorbs carbon dioxide from the air?",
+      "answer": "Potassium hydroxide (KOH) is considered a deliquescent material because it readily absorbs moisture from the air, causing it to dissolve into a solution. This process is called deliquescence. Deliquescent materials are typically strong bases that can absorb water vapor from the air, leading to their dissolution.\n\n### Properties of Potassium Hydroxide:\n- **Strong Base**: KOH is a strong base with a high melting point.\n- **Solubility in Water**: It dissolves easily in water, forming a strongly basic solution.\n- **Deliquescent**: It absorbs moisture from the air, turning into a liquid",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain the process by which Potassium Hydroxide is manufactured and describe its reactivity with metals in moist air.",
+      "answer": "Potassium hydroxide (KOH) is a strong base that is commonly used in various industrial and laboratory applications due to its high solubility and strong alkaline properties. The manufacturing of potassium hydroxide typically involves one of two main processes: electrolysis of brine or precipitation from potassium chloride.\n\n### Manufacturing Process\n\n1. **Electrolysis of Brine**:\n   - **Step 1**: Brine, which is a solution of sodium chloride (NaCl) in water, is passed through an electrolytic cell.\n   - **Step 2**: An electric current is applied across the cell, causing the",
+      "latency_s": 10.58
+    }
+  ]
+}

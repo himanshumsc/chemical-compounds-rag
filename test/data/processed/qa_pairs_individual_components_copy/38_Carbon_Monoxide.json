@@ -1,0 +1,36 @@
+{
+  "compound_id": 35,
+  "compound_name": "Carbon Monoxide",
+  "source_file": "compound_035_Carbon Monoxide.json",
+  "main_entry_length": 4853,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0234_Carbon_Monoxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Carbon Monoxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Carbon Monoxide?",
+      "answer": "The chemical formula of Carbon Monoxide is CO, and its molecular weight is 28.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is carbon monoxide considered a toxic gas and what conditions lead to its formation?",
+      "answer": "Carbon monoxide is considered a toxic gas because it is colorless, odorless, tasteless, and can bond to hemoglobin in the bloodstream 200 times as efficiently as oxygen, which prevents oxygen from being transported in the body. It forms under conditions of incomplete combustion, which occur when there is an inadequate supply of oxygen, low temperatures, or certain other conditions, leading to the production of carbon monoxide along with carbon dioxide and water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe one method of commercial production of carbon monoxide and its industrial application.",
+      "answer": "One method of commercial production of carbon monoxide involves passing steam over hot coke or graphite to produce water gas, which is a mixture of carbon monoxide, carbon dioxide, hydrogen, and nitrogen. The carbon monoxide can be separated from the mixture for use. One major industrial application of carbon monoxide is in the synthesis of organic compounds, such as the Fischer-Tropsch reactions where carbon monoxide is reduced with hydrogen to produce various organic compounds containing oxygen.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

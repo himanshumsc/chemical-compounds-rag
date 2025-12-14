@@ -1,0 +1,59 @@
+{
+  "source_file": "29_Caffeine.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows caffeine, a methylxanthine alkaloid. Key properties: stimulant, used in beverages, known for its caffeine content.",
+      "latency_s": 39.65,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of caffeine and which elements does it consist of?",
+      "answer": "The chemical formula of caffeine is C8H10N4O2, consisting of carbon, hydrogen, nitrogen, and oxygen.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Describe the physical state and solubility characteristics of caffeine based on the given information.",
+      "answer": "Caffeine is a white crystalline powder. It is freely soluble in water, alcohol, and ether, and moderately soluble in acetone and benzene.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Explain the significance of caffeine's melting and sublimation points and how these properties might affect its practical use.",
+      "answer": "Caffeine's melting point is approximately 232°C, and its sublimation point is around 190°C. These high temperatures imply that caffeine is not easily melted or sublimated, which might affect its practical use in products like chewing gum or tablets, as it requires significant heat to be incorporated into other materials.",
+      "latency_s": 26.21,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:37:23",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:37:23",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

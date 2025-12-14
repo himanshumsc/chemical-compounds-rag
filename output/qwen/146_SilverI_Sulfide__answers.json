@@ -1,0 +1,27 @@
+{
+  "source_file": "146_SilverI_Sulfide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows **silver(I) sulfide** (Ag₂S). Here are some of its key properties:\n\n1. **Composition**: Silver(I) sulfide consists of silver atoms (Ag) and sulfur atoms (S).\n2. **Appearance**: It appears as a yellowish powder.\n3. **Chemical Uses**:\n   - **Production of Glazes for Ceramics**: Silver(I) sulfide gives a glassy or metallic sheen to glazes used on ceramics.\n   - **Niello Process**: Historically, it was used in the niello process to produce black metallic inlays on",
+      "latency_s": 16.88
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Sulfide?",
+      "answer": "The chemical formula for Silver(I) Sulfide is Ag₂S.\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- The atomic weight of Silver (Ag) is approximately 107.87 g/mol.\n- The atomic weight of Sulfur (S) is approximately 32.065 g/mol.\n\nSince there are two atoms of Silver and one atom of Sulfur in the formula Ag₂S, the calculation would be as follows:\n\n\\[ \\text{Molecular Weight} = (2 \\times 107.87 \\",
+      "latency_s": 10.57
+    },
+    {
+      "question": "How is Silver(I) Sulfide naturally and synthetically produced?",
+      "answer": "Silver(I) sulfide, also known as silver sulfide or silver(I) disulfide (Ag₂S), can be produced both naturally and synthetically.\n\n### Natural Production:\nSilver(I) sulfide is not typically found in nature in its pure form due to the rarity of free silver ions in aqueous solutions. However, it can be formed under certain conditions:\n\n1. **Volcanic Activity**: In some volcanic regions, silver(I) sulfide can be formed when sulfur-rich gases react with silver ions in the soil or water. This process is often associated with the formation of natural silver deposits.\n2. **Geothermal",
+      "latency_s": 10.57
+    },
+    {
+      "question": "Describe the primary uses and potential hazards associated with Silver(I) Sulfide.",
+      "answer": "Silver(I) sulfide, also known as silver sulfide or silver(I) disulfide (Ag₂S), is an inorganic compound that has several applications but also presents certain safety concerns.\n\n### Primary Uses of Silver(I) Sulfide:\n\n1. **Photography**: Silver(I) sulfide is used in the production of photographic materials due to its sensitivity to light. It forms part of the emulsion layer in film and paper, where it reacts with light to produce a latent image.\n\n2. **Catalysis**: Silver(I) sulfide can act as a catalyst in various chemical reactions, particularly in the reduction of",
+      "latency_s": 10.57
+    }
+  ]
+}

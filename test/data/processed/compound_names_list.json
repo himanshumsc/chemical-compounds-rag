@@ -1,0 +1,1074 @@
+[
+  {
+    "compound_id": 1,
+    "name": "Acetic acid . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 23,
+    "end_page": 26
+  },
+  {
+    "compound_id": 2,
+    "name": "Acetylene . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 27,
+    "end_page": 30
+  },
+  {
+    "compound_id": 3,
+    "name": ". . . . . . . . . . . . . . . . .",
+    "start_page": 31,
+    "end_page": 36
+  },
+  {
+    "compound_id": 4,
+    "name": "Alpha-Tocopherol . . . . . . . . . . . . . . . . . . .",
+    "start_page": 37,
+    "end_page": 40
+  },
+  {
+    "compound_id": 5,
+    "name": "Aluminum Fluoride. . . . . . . . . . . . . . . . . .",
+    "start_page": 41,
+    "end_page": 44
+  },
+  {
+    "compound_id": 6,
+    "name": "Aluminum Hydroxide . . . . . . . . . . . . . . . .",
+    "start_page": 45,
+    "end_page": 48
+  },
+  {
+    "compound_id": 7,
+    "name": "Aluminum Oxide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 49,
+    "end_page": 52
+  },
+  {
+    "compound_id": 8,
+    "name": "Aluminum Potassium Sulfate . . . . . . . . . . .",
+    "start_page": 53,
+    "end_page": 56
+  },
+  {
+    "compound_id": 9,
+    "name": "Ammonia . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 57,
+    "end_page": 62
+  },
+  {
+    "compound_id": 10,
+    "name": "Ammonium Chloride . . . . . . . . . . . . . . . . .",
+    "start_page": 63,
+    "end_page": 68
+  },
+  {
+    "compound_id": 11,
+    "name": "Ammonium Hydroxide . . . . . . . . . . . . . . .",
+    "start_page": 69,
+    "end_page": 72
+  },
+  {
+    "compound_id": 12,
+    "name": "Ammonium Nitrate. . . . . . . . . . . . . . . . . .",
+    "start_page": 73,
+    "end_page": 76
+  },
+  {
+    "compound_id": 13,
+    "name": "Ammonium Sulfate. . . . . . . . . . . . . . . . . .",
+    "start_page": 77,
+    "end_page": 80
+  },
+  {
+    "compound_id": 14,
+    "name": "Amoxicillin . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 81,
+    "end_page": 84
+  },
+  {
+    "compound_id": 15,
+    "name": "Amyl Acetate. . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 85,
+    "end_page": 88
+  },
+  {
+    "compound_id": 16,
+    "name": "Amyl Nitrite . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 89,
+    "end_page": 92
+  },
+  {
+    "compound_id": 17,
+    "name": "Ascorbic Acid . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 93,
+    "end_page": 98
+  },
+  {
+    "compound_id": 18,
+    "name": "Benzene . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 99,
+    "end_page": 104
+  },
+  {
+    "compound_id": 19,
+    "name": "Benzoic Acid . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 105,
+    "end_page": 108
+  },
+  {
+    "compound_id": 20,
+    "name": "Beta-Carotene . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 109,
+    "end_page": 114
+  },
+  {
+    "compound_id": 21,
+    "name": "Boric Acid. . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 115,
+    "end_page": 118
+  },
+  {
+    "compound_id": 22,
+    "name": "Butane . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 119,
+    "end_page": 124
+  },
+  {
+    "compound_id": 23,
+    "name": "Butyl Acetate . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 125,
+    "end_page": 128
+  },
+  {
+    "compound_id": 24,
+    "name": "Butyl Mercaptan . . . . . . . . . . . . . . . . . . .",
+    "start_page": 129,
+    "end_page": 132
+  },
+  {
+    "compound_id": 25,
+    "name": "Hydroxytoluene . . . . . . . . . . . . . . . . . . .",
+    "start_page": 133,
+    "end_page": 136
+  },
+  {
+    "compound_id": 26,
+    "name": "Caffeine . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 137,
+    "end_page": 142
+  },
+  {
+    "compound_id": 27,
+    "name": "Calcium Carbonate . . . . . . . . . . . . . . . . . .",
+    "start_page": 143,
+    "end_page": 146
+  },
+  {
+    "compound_id": 28,
+    "name": "Calcium Hydroxide . . . . . . . . . . . . . . . . . .",
+    "start_page": 147,
+    "end_page": 150
+  },
+  {
+    "compound_id": 29,
+    "name": "Calcium Oxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 151,
+    "end_page": 154
+  },
+  {
+    "compound_id": 30,
+    "name": "Calcium Phosphate . . . . . . . . . . . . . . . . . .",
+    "start_page": 155,
+    "end_page": 160
+  },
+  {
+    "compound_id": 31,
+    "name": "Calcium Silicate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 161,
+    "end_page": 164
+  },
+  {
+    "compound_id": 32,
+    "name": "Calcium Sulfate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 165,
+    "end_page": 170
+  },
+  {
+    "compound_id": 33,
+    "name": "Camphor. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 171,
+    "end_page": 176
+  },
+  {
+    "compound_id": 34,
+    "name": "Carbon Dioxide . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 177,
+    "end_page": 182
+  },
+  {
+    "compound_id": 35,
+    "name": "Carbon Monoxide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 183,
+    "end_page": 188
+  },
+  {
+    "compound_id": 36,
+    "name": "Carbon Tetrachloride. . . . . . . . . . . . . . . . .",
+    "start_page": 189,
+    "end_page": 194
+  },
+  {
+    "compound_id": 37,
+    "name": "Cellulose. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 195,
+    "end_page": 200
+  },
+  {
+    "compound_id": 38,
+    "name": "Cellulose Nitrate . . . . . . . . . . . . . . . . . . .",
+    "start_page": 201,
+    "end_page": 206
+  },
+  {
+    "compound_id": 39,
+    "name": "Cellulose Xanthate . . . . . . . . . . . . . . . . .",
+    "start_page": 207,
+    "end_page": 210
+  },
+  {
+    "compound_id": 40,
+    "name": "Chloroform . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 211,
+    "end_page": 216
+  },
+  {
+    "compound_id": 41,
+    "name": "Chlorophyll . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 217,
+    "end_page": 222
+  },
+  {
+    "compound_id": 42,
+    "name": "Cholesterol . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 223,
+    "end_page": 228
+  },
+  {
+    "compound_id": 43,
+    "name": "Cinnamaldehyde. . . . . . . . . . . . . . . . . . .",
+    "start_page": 229,
+    "end_page": 232
+  },
+  {
+    "compound_id": 44,
+    "name": "Citric Acid . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 233,
+    "end_page": 238
+  },
+  {
+    "compound_id": 45,
+    "name": "Collagen . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 239,
+    "end_page": 242
+  },
+  {
+    "compound_id": 46,
+    "name": "Copper(I) Oxide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 243,
+    "end_page": 246
+  },
+  {
+    "compound_id": 47,
+    "name": "Copper(II) Oxide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 247,
+    "end_page": 250
+  },
+  {
+    "compound_id": 48,
+    "name": "Copper(II) Sulfate . . . . . . . . . . . . . . . . . . .",
+    "start_page": 251,
+    "end_page": 254
+  },
+  {
+    "compound_id": 49,
+    "name": "Cumene . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 255,
+    "end_page": 258
+  },
+  {
+    "compound_id": 50,
+    "name": "Cyanoacrylate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 259,
+    "end_page": 264
+  },
+  {
+    "compound_id": 51,
+    "name": "Cyanocobalamin . . . . . . . . . . . . . . . . . . .",
+    "start_page": 265,
+    "end_page": 270
+  },
+  {
+    "compound_id": 52,
+    "name": "Denatonium Benzoate . . . . . . . . . . . . . . . .",
+    "start_page": 271,
+    "end_page": 276
+  },
+  {
+    "compound_id": 53,
+    "name": "Dichlorodifluoromethane . . . . . . . . . . . . .",
+    "start_page": 277,
+    "end_page": 282
+  },
+  {
+    "compound_id": 54,
+    "name": "Dichlorodiphenyltrichloroethane . . . . . . . .",
+    "start_page": 283,
+    "end_page": 288
+  },
+  {
+    "compound_id": 55,
+    "name": "Dimethyl Ketone . . . . . . . . . . . . . . . . . .",
+    "start_page": 289,
+    "end_page": 292
+  },
+  {
+    "compound_id": 56,
+    "name": "Ethyl Acetate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 293,
+    "end_page": 296
+  },
+  {
+    "compound_id": 57,
+    "name": "Ethyl Alcohol . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 297,
+    "end_page": 302
+  },
+  {
+    "compound_id": 58,
+    "name": "Ethylbenzene. . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 303,
+    "end_page": 306
+  },
+  {
+    "compound_id": 59,
+    "name": "Ethylene. . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 307,
+    "end_page": 312
+  },
+  {
+    "compound_id": 60,
+    "name": "Ethylene Glycol . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 313,
+    "end_page": 316
+  },
+  {
+    "compound_id": 61,
+    "name": "Ethylene Oxide . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 317,
+    "end_page": 320
+  },
+  {
+    "compound_id": 62,
+    "name": "Folic Acid . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 321,
+    "end_page": 324
+  },
+  {
+    "compound_id": 63,
+    "name": "Formaldehyde . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 325,
+    "end_page": 328
+  },
+  {
+    "compound_id": 64,
+    "name": "Fructose . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 329,
+    "end_page": 332
+  },
+  {
+    "compound_id": 65,
+    "name": "Gamma-1,2,3,4,5,6-Hexachlorocyclohexane . .",
+    "start_page": 333,
+    "end_page": 336
+  },
+  {
+    "compound_id": 66,
+    "name": "Gelatin . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 337,
+    "end_page": 342
+  },
+  {
+    "compound_id": 67,
+    "name": "Glucose. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 343,
+    "end_page": 348
+  },
+  {
+    "compound_id": 68,
+    "name": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 349,
+    "end_page": 352
+  },
+  {
+    "compound_id": 69,
+    "name": "Hexane. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 353,
+    "end_page": 356
+  },
+  {
+    "compound_id": 70,
+    "name": "Hydrogen Chloride . . . . . . . . . . . . . . . . .",
+    "start_page": 357,
+    "end_page": 362
+  },
+  {
+    "compound_id": 71,
+    "name": "Hydrogen Peroxide . . . . . . . . . . . . . . . . .",
+    "start_page": 363,
+    "end_page": 366
+  },
+  {
+    "compound_id": 72,
+    "name": "Iron(II) Oxide. . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 367,
+    "end_page": 370
+  },
+  {
+    "compound_id": 73,
+    "name": "Iron(III) Oxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 371,
+    "end_page": 376
+  },
+  {
+    "compound_id": 74,
+    "name": "Isoamyl Acetate . . . . . . . . . . . . . . . . . . .",
+    "start_page": 377,
+    "end_page": 380
+  },
+  {
+    "compound_id": 75,
+    "name": "Isoprene . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 381,
+    "end_page": 386
+  },
+  {
+    "compound_id": 76,
+    "name": "Isopropyl Alcohol . . . . . . . . . . . . . . . . . .",
+    "start_page": 387,
+    "end_page": 390
+  },
+  {
+    "compound_id": 77,
+    "name": "Lactic Acid . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 391,
+    "end_page": 396
+  },
+  {
+    "compound_id": 78,
+    "name": "Lactose. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 397,
+    "end_page": 400
+  },
+  {
+    "compound_id": 79,
+    "name": "L-Aspartyl-L-Phenylalanine Methyl Ester. . .",
+    "start_page": 401,
+    "end_page": 406
+  },
+  {
+    "compound_id": 80,
+    "name": "Luminol . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 407,
+    "end_page": 410
+  },
+  {
+    "compound_id": 81,
+    "name": "Magnesium Chloride . . . . . . . . . . . . . . . . .",
+    "start_page": 411,
+    "end_page": 414
+  },
+  {
+    "compound_id": 82,
+    "name": "Magnesium Hydroxide. . . . . . . . . . . . . . . .",
+    "start_page": 415,
+    "end_page": 418
+  },
+  {
+    "compound_id": 83,
+    "name": "Magnesium Oxide. . . . . . . . . . . . . . . . . . .",
+    "start_page": 419,
+    "end_page": 422
+  },
+  {
+    "compound_id": 84,
+    "name": "Magnesium Silicate Hydroxide . . . . . . . . .",
+    "start_page": 423,
+    "end_page": 428
+  },
+  {
+    "compound_id": 85,
+    "name": "Magnesium Sulfate. . . . . . . . . . . . . . . . .",
+    "start_page": 429,
+    "end_page": 434
+  },
+  {
+    "compound_id": 86,
+    "name": "Menthol . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 435,
+    "end_page": 438
+  },
+  {
+    "compound_id": 87,
+    "name": "Mercury(II) Sulfide . . . . . . . . . . . . . . . . .",
+    "start_page": 439,
+    "end_page": 442
+  },
+  {
+    "compound_id": 88,
+    "name": "Methane . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 443,
+    "end_page": 448
+  },
+  {
+    "compound_id": 89,
+    "name": "Methyl Alcohol . . . . . . . . . . . . . . . . . . .",
+    "start_page": 449,
+    "end_page": 454
+  },
+  {
+    "compound_id": 90,
+    "name": "Methyl Mercaptan . . . . . . . . . . . . . . . . .",
+    "start_page": 455,
+    "end_page": 458
+  },
+  {
+    "compound_id": 91,
+    "name": "Methyl-t-butyl Ether . . . . . . . . . . . . . . . .",
+    "start_page": 459,
+    "end_page": 464
+  },
+  {
+    "compound_id": 92,
+    "name": "Monosodium Glutamate . . . . . . . . . . . . . .",
+    "start_page": 465,
+    "end_page": 468
+  },
+  {
+    "compound_id": 93,
+    "name": "N,N-Diethyl-3-Methylbenzamide. . . . . . . . .",
+    "start_page": 469,
+    "end_page": 472
+  },
+  {
+    "compound_id": 94,
+    "name": "Naphthalene . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 473,
+    "end_page": 476
+  },
+  {
+    "compound_id": 95,
+    "name": "Naproxen . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 477,
+    "end_page": 482
+  },
+  {
+    "compound_id": 96,
+    "name": "Niacin . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 483,
+    "end_page": 486
+  },
+  {
+    "compound_id": 97,
+    "name": "Nicotine . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 487,
+    "end_page": 492
+  },
+  {
+    "compound_id": 98,
+    "name": "Nitric Acid . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 493,
+    "end_page": 496
+  },
+  {
+    "compound_id": 99,
+    "name": "Nitric Oxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 497,
+    "end_page": 502
+  },
+  {
+    "compound_id": 100,
+    "name": "Nitrogen Dioxide . . . . . . . . . . . . . . . . . .",
+    "start_page": 503,
+    "end_page": 506
+  },
+  {
+    "compound_id": 101,
+    "name": "Nitroglycerin. . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 507,
+    "end_page": 512
+  },
+  {
+    "compound_id": 102,
+    "name": "Nitrous Oxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 513,
+    "end_page": 518
+  },
+  {
+    "compound_id": 103,
+    "name": "Nylon 6 and Nylon 66 . . . . . . . . . . . . . . . .",
+    "start_page": 519,
+    "end_page": 524
+  },
+  {
+    "compound_id": 104,
+    "name": "Oxalic Acid . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 525,
+    "end_page": 530
+  },
+  {
+    "compound_id": 105,
+    "name": "Pectin . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 531,
+    "end_page": 534
+  },
+  {
+    "compound_id": 106,
+    "name": "Penicillin . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 535,
+    "end_page": 540
+  },
+  {
+    "compound_id": 107,
+    "name": "Perchlorates . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 541,
+    "end_page": 546
+  },
+  {
+    "compound_id": 108,
+    "name": "Petrolatum . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 547,
+    "end_page": 552
+  },
+  {
+    "compound_id": 109,
+    "name": "Petroleum . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 553,
+    "end_page": 558
+  },
+  {
+    "compound_id": 110,
+    "name": "Phenol . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 559,
+    "end_page": 564
+  },
+  {
+    "compound_id": 111,
+    "name": "Phosphoric Acid. . . . . . . . . . . . . . . . . . .",
+    "start_page": 565,
+    "end_page": 570
+  },
+  {
+    "compound_id": 112,
+    "name": "Poly(Styrene-Butadiene-Styrene) . . . . . . . . .",
+    "start_page": 571,
+    "end_page": 574
+  },
+  {
+    "compound_id": 113,
+    "name": "Polycarbonates. . . . . . . . . . . . . . . . . . . .",
+    "start_page": 575,
+    "end_page": 578
+  },
+  {
+    "compound_id": 114,
+    "name": "Polyethylene . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 579,
+    "end_page": 582
+  },
+  {
+    "compound_id": 115,
+    "name": "Polymethyl Methacrylate . . . . . . . . . . . . .",
+    "start_page": 583,
+    "end_page": 586
+  },
+  {
+    "compound_id": 116,
+    "name": "Polypropylene . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 587,
+    "end_page": 590
+  },
+  {
+    "compound_id": 117,
+    "name": "Polysiloxane . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 591,
+    "end_page": 596
+  },
+  {
+    "compound_id": 118,
+    "name": "Polystyrene. . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 597,
+    "end_page": 602
+  },
+  {
+    "compound_id": 119,
+    "name": "Polytetrafluoroethylene . . . . . . . . . . . . . .",
+    "start_page": 603,
+    "end_page": 608
+  },
+  {
+    "compound_id": 120,
+    "name": "Polyurethane . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 609,
+    "end_page": 614
+  },
+  {
+    "compound_id": 121,
+    "name": "Polyvinyl Chloride . . . . . . . . . . . . . . . . . .",
+    "start_page": 615,
+    "end_page": 620
+  },
+  {
+    "compound_id": 122,
+    "name": "Potassium Bicarbonate . . . . . . . . . . . . . . .",
+    "start_page": 621,
+    "end_page": 624
+  },
+  {
+    "compound_id": 123,
+    "name": "Potassium Bisulfate . . . . . . . . . . . . . . . .",
+    "start_page": 625,
+    "end_page": 628
+  },
+  {
+    "compound_id": 124,
+    "name": "Potassium Bitartrate. . . . . . . . . . . . . . . .",
+    "start_page": 629,
+    "end_page": 632
+  },
+  {
+    "compound_id": 125,
+    "name": "Potassium Carbonate. . . . . . . . . . . . . . . .",
+    "start_page": 633,
+    "end_page": 638
+  },
+  {
+    "compound_id": 126,
+    "name": "Potassium Chloride. . . . . . . . . . . . . . . . .",
+    "start_page": 639,
+    "end_page": 642
+  },
+  {
+    "compound_id": 127,
+    "name": "Potassium Fluoride . . . . . . . . . . . . . . . . .",
+    "start_page": 643,
+    "end_page": 646
+  },
+  {
+    "compound_id": 128,
+    "name": "Potassium Hydroxide . . . . . . . . . . . . . . .",
+    "start_page": 647,
+    "end_page": 650
+  },
+  {
+    "compound_id": 129,
+    "name": "Potassium Iodide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 651,
+    "end_page": 654
+  },
+  {
+    "compound_id": 130,
+    "name": "Potassium Nitrate. . . . . . . . . . . . . . . . . .",
+    "start_page": 655,
+    "end_page": 658
+  },
+  {
+    "compound_id": 131,
+    "name": "Potassium Sulfate. . . . . . . . . . . . . . . . . .",
+    "start_page": 659,
+    "end_page": 662
+  },
+  {
+    "compound_id": 132,
+    "name": "Propane . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 663,
+    "end_page": 668
+  },
+  {
+    "compound_id": 133,
+    "name": "Propylene . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 669,
+    "end_page": 672
+  },
+  {
+    "compound_id": 134,
+    "name": "Pyridoxine . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 673,
+    "end_page": 676
+  },
+  {
+    "compound_id": 135,
+    "name": "Retinol. . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 677,
+    "end_page": 682
+  },
+  {
+    "compound_id": 136,
+    "name": "Riboflavin. . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 683,
+    "end_page": 688
+  },
+  {
+    "compound_id": 137,
+    "name": "Saccharin . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 689,
+    "end_page": 694
+  },
+  {
+    "compound_id": 138,
+    "name": "Silicon Dioxide . . . . . . . . . . . . . . . . . . .",
+    "start_page": 695,
+    "end_page": 700
+  },
+  {
+    "compound_id": 139,
+    "name": "Silver Iodide . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 701,
+    "end_page": 704
+  },
+  {
+    "compound_id": 140,
+    "name": "Silver Nitrate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 705,
+    "end_page": 710
+  },
+  {
+    "compound_id": 141,
+    "name": "Silver(I) Oxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 711,
+    "end_page": 714
+  },
+  {
+    "compound_id": 142,
+    "name": "Silver(I) Sulfide . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 715,
+    "end_page": 718
+  },
+  {
+    "compound_id": 143,
+    "name": "Sodium Acetate . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 719,
+    "end_page": 722
+  },
+  {
+    "compound_id": 144,
+    "name": "Sodium Bicarbonate . . . . . . . . . . . . . . . .",
+    "start_page": 723,
+    "end_page": 728
+  },
+  {
+    "compound_id": 145,
+    "name": "Sodium Carbonate . . . . . . . . . . . . . . . . .",
+    "start_page": 729,
+    "end_page": 734
+  },
+  {
+    "compound_id": 146,
+    "name": "Sodium Chloride. . . . . . . . . . . . . . . . . . .",
+    "start_page": 735,
+    "end_page": 740
+  },
+  {
+    "compound_id": 147,
+    "name": "Sodium Cyclamate . . . . . . . . . . . . . . . . . .",
+    "start_page": 741,
+    "end_page": 746
+  },
+  {
+    "compound_id": 148,
+    "name": "Sodium Fluoride. . . . . . . . . . . . . . . . . . .",
+    "start_page": 747,
+    "end_page": 752
+  },
+  {
+    "compound_id": 149,
+    "name": "Sodium Hydroxide . . . . . . . . . . . . . . . . .",
+    "start_page": 753,
+    "end_page": 758
+  },
+  {
+    "compound_id": 150,
+    "name": "Sodium Hypochlorite . . . . . . . . . . . . . . .",
+    "start_page": 759,
+    "end_page": 764
+  },
+  {
+    "compound_id": 151,
+    "name": "Sodium Perborate. . . . . . . . . . . . . . . . . .",
+    "start_page": 765,
+    "end_page": 768
+  },
+  {
+    "compound_id": 152,
+    "name": "Sodium Phosphate . . . . . . . . . . . . . . . . .",
+    "start_page": 769,
+    "end_page": 772
+  },
+  {
+    "compound_id": 153,
+    "name": "Sodium Polyacrylate . . . . . . . . . . . . . . . .",
+    "start_page": 773,
+    "end_page": 778
+  },
+  {
+    "compound_id": 154,
+    "name": "Sodium Silicate . . . . . . . . . . . . . . . . . . .",
+    "start_page": 779,
+    "end_page": 784
+  },
+  {
+    "compound_id": 155,
+    "name": "Sodium Sulfite. . . . . . . . . . . . . . . . . . . .",
+    "start_page": 785,
+    "end_page": 788
+  },
+  {
+    "compound_id": 156,
+    "name": "Sodium Tetraborate . . . . . . . . . . . . . . . .",
+    "start_page": 789,
+    "end_page": 794
+  },
+  {
+    "compound_id": 157,
+    "name": "Sodium Thiosulfate. . . . . . . . . . . . . . . . .",
+    "start_page": 795,
+    "end_page": 798
+  },
+  {
+    "compound_id": 158,
+    "name": "Stannous Fluoride . . . . . . . . . . . . . . . . .",
+    "start_page": 799,
+    "end_page": 802
+  },
+  {
+    "compound_id": 159,
+    "name": "Styrene . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 803,
+    "end_page": 806
+  },
+  {
+    "compound_id": 160,
+    "name": "Sucrose . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 807,
+    "end_page": 812
+  },
+  {
+    "compound_id": 161,
+    "name": "Sucrose Polyester . . . . . . . . . . . . . . . . . . .",
+    "start_page": 813,
+    "end_page": 818
+  },
+  {
+    "compound_id": 162,
+    "name": "Sulfur Dioxide . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 819,
+    "end_page": 824
+  },
+  {
+    "compound_id": 163,
+    "name": "Sulfuric Acid . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 825,
+    "end_page": 830
+  },
+  {
+    "compound_id": 164,
+    "name": "Tannic Acid. . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 831,
+    "end_page": 836
+  },
+  {
+    "compound_id": 165,
+    "name": "Testosterone . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 837,
+    "end_page": 842
+  },
+  {
+    "compound_id": 166,
+    "name": "Theobromine . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 843,
+    "end_page": 846
+  },
+  {
+    "compound_id": 167,
+    "name": "Thiamine . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 847,
+    "end_page": 852
+  },
+  {
+    "compound_id": 168,
+    "name": "Toluene . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 853,
+    "end_page": 858
+  },
+  {
+    "compound_id": 169,
+    "name": "Triclocarban . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 859,
+    "end_page": 862
+  },
+  {
+    "compound_id": 170,
+    "name": "Triclosan . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 863,
+    "end_page": 866
+  },
+  {
+    "compound_id": 171,
+    "name": "Urea . . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 867,
+    "end_page": 872
+  },
+  {
+    "compound_id": 172,
+    "name": "Vanillin . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 873,
+    "end_page": 878
+  },
+  {
+    "compound_id": 173,
+    "name": "Water. . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 879,
+    "end_page": 884
+  },
+  {
+    "compound_id": 174,
+    "name": "Zinc Oxide . . . . . . . . . . . . . . . . . . . . . .",
+    "start_page": 885,
+    "end_page": 900
+  },
+  {
+    "compound_id": 175,
+    "name": "2,2'-Dichlorodiethyl Sulfide (Mustard Gas)",
+    "start_page": 5,
+    "end_page": 5,
+    "total_pages": 1
+  },
+  {
+    "compound_id": 176,
+    "name": "2-(4-Isobutylphenyl)propionic Acid (Ibuprofen)",
+    "start_page": 9,
+    "end_page": 9,
+    "total_pages": 1
+  },
+  {
+    "compound_id": 177,
+    "name": "2,4,6-Trinitrotoluene (TNT)",
+    "start_page": 15,
+    "end_page": 15,
+    "total_pages": 1
+  },
+  {
+    "compound_id": 178,
+    "name": "1,3-Butadiene",
+    "start_page": 1,
+    "end_page": 3,
+    "total_pages": 3
+  }
+]

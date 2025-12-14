@@ -1,0 +1,58 @@
+{
+  "compound_id": 122,
+  "compound_name": "Potassium Bicarbonate",
+  "source_file": "compound_122_Potassium Bicarbonate.json",
+  "main_entry_length": 1346,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0672_Potassium_Bicarbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown is potassium bicarbonate. Key properties include:\n\n- **Composition**: Contains potassium (turquoise), carbon (black), oxygen (red), and hydrogen (white).\n- **Uses**: Serves as an antacid to relieve stomach pain and heartburn, treats potassium deficiency, and may aid in muscle and bone health.\n- **Applications**: Used as a food additive, leavening agent, and in fire extinguishers. It helps maintain acidity and provides fizz in carbonated drinks.\n- **Safety**: Generally safe, but excess can cause hyperkalemia, leading to tingling, muscle weakness, and temporary...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:06"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bicarbonate?",
+      "answer": "The chemical formula of Potassium Bicarbonate is KHCO3, and its molecular weight is 100.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:33",
+      "char_limit": 1000,
+      "answer_length": 97
+    },
+    {
+      "question": "Explain why Potassium Bicarbonate does not have a boiling point.",
+      "answer": "Potassium bicarbonate does not have a boiling point because it decomposes above 100°C (212°F) instead of boiling. When heated beyond this temperature, the compound breaks down rather than transitioning into a gaseous state, making the concept of a boiling point not applicable to this substance.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:37",
+      "char_limit": 1800,
+      "answer_length": 295
+    },
+    {
+      "question": "Describe the process of how Potassium Bicarbonate is manufactured.",
+      "answer": "Potassium bicarbonate (KHCO3) is manufactured by passing carbon dioxide gas through an aqueous solution of potassium carbonate. The chemical reaction involved is:\n\n\\[ \\text{K}_2\\text{CO}_3 + \\text{CO}_2 + \\text{H}_2\\text{O} \\rightarrow 2\\text{KHCO}_3 \\]\n\nAdditionally, potassium bicarbonate can also be produced by treating potassium hydroxide (KOH) with carbon dioxide (CO2). The potassium hydroxide is obtained by electrolysis before being reacted with CO2 to yield potassium bicarbonate.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:39",
+      "char_limit": 2000,
+      "answer_length": 490
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3755,
+  "updated_at": "2025-11-30 13:40:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

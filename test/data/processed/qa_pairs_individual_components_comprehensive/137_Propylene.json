@@ -1,0 +1,58 @@
+{
+  "compound_id": 133,
+  "compound_name": "Propylene",
+  "source_file": "compound_133_Propylene.json",
+  "main_entry_length": 1293,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0720_Propylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:16",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of propylene, also known as propene. It is a hydrocarbon with the chemical formula C₃H₆. Key properties of propylene include:\n\n1. **Structure**: It consists of three carbon atoms and six hydrogen atoms, with a double bond between two of the carbon atoms.\n2. **Physical State**: It is a colorless gas at room temperature.\n3. **Reactivity**: The presence of the double bond makes it more reactive than alkanes, allowing it to undergo addition reactions.\n4. **Uses**: It is used in the production of polypropylene, a common plastic, and as a raw material in...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:03"
+    },
+    {
+      "question": "What is the chemical formula of propylene and what type of compound is it classified as?",
+      "answer": "The chemical formula of propylene is CH2=CHCH3. It is classified as an alkene and is an unsaturated hydrocarbon (organic compound).",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:37",
+      "char_limit": 1000,
+      "answer_length": 131
+    },
+    {
+      "question": "Explain the solubility properties of propylene and how it relates to its molecular structure.",
+      "answer": "Propylene, also known as propene, has the chemical formula CH2=CHCH3 and is categorized as an alkene, a type of unsaturated hydrocarbon. According to the provided information, propylene is slightly soluble in water but very soluble in ethyl alcohol and ether. This solubility behavior can be attributed to its molecular structure and properties.\n\nAs an alkene, propylene has a double bond between carbon atoms, contributing to its unsaturation. Its molecular structure consists of three carbon atoms and six hydrogen atoms, making it a nonpolar molecule. Nonpolar compounds generally have low solubility in polar solvents like water, which explains why propylene is only slightly soluble in water.\n\nConversely, propylene is very soluble in nonpolar or less polar solvents such as ethyl alcohol and ether. These solvents can better interact with the nonpolar characteristics of propylene, facilitating its dissolution. The structure and nonpolar nature of propylene allow it to interact more favorably with similar nonpolar or weakly polar environments, leading to higher solubility in such solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:44",
+      "char_limit": 1800,
+      "answer_length": 1099
+    },
+    {
+      "question": "Describe the commercial production process of propylene and explain the role of a catalyst in this process.",
+      "answer": "Propylene, also known as propene, is commercially produced through a process called cracking, which involves breaking down large hydrocarbons into smaller ones. There are two primary methods for cracking: thermal cracking and catalytic cracking. \n\nIn thermal cracking, hydrocarbons are exposed to high temperatures, which induces the breakdown of larger molecules. This method is also referred to as steam cracking due to the use of steam to achieve the necessary high temperatures. \n\nCatalytic cracking, on the other hand, employs a catalyst to increase the rate of the chemical reaction without being consumed in the process. The catalyst aids in breaking down the hydrocarbons more efficiently and at lower temperatures compared to thermal cracking. \n\nThe production of propylene through these methods is essential due to its significant role in manufacturing polypropylene, a widely used polymer.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:42:49",
+      "char_limit": 2000,
+      "answer_length": 900
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 7312,
+  "updated_at": "2025-11-30 13:42:50",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 172,
+  "compound_name": "Vanillin",
+  "source_file": "compound_172_Vanillin.json",
+  "main_entry_length": 1385,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0924_Vanillin_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:58",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the molecular structure diagram is vanillin. Vanillin is the primary constituent of vanilla extract, known for its distinctive aroma and flavor. The molecule consists of oxygen (red atoms), hydrogen (white atoms), and carbon (black atoms), featuring a benzene ring (striped sticks) and a double bond (gray stick). It is commonly used as a flavoring agent in foods and fragrances. Vanillin can be naturally extracted from vanilla pods or synthesized from lignin, a byproduct of the wood pulp industry.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:20"
+    },
+    {
+      "question": "What is the chemical formula of vanillin and what elements does it contain?",
+      "answer": "The chemical formula of vanillin is (CH3O)(OH)C6H3CHO. It contains the elements carbon (C), hydrogen (H), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is vanillin classified as an ether in organic chemistry, and what are its solubility properties?",
+      "answer": "Vanillin is classified as an ether because it is the methyl ether of 4-hydroxybenzoic acid, which involves an ether linkage (a C-O-C bond) in its structure. Regarding solubility, vanillin is slightly soluble in water but is soluble in glycerol, ethyl alcohol, ether, and acetone.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the historical significance of vanillin as a spice and how it is naturally obtained.",
+      "answer": "Vanillin, responsible for the vanilla flavor, has historical significance as it was first used as a flavoring by the inhabitants of South and Central America before European colonization. Spanish explorers introduced it to Europe, where it quickly gained popularity as a food additive. Naturally, vanillin is obtained from the seed pod of the tropical orchid Vanilla planifolia, though the extraction process is lengthy and expensive.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

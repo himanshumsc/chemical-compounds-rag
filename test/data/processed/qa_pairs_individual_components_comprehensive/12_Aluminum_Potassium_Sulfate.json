@@ -1,0 +1,58 @@
+{
+  "compound_id": 8,
+  "compound_name": "Aluminum Potassium Sulfate",
+  "source_file": "compound_008_Aluminum Potassium Sulfate.json",
+  "main_entry_length": 4489,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0104_Aluminum_Potassium_Sulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is aluminum potassium sulfate, commonly known as potash alum. It consists of aluminum, potassium, sulfur, and oxygen atoms. Potash alum has astringent properties, making it effective for reducing tissue swelling and perspiration. Historically, it was used as a deodorant and in medicine to treat wounds and prevent bleeding. It can be naturally sourced from minerals like alunite and kalinite or synthesized by combining aqueous aluminum and potassium sulfates.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:50"
+    },
+    {
+      "question": "What is the chemical formula of aluminum potassium sulfate and what elements does it contain?",
+      "answer": "The chemical formula of aluminum potassium sulfate is KAl(SO4)2. It contains the elements potassium (K), aluminum (Al), sulfur (S), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:10",
+      "char_limit": 1000,
+      "answer_length": 147
+    },
+    {
+      "question": "Explain the solubility properties of aluminum potassium sulfate and how it changes with temperature.",
+      "answer": "Aluminum potassium sulfate, also known as potash alum, has specific solubility properties related to temperature. It is soluble in cold water and becomes very soluble in hot water. This indicates that as the temperature of water increases, the solubility of aluminum potassium sulfate increases significantly. It is important to note that this compound is insoluble in alcohol, ether, acetone, and other organic solvents. Therefore, the solubility of aluminum potassium sulfate is highly dependent on the temperature of the water, with hot water being a more effective solvent for this compound than cold water.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:16",
+      "char_limit": 1800,
+      "answer_length": 611
+    },
+    {
+      "question": "Discuss the historical and modern uses of aluminum potassium sulfate and the reasons for its effectiveness in these applications.",
+      "answer": "Aluminum potassium sulfate, also known as potash alum, has been used historically and in modern times due to its versatility and effectiveness in various applications. Historically, alums were utilized as deodorants in ancient Egypt and China because they act as astringents, which cause tissues to contract, reducing perspiration. They were also used in medicine to treat wounds and prevent bleeding. \n\nIn the modern era, one of the primary uses of aluminum potassium sulfate is as a mordant in the dyeing of fibers and fabrics. A mordant helps dyes attach more permanently to fibers, enhancing color durability. The compound is also significant in the paper-making industry, where it provides paper with a tough, shiny surface and increases the intensity of inks, paints, and dyes.\n\nAdditionally, aluminum potassium sulfate is used in water treatment plants. It combines with colloidal particles in water to form larger clumps that settle out, aiding in water purification. Other uses include serving as a food additive to control acidity, in match manufacturing, waterproofing fabrics, tanning leather, making deodorants, adding toughness to cement, and producing fireworks.\n\nThe effectiveness of aluminum potassium sulfate in these applications stems from its chemical properties as an inorganic salt that can form stable compounds with other substances, its ability to act as an astringent, and its solubility in water which facilitates its use in aqueous solutions for industrial processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:23",
+      "char_limit": 2000,
+      "answer_length": 1496
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6245,
+  "updated_at": "2025-11-30 13:41:23",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 105,
+  "compound_name": "Pectin",
+  "source_file": "compound_105_Pectin.json",
+  "main_entry_length": 3593,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0582_Pectin_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Pectin.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the solubility characteristic of pectin, and how does this property relate to its primary use?",
+      "answer": "Pectin is soluble in water but insoluble in organic solvents. This solubility characteristic is crucial for its primary use as a jelling agent in the manufacture of jams and jellies. When pectin is dissolved in water, it forms a thick, jelly-like mass, which is essential for the jelling process that gives jams and jellies their texture.",
+      "difficulty_level": "basic",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain why pectin is classified as a mixture and not a compound, and describe its chemical structure.",
+      "answer": "Pectin is classified as a mixture because it consists of varying amounts of substances that are not chemically combined, unlike compounds which have a definite composition. Chemically, pectin is a polysaccharide, a large molecule made of many monosaccharide units connected in long, complex chains. These monosaccharides in pectin are more complex than glucose, which is a well-known simple sugar.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubility properties.",
+      "answer": "Commercially, pectin is extracted by treating citrus peel or apple pomace with hot, acidified water, which dissolves the pectin. It is then purified through repeated filtrations and precipitated from the solution by adding alcohol or an aluminum salt. The precipitated pectin is dried and ground into powder. To modify its solubility, high ester pectin is treated further with acids or alkalis to produce a more soluble form known as low ester pectin. This process involves washing and purifying to achieve the desired solubility characteristics.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

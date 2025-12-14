@@ -1,0 +1,59 @@
+{
+  "source_file": "164_Sucrose.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **sucrose**. Key properties: It's a sugar, red atoms are oxygen, white are hydrogen, and black are carbon. Historically, it was very expensive and difficult to obtain.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "answer": "The provided text does not contain information about sucrose's chemical formula or molecular weight.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why sucrose is classified as a disaccharide and how this relates to its chemical structure.",
+      "answer": "The provided text doesn't explicitly define sucrose or disaccharides. However, it *does* define **carbohydrates** as \"organic compounds composed of carbon, oxygen, and hydrogen, which are used by the body as food.\" Source 1 defines **monosaccharides** as simple sugars made of three to nine carbon atoms. Combining these definitions, a disaccharide would logically be a carbohydrate composed of two monosaccharides.\n\n\n\nTherefore, sucrose is classified as a disaccharide because it consists of two monosaccharide units linked together. This relates to its chemical structure: it's essentially two simple sugars joined as one larger molecule.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "answer": "The provided text does not contain information about sucrose or its behavior when heated. It defines various chemical terms and provides details about acetic acid, acetylsalicylic acid (aspirin), and other compounds, but lacks information relevant to sucrose decomposition and its physical property changes.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:50:26",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:50:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

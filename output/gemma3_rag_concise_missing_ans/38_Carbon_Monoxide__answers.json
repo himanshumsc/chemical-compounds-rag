@@ -1,0 +1,280 @@
+{
+  "source_file": "38_Carbon_Monoxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **carbon monoxide (CO)**. It consists of carbon and oxygen atoms. It's a toxic, odorless gas produced via partial oxidation of hydrocarbons or from natural gas/coal. Historically, it was mistaken for hydrogen.",
+      "latency_s": 24.8,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Carbon Monoxide?",
+      "answer": "The provided text does not contain information about Carbon Monoxide.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7692100405693054,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1326,
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.7175233364105225,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "88-88",
+            "image_path": "",
+            "text_length": 1553,
+            "chunk_id": "chunk_87"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_43",
+          "score": 0.7111960351467133,
+          "text": "HYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n",
+          "metadata": {
+            "text_length": 1364,
+            "has_image": false,
+            "chunk_id": "chunk_43",
+            "image_path": "",
+            "page_range": "44-44"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.6970869898796082,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "chunk_id": "chunk_0",
+            "page_range": "1-1",
+            "text_length": 162,
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6955459117889404,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "text_length": 1769,
+            "image_path": "",
+            "chunk_id": "chunk_76",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.769)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.718)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 3 (Relevance: 0.711)]\nHYDROCARBON A chemical compound consisting of only\ncarbon and hydrogen, such as fossil fuels.\nHYDROGENATION A chemical reaction of a substance with\nmolecular hydrogen, usually in the presence of a catalyst.\nHYDROLYSIS The process by which a compound reacts with\nwater to form two new compounds.\n•\nI\nINCOMPLETE COMBUSTION Combustion that occurs in such a\nway that fuel is not completely oxidized.\nINERT A substance that is chemically inactive.\nINORGANIC Relating to or obtained from nonliving things.\nION An atom or molecule with an electrical charge, either\npositive or negative.\nIONIC BOND A force that attracts and holds positive and\nnegative ions together.\nIONIC COMPOUND A compound that is composed of positive\nand negative ions, so that the total charge of the positive\nions is balanced by the total charge of the negative ions.\nISOMER Two or more forms of a chemical compound with the\nsame molecular formula, but different structural formu-\nlas and different chemical and physical properties.\nISOTOPE A form of an element with the usual number of\nprotons in the nucleus but more or less than the usual\nnumber of electrons.\n•\nK\nKREBS CYCLE A series of chemical reactions in the body that\nform part of the pathway by which cells break down\ncarbohydrates, fats, and proteins for energy. Also called\nthe citric acid cycle.\nCHEMICAL COMPOUNDS\nxliii\nWords to Know\n\n\n[Source 4 (Relevance: 0.697)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.696)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Why is carbon monoxide considered a toxic gas and what conditions lead to its formation?",
+      "answer": "The provided text does not contain information about carbon monoxide or its toxicity. Therefore, I cannot answer your question using only the provided context.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.6344235241413116,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "40-40",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.6110119819641113,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "page_range": "54-54",
+            "has_image": false,
+            "text_length": 1567,
+            "image_path": "",
+            "chunk_id": "chunk_53"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_75",
+          "score": 0.5978547930717468,
+          "text": "Researchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "76-76",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_75",
+            "text_length": 1976
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.5805466771125793,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "text_length": 1769,
+            "image_path": "",
+            "chunk_id": "chunk_76",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_42",
+          "score": 0.578138530254364,
+          "text": "FOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n",
+          "metadata": {
+            "page_range": "43-43",
+            "chunk_id": "chunk_42",
+            "has_image": false,
+            "text_length": 1287,
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.634)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.611)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 3 (Relevance: 0.598)]\nResearchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.581)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 5 (Relevance: 0.578)]\nFOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe one method of commercial production of carbon monoxide and its industrial application.",
+      "answer": "According to Source 4, carbon monoxide (CO) is used in the production of acetic acid. A common method involves heating synthesis gas (a mixture of CO and hydrogen [H2]) over a catalyst of copper metal mixed with zinc oxide to make methanol (CH3OH), which is then treated with CO to produce acetic acid.",
+      "latency_s": 49.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.8104015290737152,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "page_range": "40-40",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7955085039138794,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "has_image": false,
+            "text_length": 1769,
+            "chunk_id": "chunk_76",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.7399919927120209,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1074,
+            "chunk_id": "chunk_74",
+            "has_image": false,
+            "page_range": "75-75"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_53",
+          "score": 0.7396164536476135,
+          "text": "COMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n",
+          "metadata": {
+            "chunk_id": "chunk_53",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1567,
+            "page_range": "54-54"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_42",
+          "score": 0.7322365641593933,
+          "text": "FOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n",
+          "metadata": {
+            "text_length": 1287,
+            "image_path": "",
+            "chunk_id": "chunk_42",
+            "page_range": "43-43",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.810)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.796)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 3 (Relevance: 0.740)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.740)]\nCOMMON USES AND POTENTIAL HAZARDS\nVirtually all of the 1,3-butadiene produced is used in the\nmanufacture of polymers. Polybutadiene itself is too soft for\nmost industrial rubber uses. So it is sometimes mixed with\nother polymers to make products with a variety of desirable\nqualities. Or it is polymerized with other monomers to make\nspecialized copolymers. One of the most popular of the mixed\npolymers is polystyrene-polybutadiene. The second polymer\nin this mixture, polystyrene, is a polymer of the compound\nstyrene (C6H5CH=CH2). Some other uses of 1,3-butadiene\ninclude:\n• Raw material in the manufacture of fungicides such as\nCaptan and Captofol;\n• Manufacture of latex adhesives;\n• Production of domestic products, such as the backing\non nylon carpet, appliance and electrical equipment,\nand luggage;\n• Manufacture of industrial products, such as piping and\nconduits.\n1,3-butadiene has a variety of harmful effects on humans,\nincluding irritation of the respiratory system, fatigue, drow-\nsiness, headache, vertigo, loss of consciousness, respiratory\nparalysis, and death. The compound is also thought to be a\ncarcinogen. Only people who work directly with the com-\npound, however, are likely to experience such effects, and\nonly then in unusual situations. The average person is likely\nto have no contact with the compound.\nInteresting Facts\n• In 2004, U.S. manufac-\nturers produced 2.2 million\nmetric tons (2.4 million\nshort tons) of 1,3-buta-\ndiene, ranking it number\n22 among all chemicals\nproduced in the United\nStates.\nCHEMICAL COMPOUNDS\n3\n1,3 BUTADIENE\n\n\n[Source 5 (Relevance: 0.732)]\nFOSSIL FUEL A fuel, such as petroleum, natural gas, or coal,\nformed from the compression of plant and animal matter\nunderground millions of years ago.\nFREE RADICAL An atom or group of atoms with a single\nunpaired electron that can damage healthy cells in the\nbody.\n•\nG\nG/MOL Grams per mole: a measure of molar mass that indi-\ncates the amount of the compound that is found in a\nmole of the compound. The molecular weight (also known\nas relative molecular mass) is the same number as the\nmolar mass, but the g/mol unit is not used.\nGLOBAL WARMING The increase in the average global tem-\nperature.\nGLUCONEOGENESIS The production of glucose from non-\ncarbohydrate sources, such as proteins and fats.\nGLYCOGEN A carbohydrate that is stored in the liver and\nmuscles, which breaks down into glucose.\nGREENHOUSE EFFECT The increase of the average global\ntemperature due to the trapping of heat in the atmo-\nsphere.\n•\nH\nHARD WATER Water with a high mineral content that does\nnot lather easily.\nHELIX A spiral; a common shape for protein molecules.\nHORMONE A chemical that delivers messages from one cell\nor organ to another.\nHYDRATE A chemical compound formed when one or more\nmolecules of water is added physically to the molecule of\nsome other substance.\nxlii\nCHEMICAL COMPOUNDS\nWords to Know\n"
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:59:42",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:59:42",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:59",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    3
+  ]
+}

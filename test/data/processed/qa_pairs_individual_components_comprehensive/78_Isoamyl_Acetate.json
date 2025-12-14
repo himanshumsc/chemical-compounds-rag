@@ -1,0 +1,58 @@
+{
+  "compound_id": 74,
+  "compound_name": "Isoamyl Acetate",
+  "source_file": "compound_074_Isoamyl Acetate.json",
+  "main_entry_length": 1197,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0428_Isoamyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:26:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is isoamyl acetate. This compound is characterized by its ester functional group, with the formula C7H14O2. It is known for its fruity, banana-like odor and is commonly used as a flavoring and fragrance agent. Isoamyl acetate is added to foods and drinks like gum, candy, and syrups, as well as personal care products such as perfumes and nail polishes. It is also used in industrial applications, including as a solvent in varnishes and lacquers and to mask unpleasant odors.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:09:48"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Isoamyl Acetate?",
+      "answer": "The chemical formula of Isoamyl Acetate is CH3COOCH2CH2CH(CH3)2. Its molecular weight is 130.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:06:04",
+      "char_limit": 1000,
+      "answer_length": 102
+    },
+    {
+      "question": "Explain the solubility properties of Isoamyl Acetate and its implications for industrial uses.",
+      "answer": "Isoamyl acetate is slightly soluble in water but is soluble in most organic solvents. This solubility profile is important for its industrial uses. Its slight solubility in water limits its use in aqueous environments but enhances its suitability in non-aqueous systems. This characteristic makes isoamyl acetate ideal for applications in industries that involve organic solvents, such as the manufacture of varnishes, lacquers, and dry cleaning preparations. Additionally, its solubility in organic solvents facilitates its use as a solvent for old oil paints and its involvement in the dyeing and finishing of textiles. The solubility in organic solvents also supports its role as a flavor and fragrance additive in products, as it can easily mix with other organic compounds to impart desired scents and tastes.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:06:07",
+      "char_limit": 1800,
+      "answer_length": 814
+    },
+    {
+      "question": "Describe the process by which Isoamyl Acetate is commercially produced and how it relates to its isomers.",
+      "answer": "Isoamyl acetate is commercially produced by reacting acetic acid (CH3COOH) with amyl alcohol (C4H9CH2OH). This reaction yields amyl acetate, which has eight possible isomers. To obtain the desired isomer, isoamyl acetate, the mixture of isomers is subjected to fractional distillation, a process that separates the compounds based on their boiling points. This ensures the isolation of isoamyl acetate for commercial use.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:06:08",
+      "char_limit": 2000,
+      "answer_length": 421
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2845,
+  "updated_at": "2025-11-30 14:06:09",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

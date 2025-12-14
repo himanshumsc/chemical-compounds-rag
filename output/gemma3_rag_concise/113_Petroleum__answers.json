@@ -1,0 +1,59 @@
+{
+  "source_file": "113_Petroleum.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **acetylene**. Key properties: derived from petroleum via cracking/oxidation, used in chemical manufacturing (vinyl chloride, etc.). It's represented with white atoms as hydrogen and black as carbon, with double bonds.",
+      "latency_s": 19.77,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What are the primary components of petroleum, and how do they differ in terms of chemical bonding?",
+      "answer": "Petroleum is primarily hydrocarbons (Source 4). These consist of carbon and hydrogen (Source 4) linked by ionic bonds (Source 2). Different hydrocarbons vary in their structural formulas, impacting properties.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the refining process of petroleum and the significance of different temperature fractions in this process.",
+      "answer": "Petroleum refining involves separating crude oil into fractions based on boiling points via distillation.\n\n**Temperature Fractions & Significance:**\n\n*   **Low Temp (Below 40°C):** Gases (methane, ethane) - Fuel, chemicals.\n*   **Mid Temp (40-200°C):** Gasoline (naphtha) - Fuel.\n*   **Mid-High Temp (200-350°C):** Kerosene/Jet Fuel - Aviation fuel.\n*   **High Temp (350-400°C):** Diesel/Heating Oil - Fuel.\n*   **Very High Temp (Above 400°C):** Lubricants, Asphalt.\n\nHydrocarbons with lower boiling points vaporize first, allowing for separation.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the environmental impact of petroleum extraction and usage, particularly focusing on its role in energy production and transportation.",
+      "answer": "Petroleum (a fossil fuel – Source 2) is central to energy & transportation. Extraction causes habitat disruption, potential spills. Burning it releases greenhouse gases (Source 3), contributing to global warming (Source 2) and the greenhouse effect (Source 2). CFCs, once used in petroleum-related products (Source 3), damaged the ozone layer. While acetic acid production is mentioned, it’s not directly linked to the broader environmental impacts of petroleum itself.",
+      "latency_s": 56.16,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:38:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:38:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

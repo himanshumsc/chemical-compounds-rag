@@ -1,0 +1,36 @@
+{
+  "compound_id": 71,
+  "compound_name": "Hydrogen Peroxide",
+  "source_file": "compound_071_Hydrogen Peroxide.json",
+  "main_entry_length": 4439,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0414_Hydrogen_Peroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:53",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Hydrogen Peroxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hydrogen peroxide?",
+      "answer": "The chemical formula of hydrogen peroxide is H2O2, and its molecular weight is 34.02 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why hydrogen peroxide is considered a strong oxidizing agent in its applications.",
+      "answer": "Hydrogen peroxide is considered a strong oxidizing agent because it tends to decompose, releasing a single atom of nascent oxygen (O). Nascent oxygen is chemically very active and acts as a strong oxidizing agent. This property is utilized in various applications, such as its use as an antiseptic to kill germs and in the bleaching of materials like paper and textiles, where it converts colored compounds to colorless ones.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones.",
+      "answer": "In the industrial preparation of hydrogen peroxide, a complex series of reactions begins with alkyl anthrahydroquinones, such as ethyl anthrahydroquinone. These compounds are three-ring structures that can be converted back and forth between two or more similar structures. During the conversion from one structure to another, hydrogen peroxide is produced as a byproduct. The anthraquinone is continuously regenerated during the production process, making this method very efficient. This process allows for the large-scale production of hydrogen peroxide used in various industrial applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

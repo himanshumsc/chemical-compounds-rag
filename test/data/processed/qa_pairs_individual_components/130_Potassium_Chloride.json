@@ -1,0 +1,38 @@
+{
+  "compound_id": 126,
+  "compound_name": "Potassium Chloride",
+  "source_file": "compound_126_Potassium Chloride.json",
+  "main_entry_length": 1375,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0690_Potassium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:43",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of potassium chloride (KCl). In the diagram, the turquoise atom represents potassium, which is positively charged, and the green atom represents chlorine, which is negatively charged. This ionic compound is formed through the electrostatic attraction between the oppositely charged ions. Potassium chloride is commonly found in sea salt deposits and is highly soluble in water, especially hot water. It is often extracted from natural ores like sylvite and carnallite.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:50"
+    },
+    {
+      "question": "What is the chemical formula of Potassium Chloride and its molecular weight?",
+      "answer": "The chemical formula of Potassium Chloride is KCl, and its molecular weight is 74.55 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the physical properties of Potassium Chloride and its solubility in various solvents.",
+      "answer": "Potassium Chloride is a white or colorless crystalline solid or powder. It is odorless with a strong saline taste. It is very soluble in water, slightly soluble in ethyl alcohol, and insoluble in ether, acetone, and other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the significance of Potassium Chloride in agriculture and its natural occurrence.",
+      "answer": "Potassium Chloride is the most abundant compound of the element potassium and is predominantly used in the manufacture of fertilizers, making it highly significant in agriculture. It naturally occurs in minerals such as sylvite, carnallite, kainite, and sylvinite, as well as in seawater at a concentration of about 0.076 percent.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

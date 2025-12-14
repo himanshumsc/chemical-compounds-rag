@@ -1,0 +1,59 @@
+{
+  "source_file": "5_Acetic_acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram shows acetic acid (C2H4O2). Red atoms are oxygen, black are carbon, and white are hydrogen. It is used in plastics production, has a molecular weight of 60.05 g/mol, and is soluble in alcohol and ether.",
+      "latency_s": 39.9,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of acetic acid and what elements does it contain?",
+      "answer": "The chemical formula of acetic acid is CH3COOH. It contains carbon, hydrogen, and oxygen.",
+      "latency_s": 28.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the role of acetic acid in the production of plastics and name two specific types of plastics that use acetic acid as a raw material.",
+      "answer": "Acetic acid is used as a raw material in the manufacture of plastics. Two specific types of plastics that use acetic acid are polyvinyl chloride (PVC) and polyacrylates.",
+      "latency_s": 28.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the industrial method developed by Monsanto for producing acetic acid and mention an alternative method that is being researched for environmental benefits.",
+      "answer": "The Monsanto method for producing acetic acid involves heating synthesis gas (a mixture of CO and H2) over a catalyst of copper metal mixed with zinc oxide to make methanol, then treating methanol with CO to form acetic acid. An alternative method being researched involves oxidizing industrial waste gases to acetic acid for more efficient and environmentally-friendly production.",
+      "latency_s": 28.66,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:42:49",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:42:49",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 125,
+  "compound_name": "Potassium Carbonate",
+  "source_file": "compound_125_Potassium Carbonate.json",
+  "main_entry_length": 4344,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0684_Potassium_Carbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:40",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Carbonate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Carbonate?",
+      "answer": "The chemical formula of Potassium Carbonate is K2CO3, and its molecular weight is 138.21 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process by which Potassium Carbonate is typically produced in the United States.",
+      "answer": "In the United States, Potassium Carbonate is typically produced from potassium chloride (KCl). The process begins with the electrolysis of potassium chloride to form potassium hydroxide (KOH). This potassium hydroxide is then treated with carbon dioxide (CO2) to produce potassium bicarbonate (KHCO3). Finally, the potassium bicarbonate is decomposed by heating, which yields water, carbon dioxide, and Potassium Carbonate.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain the role and significance of Potassium Carbonate in agriculture and industry, and discuss any potential hazards.",
+      "answer": "Potassium Carbonate plays a significant role in agriculture, primarily as a fertilizer. It provides potassium, one of the three major nutrients required by plants for healthy growth, alongside nitrogen and phosphorus. In the chemical industry, Potassium Carbonate is used as a raw material to produce other chemical compounds, such as potassium silicate. Despite its benefits, Potassium Carbonate can present potential hazards, particularly due to impurities such as sodium chloride and heavy metals like iron and lead, which can be present in its impure forms.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

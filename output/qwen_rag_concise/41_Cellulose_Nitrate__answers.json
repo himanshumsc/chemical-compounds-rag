@@ -1,0 +1,55 @@
+{
+  "source_file": "41_Cellulose_Nitrate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows cellulose nitrate. Key properties of cellulose nitrate include its use as an explosive material due to its reactive nature when exposed to heat or friction. It is also known for its historical significance as guncotton, which was developed as a safer alternative to gunpowder. Cellulose nitrate can be modified to change its properties, such as through the use of various solvents, leading to different formulations like synthetic ivory or parkesine.",
+      "latency_s": 5.53
+    },
+    {
+      "question": "What is the chemical formula and primary elements present in cellulose nitrate?",
+      "answer": "Cellulose nitrate is composed of carbon, hydrogen, nitrogen, and oxygen. Its chemical formula is C12H18O5N.",
+      "latency_s": 25.09,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "How does the nitrogen content affect the solubility properties of cellulose nitrate?",
+      "answer": "The nitrogen content in cellulose nitrate affects its solubility by influencing the degree of nitration, which in turn alters the hydrophilic and hydrophobic interactions, thereby modifying solubility in organic solvents like acetone and methanol.",
+      "latency_s": 25.09,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the discovery of cellulose nitrate and its initial observation by Christian Friedrich Schönbein.",
+      "answer": "Cellulose nitrate was discovered in 1865 by Christian Friedrich Schönbein, who observed it while experimenting with nitric acid and wood. Schönbein noted that nitric acid could transform wood into a nitrite, which could then react with additional nitric acid to form a nitrate. This discovery led to the development of nitrocellulose, a key component in early nitrocellulose explosives like guncotton and dynamite.",
+      "latency_s": 25.09,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:40:10",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:40:10",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

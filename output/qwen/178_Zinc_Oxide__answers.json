@@ -1,0 +1,27 @@
+{
+  "source_file": "178_Zinc_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows zinc oxide (ZnO). The red atoms represent oxygen, and the turquoise atoms represent zinc. The gray sticks indicate double bonds between the zinc and oxygen atoms.\n\nKey properties of zinc oxide include:\n1. **Absorption of Ultraviolet Light**: Zinc oxide is known for its ability to absorb ultraviolet light in sunlight. This property makes it useful in sunscreens and sunblocks as it helps protect against sunburn.\n2. **Use in Paints and Pigments**: Zinc oxide is used in white paints and pigments due to its luster and purity retention over time, which is attributed to",
+      "latency_s": 16.48
+    },
+    {
+      "question": "What is the chemical formula of zinc oxide and what elements does it consist of?",
+      "answer": "The chemical formula for zinc oxide is \\(\\text{ZnO}\\). It consists of two elements: zinc (Zn) and oxygen (O). Zinc is a metallic element, and oxygen is a non-metallic element.",
+      "latency_s": 10.36
+    },
+    {
+      "question": "How does zinc oxide contribute to the longevity of white paints and pigments compared to other white paint compounds?",
+      "answer": "Zinc oxide is a common pigment used in white paints and pigments due to its high whiteness, good hiding power, and chemical stability. It contributes significantly to the longevity of white paints and pigments by several mechanisms:\n\n1. **Chemical Stability**: Zinc oxide is highly stable under various environmental conditions such as exposure to light, moisture, and temperature fluctuations. This stability helps prevent degradation of the paint film over time.\n\n2. **UV Absorption**: Zinc oxide absorbs UV radiation effectively, which can cause fading and degradation of other pigments and binders in paint films. By absorbing UV light, it helps protect the underlying layers",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Explain the process and chemical reactions involved in the 'wet' method of producing zinc oxide.",
+      "answer": "The wet method for producing zinc oxide typically involves the precipitation of zinc ions from an aqueous solution, followed by filtration, washing, and drying to obtain the final product. Here's a detailed explanation of the process:\n\n### 1. **Preparation of Zinc Solution:**\n   - **Zinc Source:** Zinc is often obtained from zinc sulfate (ZnSO₄) or zinc chloride (ZnCl₂). These compounds can be produced through various methods such as electrolysis of zinc salts.\n   - **Dissolution:** The zinc source is dissolved in water to form a zinc salt solution. For example:\n     \\[",
+      "latency_s": 10.36
+    }
+  ]
+}

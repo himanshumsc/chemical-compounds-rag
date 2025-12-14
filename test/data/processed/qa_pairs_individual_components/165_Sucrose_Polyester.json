@@ -1,0 +1,38 @@
+{
+  "compound_id": 161,
+  "compound_name": "Sucrose Polyester",
+  "source_file": "compound_161_Sucrose Polyester.json",
+  "main_entry_length": 1416,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0864_Sucrose_Polyester_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sucrose octaoleate, a type of sucrose polyester. This compound is characterized by having many properties of fats, including flavor, but it passes through the digestive system without being absorbed or digested. This makes it useful as a fat substitute in food products, as it can provide a similar taste and texture without contributing calories. Sucrose octaoleate is composed of oxygen (red), hydrogen (white), and carbon (black) atoms.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:47"
+    },
+    {
+      "question": "What is the state and solubility of sucrose polyester?",
+      "answer": "Sucrose polyester can exist in either a liquid or solid state. It is insoluble in water but soluble in many organic solvents.",
+      "difficulty_level": "basic",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Why is sucrose polyester considered to provide no calories when consumed?",
+      "answer": "Sucrose polyester is a large molecule that cannot be absorbed or digested by the human digestive system. As a result, it provides no calories when consumed because it passes through the system without being broken down into absorbable units.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Discuss the historical development and intended purpose of sucrose polyester.",
+      "answer": "Sucrose polyester was developed in the late 1960s by researchers Robert Volpenhein and Fred Mattson at Procter & Gamble’s Miami Valley Laboratories. The initial goal was to create a fat that could be more easily digested by premature babies. However, they ended up developing a compound that cannot be digested at all by the human body. This unique property made sucrose polyester suitable for use as an artificial fat in diet snacks, as it provides no calories.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

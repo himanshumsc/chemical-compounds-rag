@@ -1,0 +1,280 @@
+{
+  "source_file": "164_Sucrose.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **sucrose**. Key properties: It's a sugar, red atoms are oxygen, white are hydrogen, and black are carbon. Historically, it was very expensive and difficult to obtain.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "answer": "The provided text does not contain information about sucrose's chemical formula or molecular weight.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7126779854297638,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7082957625389099,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "has_image": false,
+            "page_range": "1-1",
+            "image_path": "",
+            "text_length": 162,
+            "chunk_id": "chunk_0"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_45",
+          "score": 0.6964150965213776,
+          "text": "MONOSACCHARIDE A simple sugar, made up of three to nine\ncarbon atoms.\nMORDANT A substance used in dyeing and printing that\nreacts chemically with both a dye and the material being\ndyed to help hold the dye permanently to the material.\n•\nN\nNARCOTIC An addictive drug that relieves pain and causes\ndrowsiness.\nNEUROTRANSMITTER A chemical that relays signals along\nneurons.\nNEUTRALIZE To make a substance neutral that is neither\nacidic or alkaline.\nNITRATING AGENT A substance that turns other substances\ninto nitrates, which are compounds containing NO3.\nNSAID Non-steroidal anti-inflammatory drug, a drug that can\nstop pain and prevent inflammation and fever but that is\nnot a steroid and does not have the same side effects as\nsteroids.\n•\nO\nORGANIC Relating to or obtained from living things. In\nchemistry, refers to compounds made of carbon com-\nbined with other elements.\nOXIDANT A substance that causes oxidation of a compound\nby removing electrodes from the compound. Also known\nas oxidizing agent.\nOXIDATION STATE The sum of negative and positive charges,\nwhich indirectly indicates the number of electrons\naccepted or donated in the bond between elements.\nCHEMICAL COMPOUNDS\nxlv\nWords to Know\n",
+          "metadata": {
+            "chunk_id": "chunk_45",
+            "page_range": "46-46",
+            "text_length": 1199,
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_1",
+          "score": 0.6866156458854675,
+          "text": "chemical COMPOUNDS",
+          "metadata": {
+            "chunk_id": "chunk_1",
+            "page_range": "2-2",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 18
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.6842097043991089,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "page_range": "9-9",
+            "image_path": "",
+            "text_length": 2062,
+            "has_image": false,
+            "chunk_id": "chunk_8"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.713)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.708)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 3 (Relevance: 0.696)]\nMONOSACCHARIDE A simple sugar, made up of three to nine\ncarbon atoms.\nMORDANT A substance used in dyeing and printing that\nreacts chemically with both a dye and the material being\ndyed to help hold the dye permanently to the material.\n•\nN\nNARCOTIC An addictive drug that relieves pain and causes\ndrowsiness.\nNEUROTRANSMITTER A chemical that relays signals along\nneurons.\nNEUTRALIZE To make a substance neutral that is neither\nacidic or alkaline.\nNITRATING AGENT A substance that turns other substances\ninto nitrates, which are compounds containing NO3.\nNSAID Non-steroidal anti-inflammatory drug, a drug that can\nstop pain and prevent inflammation and fever but that is\nnot a steroid and does not have the same side effects as\nsteroids.\n•\nO\nORGANIC Relating to or obtained from living things. In\nchemistry, refers to compounds made of carbon com-\nbined with other elements.\nOXIDANT A substance that causes oxidation of a compound\nby removing electrodes from the compound. Also known\nas oxidizing agent.\nOXIDATION STATE The sum of negative and positive charges,\nwhich indirectly indicates the number of electrons\naccepted or donated in the bond between elements.\nCHEMICAL COMPOUNDS\nxlv\nWords to Know\n\n\n[Source 4 (Relevance: 0.687)]\nchemical COMPOUNDS\n\n[Source 5 (Relevance: 0.684)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain why sucrose is classified as a disaccharide and how this relates to its chemical structure.",
+      "answer": "The provided text doesn't explicitly define sucrose or disaccharides. However, it *does* define **carbohydrates** as \"organic compounds composed of carbon, oxygen, and hydrogen, which are used by the body as food.\" Source 1 defines **monosaccharides** as simple sugars made of three to nine carbon atoms. Combining these definitions, a disaccharide would logically be a carbohydrate composed of two monosaccharides.\n\n\n\nTherefore, sucrose is classified as a disaccharide because it consists of two monosaccharide units linked together. This relates to its chemical structure: it's essentially two simple sugars joined as one larger molecule.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_45",
+          "score": 0.7462584972381592,
+          "text": "MONOSACCHARIDE A simple sugar, made up of three to nine\ncarbon atoms.\nMORDANT A substance used in dyeing and printing that\nreacts chemically with both a dye and the material being\ndyed to help hold the dye permanently to the material.\n•\nN\nNARCOTIC An addictive drug that relieves pain and causes\ndrowsiness.\nNEUROTRANSMITTER A chemical that relays signals along\nneurons.\nNEUTRALIZE To make a substance neutral that is neither\nacidic or alkaline.\nNITRATING AGENT A substance that turns other substances\ninto nitrates, which are compounds containing NO3.\nNSAID Non-steroidal anti-inflammatory drug, a drug that can\nstop pain and prevent inflammation and fever but that is\nnot a steroid and does not have the same side effects as\nsteroids.\n•\nO\nORGANIC Relating to or obtained from living things. In\nchemistry, refers to compounds made of carbon com-\nbined with other elements.\nOXIDANT A substance that causes oxidation of a compound\nby removing electrodes from the compound. Also known\nas oxidizing agent.\nOXIDATION STATE The sum of negative and positive charges,\nwhich indirectly indicates the number of electrons\naccepted or donated in the bond between elements.\nCHEMICAL COMPOUNDS\nxlv\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "46-46",
+            "image_path": "",
+            "text_length": 1199,
+            "chunk_id": "chunk_45"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6770628988742828,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.6745817065238953,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "chunk_id": "chunk_8",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "9-9",
+            "text_length": 2062
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.666049599647522,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "text_length": 162,
+            "chunk_id": "chunk_0",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "1-1"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_1",
+          "score": 0.6634349226951599,
+          "text": "chemical COMPOUNDS",
+          "metadata": {
+            "page_range": "2-2",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_1",
+            "text_length": 18
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.746)]\nMONOSACCHARIDE A simple sugar, made up of three to nine\ncarbon atoms.\nMORDANT A substance used in dyeing and printing that\nreacts chemically with both a dye and the material being\ndyed to help hold the dye permanently to the material.\n•\nN\nNARCOTIC An addictive drug that relieves pain and causes\ndrowsiness.\nNEUROTRANSMITTER A chemical that relays signals along\nneurons.\nNEUTRALIZE To make a substance neutral that is neither\nacidic or alkaline.\nNITRATING AGENT A substance that turns other substances\ninto nitrates, which are compounds containing NO3.\nNSAID Non-steroidal anti-inflammatory drug, a drug that can\nstop pain and prevent inflammation and fever but that is\nnot a steroid and does not have the same side effects as\nsteroids.\n•\nO\nORGANIC Relating to or obtained from living things. In\nchemistry, refers to compounds made of carbon com-\nbined with other elements.\nOXIDANT A substance that causes oxidation of a compound\nby removing electrodes from the compound. Also known\nas oxidizing agent.\nOXIDATION STATE The sum of negative and positive charges,\nwhich indirectly indicates the number of electrons\naccepted or donated in the bond between elements.\nCHEMICAL COMPOUNDS\nxlv\nWords to Know\n\n\n[Source 2 (Relevance: 0.677)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.675)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 4 (Relevance: 0.666)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.663)]\nchemical COMPOUNDS"
+    },
+    {
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "answer": "The provided text does not contain information about sucrose or its behavior when heated. It defines various chemical terms and provides details about acetic acid, acetylsalicylic acid (aspirin), and other compounds, but lacks information relevant to sucrose decomposition and its physical property changes.",
+      "latency_s": 53.91,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_47",
+          "score": 0.697496771812439,
+          "text": "PRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1258,
+            "image_path": "",
+            "page_range": "48-48",
+            "chunk_id": "chunk_47"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6552927494049072,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "text_length": 1326,
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6327040195465088,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1769,
+            "chunk_id": "chunk_76"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.618975818157196,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_8",
+            "text_length": 2062,
+            "image_path": "",
+            "page_range": "9-9"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_84",
+          "score": 0.6152662634849548,
+          "text": "acid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1890,
+            "has_image": false,
+            "page_range": "85-85",
+            "chunk_id": "chunk_84"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.697)]\nPRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n\n\n[Source 2 (Relevance: 0.655)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.633)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.619)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 5 (Relevance: 0.615)]\nacid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:50:26",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:50:26",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    4
+  ]
+}

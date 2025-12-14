@@ -1,0 +1,27 @@
+{
+  "source_file": "148_Sodium_Bicarbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Sodium Bicarbonate (also known as Baking Soda). The key properties of Sodium Bicarbonate include:\n\n1. **Chemical Formula**: NaHCO₃\n2. **Molecular Structure**:\n   - Red atoms represent oxygen.\n   - White atom represents hydrogen.\n   - Black atom represents carbon.\n   - Turquoise atom represents sodium.\n3. **Double Bond**: The gray stick indicates a double bond between the carbon and oxygen atoms.\n4. **Safety for Human Consumption**: Sodium bicarbonate is safe for human consumption and is used as a leavening agent in baking.",
+      "latency_s": 16.82
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium bicarbonate?",
+      "answer": "The chemical formula for sodium bicarbonate, also known as baking soda, is NaHCO₃.\n\nTo calculate its molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Sodium (Na): 23.0 g/mol\n- Hydrogen (H): 1.0 g/mol\n- Carbon (C): 12.0 g/mol\n- Oxygen (O): 16.0 g/mol\n\nNow, multiply the atomic weight by the number of atoms of each element:\n- Sodium: 23.0 g/mol × 1 = 23.0 g",
+      "latency_s": 10.56
+    },
+    {
+      "question": "Why is sodium bicarbonate considered an acid salt and what happens to it when heated?",
+      "answer": "Sodium bicarbonate, also known as baking soda or sodium hydrogen carbonate (NaHCO₃), is considered an acid salt because it contains the hydrogen ion (H⁺) from its dissociation in water. When dissolved in water, sodium bicarbonate dissociates into sodium ions (Na⁺) and bicarbonate ions (HCO₃⁻):\n\n\\[ \\text{NaHCO}_3 + \\text{H}_2\\text{O} \\rightarrow \\text{Na}^+ + \\text{HCO}_3^- + \\text{H}_2\\text{O} \\]\n\nThe bicarbonate ion",
+      "latency_s": 10.56
+    },
+    {
+      "question": "Describe the historical uses of sodium bicarbonate and explain its function as a leavening agent in baking.",
+      "answer": "Sodium bicarbonate, also known as baking soda, has a rich history that spans across various cultures and applications. Its use dates back to ancient times where it was used for medicinal purposes, as a cleaning agent, and even as a food additive.\n\nHistorically, sodium bicarbonate was first discovered by the ancient Egyptians who used it as a medicine to treat skin conditions. Later, during the Middle Ages, it was used in Europe as a remedy for various ailments such as indigestion and respiratory problems. It was also used as a cleaning agent due to its ability to neutralize acids and remove stains from fabrics.\n\nIn the 19",
+      "latency_s": 10.56
+    }
+  ]
+}

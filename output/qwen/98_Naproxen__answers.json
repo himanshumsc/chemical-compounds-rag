@@ -1,0 +1,27 @@
+{
+  "source_file": "98_Naproxen.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Naproxen. Key properties of Naproxen include:\n\n1. **Chemical Composition**: Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) that contains oxygen, hydrogen, and carbon atoms. The red spheres represent oxygen atoms, white spheres represent hydrogen atoms, and black spheres represent carbon atoms.\n\n2. **Molecular Structure**: Naproxen has a benzene ring structure with additional functional groups attached. Specifically, it includes a propionyl group (-CH₂CH₂COOH), which is derived from propanoic acid.\n\n3. **Chirality",
+      "latency_s": 16.6
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Naproxen?",
+      "answer": "The chemical formula for Naproxen is C13H18ClN2O2.\n\nTo calculate the molecular weight, we sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol × 13 = 156.13 g/mol\n- Hydrogen (H): 1.008 g/mol × 18 = 18.144 g/mol\n- Chlorine (Cl): 35.45 g/mol × 1 = 35.45 g/mol\n- Nitrogen (N):",
+      "latency_s": 10.25
+    },
+    {
+      "question": "Why is Naproxen classified as a non-steroidal anti-inflammatory drug (NSAID), and what are its primary uses?",
+      "answer": "Naproxen is classified as a non-steroidal anti-inflammatory drug (NSAID) because it shares the same mechanism of action as other NSAIDs, which primarily involves inhibiting the enzyme cyclooxygenase (COX). COX enzymes are responsible for the production of prostaglandins, which are substances that cause inflammation and pain.\n\nThe primary uses of naproxen include:\n\n1. **Treatment of Mild to Moderate Pain**: Naproxen is often used to relieve pain associated with conditions such as headaches, toothaches, muscle aches, and menstrual cramps.\n2. **Management of Inflammation**: It",
+      "latency_s": 10.25
+    },
+    {
+      "question": "Describe the solubility characteristics of Naproxen and explain how these properties might influence its formulation as a pharmaceutical product.",
+      "answer": "Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) that is widely used for pain relief, reducing inflammation, and treating various conditions such as arthritis. Understanding its solubility characteristics is crucial for formulating it into an effective and stable pharmaceutical product.\n\n### Solubility Characteristics of Naproxen\n\n1. **Solubility in Water**: Naproxen has low solubility in water at room temperature. Its solubility in water is approximately 0.02 mg/mL at 25°C. This low solubility can lead to issues with dissolution rates and bioavailability when taken orally",
+      "latency_s": 10.25
+    }
+  ]
+}

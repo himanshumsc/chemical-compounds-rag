@@ -1,0 +1,58 @@
+{
+  "compound_id": 149,
+  "compound_name": "Sodium Hydroxide",
+  "source_file": "compound_149_Sodium Hydroxide.json",
+  "main_entry_length": 1304,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0804_Sodium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:21",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image represents sodium hydroxide (NaOH). In this diagram, the turquoise atom is sodium (Na), the red atom is oxygen (O), and the white atom is hydrogen (H).\n\n**Key Properties of Sodium Hydroxide:**\n\n1. **Chemical Formula:** NaOH\n2. **Appearance:** White, crystalline solid\n3. **Solubility:** Highly soluble in water, releasing heat\n4. **Uses:** Commonly used in soap making, paper production, and as a chemical reactant\n5. **Reactivity:** Strong base, reacts with acids to form salts and water\n6. **Safety:** Corrosive, can cause chemical burns",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:51"
+    },
+    {
+      "question": "What is the chemical formula for sodium hydroxide and what elements does it contain?",
+      "answer": "The chemical formula for sodium hydroxide is NaOH. It contains the elements sodium, oxygen, and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:54",
+      "char_limit": 1000,
+      "answer_length": 105
+    },
+    {
+      "question": "Explain why sodium hydroxide is considered a deliquescent solid and its implications.",
+      "answer": "Sodium hydroxide is considered a deliquescent solid because it has the ability to absorb moisture from the air. This property is mentioned in the overview of the compound, which states that sodium hydroxide is a white deliquescent solid. This characteristic implies that sodium hydroxide, when exposed to air, will attract and absorb water vapor, which can lead to its dissolution or the formation of a concentrated solution. The deliquescent nature of sodium hydroxide is significant in practical applications and storage, as it requires careful handling to prevent moisture absorption from compromising its integrity or performance. Additionally, sodium hydroxide reacts readily with carbon dioxide in the air to form sodium carbonate, highlighting its reactivity with atmospheric components.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:59",
+      "char_limit": 1800,
+      "answer_length": 794
+    },
+    {
+      "question": "Describe the process by which sodium hydroxide is commercially produced and its relation to chlorine gas.",
+      "answer": "Sodium hydroxide is commercially produced simultaneously with chlorine gas through the electrolysis of a sodium chloride solution. In this process, an electric current breaks down sodium chloride into its component elements, sodium and chlorine. The chlorine is released as a gas, while the sodium metal reacts with water to form sodium hydroxide. This method efficiently produces sodium hydroxide and chlorine gas as co-products.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:46:03",
+      "char_limit": 2000,
+      "answer_length": 430
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6109,
+  "updated_at": "2025-11-30 13:46:03",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

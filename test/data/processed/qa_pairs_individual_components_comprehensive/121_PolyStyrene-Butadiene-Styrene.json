@@ -1,0 +1,58 @@
+{
+  "compound_id": 112,
+  "compound_name": "Poly(Styrene-Butadiene-Styrene)",
+  "source_file": "compound_112_Poly(Styrene-Butadiene-Styrene).json",
+  "main_entry_length": 5193,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0622_Poly(Styrene-Butadiene-Styrene)_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:41",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is Poly(styrene butadiene styrene) (SBS). It is a type of synthetic rubber known for its elasticity and durability. Key properties of SBS include:\n\n1. **Heat Sensitivity**: Becomes soft and plastic when heated, allowing it to be molded into various shapes.\n2. **Abrasion Resistance**: Resistant to heat, light, and chemicals, but can break down when exposed to fats, oils, and hydrocarbons.\n3. **Temperature Range**: Maintains structure from −60°C to 150°C (−75°F to 300°F).\n4. **Developed in the 1930s**: Created to enhance synthetic rubber production in...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:47"
+    },
+    {
+      "question": "What are the main elements that make up Poly(Styrene-Butadiene-Styrene) and what is its state at room temperature?",
+      "answer": "The main elements that make up Poly(Styrene-Butadiene-Styrene) (SBS) are carbon and hydrogen. At room temperature, SBS is in a solid state.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:30",
+      "char_limit": 1000,
+      "answer_length": 139
+    },
+    {
+      "question": "Explain the structure of Poly(Styrene-Butadiene-Styrene) as a block copolymer and describe the roles of its segments.",
+      "answer": "Poly(Styrene-Butadiene-Styrene) (SBS) is a block copolymer consisting of alternating segments of polystyrene and polybutadiene. In SBS, the structure is organized in blocks, where a section of polystyrene (-[CH2CHC6H5-]n-) is connected to a section of polybutadiene (-[CH2CH=CHCH2-]n-), which is then followed by another section of polystyrene. This arrangement is repeated to form the polymer chain.\n\nThe polystyrene segments provide strength and durability, contributing to the compound's overall toughness. Meanwhile, the polybutadiene segments introduce flexibility to the polymer. As a result, SBS exhibits properties of both its constituent polymers: the strength from polystyrene and the elasticity from polybutadiene. This dual characteristic allows SBS to act like natural rubber at room temperature, while becoming soft and moldable when heated. It is resistant to abrasion and maintains its structure across a wide temperature range, although it may degrade when in contact with fats, oils, and certain hydrocarbons.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:36",
+      "char_limit": 1800,
+      "answer_length": 1027
+    },
+    {
+      "question": "Describe the polymerization process and catalyst used in the production of Poly(Styrene-Butadiene-Styrene). Why is the reaction terminated, and how is it achieved?",
+      "answer": "The polymerization process of Poly(Styrene-Butadiene-Styrene) (SBS) involves the formation of a block copolymer from styrene and 1,3-butadiene monomers. This process begins with the breaking of double bonds in the monomer molecules, allowing them to link together and form a long chain of monomers. Initially, a long chain of styrene monomers is produced, followed by a chain of butadiene monomers. These chains are then joined to form blocks of polystyrene and polybutadiene, which alternate to create a long copolymer chain.\n\nThe catalyst used for initiating the polymerization of SBS is butyl lithium (C4H9Li), which is effective in starting the reaction by breaking the initial double bonds in the monomers. The polymerization reaction is terminated to control the length of the polymer chain and to prevent further addition of monomers, ensuring the desired properties of the final polymer. This termination is achieved by adding dichlorodimethylsilane (SiCl2(CH3)2), which reacts with the last monomer at the end of the SBS chain, blocking the addition of any additional styrene or butadiene monomers.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:42",
+      "char_limit": 2000,
+      "answer_length": 1107
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5981,
+  "updated_at": "2025-11-30 13:39:42",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

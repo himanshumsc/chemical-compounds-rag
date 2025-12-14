@@ -1,0 +1,38 @@
+{
+  "compound_id": 176,
+  "compound_name": "2-(4-Isobutylphenyl)propionic Acid (Ibuprofen)",
+  "source_file": "compound_176_2-4-Isobutylphenylpropionic_Acid_Ibuprofen.json",
+  "main_entry_length": 1501,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0060_2-(4-Isobutylphenyl)propionic_Acid_(Ibuprofen)_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:17",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of ibuprofen, also known as 2-(4-isobutylphenyl)propionic acid. \n\nKey Properties:\n- Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID).\n- It is commonly used for pain relief, reducing inflammation, and lowering fever.\n- It works by inhibiting the production of prostaglandins, compounds that trigger inflammation and pain.\n- Ibuprofen is often marketed under various brand names and is available over-the-counter.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:06:59"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of 2-(4-Isobutylphenyl)propionic acid?",
+      "answer": "The chemical formula of 2-(4-Isobutylphenyl)propionic acid is C13H18O2, and its molecular weight is 206.28 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why was 2-(4-Isobutylphenyl)propionic acid, also known as ibuprofen, developed as an analgesic and anti-inflammatory medication?",
+      "answer": "2-(4-Isobutylphenyl)propionic acid was developed as an analgesic and anti-inflammatory medication because researchers at the Boots Company discovered that its carboxylic acid (-COOH) group was responsible for anti-inflammatory properties, similar to those found in aspirin. After testing more than 600 compounds, ibuprofen was identified as being twice as effective as other compounds due to this functional group.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Given that 2-(4-Isobutylphenyl)propionic acid decomposes above its melting point, what implications does this have for its storage and use in pharmaceutical applications?",
+      "answer": "Since 2-(4-Isobutylphenyl)propionic acid decomposes above its melting point of 76°C (169°F), it must be stored in a way that prevents it from reaching temperatures that would cause decomposition. This means it should be kept in a cool, controlled environment to maintain its stability and efficacy. In pharmaceutical applications, this property necessitates careful handling and storage to ensure the compound remains effective as an analgesic and anti-inflammatory medication.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

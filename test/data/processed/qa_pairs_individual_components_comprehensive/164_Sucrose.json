@@ -1,0 +1,58 @@
+{
+  "compound_id": 160,
+  "compound_name": "Sucrose",
+  "source_file": "compound_160_Sucrose.json",
+  "main_entry_length": 1539,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0858_Sucrose_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is sucrose. Sucrose is a disaccharide composed of glucose and fructose units. It is commonly known as table sugar. Key properties include its solubility in water and sweet taste. Sucrose is a non-reducing sugar, meaning it does not have a free aldehyde or ketone group. It is widely used as a sweetener in foods and beverages and plays a role in energy metabolism in living organisms.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:04:47"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "answer": "The chemical formula of sucrose is C12H22O11, and its molecular weight is 342.30 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:07",
+      "char_limit": 1000,
+      "answer_length": 87
+    },
+    {
+      "question": "Explain why sucrose is classified as a disaccharide and how this relates to its chemical structure.",
+      "answer": "Sucrose is classified as a disaccharide because it is a carbohydrate composed of two monosaccharides. According to the provided information, sucrose molecules consist of a molecule of glucose joined to a molecule of fructose. Carbohydrates, such as sucrose, are organic compounds that contain carbon, hydrogen, and oxygen, with hydrogen and oxygen typically in a 2:1 ratio. The term \"disaccharide\" reflects the structure of sucrose as it is formed by the combination of two single sugar units (monosaccharides), specifically glucose and fructose, which distinguishes it from monosaccharides that consist of only one sugar unit. This classification is essential to its chemical structure as the linkage of glucose and fructose defines sucrose's unique properties and its role as a widely used sweetener.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:13",
+      "char_limit": 1800,
+      "answer_length": 802
+    },
+    {
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "answer": "When sucrose is heated above its decomposition point of about 160°C (320°F), it begins to break down into carbon and water. This decomposition leads to a change in sucrose's physical properties, notably its color. As sucrose decomposes, it caramelizes, which is the process of changing from sucrose to caramel. This involves the formation of a darker color due to the presence of carbon. The process of decomposition and caramelization alters the sweet taste of sucrose and changes its crystalline solid state to a more viscous and darker substance.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:48:17",
+      "char_limit": 2000,
+      "answer_length": 549
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6017,
+  "updated_at": "2025-11-30 13:48:17",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

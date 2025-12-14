@@ -1,0 +1,27 @@
+{
+  "source_file": "129_Potassium_Carbonate.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Potassium Carbonate (K₂CO₃). Key properties of Potassium Carbonate include:\n\n1. **Composition**: It consists of two potassium atoms (K) and one carbon atom (C) bonded to three oxygen atoms (O).\n2. **Appearance**: Potassium Carbonate is typically white or off-white in color.\n3. **Solubility**: It is highly soluble in water.\n4. **Uses**: Potassium Carbonate is used in various applications including:\n   - Production of fertilizers due to its high potassium content.\n   - Soap manufacturing as it acts as a thick",
+      "latency_s": 16.7
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Carbonate?",
+      "answer": "The chemical formula for Potassium Carbonate is \\( \\text{K}_2\\text{CO}_3 \\).\n\nTo calculate the molecular weight, we need to sum the atomic weights of each element in the formula:\n\n- Potassium (K): Atomic weight ≈ 39.10 g/mol\n- Carbon (C): Atomic weight ≈ 12.01 g/mol\n- Oxygen (O): Atomic weight ≈ 16.00 g/mol\n\nNow, let's calculate the molecular weight:\n\n\\[ \\text{Molecular Weight} = (2 \\times \\text{Atomic Weight of K",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Describe the process by which Potassium Carbonate is typically produced in the United States.",
+      "answer": "Potassium carbonate, also known as potash, is a compound that is primarily used in agriculture as a fertilizer and in various industrial processes. The production of potassium carbonate in the United States typically involves several steps:\n\n1. **Extraction of Potassium**: Potassium is extracted from natural sources such as rock salt (halite) or from brines found in underground reservoirs.\n\n2. **Sodium Chloride (Salt) Processing**:\n   - **Rock Salt Extraction**: In some regions, rock salt is mined directly from the earth. This rock salt contains sodium chloride (NaCl), which is the primary component of table salt.",
+      "latency_s": 10.58
+    },
+    {
+      "question": "Explain the role and significance of Potassium Carbonate in agriculture and industry, and discuss any potential hazards.",
+      "answer": "Potassium carbonate (K2CO3), also known as potash, is an important compound with diverse applications across various sectors including agriculture and industry. Its chemical properties make it particularly useful for its ability to neutralize acids and provide essential nutrients.\n\n### Role and Significance in Agriculture\n\n1. **Fertilizer**: Potassium carbonate is a key component in many fertilizers due to its high potassium content. Potassium is crucial for plant growth, particularly in enhancing the yield and quality of crops such as potatoes, tomatoes, and sugar beets.\n   \n2. **Soil Amendment**: It helps improve soil structure by increasing the soil's",
+      "latency_s": 10.58
+    }
+  ]
+}

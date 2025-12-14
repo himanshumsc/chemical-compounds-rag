@@ -1,0 +1,27 @@
+{
+  "source_file": "62_Ethylene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows ethylene (C₂H₄). Ethylene is a simple hydrocarbon with two carbon atoms and four hydrogen atoms. It has a double bond between the two carbon atoms, which makes it highly reactive.\n\nKey properties of ethylene include:\n1. **Double Bond**: The presence of a double bond between the two carbon atoms allows for various reactions, such as addition reactions.\n2. **Plant Hormone**: Ethylene acts as a plant hormone that regulates various physiological processes in plants, including fruit ripening, leaf and flower aging, seed germination, root hair growth, and resistance to disease",
+      "latency_s": 16.48
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ethylene?",
+      "answer": "The chemical formula for ethylene is \\( C_2H_4 \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nFor one molecule of ethylene (\\( C_2H_4 \\)):\n- There are 2 carbon atoms: \\( 2 \\times 12.01 \\, \\text{g/mol} = 24.0",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Explain why Ethylene is classified as an unsaturated hydrocarbon.",
+      "answer": "Ethylene, with the chemical formula \\( \\text{C}_2\\text{H}_4 \\), is classified as an unsaturated hydrocarbon because it contains at least one carbon-carbon double bond (C=C). In saturated hydrocarbons, all carbon atoms are bonded to hydrogen atoms and each carbon atom forms single bonds with other carbon or hydrogen atoms.\n\nThe term \"unsaturated\" refers to the fact that ethylene can undergo addition reactions, where additional atoms or groups of atoms can be added to the double bond. This is possible because the double bond in ethylene has two pi electrons that can be shared with incoming reagents",
+      "latency_s": 10.41
+    },
+    {
+      "question": "Discuss the role of Ethylene as a plant hormone and provide an example of its historical use.",
+      "answer": "Ethylene is a gaseous plant hormone that plays a crucial role in various physiological processes within plants, including fruit ripening, leaf abscission, and stem elongation. It is produced by plants through the oxidation of methionine and is synthesized in various parts of the plant, such as roots, stems, leaves, and flowers.\n\nOne of the most significant roles of ethylene is in the regulation of fruit ripening. Ethylene is responsible for initiating the ripening process in fruits, which involves changes in color, texture, and flavor. This process is essential for the production of fruits that are ready for consumption and can be",
+      "latency_s": 10.41
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "compound_id": 123,
+  "compound_name": "Potassium Bisulfate",
+  "source_file": "compound_123_Potassium Bisulfate.json",
+  "main_entry_length": 1088,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0676_Potassium_Bisulfate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:34",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is potassium bisulfate. Its molecular structure consists of red atoms representing oxygen, a white atom for hydrogen, a yellow atom for sulfur, and a turquoise atom for potassium. Potassium bisulfate is used as a preservative in foods to inhibit the growth of insects, bacteria, and fungi. It's also a leavening agent in cake mixes and has applications in the wine industry and manufacturing. Although on the GRAS list, it is a strong irritant and can cause tissue damage if mishandled.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:05"
+    },
+    {
+      "question": "What is the chemical formula of Potassium Bisulfate and which elements does it contain?",
+      "answer": "The chemical formula of Potassium Bisulfate is KHSO4. It contains the elements potassium, hydrogen, sulfur, and oxygen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:41",
+      "char_limit": 1000,
+      "answer_length": 119
+    },
+    {
+      "question": "Explain the process of how Potassium Bisulfate is typically made.",
+      "answer": "Potassium bisulfate (KHSO4) is typically made by heating potassium sulfate (K2SO4) with sulfuric acid. The sulfuric acid provides the hydrogen needed to convert the potassium sulfate into the corresponding acid salt, potassium bisulfate.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:43",
+      "char_limit": 1800,
+      "answer_length": 237
+    },
+    {
+      "question": "Discuss the properties of Potassium Bisulfate that make it suitable as a food additive and any potential hazards associated with its use.",
+      "answer": "Potassium bisulfate (KHSO4) is an odorless white crystalline solid with a molecular weight of 136.17 g/mol. It is classified as an acid salt (inorganic) and is deliquescent, meaning it has a strong tendency to absorb moisture from the air, eventually dissolving in the absorbed water. It is soluble in water but decomposes in alcohol. Potassium bisulfate decomposes at its melting point of about 200°C (400°F) and does not have a boiling point.\n\nPotassium bisulfate is used as a food additive. Its properties that make it suitable for this purpose include its ability to absorb moisture, which can be useful in maintaining the desired consistency and moisture content of food products. Additionally, it is used in the wine industry to convert certain naturally occurring compounds in grapes into potassium bitartrate, a process important in winemaking.\n\nPotential hazards associated with potassium bisulfate include its deliquescent nature, which means it must be handled with care to prevent it from absorbing too much moisture and becoming liquid. This property could affect its storage and handling in food processing. It is important to manage exposure to moisture to maintain its stability and effectiveness as a food additive.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:40:47",
+      "char_limit": 2000,
+      "answer_length": 1232
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 2673,
+  "updated_at": "2025-11-30 13:40:47",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

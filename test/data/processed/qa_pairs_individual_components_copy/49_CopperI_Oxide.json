@@ -1,0 +1,36 @@
+{
+  "compound_id": 46,
+  "compound_name": "Copper(I) Oxide",
+  "source_file": "compound_046_Copper(I) Oxide.json",
+  "main_entry_length": 3038,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0294_Copper(I)_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:06",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Copper(I) Oxide.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Copper(I) Oxide?",
+      "answer": "The chemical formula of Copper(I) Oxide is Cu2O, and its molecular weight is 143.09 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the stability and transformation behavior of Copper(I) Oxide in different air conditions.",
+      "answer": "Copper(I) Oxide is stable in dry air and does not burn. However, in moist air, it slowly changes to copper(II) oxide (CuO).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process and precautions involved in synthesizing Copper(I) Oxide industrially from copper metal.",
+      "answer": "Copper(I) Oxide can be synthesized by exposing copper metal to a high concentration of oxygen at an elevated temperature. It is crucial to prevent the copper from oxidizing completely to form copper(II) oxide. Additionally, industrial methods such as the electrolysis of a sodium chloride solution using copper electrodes can also produce Copper(I) Oxide.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

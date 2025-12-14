@@ -1,0 +1,280 @@
+{
+  "source_file": "168_Tannic_Acid.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Tannic acid**. It's a plant-derived compound used in tanning hides into leather. It precipitates proteins and is also used for dyeing, staining wood, and treating minor wounds.",
+      "latency_s": 20.92,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula of tannic acid and what elements does it contain?",
+      "answer": "The provided text does not contain information about tannic acid. It focuses on acetic acid, with a formula of CH3COOH and elements: Carbon, Hydrogen, and Oxygen.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_73",
+          "score": 0.7387316823005676,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "text_length": 1443,
+            "chunk_id": "chunk_73",
+            "image_path": "",
+            "page_range": "74-74",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.7350562214851379,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "page_range": "1-1",
+            "image_path": "",
+            "text_length": 162,
+            "has_image": false,
+            "chunk_id": "chunk_0"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7326422333717346,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_84",
+          "score": 0.7284113764762878,
+          "text": "acid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "chunk_id": "chunk_84",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "85-85",
+            "text_length": 1890
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.7282830476760864,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "page_range": "75-75",
+            "text_length": 1074,
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.739)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 2 (Relevance: 0.735)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 3 (Relevance: 0.733)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.728)]\nacid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n\n\n[Source 5 (Relevance: 0.728)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Describe the physical state and properties of tannic acid.",
+      "answer": "The provided text does not contain information about tannic acid. It details salicylic acid, acetic acid, and related chemical processes, but makes no mention of tannic acid's physical state or properties.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_84",
+          "score": 0.7778333425521851,
+          "text": "acid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "85-85",
+            "chunk_id": "chunk_84",
+            "text_length": 1890,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.7474791407585144,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "page_range": "75-75",
+            "text_length": 1074,
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_37",
+          "score": 0.7330389022827148,
+          "text": "or\nto\now\nwords to know\n•\nA\nACETYL The organic group of acetic acid.\nADHESIVE A substance used to bond two surfaces together.\nALCHEMY An ancient field of study from which the modern\nscience of chemistry evolved.\nALKALI A chemical base that can combine with an acid to\nproduce a salt.\nALKALINE A substance that has a pH higher than 7.\nALKALOID An organic base that contains the element nitrogen.\nALKANE A typeof hydrocarbon that has no double bonds because\nit contains the maximum possible number of hydrogen\nALKENE A kind of hydrocarbon with at least one double bond\nbetween carbons.\nALKYL GROUP A chemical group containing hydrogen and\ncarbon atoms.\nCHEMICAL COMPOUNDS\nxxxvii\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_37",
+            "page_range": "38-38",
+            "has_image": false,
+            "text_length": 676
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7323521375656128,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "page_range": "40-40",
+            "image_path": "",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.7244966328144073,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "text_length": 1769,
+            "chunk_id": "chunk_76",
+            "page_range": "77-77",
+            "has_image": false,
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.778)]\nacid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n\n\n[Source 2 (Relevance: 0.747)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 3 (Relevance: 0.733)]\nor\nto\now\nwords to know\n•\nA\nACETYL The organic group of acetic acid.\nADHESIVE A substance used to bond two surfaces together.\nALCHEMY An ancient field of study from which the modern\nscience of chemistry evolved.\nALKALI A chemical base that can combine with an acid to\nproduce a salt.\nALKALINE A substance that has a pH higher than 7.\nALKALOID An organic base that contains the element nitrogen.\nALKANE A typeof hydrocarbon that has no double bonds because\nit contains the maximum possible number of hydrogen\nALKENE A kind of hydrocarbon with at least one double bond\nbetween carbons.\nALKYL GROUP A chemical group containing hydrogen and\ncarbon atoms.\nCHEMICAL COMPOUNDS\nxxxvii\n\n\n[Source 4 (Relevance: 0.732)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.724)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Explain the structural modification of glucose that leads to the formation of tannic acid.",
+      "answer": "The provided text does **not** contain information about the structural modification of glucose to form tannic acid. It defines various chemical terms and compounds but lacks details on tannic acid synthesis.",
+      "latency_s": 46.23,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.719407469034195,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "page_range": "40-40",
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.7164011597633362,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "9-9",
+            "has_image": false,
+            "text_length": 2062,
+            "chunk_id": "chunk_8"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_74",
+          "score": 0.709766298532486,
+          "text": "More than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_74",
+            "image_path": "",
+            "page_range": "75-75",
+            "text_length": 1074,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_73",
+          "score": 0.7057560682296753,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "74-74",
+            "image_path": "",
+            "text_length": 1443,
+            "chunk_id": "chunk_73"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_84",
+          "score": 0.7040835916996002,
+          "text": "acid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "page_range": "85-85",
+            "chunk_id": "chunk_84",
+            "text_length": 1890
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.719)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.716)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 3 (Relevance: 0.710)]\nMore than 1.4 million metric tons (1.5 million short tons)\nof acetic acid are produced in the United States annually. The\nlargest fraction of that amount is used as a raw material in\nthe manufacture of plastics.\nHOW IT IS MADE\nThe most common method of making acetic acid is one\ndeveloped by the Monsanto chemical corporation. In this\nprocess, synthesis gas (a mixture of carbon monoxide [CO]\nand hydrogen [H2]) is heated over a catalyst of copper metal\nmixed with zinc oxide to make methanol (methyl alcohol;\nCH3OH). The methanol is then treated with carbon monoxide\n(CO) to make acetic acid. Acetic acid can also be made by the\nfermentation of any material that contains sugar or some\nother carbohydrate. Although this method is of interest from\na historical standpoint, it is not sufficiently efficient to use\nindustrially.\nAcetic acid. Red atoms are\noxygen; black atoms are carbon;\nand white atoms are hydrogen.\nThe oxygen atom at top left\nshares a double bond with\nthe nearby carbon atom.\nP U B L I S H E R S R E S O U R C E G R O U P\n24\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.706)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 5 (Relevance: 0.704)]\nacid. The salicylic acid is then reacted with acetic acid\n(CH3COOH) to make acetylsalicylic acid, or aspirin. The prepara-\ntion of aspirin by this procedure is quite simple and is often\nassigned to students in beginning high school and college chem-\nistry classes. Aspirin tablets themselves include only acetylsa-\nlicylic acid, to which is added a small amount of water, starch\nand lubricant that act as a binder to hold the tablet together.\nCOMMON USES AND POTENTIAL HAZARDS\nThe exclusive use of aspirin is as a medicine. It has three\nimportant properties as a drug. It relieves pain, reduces\ninflammation, and reduces fever. In addition to its effective-\nness in treating these medical symptoms, it is inexpensive\nand available in a variety of forms, including chewable\ntablets, extended-release formulations, effervescent tablets,\nand even in chewing gums. Aspirin is often prescribed in low,\ndaily doses as a preventative measure for individuals at risk\nfor heart attack and stroke.\nWhile aspirin has many medical benefits, it is not with-\nout risk for some individuals. Some people are allergic to the\ncompound and can not tolerate even a low dose. Such indivi-\nduals experience a number of symptoms if they ingest high\ndoses of aspirin, symptoms that include ringing in the ears,\nnausea, vomiting, dizziness, confusion, hallucinations, coma,\nseizures, rapid breathing, fever, and, in the most severe\ncases, death. Aspirin use is not recommended in children\nunder the age of twelve who show symptoms of viral infec-\ntions because it can lead to an extremely rare but deadly\ncomplication known as Reye’s syndrome.\nF O R F U R T H E R I N F O R M A T I O N\nArnst, Catherine. ‘A Preemptive Strike against Cancer.’’ Business\nWeek (June 7, 2004): 48.\nWords to Know\nANALGESIC A substance that relieves pain.\nTHERAPEUTIC Having healing properties.\nACETYLSALICYLIC ACID\n34\nCHEMICAL COMPOUNDS\n"
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:51:41",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:51:41",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    3
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 135,
+  "compound_name": "Retinol",
+  "source_file": "compound_135_Retinol.json",
+  "main_entry_length": 1289,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0728_Retinol_chapter_start.png",
+  "generated_at": "2025-10-05 16:30:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Retinol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Retinol?",
+      "answer": "The chemical formula of Retinol is C20H30O, and its molecular weight is 286.45 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is Retinol considered an alcohol, and what is its physical state at room temperature?",
+      "answer": "Retinol is considered an alcohol because it contains an -OH (hydroxyl) group, which is characteristic of alcohols. It is a solid at room temperature, appearing as a yellowish to orange powder with a slight brownish cast.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the role of Retinol in the human body and its transformation process.",
+      "answer": "Retinol, also known as vitamin A, is crucial in the human body for converting light into nerve impulses in the retina of the eye, as it is transformed into retinal (C20H28O), an aldehyde. Additionally, vitamin A is essential for growth, development of tissue, and maintenance of the immune system. It is synthesized in animals through pathways involving carotenes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

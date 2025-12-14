@@ -1,0 +1,58 @@
+{
+  "compound_id": 128,
+  "compound_name": "Potassium Hydroxide",
+  "source_file": "compound_128_Potassium Hydroxide.json",
+  "main_entry_length": 2779,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0698_Potassium_Hydroxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of potassium hydroxide (KOH). In this structure, the red atom represents oxygen, the white atom represents hydrogen, and the turquoise atom represents potassium.\n\nKey properties of potassium hydroxide include:\n\n- **Strong Base**: KOH is a highly caustic, strong base commonly used in chemical manufacturing.\n- **Hygroscopic**: It readily absorbs moisture from the air.\n- **Solubility**: It is highly soluble in water, producing a heat-generating exothermic reaction.\n- **Applications**: Used in producing potassium compounds, fertilizers, and as a...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:02:43"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Hydroxide?",
+      "answer": "The chemical formula of Potassium Hydroxide is KOH, and its molecular weight is 56.10 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:41",
+      "char_limit": 1000,
+      "answer_length": 92
+    },
+    {
+      "question": "Why is Potassium Hydroxide considered a deliquescent material, and what happens when it absorbs carbon dioxide from the air?",
+      "answer": "Potassium Hydroxide (KOH) is considered a deliquescent material because it has the ability to absorb so much moisture from the atmosphere that it becomes very wet, potentially dissolving in the absorbed water. When Potassium Hydroxide absorbs carbon dioxide from the air, it undergoes a chemical transformation into potassium carbonate (K2CO3).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:45",
+      "char_limit": 1800,
+      "answer_length": 344
+    },
+    {
+      "question": "Explain the process by which Potassium Hydroxide is manufactured and describe its reactivity with metals in moist air.",
+      "answer": "Potassium hydroxide (KOH) is manufactured by the electrolysis of an aqueous solution of potassium chloride (KCl). In this process, an electric current decomposes potassium chloride into potassium and chlorine. The chlorine escapes as a gaseous by-product, and the potassium reacts with water to form potassium hydroxide.\n\nRegarding its reactivity, potassium hydroxide is chemically very active and reacts violently with acids, producing significant heat. In moist air, it corrodes metals such as tin, lead, zinc, and aluminum. This corrosion process releases combustible and explosive hydrogen gas. Potassium hydroxide is one of the most caustic materials known and is highly reactive, especially in the presence of moisture.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:41:49",
+      "char_limit": 2000,
+      "answer_length": 725
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5733,
+  "updated_at": "2025-11-30 13:41:49",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

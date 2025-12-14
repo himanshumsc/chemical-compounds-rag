@@ -1,0 +1,36 @@
+{
+  "compound_id": 111,
+  "compound_name": "Phosphoric Acid",
+  "source_file": "compound_111_Phosphoric Acid.json",
+  "main_entry_length": 3916,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0616_Phosphoric_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Phosphoric Acid.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of phosphoric acid?",
+      "answer": "The chemical formula for phosphoric acid is H3PO4, and its molecular weight is 98.00 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the physical state and properties of phosphoric acid at room temperature.",
+      "answer": "At room temperature, phosphoric acid can occur as a solid or a supercooled liquid. As a solid, it is a white crystalline material that strongly absorbs moisture from the air. As a liquid, it is colorless, odorless, and syrupy, with a sparkling character.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain the process of how phosphoric acid is commercially produced starting from phosphate rock.",
+      "answer": "Phosphoric acid is most economically produced by treating phosphate rock with sulfuric acid (H2SO4), which contains large amounts of calcium phosphate (Ca3(PO4)2). This reaction produces phosphoric acid that is generally not very pure but is suitable for fertilizer production. Higher quality phosphoric acid can be produced by burning phosphorus or phosphate rock in an electric furnace to convert it to gaseous phosphoric oxide (diphosphorus pentoxide; P2O5), which is then dissolved in water to form phosphoric acid.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

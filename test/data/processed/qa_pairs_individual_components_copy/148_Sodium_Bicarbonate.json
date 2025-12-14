@@ -1,0 +1,36 @@
+{
+  "compound_id": 144,
+  "compound_name": "Sodium Bicarbonate",
+  "source_file": "compound_144_Sodium Bicarbonate.json",
+  "main_entry_length": 1220,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0774_Sodium_Bicarbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:01",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Sodium Bicarbonate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium bicarbonate?",
+      "answer": "The chemical formula of sodium bicarbonate is NaHCO3, and its molecular weight is 84.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is sodium bicarbonate considered an acid salt and what happens to it when heated?",
+      "answer": "Sodium bicarbonate is considered an acid salt because it is an inorganic compound composed of a basic element (sodium) and an acidic component (bicarbonate). When heated, sodium bicarbonate decomposes to form sodium carbonate (Na2CO3), carbon dioxide (CO2), and water (H2O).",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the historical uses of sodium bicarbonate and explain its function as a leavening agent in baking.",
+      "answer": "Historically, sodium bicarbonate was used by ancient Egyptians in mummification processes as a solution mixed with sodium chloride. It has also been used for centuries as a leavening agent in baking, where its function is to cause dough or batter to rise. This is achieved because sodium bicarbonate decomposes to release carbon dioxide gas when heated or dissolved in water, which creates bubbles and makes the dough expand.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 43,
+  "compound_name": "Cinnamaldehyde",
+  "source_file": "compound_043_Cinnamaldehyde.json",
+  "main_entry_length": 3846,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0280_Cinnamaldehyde_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:54",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cinnamaldehyde.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of cinnamaldehyde?",
+      "answer": "The molecular formula of cinnamaldehyde is C6H5CH=CHCHO, and its molecular weight is 132.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why cinnamaldehyde is classified as an aromatic aldehyde.",
+      "answer": "Cinnamaldehyde is classified as an aromatic aldehyde because it contains a benzene ring within its structure, which is a characteristic of aromatic compounds. The presence of the aldehyde functional group (–CHO) in its molecular structure further classifies it as an aldehyde.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Describe the commercial preparation methods for cinnamaldehyde and discuss its solubility properties.",
+      "answer": "Cinnamaldehyde is commercially prepared by treating the bark of the Cinnamomum zeylanicum tree with steam. The steam absorbs the cinnamaldehyde, which can then be extracted as the steam cools and condenses to form water, in which cinnamaldehyde is much less soluble. Additionally, cinnamaldehyde can be synthesized by reacting benzaldehyde (C6H5CHO) with acetaldehyde (CH3CHO) through condensation, eliminating water to form cinnamaldehyde. It is very slightly soluble in water but soluble in alcohol, ether, and chloroform.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "74_Hydrogen_Peroxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of hydrogen peroxide (H2O2). Properties: highly reactive, oxidizing agent, used in various industries and as a fumigant.",
+      "latency_s": 40.23,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hydrogen peroxide?",
+      "answer": "The chemical formula of hydrogen peroxide is H2O2. Its molecular weight is 34.01 g/mol.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain why hydrogen peroxide is considered a strong oxidizing agent in its applications.",
+      "answer": "Hydrogen peroxide is a strong oxidizing agent due to its ability to oxidize many substances by removing hydrogen or adding oxygen. It efficiently combines with oxygen, breaking down organic compounds and disinfecting surfaces, making it invaluable in various applications like disinfection, bleaching, and as a stabilizer for hydrogen peroxide solutions.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe the industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones.",
+      "answer": "The industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones is not typically described in detail with alkyl anthrahydroquinones. Instead, hydrogen peroxide is often produced by electrolysis of water or by oxidation of organic compounds. For example, hydrogen peroxide can be produced by the oxidation of alkyl anthrahydroquinones in the presence of a catalyst, but this method is not commonly used industrially.",
+      "latency_s": 26.76,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-23 11:44:08",
+  "regenerated_with": "vllm+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-23 11:44:08",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

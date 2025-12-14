@@ -1,0 +1,11 @@
+{
+  "total_files": 178,
+  "successful": 178,
+  "failed": 0,
+  "failed_files": [],
+  "total_time_s": 3607.2315435409546,
+  "avg_per_file_s": 20.265345750230082,
+  "vllm_used": true,
+  "max_tokens": 500,
+  "log_file": "/home/himanshu/dev/output/qwen_regenerated/logs/regeneration_20251122_233014.log"
+}

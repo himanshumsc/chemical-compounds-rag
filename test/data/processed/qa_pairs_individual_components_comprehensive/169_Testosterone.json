@@ -1,0 +1,58 @@
+{
+  "compound_id": 165,
+  "compound_name": "Testosterone",
+  "source_file": "compound_165_Testosterone.json",
+  "main_entry_length": 4643,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0888_Testosterone_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The diagram in the image shows the molecular structure of testosterone. Testosterone is a steroid hormone with the chemical formula C19H28O2. Key properties include:\n\n- It has a hydroxyl group (red oxygen atom) and multiple carbon rings (black atoms).\n- It is a primary male sex hormone, crucial for the development of male reproductive tissues and secondary sexual characteristics.\n- Synthesized naturally in the testes and ovaries, it can also be produced synthetically from cholesterol or diosgenin.\n- Testosterone plays roles in muscle growth, bone density, and mood regulation.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:05:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of testosterone?",
+      "answer": "The chemical formula of testosterone is C19H28O2, and its molecular weight is 288.41 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:49:17",
+      "char_limit": 1000,
+      "answer_length": 91
+    },
+    {
+      "question": "Explain how testosterone affects the development of male sexual characteristics.",
+      "answer": "Testosterone is a steroid hormone responsible for the development of male sexual characteristics. It plays a crucial role in the increase of red blood cells and muscle cells and initiates the development of male sex organs. Testosterone is also responsible for secondary male sexual characteristics, including the growth of body and facial hair, deepening of the voice, and increased sexual desire. These effects are present to a greater extent in men than in women. Testosterone levels naturally increase during childhood, peak during the late teens or early twenties, and decrease throughout a man's life. A sudden or extreme decrease in testosterone levels can lead to hypogonadism, a condition affecting male sexual characteristics and functions. Testosterone is produced naturally in the male testes and female ovaries, but it can also be synthesized from cholesterol or diosgenin.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:49:19",
+      "char_limit": 1800,
+      "answer_length": 886
+    },
+    {
+      "question": "Describe the synthesis process of testosterone and its applications in medical treatments.",
+      "answer": "Testosterone is synthesized both naturally and artificially. Naturally, it is produced in the male testes and female ovaries. Synthetically, testosterone is made starting from cholesterol or diosgenin, a plant steroid. Testosterone is a white to creamy-white crystalline or powdery material, stable in air, with the molecular formula C19H28O2 and a molecular weight of 288.41 g/mol. It is insoluble in water but soluble in organic solvents like ethyl alcohol and ether.\n\nMedically, testosterone is crucial for the development of male sexual characteristics and is present in both male and female bodies, more predominantly in males. It increases red blood cells and muscle cells and initiates the development of male sex organs and secondary male sexual characteristics such as body and facial hair, a deeper voice, and increased sexual desire. Testosterone levels peak during the late teens or early twenties in men and decline with age.\n\nTestosterone is used in treatments for hypogonadism, a condition caused by a sudden or extreme decrease in testosterone levels. Treatments are available in injections, tablets, skin patches, and gels. Some men use these treatments to revive declining masculine traits as they age. Additionally, testosterone is used by individuals undergoing gender transition procedures to develop male characteristics and must be continued throughout their lives. However, it can also cause side effects like increased skin oiliness and acne.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:49:29",
+      "char_limit": 2000,
+      "answer_length": 1467
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 6997,
+  "updated_at": "2025-11-30 13:49:29",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

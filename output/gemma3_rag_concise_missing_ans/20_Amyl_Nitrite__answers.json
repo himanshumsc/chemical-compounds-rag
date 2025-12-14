@@ -1,0 +1,280 @@
+{
+  "source_file": "20_Amyl_Nitrite.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **amyl nitrite**. It's used medicinally to treat angina and related chest pain. It constricts blood vessels and releases nitric oxide, easing blood flow. It can also produce toxic byproducts like hydrogen cyanide and hydrogen sulfide.",
+      "latency_s": 19.63,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Amyl Nitrite?",
+      "answer": "The provided text does not contain information about Amyl Nitrite's chemical formula or molecular weight. It details TNT variations (Amatol, Minol, Baratol) and acetic acid.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_68",
+          "score": 0.7166664302349091,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "chunk_id": "chunk_68",
+            "page_range": "69-69",
+            "text_length": 1355,
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.7087276875972748,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "chunk_id": "chunk_39",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1326,
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_73",
+          "score": 0.7004634439945221,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "page_range": "74-74",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1443,
+            "chunk_id": "chunk_73"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.6976503729820251,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "has_image": false,
+            "chunk_id": "chunk_0",
+            "text_length": 162,
+            "page_range": "1-1",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_37",
+          "score": 0.6876537203788757,
+          "text": "or\nto\now\nwords to know\n•\nA\nACETYL The organic group of acetic acid.\nADHESIVE A substance used to bond two surfaces together.\nALCHEMY An ancient field of study from which the modern\nscience of chemistry evolved.\nALKALI A chemical base that can combine with an acid to\nproduce a salt.\nALKALINE A substance that has a pH higher than 7.\nALKALOID An organic base that contains the element nitrogen.\nALKANE A typeof hydrocarbon that has no double bonds because\nit contains the maximum possible number of hydrogen\nALKENE A kind of hydrocarbon with at least one double bond\nbetween carbons.\nALKYL GROUP A chemical group containing hydrogen and\ncarbon atoms.\nCHEMICAL COMPOUNDS\nxxxvii\n",
+          "metadata": {
+            "page_range": "38-38",
+            "chunk_id": "chunk_37",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 676
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.717)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n\n\n[Source 2 (Relevance: 0.709)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.700)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 4 (Relevance: 0.698)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 5 (Relevance: 0.688)]\nor\nto\now\nwords to know\n•\nA\nACETYL The organic group of acetic acid.\nADHESIVE A substance used to bond two surfaces together.\nALCHEMY An ancient field of study from which the modern\nscience of chemistry evolved.\nALKALI A chemical base that can combine with an acid to\nproduce a salt.\nALKALINE A substance that has a pH higher than 7.\nALKALOID An organic base that contains the element nitrogen.\nALKANE A typeof hydrocarbon that has no double bonds because\nit contains the maximum possible number of hydrogen\nALKENE A kind of hydrocarbon with at least one double bond\nbetween carbons.\nALKYL GROUP A chemical group containing hydrogen and\ncarbon atoms.\nCHEMICAL COMPOUNDS\nxxxvii\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Why is isoamyl nitrite considered unstable, and what are its effects when used medically?",
+      "answer": "I am sorry, but the provided text does not contain any information about isoamyl nitrite or its properties. Therefore, I cannot answer your question.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_90",
+          "score": 0.7004871964454651,
+          "text": "In addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n",
+          "metadata": {
+            "text_length": 1358,
+            "page_range": "91-91",
+            "chunk_id": "chunk_90",
+            "image_path": "",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.6866473853588104,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "chunk_id": "chunk_57",
+            "image_path": "",
+            "page_range": "58-58",
+            "text_length": 1914,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_68",
+          "score": 0.6857587397098541,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "page_range": "69-69",
+            "text_length": 1355,
+            "image_path": "",
+            "has_image": false,
+            "chunk_id": "chunk_68"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.668470710515976,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1326,
+            "page_range": "40-40",
+            "image_path": "",
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6679590940475464,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "77-77",
+            "text_length": 1769,
+            "has_image": false,
+            "chunk_id": "chunk_76",
+            "image_path": ""
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.700)]\nIn addition to its use as a vitamin supplement for normal\nindividuals and those at risk for vitamin E deficiency, the\ntocopherols have a few other uses:\n• In the curing of meat to block the action of nitrosa-\nmines, a group of compound that occurs naturally in\nmeats and may be carcinogenic;\n• As an additive to animal feed to replace vitamins lost\nduring feed processing; and\n• As a food additive in vegetable oils and shortening to\nprevent oxidation (spoilage).\nF O R F U R T H E R I N F O R M A T I O N\nChallem, Jack, and Melissa Diane Smith. Basic Health Publica\ntions User’s Guide to Vitamin E: Don’t Be a Dummy: Become\nan Expert on What Vitamin E Can Do for Your Health. North\nBergen, NJ: Basic Health Publications, 2002.\nPacker, Lester, and Carol Colman. The Antioxidant Miracle: Put\nLipoic Acid, Pycogenol, and Vitamins E and C to Work for You.\nNew York: Wiley, 1999.\n‘‘Vitamin E.’’ National Institutes of Health, Office of Dietary\nSupplements.\nhttp://ods.od.nih.gov/factsheets/vitamine.asp\n(accessed\non\nSeptember 17, 2005).\n‘‘Vitamin E (tocopherol).’’ Vitamin and Health Supplements Guide.\nhttp://www.vitamins supplements.org/vitamin E.php\n(accessed on September 17, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\nVISCOUS Describes a syrupy liquid that\nflows slowly.\n40\nCHEMICAL COMPOUNDS\nALPHA TOCOPHEROL\n\n\n[Source 2 (Relevance: 0.687)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 3 (Relevance: 0.686)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n\n\n[Source 4 (Relevance: 0.668)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 5 (Relevance: 0.668)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n"
+    },
+    {
+      "question": "Describe the synthesis method of isoamyl nitrite, and explain its use in emergency medical situations.",
+      "answer": "The provided text does not contain information about the synthesis of isoamyl nitrite or its medical uses. It defines various chemical compounds and processes but does not address this specific topic.",
+      "latency_s": 44.59,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.7154472172260284,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "page_range": "40-40",
+            "text_length": 1326,
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_8",
+          "score": 0.7133799195289612,
+          "text": "Glycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n",
+          "metadata": {
+            "page_range": "9-9",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 2062,
+            "chunk_id": "chunk_8"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_73",
+          "score": 0.7050830125808716,
+          "text": "OTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_73",
+            "page_range": "74-74",
+            "text_length": 1443
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_79",
+          "score": 0.7000174820423126,
+          "text": "and perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "80-80",
+            "image_path": "",
+            "text_length": 1964,
+            "chunk_id": "chunk_79"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_68",
+          "score": 0.6940248906612396,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "page_range": "69-69",
+            "image_path": "",
+            "text_length": 1355,
+            "chunk_id": "chunk_68",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.715)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.713)]\nGlycerol . . . . . . . . . . . . . . . . . . . . . . . . . 349\nHexane. . . . . . . . . . . . . . . . . . . . . . . . . . 353\nHydrogen Chloride . . . . . . . . . . . . . . . . . . 357\nHydrogen Peroxide . . . . . . . . . . . . . . . . . . 363\nIron(II) Oxide. . . . . . . . . . . . . . . . . . . . . . 367\nIron(III) Oxide . . . . . . . . . . . . . . . . . . . . . .371\nIsoamyl Acetate . . . . . . . . . . . . . . . . . . . . 377\nIsoprene . . . . . . . . . . . . . . . . . . . . . . . . . .381\nIsopropyl Alcohol . . . . . . . . . . . . . . . . . . . 387\nLactic Acid . . . . . . . . . . . . . . . . . . . . . . . .391\nLactose. . . . . . . . . . . . . . . . . . . . . . . . . . 397\nL-Aspartyl-L-Phenylalanine Methyl Ester. . . . 401\nLuminol . . . . . . . . . . . . . . . . . . . . . . . . . 407\nMagnesium Chloride . . . . . . . . . . . . . . . . . . 411\nMagnesium Hydroxide. . . . . . . . . . . . . . . . .415\nMagnesium Oxide. . . . . . . . . . . . . . . . . . . .419\nMagnesium Silicate Hydroxide . . . . . . . . . . 423\nMagnesium Sulfate. . . . . . . . . . . . . . . . . . 429\nMenthol . . . . . . . . . . . . . . . . . . . . . . . . . 435\nMercury(II) Sulfide . . . . . . . . . . . . . . . . . . 439\nMethane . . . . . . . . . . . . . . . . . . . . . . . . . 443\nMethyl Alcohol . . . . . . . . . . . . . . . . . . . . 449\nMethyl Mercaptan . . . . . . . . . . . . . . . . . . 455\nMethyl-t-butyl Ether . . . . . . . . . . . . . . . . . 459\nMonosodium Glutamate . . . . . . . . . . . . . . . 465\nN,N-Diethyl-3-Methylbenzamide. . . . . . . . . . 469\nNaphthalene . . . . . . . . . . . . . . . . . . . . . . 473\nNaproxen . . . . . . . . . . . . . . . . . . . . . . . . 477\nNiacin . . . . . . . . . . . . . . . . . . . . . . . . . . 483\nNicotine . . . . . . . . . . . . . . . . . . . . . . . . . 487\nNitric Acid . . . . . . . . . . . . . . . . . . . . . . . 493\nNitric Oxide . . . . . . . . . . . . . . . . . . . . . . 497\nNitrogen Dioxide . . . . . . . . . . . . . . . . . . . 503\nNitroglycerin. . . . . . . . . . . . . . . . . . . . . . 507\nviii\nCHEMICAL COMPOUNDS\nContents\n\n\n[Source 3 (Relevance: 0.705)]\nOTHER NAMES:\nEthanoic acid;\nmethanecarboxylic\nacid; vinegar acid\nFORMULA:\nCH3COOH\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nCarboxylic acid\n(organic)\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n60.05 g/mol\nMELTING POINT:\n16.6\u0002C (61.9\u0002F)\nBOILING POINT:\n117.9\u0002C (244.2\u0002F)\nSOLUBILITY:\nSoluble in water,\nalcohol, ether,\nacetone, benzene,\nand other organic\nsolvents\nAcetic Acid\nK E Y F A C T S\nOVERVIEW\nAcetic acid (uh-SEE-tik AS-id) is a clear, colorless liquid\nwith a sharp odor. In its pure form, the compound is also\nknown as glacial acetic acid. Acetic acid is the primary active\ningredient of vinegar, which typically consists of about five\nparts of acetic acid mixed with 95 parts of water. The com-\npound’s name comes from the Latin word for vinegar, acetum.\nAcetic acid, in the form of vinegar, has been known to\nhumans for centuries. When fruit juices are allowed to stand\nfor too long, or when they are fermented to make wine,\nvinegar forms. The use of vinegar as a condiment is men-\ntioned a number of times in the Bible, and was described by\nthe Greek natural philosopher Theophrastus (c. 372–c. 287 BCE).\nThe first person to extract acetic acid from vinegar was\nthe Muslim alchemist Jabir ibn Hayyan Geber (c. 721–815).\nThe pure compound was not produced, however, for another\nten centuries when the German chemist Georg Ernst Stahl\n(1660–1734) extracted acetic acid from vinegar in 1700 by\ndistillation.\nC\nOH\nO\nCH3\nCHEMICAL COMPOUNDS\n23\n\n\n[Source 4 (Relevance: 0.700)]\nand perchloroethylene, and the family of plastics known as\nthe acrylates. (The name vinyl refers to the remnant of an\nacetylene molecule after one hydrogen atom has been\nremoved: -CH2=CH-.) About 20 percent of all the acetylene\nproduced is used for torches that produce very hot flames.\nIn one such torch, the oxyacetylene torch, acetylene gas\nand oxygen are mixed and ignited at the tip of the torch.\nThe combination of gases burns at a temperature of 3,000\u0003C\nto 3,500\u0003C (5,500\u0003F to 6,300\u0003F). Oxyacetylene torches are\nused to cut through metal and to weld two metals to each\nother. They can be used in very cold climates and even under\nwater.\nAcetylene is both very flammable and explosive. Any-\none who works with the compound or uses it in any form\nshould know how to use the device that contains the gas.\nAcetylene also has the somewhat unusual chemical property\nof reacting with certain metals, such as copper and silver, to\nform highly explosive compounds known as acetylides.\nLamps, torches, and other devices built to hold and dispense\nacetylene can not contain any of these metals. High concen-\ntrations of the gas also pose a health hazard to humans. It\nis classified as an asphyxiant, a gas that can produce dis-\norientation, unconsciousness, and death when inhaled to\nexcess.\nInteresting Facts\nAcetylene was used as\na source of illumination\nbeginning in the early\n1900s. In one type of\nacetylene lamp, water was\nallowed to drop on a solid\nchunk of calcium carbide at a\ncontrolled rate. The acetylene\nproduced then passed into an\nignition chamber, where it\nburned with a brilliant white\nlight. Acetylene lamps were\nused in a variety of settings,\nsuch as the source of light\nfor bicycles and early motor\ncars and as a source of\nillumination for miners.\nSome small towns even used\nacetylene lamps as their\nmajor source of town lighting.\nAcetylene lamps continue to\nbe a popular collectors item\namong antique dealers today.\nCHEMICAL COMPOUNDS\n29\nACETYLENE\n\n\n[Source 5 (Relevance: 0.694)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:55:33",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:55:33",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:58",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    4
+  ]
+}

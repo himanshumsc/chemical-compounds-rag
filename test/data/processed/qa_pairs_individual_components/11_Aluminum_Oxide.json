@@ -1,0 +1,38 @@
+{
+  "compound_id": 7,
+  "compound_name": "Aluminum Oxide",
+  "source_file": "compound_007_Aluminum Oxide.json",
+  "main_entry_length": 2773,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0100_Aluminum_Oxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:04",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is aluminum oxide (Al₂O₃). Key properties of aluminum oxide include:\n\n1. **High Melting Point**: It is a refractory material, meaning it does not melt easily, making it suitable for lining furnaces.\n\n2. **Hardness**: It is a very hard material, used as an abrasive in products like sandpaper and grinding wheels.\n\n3. **Primary Use**: It is primarily used in the production of aluminum metal through the Hall process, where an electric current is passed through molten aluminum oxide to extract aluminum.\n\n4. **Chemical Stability**: It is chemically stable...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:47"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Aluminum Oxide?",
+      "answer": "The chemical formula of Aluminum Oxide is Al2O3, and its molecular weight is 101.96 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is Aluminum Oxide produced from bauxite?",
+      "answer": "Aluminum Oxide is produced by washing bauxite with a hot solution of sodium hydroxide (NaOH), which produces aluminum hydroxide (Al(OH)3). This aluminum hydroxide is then heated to drive off water, resulting in the production of Aluminum Oxide (Al2O3).",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain why Aluminum Oxide is suitable for use in abrasives and refractory products.",
+      "answer": "Aluminum Oxide's suitability for use in abrasives is due to its hardness, being the second hardest naturally occurring mineral after diamond. This makes it effective for grinding, polishing, and smoothing materials. Its high melting point (2072°C) and low electrical conductivity make it ideal for refractory products, which require materials that do not melt easily and can withstand high temperatures.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

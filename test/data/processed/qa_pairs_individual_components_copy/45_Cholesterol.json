@@ -1,0 +1,36 @@
+{
+  "compound_id": 42,
+  "compound_name": "Cholesterol",
+  "source_file": "compound_042_Cholesterol.json",
+  "main_entry_length": 1573,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0274_Cholesterol_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:50",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cholesterol.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of cholesterol?",
+      "answer": "The chemical formula of cholesterol is C27H45OH, and its molecular weight is 386.65 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain the solubility properties of cholesterol and the types of solvents in which it dissolves.",
+      "answer": "Cholesterol is very slightly soluble in water, meaning it does not dissolve well in aqueous environments. However, it is soluble in organic solvents such as acetone, alcohol, ether, benzene, and other similar solvents. This solubility behavior is typical for many lipid compounds, which do not interact favorably with polar solvents like water but dissolve in non-polar or slightly polar organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the significance of cholesterol being classified as a sterol and a member of the lipid family. How does this classification relate to its chemical structure and biological role?",
+      "answer": "Cholesterol is classified as a sterol, which is a subgroup of steroids with an -OH group at a specific position, making it an alcohol. As a member of the lipid family, cholesterol is considered a fat, which is generally formed from glycerol and fatty acids. The presence of multiple carbon atoms and an -OH group in its structure is characteristic of sterols. Biologically, cholesterol plays a crucial role in all higher animals, particularly in cell membrane structure and function. Its lipid nature allows it to integrate into cell membranes, contributing to membrane fluidity and integrity. Additionally, cholesterol serves as a precursor for the synthesis of steroid hormones and bile acids, which are vital for various physiological processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "compound_name": "Acetic acid . . . . . . . . . . . . . . . . . . . . . . .",
+    "compound_file": "compound_001_Acetic acid.json",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-v2azWyowjxBzM4GMyOFwwNov/user-qeoHeBiGBDobQ1qmlfqNhPcH/img-6mPKOpRqDhJtSngnxjgj5nzS.png?st=2025-10-05T08%3A08%3A35Z&se=2025-10-05T10%3A08%3A35Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=ed3ea2f9-5e38-44be-9a1b-7c1e65e4d54f&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T16%3A14%3A35Z&ske=2025-10-05T16%3A14%3A35Z&sks=b&skv=2024-08-04&sig=LDMYshA7E7%2BOsdCNs3xj7MXNiyQIAKmPUaDmKZPhjoE%3D",
+    "image_prompt": "A scientific illustration of Acetic acid. Include molecular structure diagram, chemical formula, and laboratory setting. \n        Professional scientific illustration style, clean white background, educational chemistry textbook quality.",
+    "success": true
+  },
+  {
+    "compound_name": "Benzene . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "compound_file": "compound_018_Benzene.json",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-v2azWyowjxBzM4GMyOFwwNov/user-qeoHeBiGBDobQ1qmlfqNhPcH/img-SJONMmQqzUzHG9zDeeRUmbKZ.png?st=2025-10-05T08%3A09%3A14Z&se=2025-10-05T10%3A09%3A14Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=77e5a8ec-6bd1-4477-8afc-16703a64f029&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-05T02%3A46%3A15Z&ske=2025-10-06T02%3A46%3A15Z&sks=b&skv=2024-08-04&sig=bLORPbMgOmsYeRq3HubLztee%2BQkE2NVmg0N7P1Fmvvo%3D",
+    "image_prompt": "A scientific illustration of Benzene. Include molecular structure diagram, chemical formula, and laboratory setting. \n        Professional scientific illustration style, clean white background, educational chemistry textbook quality.",
+    "success": true
+  },
+  {
+    "compound_name": "Carbon Dioxide . . . . . . . . . . . . . . . . . . . .",
+    "compound_file": "compound_034_Carbon Dioxide.json",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-v2azWyowjxBzM4GMyOFwwNov/user-qeoHeBiGBDobQ1qmlfqNhPcH/img-O5dBqMkdsvITwjQnm33PZSzK.png?st=2025-10-05T08%3A10%3A02Z&se=2025-10-05T10%3A10%3A02Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=b1a0ae1f-618f-4548-84fd-8b16cacd5485&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T10%3A34%3A05Z&ske=2025-10-05T10%3A34%3A05Z&sks=b&skv=2024-08-04&sig=94PojlqmBOMnx8MxVnx0nh1Jp26QDbrJrU69r0jaGl4%3D",
+    "image_prompt": "A scientific illustration of Carbon Dioxide. Include molecular structure diagram, chemical formula, and laboratory setting. \n        Professional scientific illustration style, clean white background, educational chemistry textbook quality.",
+    "success": true
+  },
+  {
+    "compound_name": "Sodium Chloride. . . . . . . . . . . . . . . . . . .",
+    "compound_file": "compound_146_Sodium Chloride.json",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-v2azWyowjxBzM4GMyOFwwNov/user-qeoHeBiGBDobQ1qmlfqNhPcH/img-p8xBEzUlynOWeRpD4CLBPmmu.png?st=2025-10-05T08%3A10%3A22Z&se=2025-10-05T10%3A10%3A22Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=77e5a8ec-6bd1-4477-8afc-16703a64f029&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-05T08%3A01%3A04Z&ske=2025-10-06T08%3A01%3A04Z&sks=b&skv=2024-08-04&sig=N3IgQwP1mQ9zGqMgoqvWZpksflzzZslLQhOVrJ3Ggb4%3D",
+    "image_prompt": "A scientific illustration of Sodium Chloride. Include molecular structure diagram, chemical formula, and laboratory setting. \n        Professional scientific illustration style, clean white background, educational chemistry textbook quality.",
+    "success": true
+  },
+  {
+    "compound_name": "Water. . . . . . . . . . . . . . . . . . . . . . . . . .",
+    "compound_file": "compound_173_Water.json",
+    "image_url": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-v2azWyowjxBzM4GMyOFwwNov/user-qeoHeBiGBDobQ1qmlfqNhPcH/img-WSaBXFTLWJYdfKzUVSwdJqrO.png?st=2025-10-05T08%3A10%3A42Z&se=2025-10-05T10%3A10%3A42Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=8b33a531-2df9-46a3-bc02-d4b1430a422c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-04T15%3A03%3A18Z&ske=2025-10-05T15%3A03%3A18Z&sks=b&skv=2024-08-04&sig=ILzHybL5GFE2JPD9cMDWwoWhcJTE99op16UZCYsz/Ro%3D",
+    "image_prompt": "A scientific illustration of Water. Include molecular structure diagram, chemical formula, and laboratory setting. \n        Professional scientific illustration style, clean white background, educational chemistry textbook quality.",
+    "success": true
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "source_file": "71_Glycerol.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows glycerol (also known as glycerin). Glycerol is a trihydroxy alcohol with the chemical formula C₃H₈O₃. Here are some of its key properties:\n\n1. **Structure**: It consists of three hydroxyl groups (-OH) attached to a central carbon atom.\n2. **Physical Properties**:\n   - **Appearance**: It is a colorless, odorless, and sweet-tasting liquid.\n   - **Boiling Point**: Approximately 290°C.\n   - **Melting Point**: Approximately 17°C.\n3",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of glycerol?",
+      "answer": "The chemical formula for glycerol (also known as 1,2,3-propanetriol) is \\(\\text{C}_3\\text{H}_8\\text{O}_3\\).\n\nTo calculate the molecular weight of glycerol, we need to sum the atomic weights of all the atoms in its formula:\n\n- Carbon (\\(\\text{C}\\)): The atomic weight of carbon is approximately 12.01 g/mol.\n- Hydrogen (\\(\\text{H}\\)): The atomic weight of hydrogen is approximately 1.01 g/mol.\n- Oxygen (\\(\\text{O}\\)):",
+      "latency_s": 10.48
+    },
+    {
+      "question": "Why is glycerol classified as a trihydric alcohol, and what are its solubility properties?",
+      "answer": "Glycerol is classified as a trihydric alcohol because it contains three hydroxyl groups (-OH) attached to the same carbon atom. This structure allows for multiple hydrogen bonding interactions, which is why glycerol has high surface tension and viscosity.\n\n### Classification as Trihydric Alcohol:\n- **Structure**: Glycerol (also known as 1,2,3-propanetriol) has the chemical formula \\(\\mathrm{C_3H_8O_3}\\). It consists of three hydroxyl groups (\\(-\\mathrm{OH}\\)) attached to a single carbon atom.\n- **Hy",
+      "latency_s": 10.48
+    },
+    {
+      "question": "Describe the traditional method of producing glycerol and its significance in the soap industry.",
+      "answer": "Glycerol, also known as glycerin or glycerine, is a key component in soap production. Traditionally, glycerol was produced as a byproduct during the saponification process, which is the chemical reaction that converts fats and oils into soap.\n\nThe saponification process involves mixing fats or oils with an alkali (such as sodium hydroxide) to produce soap. During this process, glycerol is released as a byproduct. The glycerol is then separated from the soap and can be used for various purposes, including food additives, pharmaceuticals, and industrial applications.\n\nIn the soap industry",
+      "latency_s": 10.48
+    }
+  ]
+}

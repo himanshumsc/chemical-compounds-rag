@@ -1,0 +1,27 @@
+{
+  "source_file": "100_Nicotine.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows nicotine. Key properties of nicotine include:\n\n1. **Chemical Composition**: \n   - White atoms represent hydrogen.\n   - Black atoms represent carbon.\n   - Blue atoms represent nitrogen.\n\n2. **Extraction**:\n   - Nicotine can be extracted from tobacco plants in water solutions.\n   - It is more soluble in organic solvents like ether or chloroform compared to water.\n\n3. **Common Uses**:\n   - Nicotine is primarily used in tobacco products for smoking and chewing.\n   - It is also used in products designed to help people stop smoking, such as nicotine gums and",
+      "latency_s": 20.5
+    },
+    {
+      "question": "What is the molecular formula of nicotine and what elements does it consist of?",
+      "answer": "The molecular formula for nicotine is C₁₀H₁₄N₂. It consists of carbon (C), hydrogen (H), and nitrogen (N) atoms.",
+      "latency_s": 10.52
+    },
+    {
+      "question": "Describe the solubility properties of nicotine and the implications for its extraction process.",
+      "answer": "Nicotine is a highly polar molecule, which means it has both positive and negative charges distributed across its structure. This polarity makes nicotine soluble in water but also in organic solvents like ethanol or acetone.\n\n### Solubility Properties:\n1. **Water Solubility**: Nicotine is moderately soluble in water. This property allows it to be extracted from tobacco or other sources into aqueous solutions, which can then be further processed.\n2. **Organic Solvent Solubility**: Nicotine is highly soluble in organic solvents such as ethanol, acetone, and methanol. These solvents are often used in the extraction process",
+      "latency_s": 10.52
+    },
+    {
+      "question": "Explain how the historical development and synthesis of nicotine have impacted its applications and uses.",
+      "answer": "Nicotine is a naturally occurring alkaloid found in the leaves of the tobacco plant, Nicotiana tabacum. Its discovery dates back to the 16th century when Spanish explorers encountered Native Americans smoking tobacco pipes. The compound was named after Jean Nicot, a French ambassador who introduced tobacco to France.\n\nHistorically, nicotine has been used for various purposes:\n\n1. Tobacco Products: Nicotine is the primary psychoactive substance in tobacco products, including cigarettes, cigars, and chewing tobacco. It is responsible for the addictive properties of these products, which have led to significant health concerns due to their association with lung cancer, heart",
+      "latency_s": 10.52
+    }
+  ]
+}

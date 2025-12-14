@@ -1,0 +1,30 @@
+{
+  "source_file": "26_Butane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows butane, a hydrocarbon. The chemical formula of butane is C₄H₁₀, and it is composed of four carbon atoms and ten hydrogen atoms, all bonded together in a linear structure. Here are some key properties of butane:\n\n1. **Molecular Structure**: Butane has a linear molecule with four carbon atoms and ten hydrogen atoms.\n2. **Chemical Formula**: It is C₄H₁₀.\n3. **Boiling Point**: Butane has a relatively low boiling point. It boils at approximately -0.5°C (31°F) under standard atmospheric pressure.\n4. **Main Uses**: Butane is commonly used as a fuel for lighters, grills, and as a component in various industrial processes, such as in the production of synthetic rubber.\n5. **Occurrence in Natural Gas**: Butane is an important component of natural gas.\n\nThe diagram visually represents the simplicity of butane's structure, with each black sphere representing a carbon atom and each white sphere representing a hydrogen atom, connected by single bonds.",
+      "latency_s": 8.17
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of butane?",
+      "answer": "Butane is a gas under normal room conditions and is a component of natural gas. Its chemical formula is:\n\n\\[ \\text{C}_4\\text{H}_{10} \\]\n\nThis means it consists of four carbon atoms and ten hydrogen atoms.\n\nTo calculate the molecular weight of butane, you add up the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nSo, for butane (\\(\\text{C}_4\\text{H}_{10}\\)):\n\n\\[ 4 \\times 12.01 \\, \\text{g/mol} + 10 \\times 1.008 \\, \\text{g/mol} \\]\n\n\\[ = 48.04 \\, \\text{g/mol} + 10.08 \\, \\text{g/mol} \\]\n\n\\[ = 58.12 \\, \\text{g/mol} \\]\n\nTherefore, the molecular weight of butane is approximately 58.12 g/mol.",
+      "latency_s": 9.48
+    },
+    {
+      "question": "Explain the difference between the two isomeric forms of butane.",
+      "answer": "Butane, with the molecular formula C4H10, exists in two principal isomeric forms: n-butane and isobutane (also known as 2-methylpropane).\n\n### 1. n-Butane (Normal Butane):\n- **Structure**: It is a linear chain of four carbon atoms.\n- **Formula**: C4H10\n- **Cylindrical Shape**: The molecule is essentially a line with four carbon atoms and ten hydrogen atoms attached to each carbon.\n- **Melting Point**: -138.4°C\n- **Boiling Point**: -0.5°C\n- **Energy**: n-Butane has a higher energy level compared to isobutane because the molecules are more compact and thus have higher energy.\n\n### 2. Isobutane (Isobutane):\n- **Structure**: It has a branched structure with a methyl group attached to the second carbon atom of a three-carbon chain.\n- **Formula**: C4H10\n- **Trigonal Shape**: The molecule has a trigonal structure, where the four carbon atoms are attached in a way that forms a loose pyramid.\n- **Melting Point**: -159.6°C\n- **Boiling Point**: -0.5°C\n- **Energy**: Isobutane has a lower energy level compared to n-butane because the branched structure allows for more stable energy levels.\n\n### Key Differences:\n1. **Molecular Structure**:\n   - **n-Butane**: Linear chain of four carbon atoms.\n   - **Isobutane**: A branched structure with a methyl group attached to the second carbon.\n\n2. **Energy Levels**:\n   - **n-Butane**: Higher energy due to its linear structure.\n   - **Isobutane**: Lower energy due to its trigonal structure.\n\n3. **Physical Properties**:\n   - **n-Butane** has a lower melting and boiling point than **Isobutane**.\n\nThese differences in structure and energy levels influence their physical and chemical properties, such as their reactivity and boiling points. This is why understanding isomers is crucial in chemistry, as they can have drastically different properties despite having the same molecular formula.",
+      "latency_s": 9.48
+    },
+    {
+      "question": "Discuss the solubility and state of butane, and its implications for its use as a fuel.",
+      "answer": "Butane, a hydrocarbon, belongs to the alkane family and is a liquid at room temperature. Its solubility in water is negligible, indicating that it does not dissolve readily in water. This property is due to its nonpolar nature, which makes it unattractive to polar water molecules.\n\nImplications for its use as a fuel:\n\n1. Butane as a fuel source: Butane, being a hydrocarbon, can be burned to release energy, making it a potential fuel source. When butane is burned, it combines with oxygen to form carbon dioxide and water vapor, releasing energy in the process.\n\n2. Butane's efficiency: Butane is highly efficient as a fuel source and produces a lot of energy per gram. This efficiency makes it a popular choice for various applications, including portable stoves and lighters.\n\n3. Butane's safety: Butane, being a flammable hydrocarbon, must be handled with care. It is important to avoid exposure to sources of ignition and to avoid storing it near heat sources or other flammable materials.\n\n4. Butane's applications in various fields: Butane is used in various industries, including the chemical industry, where it is used as a solvent and in the production of petrochemicals. In the food industry, butane is used as a propellant in whipped cream and other food products.\n\nIn summary, butane's solubility in water is negligible, and it is an efficient and flammable hydrocarbon that is used as a fuel source. Its use in various industries and its efficiency make it an important commodity in the chemical and food sectors.",
+      "latency_s": 9.48
+    }
+  ],
+  "regenerated_at": "2025-11-23 00:04:33",
+  "regenerated_with": "vllm",
+  "max_tokens": 500
+}

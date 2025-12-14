@@ -1,0 +1,36 @@
+{
+  "compound_id": 58,
+  "compound_name": "Ethylbenzene",
+  "source_file": "compound_058_Ethylbenzene.json",
+  "main_entry_length": 2285,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0354_Ethylbenzene_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Ethylbenzene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethylbenzene?",
+      "answer": "The chemical formula of ethylbenzene is C6H5C2H5, and its molecular weight is 106.16 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how ethylbenzene is synthesized synthetically and identify the catalyst used in the reaction.",
+      "answer": "Ethylbenzene is synthesized by reacting benzene (C6H6) with ethene (ethylene; CH2=CH2) over a catalyst of aluminum chloride (AlCl3). The reaction is represented by the equation: C6H6 + CH2=CH2 → C6H5C2H5. Aluminum chloride acts as the catalyst in this process.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the industrial importance of ethylbenzene and its primary use.",
+      "answer": "Ethylbenzene is industrially important primarily for its role in the production of styrene. More than 99 percent of the ethylbenzene produced is used to manufacture styrene, an aromatic hydrocarbon crucial for making various polymers such as polystyrene, styrene-butadiene latex, SBR rubber, and ABS rubber. Styrene ranked seventeenth among all chemicals produced in the United States in 2004, highlighting its significant industrial value.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

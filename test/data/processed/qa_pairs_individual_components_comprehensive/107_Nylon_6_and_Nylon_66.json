@@ -1,0 +1,58 @@
+{
+  "compound_id": 103,
+  "compound_name": "Nylon 6 and Nylon 66",
+  "source_file": "compound_103_Nylon 6 and Nylon 66.json",
+  "main_entry_length": 3325,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0570_Nylon_6_and_Nylon_66_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:03",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents Nylon 6. Key properties of Nylon 6 include its ability to form strong, silky fibers when stretched. It is synthesized through the polymerization of aminocaproic acid, creating a polymer with methylene (-CH₂-) and amide (CONH) groups. Nylon 6 is known for its strength, elasticity, and resistance to abrasion and chemicals, making it widely used in textiles, plastics, and various industrial applications.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:05"
+    },
+    {
+      "question": "What are the chemical formulas for Nylon 6 and Nylon 66, and what elements do they contain?",
+      "answer": "The chemical formula for Nylon 6 is -[-CO(CH2)5NH-]-n, and for Nylon 66, it is -[-CO(CH2)4CO-NH(CH2)6NH-]-n. Both Nylon 6 and Nylon 66 contain the elements carbon, hydrogen, oxygen, and nitrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:34",
+      "char_limit": 1000,
+      "answer_length": 195
+    },
+    {
+      "question": "Explain the difference between thermoplastic polymers and thermosetting plastics in the context of Nylon 6 and Nylon 66.",
+      "answer": "Nylon 6 and Nylon 66 are examples of thermoplastic polymers, specifically polyamides, which can be repeatedly melted and hardened through alternate heating and cooling. This characteristic distinguishes them from thermosetting plastics, which cannot be re-melted once they have hardened. Thermoplastic polymers like Nylon 6 and Nylon 66 are advantageous because they can be reshaped and recycled, offering versatility in manufacturing processes. These polymers are solid at room temperature and have very high molecular weights, with melting points of 223°C for Nylon 6 and 265°C for Nylon 66. Upon heating, they become pliable, allowing them to be molded into various shapes and products, a property not shared by thermosetting plastics.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:36",
+      "char_limit": 1800,
+      "answer_length": 738
+    },
+    {
+      "question": "Describe the commercial production process for Nylon 66 and how it differs from the production of Nylon 6.",
+      "answer": "The commercial production process for Nylon 66 involves the reaction between adipic acid (HOOC(CH2)4COOH) and hexamethylenediamine (H2N(CH2)6NH2). This reaction forms a monomer with active groups at both ends, allowing it to polymerize into long chains, resulting in the Nylon 66 polymer. \n\nIn contrast, Nylon 6 is produced through the polymerization of aminocaproic acid (H2N(CH2)5COOH). This process also involves the formation of long polymer chains, but the specific chemical structure of Nylon 6 differs from that of Nylon 66 due to the different starting materials and polymerization process.\n\nWhile both are polyamides containing amide groups, their production methods differ significantly: Nylon 66 uses a condensation reaction between two different monomers (adipic acid and hexamethylenediamine), whereas Nylon 6 is formed from a single monomer (aminocaproic acid) through ring-opening polymerization.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:36:39",
+      "char_limit": 2000,
+      "answer_length": 911
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 4852,
+  "updated_at": "2025-11-30 13:36:40",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

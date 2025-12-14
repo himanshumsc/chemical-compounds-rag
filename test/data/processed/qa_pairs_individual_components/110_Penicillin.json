@@ -1,0 +1,38 @@
+{
+  "compound_id": 106,
+  "compound_name": "Penicillin",
+  "source_file": "compound_106_Penicillin.json",
+  "main_entry_length": 5267,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0586_Penicillin_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:18",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is penicillin. Its molecular structure includes red atoms for oxygen, white atoms for hydrogen, black atoms for carbon, blue atoms for nitrogen, and a yellow atom for sulfur. Penicillin is an antibiotic that was discovered to have antibacterial properties. It works by interfering with the formation of the bacterial cell wall, effectively killing or inhibiting the growth of bacteria. It's widely used to treat various bacterial infections.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:17"
+    },
+    {
+      "question": "What is the basic chemical structure and formula of penicillin as described in the compound information?",
+      "answer": "The basic chemical structure of penicillin consists of a bicyclic compound formed by two amino acids, cysteine and valine. The formula is represented as (CH3)2C5H3NSO (COOH)NHCOR, where R represents any one of a number of substituted groups. The elements present in penicillin are carbon, hydrogen, oxygen, nitrogen, and sulfur.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How do penicillins function as antibiotics according to the provided compound information?",
+      "answer": "Penicillins function as antibiotics by inactivating an enzyme that bacteria use to form their cell walls. Without this enzyme, bacteria cannot synthesize cell walls, leading to their death. This mechanism makes penicillins effective against bacterial infections but not against viral infections, such as influenza or the common cold.",
+      "difficulty_level": "intermediate",
+      "topic_category": "uses"
+    },
+    {
+      "question": "Explain the process of producing biosynthetic and semi-synthetic penicillins as mentioned in the compound information.",
+      "answer": "Biosynthetic penicillins are produced by culturing specific molds in large vats, allowing the molds to naturally produce penicillin, which is then collected and purified. The type of penicillin produced depends on the nutrients provided in the culture. Semi-synthetic penicillins are created by chemically altering the structure of a naturally occurring penicillin. For example, penicillin V is produced by replacing the -CH2C6H5 group in natural penicillin G with a -CH2OC6H5 group.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 122,
+  "compound_name": "Potassium Bicarbonate",
+  "source_file": "compound_122_Potassium Bicarbonate.json",
+  "main_entry_length": 1346,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0672_Potassium_Bicarbonate_chapter_start.png",
+  "generated_at": "2025-10-05 16:29:29",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Potassium Bicarbonate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Bicarbonate?",
+      "answer": "The chemical formula of Potassium Bicarbonate is KHCO3, and its molecular weight is 100.12 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain why Potassium Bicarbonate does not have a boiling point.",
+      "answer": "Potassium Bicarbonate does not have a boiling point because it decomposes above 100°C (212°F) before it can transition into a gaseous state. As a result, instead of boiling, it breaks down into other compounds.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process of how Potassium Bicarbonate is manufactured.",
+      "answer": "Potassium Bicarbonate is manufactured by passing carbon dioxide gas through an aqueous solution of potassium carbonate. The reaction can be represented by the chemical equation: K2CO3 + CO2 + H2O → 2KHCO3. This process results in the formation of Potassium Bicarbonate.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

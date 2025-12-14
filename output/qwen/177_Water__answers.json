@@ -1,0 +1,27 @@
+{
+  "source_file": "177_Water.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows water (H₂O). The red atom represents oxygen, and the white atoms represent hydrogen. Key properties of water include:\n\n1. **High Boiling Point**: Water has a high boiling point for a substance with relatively small molecules due to the strength of its hydrogen bonds.\n2. **Surface Tension**: Hydrogen bonding causes surface tension, which allows some insects to walk on water.\n3. **Universal Solvent**: Water can dissolve many substances because of its strong dipole character, where one end of the water molecule is positive and the other is negative. This polarity allows water to attract and dissolve various substances",
+      "latency_s": 16.48
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of water?",
+      "answer": "The chemical formula for water is H₂O, which indicates that one molecule of water consists of two hydrogen atoms (H) and one oxygen atom (O).\n\nTo calculate the molecular weight of water, we need to sum the atomic weights of its constituent elements:\n\n- The atomic weight of hydrogen (H) is approximately 1.008 g/mol.\n- The atomic weight of oxygen (O) is approximately 16.00 g/mol.\n\nSo, the molecular weight of water (H₂O) is calculated as follows:\n\\[ \\text{Molecular weight of H₂O} = 2 \\times \\text",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Explain the dipole nature of water and its implications.",
+      "answer": "Water, with its chemical formula H2O, is composed of two hydrogen atoms covalently bonded to one oxygen atom. The oxygen atom has a higher electronegativity than the hydrogen atoms, meaning it attracts electrons more strongly. This results in an uneven distribution of charge within the molecule, creating a polar structure.\n\nThe oxygen atom has six valence electrons, and each hydrogen atom has one. In the covalent bond, the oxygen atom will attract the shared electrons more strongly, leaving the hydrogen atoms with a slight positive charge (δ+). Conversely, the oxygen atom becomes slightly negative (δ-). This separation of charges gives",
+      "latency_s": 10.36
+    },
+    {
+      "question": "Describe a reaction involving water and a metal, and explain the safety considerations involved.",
+      "answer": "When a metal reacts with water, it can produce hydrogen gas and cause the metal to dissolve or disintegrate. This reaction is often referred to as a \"metal-water reaction\" or \"metal-hydrogen reaction.\" The specific outcome of this reaction depends on the type of metal and its reactivity.\n\n### Reaction Example:\nConsider the reaction between magnesium (Mg) and water (H₂O). When magnesium reacts with water, it produces hydrogen gas and magnesium hydroxide:\n\n\\[ \\text{Mg} + 2\\text{H}_2\\text{O} \\rightarrow \\text{Mg(OH)}",
+      "latency_s": 10.36
+    }
+  ]
+}

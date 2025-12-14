@@ -1,0 +1,27 @@
+{
+  "source_file": "77_IronIII_Oxide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Iron(III) oxide (Fe₂O₃). This compound consists of two iron atoms (orange) bonded to three oxygen atoms (red), forming a stable structure with a reddish-brown color.\n\nKey properties of Iron(III) oxide include:\n1. **Color**: It appears as a reddish-brown powder.\n2. **Chemical Formula**: Fe₂O₃.\n3. **Molecular Structure**: Each iron atom is bonded to three oxygen atoms, forming a complex network.\n4. **Physical State**: It exists as a solid at room temperature.\n5. **",
+      "latency_s": 16.69
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Iron(III) oxide?",
+      "answer": "The chemical formula for Iron(III) oxide, also known as rust, is Fe₂O₃. \n\nTo calculate its molecular weight, we need to sum the atomic weights of all the atoms in the formula:\n\n- Iron (Fe) has an atomic weight of approximately 55.845 g/mol.\n- Oxygen (O) has an atomic weight of approximately 16.00 g/mol.\n\nFor Fe₂O₃:\n- There are 2 iron atoms: \\( 2 \\times 55.845 = 111.69 \\) g/mol.\n- There are",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Explain the ferromagnetic property of Iron(III) oxide as mentioned in the compound information.",
+      "answer": "Iron(III) oxide, also known as rust or ferric oxide, has the chemical formula Fe2O3. It is a red-brown solid that forms when iron reacts with oxygen in the presence of moisture.\n\nThe ferromagnetic property of Iron(III) oxide refers to its ability to align its magnetic moments in the same direction under an external magnetic field. This property is due to the fact that the iron atoms in the crystal lattice of Fe2O3 have unpaired electrons that can be aligned by an external magnetic field, resulting in a net magnetic moment for the material.\n\nHowever, it's important to note that while Fe",
+      "latency_s": 10.3
+    },
+    {
+      "question": "Describe the process of how Iron(III) oxide is reduced to iron metal in a blast furnace.",
+      "answer": "The reduction of Iron(III) oxide (Fe₂O₃), commonly known as hematite, to iron metal in a blast furnace involves several key steps:\n\n1. **Feeding of Raw Materials:**\n   - Hematite ore is fed into the top of the blast furnace along with other raw materials such as limestone and coke.\n   - Coke is used as a source of carbon and heat, while limestone acts as a flux to remove impurities from the molten iron.\n\n2. **Blast Furnace Operation:**\n   - Air is blown into the furnace at high pressure through tuyeres located near the bottom of the",
+      "latency_s": 10.3
+    }
+  ]
+}

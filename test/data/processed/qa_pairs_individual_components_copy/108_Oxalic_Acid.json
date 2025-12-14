@@ -1,0 +1,36 @@
+{
+  "compound_id": 104,
+  "compound_name": "Oxalic Acid",
+  "source_file": "compound_104_Oxalic Acid.json",
+  "main_entry_length": 2980,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0576_Oxalic_Acid_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Oxalic Acid.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of oxalic acid and what type of compound is it?",
+      "answer": "The chemical formula of oxalic acid is HOOCCOOH. It is classified as a dicarboxylic acid and an organic acid.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility properties of oxalic acid in different solvents.",
+      "answer": "Oxalic acid is soluble in water and ethyl alcohol, slightly soluble in ether, and insoluble in most other organic solvents.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how the synthesis of oxalic acid by Friedrich Wöhler contributed to the development of chemistry.",
+      "answer": "Friedrich Wöhler's synthesis of oxalic acid entirely from inorganic materials was pivotal in disproving the Vitalistic Theory of chemistry. This theory claimed that compounds found in living organisms could only be produced by supernatural means. Wöhler's work demonstrated that such compounds could be created through human actions, advancing the understanding of organic chemistry.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

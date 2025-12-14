@@ -1,0 +1,280 @@
+{
+  "source_file": "36_Camphor.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **camphor**. It's extracted from the Cinnamomum camphora tree and was traditionally used as medicine in Asia to treat ailments like upset stomach and rheumatism. It’s a hydrocarbon composed of carbon, hydrogen, and oxygen.",
+      "latency_s": 22.85,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "answer": "I am sorry, but the provided context does not contain information about camphor. Therefore, I cannot answer your question.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_39",
+          "score": 0.6253458857536316,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "has_image": false,
+            "page_range": "40-40",
+            "chunk_id": "chunk_39",
+            "text_length": 1326
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_99",
+          "score": 0.6002727448940277,
+          "text": "OTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+          "metadata": {
+            "chunk_id": "chunk_99",
+            "has_image": false,
+            "page_range": "100-100",
+            "text_length": 1359,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_0",
+          "score": 0.5980340242385864,
+          "text": "chemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC",
+          "metadata": {
+            "page_range": "1-1",
+            "has_image": false,
+            "text_length": 162,
+            "image_path": "",
+            "chunk_id": "chunk_0"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.5941635072231293,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "text_length": 1553,
+            "has_image": false,
+            "chunk_id": "chunk_87",
+            "page_range": "88-88",
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_69",
+          "score": 0.5862498581409454,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n",
+          "metadata": {
+            "text_length": 1478,
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_69",
+            "page_range": "70-70"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.625)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 2 (Relevance: 0.600)]\nOTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n\n\n[Source 3 (Relevance: 0.598)]\nchemical compounds\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\nH3C\nOCC\n\n[Source 4 (Relevance: 0.594)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 5 (Relevance: 0.586)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nCH3CONHC6H4OH\nELEMENTS:\nCarbon, hydrogen,\noxygen, nitrogen\nCOMPOUND TYPE:\nAromatic amide\n(organic)\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n151.16 g/mol\nMELTING POINT:\n169\u0002C–172\u0002C\n(336\u0002F–342\u0002F)\nBOILING POINT:\nNot applicable\n(decomposes)\nSOLUBILITY:\nInsoluble in cold\nwater; more soluble\nin warm water;\nsoluble in alcohol,\nacetone, and other\norganic solvents\nAcetaminophen\nK E Y F A C T S\nOVERVIEW\nAcetaminophen (uh-SEE-toe-Min-oh-fen) is one of the\nmost commonly used analgesics in the world. It is also known\nas p-Acetylaminophenol; p-acetamidophenol; N-acetyl-p-ami-\nnophenol; p-hydroxyacetanilide; and paracetamol. It is an\ningredient in more than 100 commercial products including\nAbensanil\u0002,\nAcamol\u0002,\nAcetagesic\u0002,\nAlpinyl\u0002,\nAlvedon\u0002,\nAnaflon\u0002,\nAnelix\u0002,\nAnhiba\u0002,\nCalpol\u0002,\nDatril\u0002,\nDirox\u0002,\nDoliprane\u0002, Dymadon\u0002, Enelfa\u0002, Eneril\u0002, Exdol\u0002, Febrilix\u0002,\nFebrolin\u0002,\nFendon\u0002,\nFinimal\u0002,\nHedex\u0002,\nHomoolan\u0002,\nLonarid\u0002, Multin\u0002, Panadol\u0002, Phendon\u0002, Tylenol\u0002, Valdol\u0002,\nand Valgesic\u0002. Acetaminophen is often combined with other\ningredients in medications such as cold and flu products,\ncough suppressants, and allergy medications in order to treat\nmore than one symptom at a time.\nAcetaminophen was first discovered in 1852 by the\nFrench chemist Charles Frederic Gerhardt, who also discov-\nered aspirin a year later. His results were largely ignored,\nhowever, until a German chemist, Harmon Northrop Morse\nH\nCH3\nC\nC\nC\nC\nC\nC\nC\nO\nOH\nN\nH\nH\nH\nH\nCHEMICAL COMPOUNDS\n19\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "answer": "The provided text does not contain information about camphor. Therefore, it is impossible to answer the question regarding its natural source or differences between natural and synthetic camphor based on this context.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_68",
+          "score": 0.5395815968513489,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "chunk_id": "chunk_68",
+            "page_range": "69-69",
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1355
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.5361454486846924,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_39",
+            "text_length": 1326,
+            "page_range": "40-40",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_57",
+          "score": 0.530989021062851,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "chunk_id": "chunk_57",
+            "page_range": "58-58",
+            "image_path": "",
+            "has_image": false,
+            "text_length": 1914
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_99",
+          "score": 0.5108628571033478,
+          "text": "OTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+          "metadata": {
+            "chunk_id": "chunk_99",
+            "page_range": "100-100",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1359
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_75",
+          "score": 0.502862811088562,
+          "text": "Researchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n",
+          "metadata": {
+            "page_range": "76-76",
+            "has_image": false,
+            "image_path": "",
+            "chunk_id": "chunk_75",
+            "text_length": 1976
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.540)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n\n\n[Source 2 (Relevance: 0.536)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.531)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 4 (Relevance: 0.511)]\nOTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n\n\n[Source 5 (Relevance: 0.503)]\nResearchers are constantly looking for new, more efficient,\nmore environmentally-friendly methods for making acetic acid.\nIn 2003, for example, chemists at the University of Southern\nCalifornia reported on a new method for making acetic acid\ndirectly from methane gas (CH4) using a catalyst of palladium\nandsulfuricacid.Otherresearchersarelookingforwaystooxidize\nthe waste gases produced from industrial processes to acetic acid.\nCOMMON USES AND POTENTIAL HAZARDS\nAcetic acid is probably best known to most people as vine-\ngar. In this form, it is used as a condiment and a food preserva-\ntive. The greatest volume of acetic acid is used, however, in a\nvariety of chemical processes, especially the manufacture of\nplastic materials such as polyvinyl acetate (PVA), polyethylene\nterephthalate (PET), and cellulose acetate. A more recent use of\nacetic acid is in the manufacture of calcium magnesium acetate\n(CMA), a deicer. Traditionally, roads, highways, and airport\nrunways have been treated with calcium chloride (CaCl2) or\nsome other salt to remove snow and ice. These compounds have\nserious environmental effects, however, and researchers have\nlong been looking for alternatives that are as effective in\nremoving snow and ice, but less harmful to the environment.\nCMA has been the most promising of these alternatives, and its\nproduction has produced a growing demand for acetic acid.\nSome other applications of acetic acid include:\n• As a cleaning agent;\n• In the manufacture of photographic materials;\nInteresting Facts\nAncient Romans boiled\nfermented wine (vinegar) in\nlead pots to make a sweet\nsyrup called sapa. The acetic\nacid in the vinegar dissolved a\nsmall amount of lead from\nwhich the pots were made,\nproducing lead acetate\n(Pb[C2H3O2]). When they used\nsapa as a sweetening agent\nin their foods, the Romans\ningested the lead acetate\nwhich, over long periods of\ntime, caused the lead poison\ning from which so many of\nthem died.\nCHEMICAL COMPOUNDS\n25\nACETIC ACID\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Discuss the historical and modern medicinal uses of camphor. Why has its use changed over time?",
+      "answer": "The provided text does **not** contain information about camphor. It details the uses and history of mustard gas, acetaminophen, aspirin, TNT, and carbohydrates, but not camphor. Therefore, a response to the user's question cannot be generated from this context.",
+      "latency_s": 47.82,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_57",
+          "score": 0.5688060820102692,
+          "text": "has been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "58-58",
+            "chunk_id": "chunk_57",
+            "text_length": 1914,
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.5188348889350891,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "71-71",
+            "text_length": 1074,
+            "chunk_id": "chunk_70",
+            "has_image": false
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.518258810043335,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1326,
+            "has_image": false,
+            "page_range": "40-40",
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_83",
+          "score": 0.5140538811683655,
+          "text": "For many years the way aspirin works in the body was not\nunderstood. Scientists now know that the compound’s helpful\neffects come from its action on prostaglandins. Prostaglandins\nare hormone-like substances released by cells that are injured.\nThey cause the body to release other substances that sensitize\nnerve endings to pain and start the healing process. Aspirin\nblocks prostaglandin production, thus relieving the sensation\nof pain and the inflammation that are the body’s response to\ninjury. Aspirin reduces fever by acting on the region of the\nbrain that regulates body temperature and heart rate. Prosta-\nglandins block the body’s natural system for producing heat\nso that by blocking the release of prostaglandins, aspirin\nallows the regulation of body temperature to continue as\nusual. Aspirin’s protection against heart attack and stroke\noccur because of its effect on one special type of prostaglan-\ndin, known as thromboxane A2. Thromboxane A2 promotes\nthe accumulation of cells that takes place when a blood clot\nforms. By blocking or slowing down the production of throm-\nboxane A2, aspirin prevents the formation of blood clots and,\nhence, the probability of heart attack and stroke.\nHOW IT IS MADE\nThe modern method for making aspirin was developed in\n1897 by the German chemist Felix Hoffman (1868–1946), an\nemployee of the German chemical manufacturer Bayer AG\nChemical Works. In this procedure, phenol (C6H5OH) is treated\nwith sodium hydroxide and carbon dioxide to make salicylic\nInteresting Facts\n• The name aspirin comes\nfrom a very old name for\nsalicylic acid, spiraeic acid.\n• After Hofmann’s discov-\nery, Bayer received a\nregistered trademark for\nthe name aspirin, meaning\nthat no other company\ncould use the name for\nacetylsalicylic acid. When\nGermany was defeated in\nWorld War I (1914–1918),\nAllied forces seized the\nBayer company’s property\nand possessions and made\nthe name available to all\ndrug manufacturers.\nCHEMICAL COMPOUNDS\n33\nACETYLSALICYLIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_83",
+            "has_image": false,
+            "image_path": "",
+            "page_range": "84-84",
+            "text_length": 1985
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_68",
+          "score": 0.5121814608573914,
+          "text": "• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n",
+          "metadata": {
+            "chunk_id": "chunk_68",
+            "page_range": "69-69",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1355
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.569)]\nhas been used in one other very different way: in the treat-\nment of cancer. The husband and wife medical team of E.B.\nand H.D. Krumbhaar discovered in 1919 that mustard gas was\neffective in treating cancer in experimental animals. (They\ncalled the compound by its then-popular name, yellow cross\ngas.) The compound was one of the first chemicals to be used\nin the treatment of cancer. Researchers continued to study\nthe cancer-fighting properties of mustard gas for more than\ntwenty years, but the compound has never been widely used\nfor that purpose.\nThe effects of exposure to mustard gas vary over time. At\nfirst, a person who has inhaled the gas may become nau-\nseated, experience itchy and sore eyes, and begin vomiting.\nHis or her skin turns red and blisters may develop. Exposure\nto large amounts of the gas may result in permanent damage\nto the eyes and respiratory system resulting, in the worst\ncases, in coma and death. People exposed to mustard gas who\nsurvive may later develop mouth, lung, or stomach cancer.\nInteresting Facts\n• Another name for mustard\ngas, yprite, comes from\nthe Belgian city Ypres\n(pronounced ‘‘EE-pr’’’),\nwhere the compound was\nfirst use as a military\nweapon.\n• The use of mustard gas\nwas outlawed by the\nChemical Weapons\nConvention, adopted in\n1993. The United States\nstarting destroying its\nstockpile of mustard gas\neven earlier, in 1985, and is\nnow thought to have none\nof the chemical agent left.\n• Mustard gas was not used\nduring World War II. The\ncompound was, nonethe-\nless, responsible for the\ndeaths of more than 100\nU.S. men. On December 2,\n1943, a German attack on\nthe harbor of Bari, Italy,\nresulted in the sinking of\nabout two dozen ships.\nSome of those ships were\ncarrying mustard gas.\nWhen they sank, they\nreleased the gas into the\nsurrounding water, where\nsurvivors inhaled and\nswallowed the poisonous\ncompound.\nCHEMICAL COMPOUNDS\n7\n2,20 DICHLORODIETHYL SULFIDE\n\n\n[Source 2 (Relevance: 0.519)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n\n\n[Source 3 (Relevance: 0.518)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.514)]\nFor many years the way aspirin works in the body was not\nunderstood. Scientists now know that the compound’s helpful\neffects come from its action on prostaglandins. Prostaglandins\nare hormone-like substances released by cells that are injured.\nThey cause the body to release other substances that sensitize\nnerve endings to pain and start the healing process. Aspirin\nblocks prostaglandin production, thus relieving the sensation\nof pain and the inflammation that are the body’s response to\ninjury. Aspirin reduces fever by acting on the region of the\nbrain that regulates body temperature and heart rate. Prosta-\nglandins block the body’s natural system for producing heat\nso that by blocking the release of prostaglandins, aspirin\nallows the regulation of body temperature to continue as\nusual. Aspirin’s protection against heart attack and stroke\noccur because of its effect on one special type of prostaglan-\ndin, known as thromboxane A2. Thromboxane A2 promotes\nthe accumulation of cells that takes place when a blood clot\nforms. By blocking or slowing down the production of throm-\nboxane A2, aspirin prevents the formation of blood clots and,\nhence, the probability of heart attack and stroke.\nHOW IT IS MADE\nThe modern method for making aspirin was developed in\n1897 by the German chemist Felix Hoffman (1868–1946), an\nemployee of the German chemical manufacturer Bayer AG\nChemical Works. In this procedure, phenol (C6H5OH) is treated\nwith sodium hydroxide and carbon dioxide to make salicylic\nInteresting Facts\n• The name aspirin comes\nfrom a very old name for\nsalicylic acid, spiraeic acid.\n• After Hofmann’s discov-\nery, Bayer received a\nregistered trademark for\nthe name aspirin, meaning\nthat no other company\ncould use the name for\nacetylsalicylic acid. When\nGermany was defeated in\nWorld War I (1914–1918),\nAllied forces seized the\nBayer company’s property\nand possessions and made\nthe name available to all\ndrug manufacturers.\nCHEMICAL COMPOUNDS\n33\nACETYLSALICYLIC ACID\n\n\n[Source 5 (Relevance: 0.512)]\n• Amatol, a combination of TNT and ammonium nitrate,\nis often substituted for TNT in ordnance (weapons);\n• Minol, a variation of amatol that includes 20 percent\naluminum to increase its explosive power; and\n• Baratol, a mixture of TNT and barium nitrate that\nexplodes more slowly than pure TNT.\nIn addition to its primary use in explosives, 2,4,6-tri-\nnitrotoluene is also used to produce a very attractive yellow\ntint in the manufacture of dyes and photographic chemicals.\n2,4,6-trinitrotoluene is a hazardous chemical that can pro-\nduce both short- and long-term health effects, such as respira-\ntory problems, skin irritation, anemia, and lung damage. Some\nresearch shows the compound may be carcinogenic in labora-\ntory animals, but not in humans. Since most people are never\nexposed to TNT, these hazards are primarily of concern to men\nand women engaged in the manufacture or use of TNT.\nF O R F U R T H E R I N F O R M A T I O N\nCooper, P. W., and S. R. Kurowski. Introduction to the Technology\nof Explosives. New York: Wiley VCH, 1997.\n‘‘Public Health Statement for 2,4,6 Trinitrotoluene.’’ Agency for\nToxic Substances and Disease Registry.\nhttp://www.atsdr.cdc.gov/toxprofiles/phs81.html\n(accessed\nSeptember 15, 2005).\nWords to Know\nCARCINOGEN A chemical that causes cancer\nin humans or other animals.\n18\nCHEMICAL COMPOUNDS\n2,4,6 TRINITROTOLUENE\n"
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:58:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:58:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:59",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 2,
+  "filtered_answers_indices": [
+    2,
+    3
+  ]
+}

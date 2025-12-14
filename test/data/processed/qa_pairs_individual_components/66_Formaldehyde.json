@@ -1,0 +1,38 @@
+{
+  "compound_id": 63,
+  "compound_name": "Formaldehyde",
+  "source_file": "compound_063_Formaldehyde.json",
+  "main_entry_length": 2421,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0376_Formaldehyde_chapter_start.png",
+  "generated_at": "2025-10-05 16:25:20",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown is of formaldehyde. It consists of one carbon atom (black), one oxygen atom (red), and two hydrogen atoms (white), with a double bond between the carbon and oxygen. Formaldehyde is a colorless gas with a pungent odor. It occurs naturally in the atmosphere at low concentrations and is also produced industrially via the oxidation of methanol. It's widely used in the production of polymers and other organic chemicals, although it is known for its potential health hazards, including respiratory issues and carcinogenicity.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:39"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of formaldehyde?",
+      "answer": "The chemical formula of formaldehyde is HCHO, and its molecular weight is 30.03 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is formaldehyde typically provided as a 37 percent solution with added methanol?",
+      "answer": "Formaldehyde is usually provided as a 37 percent solution in water with an additional 15 percent of methanol to prevent polymerization, which occurs when individual molecules of formaldehyde combine to form polymers. This solution makes handling and shipping easier and safer.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the process by which formaldehyde is commercially produced and explain why natural atmospheric formaldehyde is not used for industrial purposes.",
+      "answer": "Commercial production of formaldehyde involves the oxidation of methanol (CH3OH) or gases extracted from petroleum (such as methane) over a catalyst of silver, copper, or iron with molybdenum oxide. Natural atmospheric formaldehyde exists at a low concentration of about 10 parts per billion (0.000001%), making it impractical as a natural source for industrial uses. Instead, formaldehyde is produced artificially to meet commercial demands.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

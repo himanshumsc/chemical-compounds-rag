@@ -1,0 +1,58 @@
+{
+  "compound_id": 114,
+  "compound_name": "Polyethylene",
+  "source_file": "compound_114_Polyethylene.json",
+  "main_entry_length": 1577,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0630_Polyethylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:49",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows polyethylene. Polyethylene is a polymer made of repeated methylene (-CH₂-) units. It is a versatile plastic known for its durability, chemical resistance, and flexibility. Polyethylene is used in a wide variety of applications, including packaging materials, containers, and piping. It can be produced in different densities, such as high-density polyethylene (HDPE) and low-density polyethylene (LDPE), each with distinct properties and uses.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:34"
+    },
+    {
+      "question": "What are the primary elements that make up the compound polyethylene?",
+      "answer": "The primary elements that make up the compound polyethylene are carbon and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:33",
+      "char_limit": 1000,
+      "answer_length": 84
+    },
+    {
+      "question": "How does the structure of polyethylene affect its density, particularly in high-density versus low-density forms?",
+      "answer": "The structure of polyethylene affects its density based on the arrangement and branching of polymer chains. High-density polyethylene (HDPE) consists of straight, unbranched polyethylene chains that pack tightly together, resulting in a denser material. In contrast, low-density polyethylene (LDPE) has shorter chains with many side branches, which prevent the polymer chains from packing closely. This leads to a lower density material. The differences in chain structure directly influence the packing efficiency and thus the density of the polyethylene.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:37",
+      "char_limit": 1800,
+      "answer_length": 556
+    },
+    {
+      "question": "Given that polyethylene is a thermosetting polymer, explain why it cannot be re-melted once formed and how this property influences its applications.",
+      "answer": "Polyethylene is described as a thermosetting polymer, which implies that once it is melted and formed, it cannot be re-melted. This is because thermosetting polymers undergo a chemical change during the curing process, forming a cross-linked structure that is stable and cannot be re-melted or re-shaped. This property is due to the formation of chemical bonds between adjacent polymer chains, leading to a regular and stable structure. \n\nThe inability to re-melt polyethylene influences its applications by making it highly resistant to high temperatures and physical impact. It also provides resistance to most inorganic and organic chemicals, making it suitable for applications where durability and stability are essential. Additionally, as an electrical non-conductor, polyethylene is used in applications requiring electrical insulation. \n\nThese properties make polyethylene ideal for use in products that require long-term stability and resistance to environmental factors, such as piping, containers, and various industrial components. Its different forms, like high-density and cross-linked polyethylene, offer specific characteristics that can be tailored to meet diverse application needs.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:43",
+      "char_limit": 2000,
+      "answer_length": 1200
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 5996,
+  "updated_at": "2025-11-30 13:38:43",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

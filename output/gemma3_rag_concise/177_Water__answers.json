@@ -1,0 +1,59 @@
+{
+  "source_file": "177_Water.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **water (H₂O)**. It’s a molecule with red oxygen and white hydrogen atoms. Key properties include being a universal solvent, having a high boiling point due to hydrogen bonds, and surface tension.",
+      "latency_s": 22.51,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of water?",
+      "answer": "The provided text does not contain the chemical formula or molecular weight of water. It defines \"chemical compounds\" and related terms but doesn't specify the properties of water.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the dipole nature of water and its implications.",
+      "answer": "The provided text does not contain information about the dipole nature of water or its implications. It defines various chemical compounds and related terms, but does not address water's polarity. Therefore, I cannot answer your question based on the given context.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Describe a reaction involving water and a metal, and explain the safety considerations involved.",
+      "answer": "Reactions between water and metals vary. Some metals (like sodium) react violently, producing hydrogen gas and heat. Others (like iron) react slowly, forming rust (iron oxide).\n\n**Safety:** All such reactions should be performed with caution. Violent reactions can cause explosions or burns. Hydrogen gas is flammable. Always wear eye protection and gloves. Adequate ventilation is crucial to prevent hydrogen buildup. Consult safety data sheets for specific metals.",
+      "latency_s": 56.98,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:54:21",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:54:21",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

@@ -1,0 +1,36 @@
+{
+  "compound_id": 169,
+  "compound_name": "Triclocarban",
+  "source_file": "compound_169_Triclocarban.json",
+  "main_entry_length": 5056,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0910_Triclocarban_chapter_start.png",
+  "generated_at": "2025-10-05 16:32:44",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Triclocarban.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Triclocarban?",
+      "answer": "The chemical formula of Triclocarban is C6H3Cl2NHCONHC6H4Cl, and its molecular weight is 315.58 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Why is Triclocarban considered harmless to humans but effective as an antimicrobial agent against bacteria and fungi?",
+      "answer": "Triclocarban is considered harmless to humans because it acts by disabling the enzyme enoyl-acyl-carrier-protein reductase (ENR), which is used by bacteria and fungi to make cell membranes. Humans do not have this enzyme, so Triclocarban does not affect human cells. The compound is effective against microorganisms because, without the ability to make cell membranes, bacteria and fungi cannot survive.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Discuss the potential environmental and health concerns associated with the use of Triclocarban in antimicrobial products.",
+      "answer": "The use of Triclocarban in antimicrobial products raises concerns about the development of resistant strains of bacteria and fungi. This resistance could occur if the genes responsible for the production of the ENR enzyme mutate, leading to microorganisms that can survive despite the presence of antimicrobial agents. Additionally, Triclocarban can cause contact dermatitis, an allergic skin rash, and has been implicated in illnesses among newborns, making its use in maternity wards discouraged. There are also unresolved questions regarding its potential carcinogenic effects and the environmental impact of its widespread use.",
+      "difficulty_level": "advanced",
+      "topic_category": "safety"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

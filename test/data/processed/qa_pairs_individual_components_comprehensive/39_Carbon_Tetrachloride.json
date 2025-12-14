@@ -1,0 +1,58 @@
+{
+  "compound_id": 36,
+  "compound_name": "Carbon Tetrachloride",
+  "source_file": "compound_036_Carbon Tetrachloride.json",
+  "main_entry_length": 1518,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0240_Carbon_Tetrachloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:24",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown is carbon tetrachloride (CCl₄). It consists of one carbon atom (black) bonded to four chlorine atoms (green), with all bonds being single bonds.\n\nKey properties of carbon tetrachloride include:\n\n- **Physical State:** It is a colorless liquid at room temperature.\n- **Non-Flammability:** Carbon tetrachloride is non-flammable.\n- **Density:** It is denser than water.\n- **Toxicity:** It is highly toxic and can cause liver and kidney damage.\n- **Uses:** Historically used in the production of chlorofluorocarbons (CFCs) and as a solvent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:28"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Carbon Tetrachloride?",
+      "answer": "The chemical formula of Carbon Tetrachloride is CCl4, and its molecular weight is 153.82 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:50",
+      "char_limit": 1000,
+      "answer_length": 95
+    },
+    {
+      "question": "Why is Carbon Tetrachloride classified as a halogenated hydrocarbon?",
+      "answer": "Carbon tetrachloride is classified as a halogenated hydrocarbon because it is derived from methane (CH4), a hydrocarbon, in which all the hydrogen atoms are replaced by halogen atoms, specifically chlorine in this case.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:53",
+      "char_limit": 1800,
+      "answer_length": 219
+    },
+    {
+      "question": "Discuss the historical applications of Carbon Tetrachloride and the reasons for the decline in its usage.",
+      "answer": "Carbon tetrachloride (CCl4) historically had several important applications. It was used as a dry cleaning fluid, a refrigerant, an industrial and chemical solvent, and in fire extinguishers. However, by the mid-twentieth century, evidence began to accumulate regarding the serious health hazards associated with carbon tetrachloride. As a result, its usage was significantly reduced. In 1970, the U.S. Food and Drug Administration banned its use in consumer products in the United States. Despite this ban, the production of carbon tetrachloride was not severely impacted in the long term, as it found a new role in the manufacture of chlorofluorocarbons (CFCs). The Montreal Protocol on Substances That Deplete the Ozone Layer, adopted in 1987, also influenced the production and use of carbon tetrachloride.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:57:56",
+      "char_limit": 2000,
+      "answer_length": 810
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3640,
+  "updated_at": "2025-11-30 13:57:57",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

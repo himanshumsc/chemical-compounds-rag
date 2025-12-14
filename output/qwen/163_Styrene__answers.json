@@ -1,0 +1,27 @@
+{
+  "source_file": "163_Styrene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows styrene (C6H5CH=CH2). Key properties of styrene include:\n\n1. **Chemical Structure**: It consists of a benzene ring with an ethylene group attached to it.\n2. **Appearance**: Styrene is a clear, colorless liquid at room temperature.\n3. **Manufacture**: It is produced by dehydrogenation of ethylbenzene over a catalyst of iron(III) oxides at temperatures around 600°C (1100°F).\n4. **Uses**:\n   - About two-thirds of all styrene",
+      "latency_s": 16.65
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of styrene?",
+      "answer": "The chemical formula for styrene is C8H8. \n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nFor one molecule of styrene:\n- There are 8 carbon atoms: \\( 8 \\times 12.01 \\, \\text{g/mol} = 96.08 \\, \\text{g/mol} \\)\n- There are",
+      "latency_s": 10.62
+    },
+    {
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "answer": "Polymerization is a chemical reaction in which monomers (small molecules) join together to form polymers (large molecules). The process involves the breaking of bonds within the monomers and the formation of new bonds between them, resulting in a chain-like structure.\n\nStyrene is a monomer that undergoes polymerization to form polystyrene. Polystyrene is a thermoplastic polymer with a high melting point and excellent mechanical properties. It is widely used in various applications such as packaging, insulation, and construction materials.\n\nThe process of styrene polymerization can be initiated by heat, light, or a catalyst. In",
+      "latency_s": 10.62
+    },
+    {
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "answer": "Styrene is a monomer used in the production of polystyrene (PS), which is a thermoplastic polymer. The industrial preparation of styrene primarily involves two main methods: the dehydrogenation of ethylbenzene and the hydrogenation of vinyl chloride.\n\n### 1. Dehydrogenation of Ethylbenzene\n\nThe most common industrial method for producing styrene is through the dehydrogenation of ethylbenzene. This process involves the removal of one hydrogen atom from ethylbenzene to form styrene. The reaction can be represented as:\n\n\\[ \\text{C",
+      "latency_s": 10.62
+    }
+  ]
+}

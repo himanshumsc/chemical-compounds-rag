@@ -1,0 +1,58 @@
+{
+  "compound_id": 53,
+  "compound_name": "Dichlorodifluoromethane",
+  "source_file": "compound_053_Dichlorodifluoromethane.json",
+  "main_entry_length": 1505,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0328_Dichlorodifluoromethane_chapter_start.png",
+  "generated_at": "2025-10-05 16:24:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is dichlorodifluoromethane. It is a chlorofluorocarbon (CFC) commonly used as a refrigerant and aerosol propellant. The compound consists of carbon (black), fluorine (turquoise), and chlorine (green) atoms. Dichlorodifluoromethane is nonflammable and non-toxic, making it a safer alternative to earlier refrigerants like ammonia and sulfur dioxide. However, it has been phased out due to its role in depleting the ozone layer.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:08:07"
+    },
+    {
+      "question": "What is the chemical formula of Dichlorodifluoromethane, and what elements does it comprise?",
+      "answer": "The chemical formula of Dichlorodifluoromethane is CCl2F2. It comprises the elements carbon, chlorine, and fluorine.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:04",
+      "char_limit": 1000,
+      "answer_length": 116
+    },
+    {
+      "question": "How does dichlorodifluoromethane's solubility vary between water and other solvents like alcohol and ether?",
+      "answer": "Dichlorodifluoromethane is very slightly soluble in water but is soluble in alcohol and ether.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:07",
+      "char_limit": 1800,
+      "answer_length": 94
+    },
+    {
+      "question": "Explain why dichlorodifluoromethane is categorized as both a chlorofluorocarbon (CFC) and an alkyl halide.",
+      "answer": "Dichlorodifluoromethane is categorized as both a chlorofluorocarbon (CFC) and an alkyl halide based on its chemical composition and structure. As a CFC, it consists of carbon, chlorine, and fluorine atoms in varying arrangements, which are characteristic components of chlorofluorocarbons. These compounds are derivatives of alkanes (hydrocarbons consisting of carbon and hydrogen) where the hydrogen atoms are replaced by chlorine and/or fluorine atoms. The text explicitly states that dichlorodifluoromethane belongs to this family of compounds.\n\nAdditionally, dichlorodifluoromethane is classified as an alkyl halide, a type of organic compound. Alkyl halides are halogenated hydrocarbons where halogen atoms (like chlorine and fluorine) are bonded to an alkane backbone. Given that dichlorodifluoromethane's molecular structure (CCl2F2) involves carbon atoms bonded to chlorine and fluorine, it fits the definition of an alkyl halide.\n\nThus, its categorization as both a CFC and an alkyl halide is due to its structure, comprising carbon, chlorine, and fluorine atoms, indicative of chlorofluorocarbons, and its nature as a halogenated hydrocarbon, characteristic of alkyl halides.",
+      "difficulty_level": "advanced",
+      "topic_category": "structure",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:01:14",
+      "char_limit": 2000,
+      "answer_length": 1185
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 3120,
+  "updated_at": "2025-11-30 14:01:14",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

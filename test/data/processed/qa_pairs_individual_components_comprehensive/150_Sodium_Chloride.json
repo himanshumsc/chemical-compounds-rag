@@ -1,0 +1,58 @@
+{
+  "compound_id": 146,
+  "compound_name": "Sodium Chloride",
+  "source_file": "compound_146_Sodium Chloride.json",
+  "main_entry_length": 5267,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0786_Sodium_Chloride_chapter_start.png",
+  "generated_at": "2025-10-05 16:31:08",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of sodium chloride (NaCl), commonly known as table salt. This compound consists of sodium (Na) and chloride (Cl) ions. Sodium chloride forms a crystalline lattice, is highly soluble in water, and is essential for various biological processes. It is used widely in food for seasoning and preservation and has applications in industrial processes, water softening, and de-icing roads.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:43"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Sodium Chloride?",
+      "answer": "The chemical formula of Sodium Chloride is NaCl. The molecular weight of Sodium Chloride is 58.44 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:21",
+      "char_limit": 1000,
+      "answer_length": 104
+    },
+    {
+      "question": "How is Sodium Chloride naturally sourced and processed for use?",
+      "answer": "Sodium chloride is naturally sourced from the mineral halite and is abundantly found in the oceans, with seawater containing about 2.6 percent sodium chloride. It is harvested using several methods. The simplest and oldest method is the evaporation of seawater using the Sun, suitable for hot, arid regions. In cooler, moister areas, seawater is collected in large containers and heated artificially, often under reduced pressure to save on heating costs. As the water evaporates, sodium chloride crystallizes and can be collected.\n\nAnother significant source is salt mines, which are large underground reserves left by ancient seas. These mines are located worldwide, including in Russia, Germany, the United Kingdom, India, France, Mexico, Canada, and the United States. Two main mining methods are used: the room-and-pillar method and solution mining. In the room-and-pillar method, shafts are dug into the deposit, and drilling and blasting break off pieces of sodium chloride. Large pillars are left to support the chambers. In solution mining, a well is drilled, and water is used to create a brine solution, which is then pumped to the surface for processing.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:26",
+      "char_limit": 1800,
+      "answer_length": 1166
+    },
+    {
+      "question": "Explain the industrial significance of Sodium Chloride beyond its use as a food additive.",
+      "answer": "Sodium chloride, beyond its role as a food additive, has significant industrial importance. It is primarily used as a raw material in the production of various chemicals. In 2004, 65% of all sodium chloride consumed in the United States was used for producing compounds such as sodium hydroxide, sodium carbonate, hydrogen chloride, sodium metal, and chlorine gas. These compounds are essential for various industrial processes and applications.\n\nAdditionally, sodium chloride plays a crucial role in water conditioning. It is used to soften hard water by replacing calcium and magnesium ions with sodium ions, which improves the efficiency of cleaning processes. This use highlights its importance in ensuring the effective operation of water systems and reducing costs associated with cleaning.\n\nFurthermore, sodium chloride is utilized in solution mining, where it is dissolved to create brine, which is then processed for various applications. The compound is also essential in the mining industry, particularly in the room-and-pillar method, where it is extracted from underground salt deposits.\n\nOverall, sodium chloride's role as a chemical precursor and its applications in water treatment and mining underscore its industrial significance beyond culinary uses.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:45:36",
+      "char_limit": 2000,
+      "answer_length": 1269
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 10873,
+  "updated_at": "2025-11-30 13:45:36",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "compound_id": 33,
+  "compound_name": "Camphor",
+  "source_file": "compound_033_Camphor.json",
+  "main_entry_length": 4058,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0222_Camphor_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:12",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure in the image represents camphor. Camphor is a terpenoid with the chemical formula C₁₀H₁₆O. It appears as a white, waxy solid with a strong, aromatic odor. Camphor is known for its medicinal properties and has been traditionally used throughout Asia to treat ailments like upset stomachs and rheumatism. It is extracted from the Cinnamomum camphora tree and is also used in topical analgesics, embalming, and as an insect repellent.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:20"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "answer": "The chemical formula of camphor is C10H16O, and its molecular weight is 152.23 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "answer": "Natural camphor is obtained through steam distillation and crystallization from the trunk, branches, roots, and leaves of the Cinnamomum camphora tree. Natural camphor consists of the dextrorotary ('+') isomer. Synthetic camphor, however, is made by oxidizing the cyclic isomer a-pinene derived from turpentine oil and consists of both dextrorotary ('+') and levorotatory ('-') isomers. This difference in isomer composition does not affect the chemical properties but can modestly affect the biological properties.",
+      "difficulty_level": "intermediate",
+      "topic_category": "structure"
+    },
+    {
+      "question": "Discuss the historical and modern medicinal uses of camphor. Why has its use changed over time?",
+      "answer": "Historically, camphor has been used in Asia as a medicine for a wide range of ailments, including upset stomach, rheumatism, and as a treatment for nervousness, hysteria, diarrhea, bronchitis, and infectious fevers. It was even used as an injection to treat heart failure. However, due to a lack of medical evidence supporting most of these treatments, its primary use today is in lotions and ointments for the relief of mild pain and discomfort associated with arthritis, rheumatism, and sore muscles. Camphor acts as a mild analgesic and antiseptic in products such as Absorbine Arthritic Pain Lotion, Ben-Gay, Campho-phenique, Panalgesic, Sloan’s Liniment, and Vicks VapoRub. Its pronounced odor may also help open nasal passages. The shift from widespread medicinal use to topical applications reflects a more evidence-based approach to its efficacy and safety.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "72_Hexane.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows hexane. Key properties of hexane include:\n\n1. **Chemical Formula**: Hexane has the chemical formula C₆H₁₄.\n2. **Molecular Structure**: It consists of six carbon atoms (black spheres) bonded to fourteen hydrogen atoms (white spheres).\n3. **Boiling Point**: Hexane has a low boiling point, which allows it to vaporize easily.\n4. **Solvent Properties**: Hexane is commonly used as a solvent due to its ability to dissolve various substances.\n5. **Health Hazards**: Hexane can be harmful if inhaled or",
+      "latency_s": 16.67
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of hexane?",
+      "answer": "The chemical formula for hexane is \\( \\text{C}_6\\text{H}_{14} \\). \n\nTo calculate the molecular weight, we need to sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nFor one molecule of hexane (\\( \\text{C}_6\\text{H}_{14} \\)):\n\n- The total weight from carbon atoms: \\( 6 \\times 12",
+      "latency_s": 10.48
+    },
+    {
+      "question": "Explain why hexane is considered a saturated hydrocarbon and what implications this has for its chemical structure.",
+      "answer": "Hexane is a saturated hydrocarbon, which means it contains only single bonds between carbon atoms and no double or triple bonds. This saturation implies that all the hydrogen atoms in hexane are bonded to carbon atoms in a way that maximizes the stability of the molecule.\n\n### Chemical Structure Implications:\n1. **Single Bonds**: In hexane, each carbon atom forms four single bonds with hydrogen atoms (C-H) and other carbon atoms (C-C). This arrangement ensures that each carbon atom achieves an octet of electrons, which is highly stable according to the octet rule.\n2. **No Double Bonds**: The absence of double bonds",
+      "latency_s": 10.48
+    },
+    {
+      "question": "Describe the process by which hexane is obtained from petroleum and explain why its low boiling point is significant in this process.",
+      "answer": "Hexane, a hydrocarbon with the chemical formula C6H14, is one of the lightest and most volatile components found in petroleum. The process of obtaining hexane from petroleum involves several steps, primarily fractionation, which is a method used to separate mixtures into their component parts based on differences in their boiling points.\n\n### Process Overview:\n\n1. **Petroleum Distillation:**\n   - **Initial Distillation:** Petroleum is first heated and distilled to separate it into fractions based on their boiling points. This initial distillation separates the lighter components (like gasoline) from the heavier ones.\n   - **Fractional Distillation",
+      "latency_s": 10.48
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "source_file": "75_Hydroxytoluene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagrams in the image show Butylated Hydroxyanisole (BHA) on the left and Butylated Hydroxytoluene (BHT) on the right.\n\n### Key Properties of BHA and BHT:\n\n1. **Chemical Composition**:\n   - **BHA**: It is derived from p-methoxyphenol and isobutene.\n   - **BHT**: It is derived from p-cresol and isobutene.\n\n2. **Molecular Structure**:\n   - Both compounds contain a benzene ring with substituents attached to it.\n   - B",
+      "latency_s": 16.43
+    },
+    {
+      "question": "What are the chemical formulas and molecular weights of BHA and BHT?",
+      "answer": "BHA (Butylated Hydroxyanisole) and BHT (Butylated Hydroxytoluene) are both antioxidants used in food and cosmetic products to prevent oxidation and spoilage.\n\n### Chemical Formula:\n- **BHA**: C10H12O2\n- **BHT**: C13H14O\n\n### Molecular Weight:\n- **BHA**: 164.22 g/mol\n- **BHT**: 182.25 g/mol\n\nThese compounds are effective at inhibiting the oxidation of fats and oils, which can help extend the shelf life of",
+      "latency_s": 10.32
+    },
+    {
+      "question": "How do BHA and BHT function as food preservatives?",
+      "answer": "BHA (Butylated Hydroxyanisole) and BHT (Butylated Hydroxytoluene) are both synthetic antioxidants used in the food industry to prevent fats and oils from becoming rancid due to oxidation. They work by scavenging free radicals, which are highly reactive molecules that can cause damage to fats and oils.\n\n### Mechanism of Action:\n\n1. **Free Radical Scavenging:**\n   - Free radicals are unstable molecules that can react with other substances, including fats and oils.\n   - BHA and BHT act as antioxidants by donating electrons to these free radicals, thereby neutralizing",
+      "latency_s": 10.32
+    },
+    {
+      "question": "Describe the process of synthesizing BHA and BHT, including the reactants and conditions required.",
+      "answer": "BHA (Butylated Hydroxyanisole) and BHT (Butylated Hydroxytoluene) are both synthetic antioxidants used in food and pharmaceutical industries to prevent oxidation of fats and oils. They are often used as preservatives in foods, cosmetics, and pharmaceuticals.\n\n### Synthesis of BHA\n\n**Reactants:**\n1. **Anisole**: This is the starting material.\n2. **Hydrogen Peroxide**: This is used as an oxidizing agent.\n3. **Sulfuric Acid**: This acts as a catalyst.\n\n**Conditions:**\n1. **Temperature**: The",
+      "latency_s": 10.32
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "source_file": "176_Vanillin.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **Vanillin**. It's a product extracted from vanilla pods, primarily composed of cellulose and lignin. It gives vanilla extract its flavor. Key properties: derived from wood pulp, contains carbon, hydrogen, and oxygen.",
+      "latency_s": 21.55,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula of vanillin and what elements does it contain?",
+      "answer": "The provided text does not contain information about vanillin. Therefore, I cannot answer the question about its chemical formula or elements.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Why is vanillin classified as an ether in organic chemistry, and what are its solubility properties?",
+      "answer": "The provided text does not contain information about vanillin or its classification as an ether. It focuses on acetic acid, acetylene, and acetaminophen, detailing their uses, properties, and manufacturing processes. Therefore, I cannot answer your question based on this data.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the historical significance of vanillin as a spice and how it is naturally obtained.",
+      "answer": "The provided text does not contain information about vanillin. It discusses mustard gas, acetic acid, alpha tocopherol, and acetaminophen. Therefore, I cannot answer your question regarding vanillin's historical significance or natural sources based on this data.",
+      "latency_s": 42.97,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:52:53",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:52:53",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

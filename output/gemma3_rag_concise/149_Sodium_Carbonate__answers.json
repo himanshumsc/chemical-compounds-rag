@@ -1,0 +1,59 @@
+{
+  "source_file": "149_Sodium_Carbonate.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts **sodium carbonate**. It's a compound used since ancient Egypt for mummification. It's produced from dead plants/seaweed and reacts with sulfuric acid. It's a salt containing sodium compounds.",
+      "latency_s": 21.47,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of sodium carbonate?",
+      "answer": "Sodium Carbonate: Formula is not explicitly provided, but it is listed as Sodium Carbonate in Source 2. No molecular weight is given.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000
+    },
+    {
+      "question": "Explain the solubility characteristics of sodium carbonate in different solvents.",
+      "answer": "The provided text doesn't explicitly state the solubility of sodium carbonate in various solvents. However, Source 1 mentions that water is the most common solvent for inorganic compounds, implying sodium carbonate (an inorganic compound) would likely dissolve well in water. No other solubility information is provided.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800
+    },
+    {
+      "question": "Discuss the significance of sodium carbonate's hygroscopic nature and its implications for storage.",
+      "answer": "The provided text does not contain information about sodium carbonate or its properties. Therefore, I cannot discuss its hygroscopic nature or storage implications based on this data.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:46:41",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:46:41",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated"
+}

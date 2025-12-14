@@ -1,0 +1,27 @@
+{
+  "source_file": "61_Ethylbenzene.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows ethylbenzene. Ethylbenzene is a chemical compound with the formula C₆H₅C₂H₅. It is an aromatic hydrocarbon, meaning it contains a benzene ring (C₆H₆) to which an ethyl group (C₂H₅) is attached.\n\nKey properties of ethylbenzene include:\n1. **Structure**: It consists of a benzene ring with one hydrogen atom replaced by an ethyl group.\n2. **Formula**: C₆H₅C₂H₅ or C�",
+      "latency_s": 16.45
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of ethylbenzene?",
+      "answer": "The chemical formula for ethylbenzene is C7H8.\n\nTo calculate the molecular weight, we sum the atomic weights of all the atoms in the molecule:\n\n- Carbon (C) has an atomic weight of approximately 12.01 g/mol.\n- Hydrogen (H) has an atomic weight of approximately 1.008 g/mol.\n\nFor one molecule of ethylbenzene (C7H8):\n\n- The total weight from carbon: \\( 7 \\times 12.01 \\, \\text{g/mol} = 84.07 \\, \\text{",
+      "latency_s": 10.31
+    },
+    {
+      "question": "Explain how ethylbenzene is synthesized synthetically and identify the catalyst used in the reaction.",
+      "answer": "Ethylbenzene, also known as ethyl toluene, is synthesized through a process called alkylation. This process involves the addition of an alkyl group (in this case, an ethyl group) to a benzene ring. The synthesis of ethylbenzene can be achieved using different methods, but one of the most common industrial processes is the Friedel-Crafts alkylation.\n\n### Synthetic Method: Friedel-Crafts Alkylation\n\nThe Friedel-Crafts alkylation is a classic method for introducing an alkyl group onto an aromatic ring. In the case of ethyl",
+      "latency_s": 10.31
+    },
+    {
+      "question": "Discuss the industrial importance of ethylbenzene and its primary use.",
+      "answer": "Ethylbenzene is an aromatic hydrocarbon that plays a significant role in various industries due to its chemical properties and applications. Here's a detailed discussion on its industrial importance and primary use:\n\n### Industrial Importance\n\n1. **Chemical Industry**: Ethylbenzene is a key intermediate in the production of styrene, which is widely used in the manufacture of polystyrene (PS), a versatile plastic used in packaging, insulation, and other applications.\n\n2. **Polymer Production**: Styrene, derived from ethylbenzene, is one of the most important monomers for producing polystyrene (PS",
+      "latency_s": 10.31
+    }
+  ]
+}

@@ -1,0 +1,4815 @@
+{
+  "summary": {
+    "total_analyzed": 273,
+    "classifications": {
+      "RETRIEVAL_FAILURE": 270,
+      "MODEL_FAILURE": 2,
+      "UNKNOWN_TYPE": 1
+    },
+    "confidence_distribution": {
+      "high": 271,
+      "medium": 1,
+      "low": 1
+    },
+    "question_type_distribution": {
+      "Q2": 92,
+      "Q4": 66,
+      "UNKNOWN": 115
+    },
+    "by_question_type": {
+      "Q2": {
+        "MODEL_FAILURE": 1,
+        "RETRIEVAL_FAILURE": 91,
+        "NO_CONTEXT": 0,
+        "UNKNOWN_TYPE": 0
+      },
+      "Q4": {
+        "MODEL_FAILURE": 1,
+        "RETRIEVAL_FAILURE": 65,
+        "NO_CONTEXT": 0,
+        "UNKNOWN_TYPE": 0
+      },
+      "UNKNOWN": {
+        "MODEL_FAILURE": 0,
+        "RETRIEVAL_FAILURE": 114,
+        "NO_CONTEXT": 0,
+        "UNKNOWN_TYPE": 1
+      }
+    },
+    "model_failure_rate": 0.7326007326007326,
+    "retrieval_failure_rate": 98.9010989010989
+  },
+  "analyses": [
+    {
+      "question_idx": 2,
+      "question": "What is the molecular formula of nicotine and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "nicotine and what elements does it consist of"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "100_Nicotine__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility properties of nicotine and the implications for its extraction process.",
+      "question_type": "Q4",
+      "compound_names": [
+        "nicotine and the implications for its extraction process",
+        "Describe the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "100_Nicotine__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how the historical development and synthesis of nicotine have impacted its applications and uses.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "nicotine have impacted its applications and uses"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "100_Nicotine__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What are the primary elements that make up nitric acid, and what is its chemical formula?",
+      "question_type": "Q2",
+      "compound_names": [
+        "What are the primary elements that make up nitric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "101_Nitric_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the physical state and solubility characteristics of nitric acid.",
+      "question_type": "Q4",
+      "compound_names": [
+        "nitric acid",
+        "Discuss the physical state and solubility characteristics of nitric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "101_Nitric_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of nitrogen dioxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "nitrogen dioxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "103_Nitrogen_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how nitrogen dioxide is produced naturally and through human activities.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "103_Nitrogen_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical discovery and early experimentation of Nitrous Oxide.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Nitrous Oxide",
+        "Discuss the historical discovery and early experimentation of Nitrous"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "105_Nitrous_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of N,N-Diethyl-3-Methylbenzamide, and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "106_NN-Diethyl-3-Methylbenzamide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility characteristics of N,N-Diethyl-3-Methylbenzamide.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "106_NN-Diethyl-3-Methylbenzamide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility properties of oxalic acid in different solvents.",
+      "question_type": "Q4",
+      "compound_names": [
+        "oxalic acid in different solvents",
+        "Describe the solubility",
+        "Describe the solubility properties of oxalic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "108_Oxalic_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how the synthesis of oxalic acid by Friedrich Wöhler contributed to the development of chemistry.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "oxalic acid by Friedrich Wöhler contributed to the development of chemistry",
+        "Explain how the synthesis of oxalic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "108_Oxalic_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the solubility characteristic of pectin, and how does this property relate to its primary use?",
+      "question_type": "Q4",
+      "compound_names": [
+        "pectin"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "109_Pectin__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubility properties.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Discuss how pectin is commercially extracted and the subsequent steps involved to modify its solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "109_Pectin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How do penicillins function as antibiotics according to the provided compound information?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "110_Penicillin__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What are the chemical formulas for the most important perchlorates?",
+      "question_type": "Q2",
+      "compound_names": [
+        "the most important perchlorates"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "111_Perchlorates__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does the method of production differ between ammonium perchlorate and potassium perchlorate?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "production differ between ammonium perchlorate and potassium perchlorate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "111_Perchlorates__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What are the common names and solubility characteristics of petrolatum?",
+      "question_type": "Q4",
+      "compound_names": [
+        "petrolatum"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "112_Petrolatum__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why petrolatum is considered a mixture and not a compound.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "112_Petrolatum__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the physical state and solubility properties of phenol.",
+      "question_type": "Q4",
+      "compound_names": [
+        "phenol",
+        "Discuss the physical state and solubility"
+      ],
+      "compound_found_in_context": true,
+      "compound_mention_count": 2,
+      "matched_compound_names": [
+        "phenol"
+      ],
+      "classification": "MODEL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "properties_found": true,
+        "properties_evidence": {
+          "has_melting_point": true,
+          "has_boiling_point": false,
+          "has_solubility": false,
+          "has_molecular_weight": false,
+          "has_state": false,
+          "properties_found": [
+            "melting_point"
+          ]
+        },
+        "reason": "Property information found in context"
+      },
+      "file": "114_Phenol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the physical state and properties of phosphoric acid at room temperature.",
+      "question_type": "Q4",
+      "compound_names": [
+        "phosphoric acid at room temperature",
+        "Describe the physical state and",
+        "Describe the physical state and properties of phosphoric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "115_Phosphoric_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process of how phosphoric acid is commercially produced starting from phosphate rock.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "how phosphoric acid is commercially produced starting from phosphate rock",
+        "Explain the process of how phosphoric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "115_Phosphoric_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How are polycarbonates typically synthesized from phosgene and bisphenol A?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "116_Polycarbonates__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "How do modifications to the organosiloxane polymers influence the properties and applications of polysiloxanes?",
+      "question_type": "Q4",
+      "compound_names": [
+        "polysiloxanes",
+        "How do modifications to the organosiloxane polymers influence the"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "120_Polysiloxane__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of polymerization of styrene to form polystyrene and the role of polymerization initiators in this process.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "polymerization of styrene to form polystyrene and the role of polymerization initiators in this process"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "122_Polystyrene__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why Polytetrafluoroethylene does not have a boiling point.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "123_Polytetrafluoroethylene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility properties of Polytetrafluoroethylene and its implications for industrial applications.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Polytetrafluoroethylene and its implications for industrial applications",
+        "Discuss the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "123_Polytetrafluoroethylene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the different forms of polyurethane and their respective properties and applications.",
+      "question_type": "Q4",
+      "compound_names": [
+        "polyurethane and their respective properties and applications",
+        "Discuss the different forms of polyurethane and their respective"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "124_Polyurethane__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the solubility properties of Polyvinyl Chloride and the solvents in which it is soluble.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Polyvinyl Chloride and the solvents in which it is soluble",
+        "Discuss the solubility",
+        "Discuss the solubility properties of Polyvinyl"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "125_Polyvinyl_Chloride__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of Potassium Bisulfate and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Potassium Bisulfate and which elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "127_Potassium_Bisulfate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the properties of Potassium Bisulfate that make it suitable as a food additive and any potential hazards associated with its use.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Potassium Bisulfate that make it suitable as a food additive and any potential hazards associated with its use",
+        "Discuss the"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "127_Potassium_Bisulfate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of aluminum potassium sulfate and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "aluminum potassium sulfate and what elements does it contain",
+        "What is the chemical formula of aluminum potassium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "12_Aluminum_Potassium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical and modern uses of aluminum potassium sulfate and the reasons for its effectiveness in these applications.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "aluminum potassium sulfate and the reasons for its effectiveness in these applications",
+        "Discuss the historical and modern uses of aluminum potassium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "12_Aluminum_Potassium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the significance of Potassium Chloride in agriculture and its natural occurrence.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Potassium Chloride in agriculture and its natural occurrence",
+        "Explain the significance of Potassium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "130_Potassium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of producing potassium sulfate from langbeinite and potassium chloride.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "producing potassium sulfate from langbeinite and potassium chloride",
+        "Describe the process of producing potassium sulfate from langbeinite and potassium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "135_Potassium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of propane?",
+      "question_type": "Q2",
+      "compound_names": [
+        "propane"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "136_Propane__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how propane is naturally formed and its common commercial form.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "136_Propane__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of propylene and what type of compound is it classified as?",
+      "question_type": "Q2",
+      "compound_names": [
+        "propylene and what type of compound is it classified as"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "137_Propylene__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the solubility properties of propylene and how it relates to its molecular structure.",
+      "question_type": "Q4",
+      "compound_names": [
+        "propylene and how it relates to its molecular structure",
+        "Explain the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "137_Propylene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the commercial production process of propylene and explain the role of a catalyst in this process.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "propylene and explain the role of a catalyst in this process"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "137_Propylene__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of pyridoxine?",
+      "question_type": "Q2",
+      "compound_names": [
+        "pyridoxine"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "138_Pyridoxine__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical significance of pyridoxine in relation to vitamin B6 and its discovery.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "pyridoxine in relation to vitamin B6 and its discovery"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "138_Pyridoxine__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Retinol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Retinol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "139_Retinol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is Retinol considered an alcohol, and what is its physical state at room temperature?",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "139_Retinol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for ammonia and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ammonia and which elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "13_Ammonia__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does the Haber-Bosch process produce ammonia, and why is it significant?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "13_Ammonia__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does riboflavin interact with light and what is its stability under different conditions?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "140_Riboflavin__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the synthesis process of riboflavin using Bacillus subtilis or Ashbya gossifyii.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "riboflavin using Bacillus subtilis or Ashbya gossifyii"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "140_Riboflavin__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of Silicon Dioxide and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Silicon Dioxide and what elements does it consist of"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "142_Silicon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the different structural forms of Silicon Dioxide and how they differ.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Silicon Dioxide and how they differ"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "142_Silicon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how silicon dioxide's solubility varies and under what conditions it can dissolve.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "142_Silicon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Silver(I) Oxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Silver(I) Oxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "145_SilverI_Oxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is Silver(I) Oxide typically produced?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "145_SilverI_Oxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility and decomposition characteristics of Silver(I) Oxide and their implications for its use.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Silver(I) Oxide and their implications for its use"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "145_SilverI_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Silver(I) Sulfide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Silver(I) Sulfide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "146_SilverI_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is Silver(I) Sulfide naturally and synthetically produced?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "146_SilverI_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the primary uses and potential hazards associated with Silver(I) Sulfide.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "146_SilverI_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of sodium acetate and its molecular weight?",
+      "question_type": "Q2",
+      "compound_names": [
+        "sodium acetate and its molecular weight"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "147_Sodium_Acetate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the historical uses of sodium bicarbonate and explain its function as a leavening agent in baking.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium bicarbonate and explain its function as a leavening agent in baking"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "148_Sodium_Bicarbonate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the significance of sodium carbonate's hygroscopic nature and its implications for storage.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium carbonate's hygroscopic nature and its implications for storage"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "149_Sodium_Carbonate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of ammonium chloride?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ammonium chloride",
+        "What is the chemical formula and molecular weight of ammonium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "14_Ammonium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how ammonium chloride is naturally formed around volcanic vents.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Explain how ammonium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "14_Ammonium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Sodium Chloride?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Sodium Chloride",
+        "What is the chemical formula and molecular weight of Sodium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "150_Sodium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is Sodium Chloride naturally sourced and processed for use?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "How is Sodium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "150_Sodium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "How did the discovery of sodium cyclamate occur, and what is its primary use today?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium cyclamate occur"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "151_Sodium_Cyclamate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Sodium Fluoride?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Sodium Fluoride"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "152_Sodium_Fluoride__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "What are the key differences in solubility of Sodium Fluoride in water compared to ethyl alcohol?",
+      "question_type": "Q4",
+      "compound_names": [
+        "Sodium Fluoride in water compared to ethyl alcohol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "152_Sodium_Fluoride__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for sodium hydroxide and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "sodium hydroxide and what elements does it contain",
+        "What is the chemical formula for sodium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "153_Sodium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process by which sodium hydroxide is commercially produced and its relation to chlorine gas.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Describe the process by which sodium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "153_Sodium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for sodium hypochlorite and what elements does it comprise?",
+      "question_type": "Q2",
+      "compound_names": [
+        "sodium hypochlorite and what elements does it comprise"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "154_Sodium_Hypochlorite__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how sodium hypochlorite functions as a bleaching agent and disinfectant.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "154_Sodium_Hypochlorite__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the commercial production process of sodium hypochlorite and outline its potential hazards.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium hypochlorite and outline its potential hazards"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "154_Sodium_Hypochlorite__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does sodium perborate decompose in water, and what products are formed?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "155_Sodium_Perborate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What are the chemical formulas for the monobasic, dibasic, and tribasic forms of sodium phosphate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "the monobasic",
+        "sodium phosphate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "156_Sodium_Phosphate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how the different forms of sodium phosphate are produced from phosphoric acid.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium phosphate are produced from phosphoric acid",
+        "Explain how the different forms of sodium phosphate are produced from phosphoric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "156_Sodium_Phosphate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the common uses and potential hazards associated with tribasic sodium phosphate.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "156_Sodium_Phosphate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the process of manufacturing sodium silicate.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "manufacturing sodium silicate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "158_Sodium_Silicate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how the physical properties of sodium silicate vary and identify one key factor that influences these variations.",
+      "question_type": "Q4",
+      "compound_names": [
+        "sodium silicate vary and identify one key factor that influences these variations",
+        "Explain how the physical"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "158_Sodium_Silicate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Sodium Sulfite?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Sodium Sulfite"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "159_Sodium_Sulfite__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the stability and solubility characteristics of Sodium Sulfite.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Sodium Sulfite"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "159_Sodium_Sulfite__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of producing Sodium Sulfite and its main industrial application.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "producing Sodium Sulfite and its main industrial application"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "159_Sodium_Sulfite__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for ammonium hydroxide and which elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ammonium hydroxide and which elements does it consist of",
+        "What is the chemical formula for ammonium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "15_Ammonium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why ammonium hydroxide does not have a melting or boiling point.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Explain why ammonium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "15_Ammonium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of how ammonium hydroxide is prepared and discuss its stability.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "how ammonium hydroxide is prepared and discuss its stability",
+        "Describe the process of how ammonium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "15_Ammonium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of anhydrous sodium tetraborate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "anhydrous sodium tetraborate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "160_Sodium_Tetraborate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the historical significance and early uses of sodium tetraborate.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sodium tetraborate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "160_Sodium_Tetraborate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the decomposition and melting characteristics of sodium tetraborate decahydrate compared to its anhydrous form.",
+      "question_type": "Q4",
+      "compound_names": [
+        "sodium tetraborate decahydrate compared to its anhydrous form"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "160_Sodium_Tetraborate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Sodium Thiosulfate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Sodium Thiosulfate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "161_Sodium_Thiosulfate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the role of Sodium Thiosulfate as an antichlor in industrial applications.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Sodium Thiosulfate as an antichlor in industrial applications"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "161_Sodium_Thiosulfate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is stannous fluoride considered more effective in preventing cavities compared to other fluoride compounds?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "162_Stannous_Fluoride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the dual mechanism by which stannous fluoride helps in preventing tooth decay.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "162_Stannous_Fluoride__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the process of polymerization as it relates to styrene and identify the type of compounds formed as a result.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "polymerization as it relates to styrene and identify the type of compounds formed as a result"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "163_Styrene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the industrial preparation method for styrene, including the chemical reaction and conditions involved.",
+      "question_type": "Q4",
+      "compound_names": [
+        "styrene"
+      ],
+      "compound_found_in_context": true,
+      "compound_mention_count": 3,
+      "matched_compound_names": [
+        "styrene"
+      ],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "medium",
+      "evidence": {
+        "properties_found": false,
+        "properties_evidence": {
+          "has_melting_point": false,
+          "has_boiling_point": false,
+          "has_solubility": false,
+          "has_molecular_weight": false,
+          "has_state": false,
+          "properties_found": []
+        },
+        "reason": "Compound found but properties not in context"
+      },
+      "file": "163_Styrene__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of sucrose?",
+      "question_type": "Q2",
+      "compound_names": [
+        "sucrose"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "164_Sucrose__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical properties.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Describe what happens to sucrose when it is heated above its decomposition point and how this process affects its physical"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "164_Sucrose__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the state and solubility of sucrose polyester?",
+      "question_type": "Q4",
+      "compound_names": [
+        "sucrose polyester"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "165_Sucrose_Polyester__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is sucrose polyester considered to provide no calories when consumed?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "165_Sucrose_Polyester__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical development and intended purpose of sucrose polyester.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sucrose polyester"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "165_Sucrose_Polyester__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of sulfur dioxide, and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "sulfur dioxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "166_Sulfur_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the dual role of sulfur dioxide as an oxidizing and reducing agent.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sulfur dioxide as an oxidizing and reducing agent"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "166_Sulfur_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process and significance of capturing sulfur dioxide as a byproduct during the smelting of metallic ores.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "capturing sulfur dioxide as a byproduct during the smelting of metallic ores"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "166_Sulfur_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Considering its properties and uses, discuss the significance of sulfuric acid in modern industry and any potential hazards associated with its use.",
+      "question_type": "Q4",
+      "compound_names": [
+        "sulfuric acid in modern industry and any potential hazards associated with its use",
+        "Considering its",
+        "discuss the significance of sulfuric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "167_Sulfuric_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of tannic acid and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "tannic acid and what elements does it contain",
+        "What is the chemical formula of tannic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "168_Tannic_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the physical state and properties of tannic acid.",
+      "question_type": "Q4",
+      "compound_names": [
+        "tannic acid",
+        "Describe the physical state and",
+        "Describe the physical state and properties of tannic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "168_Tannic_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of testosterone?",
+      "question_type": "Q2",
+      "compound_names": [
+        "testosterone"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "169_Testosterone__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the synthesis process of testosterone and its applications in medical treatments.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "testosterone and its applications in medical treatments"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "169_Testosterone__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of ammonium nitrate and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ammonium nitrate and what elements does it consist of"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "16_Ammonium_Nitrate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process by which theobromine is typically extracted from cocoa bean hulls.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "170_Theobromine__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is thiamine considered a water-soluble vitamin and what are its solubility characteristics?",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "171_Thiamine__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the process by which toluene is extracted from petroleum.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "172_Toluene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "What are the major industrial applications of toluene and its role in the production of other chemicals?",
+      "question_type": "Q4",
+      "compound_names": [
+        "toluene and its role in the production of other chemicals"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "172_Toluene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the potential environmental and health concerns associated with the use of Triclocarban in antimicrobial products.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Triclocarban in antimicrobial products"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "173_Triclocarban__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe one method of synthesizing Triclosan and explain why it might be preferred in manufacturing.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "synthesizing Triclosan and explain why it might be preferred in manufacturing"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "174_Triclosan__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of urea?",
+      "question_type": "Q2",
+      "compound_names": [
+        "urea"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "175_Urea__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the significance of Friedrich Wöhler's synthesis of urea in 1828.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Friedrich Wöhler's synthesis of urea in 1828"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "175_Urea__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the urea cycle and its importance in animal metabolism.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "175_Urea__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of vanillin and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "vanillin and what elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "176_Vanillin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is vanillin classified as an ether in organic chemistry, and what are its solubility properties?",
+      "question_type": "Q4",
+      "compound_names": [
+        "and what are its solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "176_Vanillin__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical significance of vanillin as a spice and how it is naturally obtained.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "vanillin as a spice and how it is naturally obtained"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "176_Vanillin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the dipole nature of water and its implications.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "water and its implications"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "177_Water__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of zinc oxide and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "zinc oxide and what elements does it consist of",
+        "What is the chemical formula of zinc"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "178_Zinc_Oxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does zinc oxide contribute to the longevity of white paints and pigments compared to other white paint compounds?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "white paints and pigments compared to other white paint compounds",
+        "How does zinc"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "178_Zinc_Oxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process and chemical reactions involved in the 'wet' method of producing zinc oxide.",
+      "question_type": "Q4",
+      "compound_names": [
+        "producing zinc oxide",
+        "method of producing zinc"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "178_Zinc_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Amyl Acetate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Amyl Acetate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "19_Amyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the process by which Amyl Acetate is industrially produced.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "19_Amyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain why different isomers of Amyl Acetate have varying boiling points and provide their values.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Amyl Acetate have varying boiling points and provide their values"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "19_Amyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Amyl Nitrite?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Amyl Nitrite"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "20_Amyl_Nitrite__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the synthesis method of isoamyl nitrite, and explain its use in emergency medical situations.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "isoamyl nitrite"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "20_Amyl_Nitrite__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Ascorbic Acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Ascorbic Acid",
+        "What is the chemical formula and molecular weight of Ascorbic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "21_Ascorbic_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why Ascorbic Acid is considered an essential vitamin for humans.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "humans",
+        "Explain why Ascorbic"
+      ],
+      "compound_found_in_context": true,
+      "compound_mention_count": 3,
+      "matched_compound_names": [
+        "humans"
+      ],
+      "classification": "UNKNOWN_TYPE",
+      "confidence": "low",
+      "evidence": {
+        "reason": "Question type could not be classified"
+      },
+      "file": "21_Ascorbic_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility properties of Ascorbic Acid and the implications for its storage and consumption.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Ascorbic Acid and the implications for its storage and consumption",
+        "Discuss the solubility",
+        "Discuss the solubility properties of Ascorbic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "21_Ascorbic_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of benzoic acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "benzoic acid",
+        "What is the chemical formula and molecular weight of benzoic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "23_Benzoic_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how benzoic acid can be produced from natural sources and its occurrence in nature.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Explain how benzoic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "23_Benzoic_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Beta-Carotene?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Beta-Carotene"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "24_Beta-Carotene__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the role of Beta-Carotene in photosynthetic and nonphotosynthetic organisms.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Beta-Carotene in photosynthetic and nonphotosynthetic organisms"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "24_Beta-Carotene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility properties of Beta-Carotene and how these properties might affect its use in various applications.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Beta-Carotene and how these properties might affect its use in various applications",
+        "Discuss the solubility",
+        "Carotene and how these"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "24_Beta-Carotene__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of boric acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "boric acid",
+        "What is the chemical formula and molecular weight of boric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "25_Boric_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how the solubility of boric acid in water changes with temperature.",
+      "question_type": "Q4",
+      "compound_names": [
+        "boric acid in water changes with temperature",
+        "Explain how the solubility of boric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "25_Boric_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical and modern uses of boric acid and its potential hazards.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "boric acid and its potential hazards",
+        "Discuss the historical and modern uses of boric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "25_Boric_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of butane?",
+      "question_type": "Q2",
+      "compound_names": [
+        "butane"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "26_Butane__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility and state of butane, and its implications for its use as a fuel.",
+      "question_type": "Q4",
+      "compound_names": [
+        "butane",
+        "its use as a fuel"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "26_Butane__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the molecular formula of butyl acetate and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "butyl acetate and what elements does it consist of"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "27_Butyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the industrial production process for butyl acetate and its primary uses.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "butyl acetate and its primary uses"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "27_Butyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the molecular formula of butyl mercaptan, and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "butyl mercaptan"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "28_Butyl_Mercaptan__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the production method and applications of butyl mercaptan, including any associated hazards.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "butyl mercaptan"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "28_Butyl_Mercaptan__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of caffeine and which elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "caffeine and which elements does it consist of"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "29_Caffeine__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the physical state and solubility characteristics of caffeine based on the given information.",
+      "question_type": "Q4",
+      "compound_names": [
+        "caffeine based on the given information"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "29_Caffeine__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the significance of caffeine's melting and sublimation points and how these properties might affect its practical use.",
+      "question_type": "Q4",
+      "compound_names": [
+        "caffeine's melting and sublimation points and how these properties might affect its practical use",
+        "melting and sublimation points and how these"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "29_Caffeine__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of 2-(4-Isobutylphenyl)propionic acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "propionic",
+        "2-(4-Isobutylphenyl)propionic acid",
+        "4-Isobutylphenyl"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "2_2-4-Isobutylphenylpropionic_Acid_Ibuprofen__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of calcium carbonate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "calcium carbonate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "30_Calcium_Carbonate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process by which calcium carbonate can be synthesized in the laboratory and how its physical form might vary depending on its crystal structure.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "30_Calcium_Carbonate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of calcium hydroxide and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "calcium hydroxide and what elements does it contain",
+        "What is the chemical formula of calcium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "31_Calcium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why calcium hydroxide often becomes contaminated and how can this be prevented.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Explain why calcium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "31_Calcium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the role of calcium hydroxide in neutralizing acidic soils and the chemical process involved.",
+      "question_type": "Q4",
+      "compound_names": [
+        "calcium hydroxide in neutralizing acidic soils and the chemical process involved",
+        "Describe the role of calcium hydroxide in neutralizing"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "31_Calcium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the role of calcium oxide in metallurgy and its chemical function during the steel-making process.",
+      "question_type": "Q4",
+      "compound_names": [
+        "calcium oxide in metallurgy and its chemical function during the steel-making process",
+        "Describe the role of calcium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "32_Calcium_Oxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility characteristics of the three forms of calcium phosphate.",
+      "question_type": "Q4",
+      "compound_names": [
+        "the three forms of calcium phosphate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "33_Calcium_Phosphate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain how tribasic calcium phosphate can be synthesized and its primary uses.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "33_Calcium_Phosphate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for calcium silicate and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "calcium silicate and what elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "34_Calcium_Silicate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of synthesizing calcium silicate for commercial applications and state why synthetic preparation might be preferred over extraction from natural sources.",
+      "question_type": "Q4",
+      "compound_names": [
+        "synthesizing calcium silicate for commercial applications and state why synthetic preparation might be preferred over extraction from natural sources"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "34_Calcium_Silicate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of anhydrous calcium sulfate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "anhydrous calcium sulfate",
+        "What is the chemical formula and molecular weight of anhydrous calcium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "35_Calcium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Given its solubility characteristics, why might anhydrous calcium sulfate be used in industrial applications?",
+      "question_type": "Q4",
+      "compound_names": [
+        "why might anhydrous calcium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "35_Calcium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of camphor?",
+      "question_type": "Q2",
+      "compound_names": [
+        "camphor"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "36_Camphor__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is natural camphor obtained, and what is the difference between natural and synthetic camphor?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "36_Camphor__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of carbon dioxide, and what elements does it comprise?",
+      "question_type": "Q2",
+      "compound_names": [
+        "carbon dioxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "37_Carbon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the role of carbon dioxide in the carbonation of beverages and its effects on taste and preservation.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "carbon dioxide in the carbonation of beverages and its effects on taste and preservation"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "37_Carbon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the significance of supercritical carbon dioxide (SC-CO2) and its properties.",
+      "question_type": "Q4",
+      "compound_names": [
+        "supercritical carbon dioxide (SC-CO2) and its properties",
+        "and its",
+        "SC-CO2"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "37_Carbon_Dioxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Carbon Monoxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Carbon Monoxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "38_Carbon_Monoxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is carbon monoxide considered a toxic gas and what conditions lead to its formation?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "38_Carbon_Monoxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Carbon Tetrachloride?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Carbon Tetrachloride"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "39_Carbon_Tetrachloride__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is Carbon Tetrachloride classified as a halogenated hydrocarbon?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "39_Carbon_Tetrachloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical applications of Carbon Tetrachloride and the reasons for the decline in its usage.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Carbon Tetrachloride and the reasons for the decline in its usage"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "39_Carbon_Tetrachloride__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of 2,2'-Dichlorodiethyl Sulfide and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility characteristics of 2,2'-Dichlorodiethyl Sulfide and its implications for its use as a chemical agent.",
+      "question_type": "Q4",
+      "compound_names": [
+        "its use as a chemical agent"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "3_22'-Dichlorodiethyl_Sulfide_Mustard_Gas__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility properties of cellulose and explain why it behaves that way.",
+      "question_type": "Q4",
+      "compound_names": [
+        "cellulose and explain why it behaves that way",
+        "Describe the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "40_Cellulose__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and primary elements present in cellulose nitrate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "41_Cellulose_Nitrate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does the nitrogen content affect the solubility properties of cellulose nitrate?",
+      "question_type": "Q4",
+      "compound_names": [
+        "cellulose nitrate",
+        "How does the nitrogen content affect the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "41_Cellulose_Nitrate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the discovery of cellulose nitrate and its initial observation by Christian Friedrich Schönbein.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "cellulose nitrate and its initial observation by Christian Friedrich Schönbein"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "41_Cellulose_Nitrate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for cellulose xanthate and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "cellulose xanthate and which elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "42_Cellulose_Xanthate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain how cellulose xanthate is transformed into rayon fibers during the viscose process.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "42_Cellulose_Xanthate__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "What are some advantages and disadvantages of using rayon, and what legislative measure was introduced in response to one of its disadvantages?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "using rayon",
+        "its disadvantages"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "42_Cellulose_Xanthate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why chloroform was replaced by other compounds as an anesthetic in the twenty-first century.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "43_Chloroform__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the commercial production process of chloroform. Include the chemical reaction involved.",
+      "question_type": "Q4",
+      "compound_names": [
+        "chloroform"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "43_Chloroform__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What elements make up chlorophyll and what is its state at room temperature?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "44_Chlorophyll__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the solubility properties of chlorophyll a and b.",
+      "question_type": "Q4",
+      "compound_names": [
+        "chlorophyll a and b",
+        "Explain the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "44_Chlorophyll__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss how chlorophyll enables plants to perform photosynthesis and mention the types of chlorophyll that exist.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "chlorophyll that exist"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "44_Chlorophyll__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of cholesterol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "cholesterol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "45_Cholesterol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the solubility properties of cholesterol and the types of solvents in which it dissolves.",
+      "question_type": "Q4",
+      "compound_names": [
+        "cholesterol and the types of solvents in which it dissolves",
+        "Explain the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "45_Cholesterol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the molecular formula and molecular weight of cinnamaldehyde?",
+      "question_type": "Q2",
+      "compound_names": [
+        "cinnamaldehyde"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "46_Cinnamaldehyde__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why cinnamaldehyde is classified as an aromatic aldehyde.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "46_Cinnamaldehyde__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of citric acid and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "citric acid and what elements does it consist of",
+        "What is the chemical formula of citric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "47_Citric_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the solubility properties of citric acid and what this implies about its interactions with different solvents.",
+      "question_type": "Q4",
+      "compound_names": [
+        "citric acid and what this implies about its interactions with different solvents",
+        "Explain the solubility",
+        "Explain the solubility properties of citric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "47_Citric_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the role of citric acid in metabolism and its significance in biological systems.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "citric acid in metabolism and its significance in biological systems",
+        "Discuss the role of citric"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "47_Citric_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What elements make up collagen and what is its compound type?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "48_Collagen__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the molecular structure of collagen and the role of amino acids in its formation.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "collagen and the role of amino acids in its formation",
+        "Describe the molecular structure of collagen and the role of amino"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "48_Collagen__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of cumene and its molecular weight?",
+      "question_type": "Q2",
+      "compound_names": [
+        "cumene and its molecular weight"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "52_Cumene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the chemical reaction used to synthesize cumene and the alternative sources from which it can be extracted.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "52_Cumene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process and significance of cyanoacrylate polymerization in adhesive applications.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "cyanoacrylate polymerization in adhesive applications"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "53_Cyanoacrylate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of cyanocobalamin, and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "cyanocobalamin"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "54_Cyanocobalamin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility properties of cyanocobalamin and its physical state.",
+      "question_type": "Q4",
+      "compound_names": [
+        "cyanocobalamin and its physical state",
+        "Describe the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "54_Cyanocobalamin__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Denatonium Benzoate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Denatonium Benzoate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "55_Denatonium_Benzoate__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the solubility properties of Dichlorodiphenyltrichloroethane (DDT).",
+      "question_type": "Q4",
+      "compound_names": [
+        "Dichlorodiphenyltrichloroethane (DDT)",
+        "Discuss the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "57_Dichlorodiphenyltrichloroethane__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Dimethyl Ketone?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Dimethyl Ketone"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "58_Dimethyl_Ketone__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility and state properties of Dimethyl Ketone.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Dimethyl Ketone",
+        "Describe the solubility and state"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "58_Dimethyl_Ketone__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the process by which Dimethyl Ketone is produced using the Hock process.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "58_Dimethyl_Ketone__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Ethyl Acetate?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Ethyl Acetate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "59_Ethyl_Acetate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of ethyl alcohol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ethyl alcohol"
+      ],
+      "compound_found_in_context": true,
+      "compound_mention_count": 1,
+      "matched_compound_names": [
+        "ethyl alcohol"
+      ],
+      "classification": "MODEL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "formula_found": true,
+        "formulas": [
+          "CH3COOH"
+        ],
+        "molecular_weight_found": true,
+        "weights": [
+          "60.05"
+        ],
+        "elements_found": true,
+        "elements": [
+          "Carbon",
+          "hydrogen",
+          ""
+        ],
+        "reason": "Formula or molecular weight found in context"
+      },
+      "file": "60_Ethyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is ethyl alcohol produced and what are the main methods used?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "60_Ethyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the industrial uses of ethyl alcohol and its environmental impact as a fuel additive.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "ethyl alcohol and its environmental impact as a fuel additive"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "60_Ethyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of ethylene glycol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "ethylene glycol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "63_Ethylene_Glycol__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the primary industrial method for producing ethylene glycol and discuss its efficiency.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "producing ethylene glycol and discuss its efficiency"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "63_Ethylene_Glycol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the industrial methods used to produce ethylene oxide and the main differences between them.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Explain the industrial methods used to produce ethylene"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "64_Ethylene_Oxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the primary industrial uses of ethylene oxide and the potential hazards associated with its handling.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "ethylene oxide and the potential hazards associated with its handling",
+        "Discuss the primary industrial uses of ethylene"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "64_Ethylene_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of folic acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "folic acid",
+        "What is the chemical formula and molecular weight of folic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "65_Folic_Acid__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the solubility characteristics of folic acid and their implications for its use in medical applications.",
+      "question_type": "Q4",
+      "compound_names": [
+        "folic acid and their implications for its use in medical applications",
+        "Explain the solubility characteristics of folic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "65_Folic_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Why is formaldehyde typically provided as a 37 percent solution with added methanol?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "66_Formaldehyde__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process by which formaldehyde is commercially produced and explain why natural atmospheric formaldehyde is not used for industrial purposes.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "industrial purposes"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "66_Formaldehyde__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of fructose, and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "fructose"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "67_Fructose__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the commercial uses and potential health hazards associated with Gamma-1,2,3,4,5,6-Hexachlorocyclohexane.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "68_Gamma-123456-Hexachlorocyclohexane__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What elements are present in gelatin, and what is its state at room temperature?",
+      "question_type": "Q2",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "69_Gelatin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why gelatin is classified as a mixture rather than a compound.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "69_Gelatin__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of making gelatin from animal parts and differentiate between Type A and Type B gelatin.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "making gelatin from animal parts and differentiate between Type A and Type B gelatin"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "69_Gelatin__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of glucose?",
+      "question_type": "Q2",
+      "compound_names": [
+        "glucose"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "70_Glucose__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How does glucose occur naturally and what are its isomeric forms?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "70_Glucose__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the solubility of glucose in various solvents and its implications for biological systems.",
+      "question_type": "Q4",
+      "compound_names": [
+        "glucose in various solvents and its implications for biological systems"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "70_Glucose__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the traditional method of producing glycerol and its significance in the soap industry.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "producing glycerol and its significance in the soap industry"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "71_Glycerol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of hydrogen chloride and what elements does it consist of?",
+      "question_type": "Q2",
+      "compound_names": [
+        "hydrogen chloride and what elements does it consist of",
+        "What is the chemical formula of hydrogen"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "73_Hydrogen_Chloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical significance of hydrogen chloride and its industrial importance based on the provided information.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "hydrogen chloride and its industrial importance based on the provided information",
+        "Discuss the historical significance of hydrogen"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "73_Hydrogen_Chloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the industrial preparation process of hydrogen peroxide using alkyl anthrahydroquinones.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "hydrogen peroxide using alkyl anthrahydroquinones"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "74_Hydrogen_Peroxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What are the chemical formulas and molecular weights of BHA and BHT?",
+      "question_type": "Q2",
+      "compound_names": [
+        "BHA and BHT"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "75_Hydroxytoluene__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How do BHA and BHT function as food preservatives?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "75_Hydroxytoluene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of synthesizing BHA and BHT, including the reactants and conditions required.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "synthesizing BHA and BHT"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "75_Hydroxytoluene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "How is Iron(II) Oxide prepared synthetically and what impurity may be present in the product?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "76_IronII_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Iron(III) oxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Iron(III) oxide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "77_IronIII_Oxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of how Iron(III) oxide is reduced to iron metal in a blast furnace.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "how Iron(III) oxide is reduced to iron metal in a blast furnace"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "77_IronIII_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of isopropyl alcohol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "isopropyl alcohol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "80_Isopropyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why isopropyl alcohol is commonly used as a rubbing alcohol in medical settings.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "80_Isopropyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the industrial process used to produce isopropyl alcohol and identify the catalyst involved.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "80_Isopropyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the molecular formula and molecular weight of L-Aspartyl-L-Phenylalanine Methyl Ester?",
+      "question_type": "Q2",
+      "compound_names": [
+        "L-Aspartyl-L-Phenylalanine Methyl Ester"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "81_L-Aspartyl-L-Phenylalanine_Methyl_Ester__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain why L-Aspartyl-L-Phenylalanine Methyl Ester is considered a dipeptide and how it compares to sucrose in terms of sweetness and caloric content.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "sweetness and caloric content"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "81_L-Aspartyl-L-Phenylalanine_Methyl_Ester__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of lactic acid?",
+      "question_type": "Q2",
+      "compound_names": [
+        "lactic acid",
+        "What is the chemical formula and molecular weight of lactic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "82_Lactic_Acid__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the difference between D-lactic acid and L-lactic acid.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "lactic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "82_Lactic_Acid__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of lactose?",
+      "question_type": "Q2",
+      "compound_names": [
+        "lactose"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "83_Lactose__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the process of obtaining alpha-lactose monohydrate from lactose and why this form is commonly used.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "obtaining alpha-lactose monohydrate from lactose and why this form is commonly used"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "83_Lactose__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of Luminol and which elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Luminol and which elements does it contain"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "84_Luminol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Magnesium Chloride?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Magnesium Chloride",
+        "What is the chemical formula and molecular weight of Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "85_Magnesium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the industrial process used to produce magnesium metal from Magnesium Chloride.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Describe the industrial process used to produce magnesium metal from Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "85_Magnesium_Chloride__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Magnesium Hydroxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Magnesium Hydroxide",
+        "What is the chemical formula and molecular weight of Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "86_Magnesium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility and decomposition properties of Magnesium Hydroxide.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Magnesium Hydroxide",
+        "Describe the solubility and decomposition",
+        "Describe the solubility and decomposition properties of Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "86_Magnesium_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula for Magnesium Oxide and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Magnesium Oxide and what elements does it contain",
+        "What is the chemical formula for Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "87_Magnesium_Oxide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "How are the specific forms of Magnesium Oxide used in various industries, and what are the hazards associated with its use?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Magnesium Oxide used in various industries",
+        "How are the specific forms of Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "87_Magnesium_Oxide__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Magnesium Silicate Hydroxide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Magnesium Silicate Hydroxide",
+        "What is the chemical formula and molecular weight of Magnesium Silicate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "88_Magnesium_Silicate_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the solubility and physical state characteristics of Magnesium Silicate Hydroxide.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Magnesium Silicate Hydroxide",
+        "Discuss the solubility and physical state characteristics of Magnesium Silicate"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "88_Magnesium_Silicate_Hydroxide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the different hydrated forms of Magnesium Sulfate and their natural occurrences.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Magnesium Sulfate and their natural occurrences",
+        "Explain the different hydrated forms of Magnesium"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "89_Magnesium_Sulfate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Alpha-Tocopherol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Alpha-Tocopherol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "8_Alpha-Tocopherol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of menthol?",
+      "question_type": "Q2",
+      "compound_names": [
+        "menthol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "90_Menthol__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the historical and medicinal significance of peppermint and menthol.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "peppermint and menthol"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "90_Menthol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Mercury(II) Sulfide?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Mercury(II) Sulfide"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "91_MercuryII_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility characteristics of Mercury(II) Sulfide and its behavior upon heating.",
+      "question_type": "Q4",
+      "compound_names": [
+        "Mercury(II) Sulfide and its behavior upon heating"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "91_MercuryII_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the synthesis process of Mercury(II) Sulfide and how its different forms are produced.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Mercury(II) Sulfide and how its different forms are produced"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "91_MercuryII_Sulfide__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Discuss the solubility properties of methane and its density relative to air.",
+      "question_type": "Q4",
+      "compound_names": [
+        "methane and its density relative to air",
+        "Discuss the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "92_Methane__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Methyl-t-butyl Ether?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Methyl-t-butyl Ether"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "93_Methyl-t-butyl_Ether__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the significance of Methyl-t-butyl Ether's azeotropic mixture with water.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Methyl-t-butyl Ether's azeotropic mixture with water"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "93_Methyl-t-butyl_Ether__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Discuss the environmental concerns associated with the use of methyl alcohol in producing MTBE and the impact on its demand.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "methyl alcohol in producing MTBE and the impact on its demand"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "94_Methyl_Alcohol__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Methyl Mercaptan?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Methyl Mercaptan"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "95_Methyl_Mercaptan__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the primary use of Methyl Mercaptan and why it is important for safety in certain applications.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "Methyl Mercaptan and why it is important for safety in certain applications"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "95_Methyl_Mercaptan__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Describe the chemical reaction process used to synthesize Methyl Mercaptan.",
+      "question_type": "Q4",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "95_Methyl_Mercaptan__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "How is Monosodium Glutamate produced commercially and what is the key process involved?",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "unknown"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "96_Monosodium_Glutamate__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of naphthalene?",
+      "question_type": "Q2",
+      "compound_names": [
+        "naphthalene"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "97_Naphthalene__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Describe the solubility properties of naphthalene and explain what solvents it is soluble in.",
+      "question_type": "Q4",
+      "compound_names": [
+        "naphthalene and explain what solvents it is soluble in",
+        "Describe the solubility"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "97_Naphthalene__answers.json"
+    },
+    {
+      "question_idx": 4,
+      "question": "Explain the significance of naphthalene being an aromatic hydrocarbon and discuss its structural composition.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "naphthalene being an aromatic hydrocarbon and discuss its structural composition"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "97_Naphthalene__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula and molecular weight of Naproxen?",
+      "question_type": "Q2",
+      "compound_names": [
+        "Naproxen"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "98_Naproxen__answers.json"
+    },
+    {
+      "question_idx": 2,
+      "question": "What is the chemical formula of niacin, and what elements does it contain?",
+      "question_type": "Q2",
+      "compound_names": [
+        "niacin"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "99_Niacin__answers.json"
+    },
+    {
+      "question_idx": 3,
+      "question": "Explain the difference between nicotinic acid and nicotinamide, given they are both forms of niacin.",
+      "question_type": "UNKNOWN",
+      "compound_names": [
+        "niacin",
+        "Explain the difference between nicotinic"
+      ],
+      "compound_found_in_context": false,
+      "compound_mention_count": 0,
+      "matched_compound_names": [],
+      "classification": "RETRIEVAL_FAILURE",
+      "confidence": "high",
+      "evidence": {
+        "reason": "Compound name not found in any retrieved chunks"
+      },
+      "file": "99_Niacin__answers.json"
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "source_file": "145_SilverI_Oxide.json",
+  "model": "gemma3",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image depicts Silver(I) oxide. It's a yellowish-white irritant used in glass purification and polishing. Long-term exposure can cause skin discoloration. It can also cause coughing and respiratory issues.",
+      "latency_s": 21.47,
+      "rag_used": true,
+      "search_type": "image",
+      "n_chunks_used": 5,
+      "char_limit": 600,
+      "rag_chunks": [],
+      "rag_context_formatted": "",
+      "chunks_skipped": "Q1 (image-based question)"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Silver(I) Oxide?",
+      "answer": "The provided text does not contain information about Silver(I) Oxide.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1000,
+      "question_idx": 2,
+      "rag_chunks": [
+        {
+          "id": "chunk_95",
+          "score": 0.6950202584266663,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n",
+          "metadata": {
+            "page_range": "96-96",
+            "image_path": "",
+            "text_length": 1351,
+            "has_image": false,
+            "chunk_id": "chunk_95"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_91",
+          "score": 0.690917044878006,
+          "text": "OTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n",
+          "metadata": {
+            "has_image": false,
+            "text_length": 1328,
+            "image_path": "",
+            "chunk_id": "chunk_91",
+            "page_range": "92-92"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6902032792568207,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "page_range": "40-40",
+            "text_length": 1326,
+            "has_image": false,
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_87",
+          "score": 0.6826418042182922,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n",
+          "metadata": {
+            "page_range": "88-88",
+            "image_path": "",
+            "text_length": 1553,
+            "has_image": false,
+            "chunk_id": "chunk_87"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_99",
+          "score": 0.6825786828994751,
+          "text": "OTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+          "metadata": {
+            "has_image": false,
+            "image_path": "",
+            "page_range": "100-100",
+            "chunk_id": "chunk_99",
+            "text_length": 1359
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.695)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n\n\n[Source 2 (Relevance: 0.691)]\nOTHER NAMES:\nAluminum trifluoride\nFORMULA:\nAlF3\nELEMENTS:\nAluminum, fluorine\nCOMPOUND TYPE:\nInorganic salt\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n83.98 g/mol\nMELTING POINT:\n1291\u0002C (2356\u0002F; begins\nto sublime above\n1250\u0002C [2280\u0002F])\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nSlightly soluble in\ncold water, soluble in\nhot water; insoluble\nin alcohol, acetone,\nand most organic\nsolvents\nAluminum Fluoride\nK E Y F A C T S\nOVERVIEW\nAluminum fluoride (uh-LOO-min-um FLOR-ide) is a highly\nstable compound that occurs as a white crystalline solid. It\nresists the action of even strong solvents, such as hot con-\ncentrated sulfuric acid. The compound often occurs as a\nhydrate containing one or more molecules of water of hydra-\ntion. The most common of these hydrates has the chemical\nformula AlF3\u00033.5H2O, meaning that for every two molecules\nof aluminum fluoride in a crystal, there are seven molecules\nof water. The major uses of aluminum fluoride are in a\nvariety of applications in the chemical industry.\nHOW IT IS MADE\nThree methods are available for the preparation of alu-\nminum fluoride commercially. In the first method, alumina\ntrihydrate (aluminum hydroxide; Al(OH)3) is treated with\nhydrofluoric acid (HF). A second method of preparation is\nalmost identical except that it takes place in the dry state\nF\nF\nF\nAl\nCHEMICAL COMPOUNDS\n41\n\n\n[Source 3 (Relevance: 0.690)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 4 (Relevance: 0.683)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nC29H50O\nELEMENTS:\nCarbon, hydrogen,\noxygen\nCOMPOUND TYPE:\nOrganic\nSTATE:\nLiquid\nMOLECULAR WEIGHT:\n430.69 g/mol\nMELTING POINT:\n2.5\u0002C to 3.5\u0002C (36\u0002F to\n38\u0002F)\nBOILING POINT:\n350\u0002C (660\u0002F;\ndecomposes)\nSOLUBILITY:\nInsoluble in water;\nsoluble in alcohol,\nether, acetone, oils,\nand most organic\nsolvents\nAlpha-Tocopherol\nK E Y F A C T S\nOVERVIEW\nAlpha-tocopherol (AL-fa toe-KOF-er-ol) is also known\nas\n2,5,7,8-tetramethyl-2-(4,8,12-trimethyltridecyl)chroman-\n6-ol and 3,4-Dihydro-2,5,7,8-tetramethyl-2-(4,8,12-trimethyl-\ntridecyl)-2H-1-benzopyran-6-ol, as well as by many other\nsystematic names. It is one of a family of compounds, the\ntocopherols, that makes up vitamin E. Other members of the\nfamily include the beta (b), gamma (g), delta (d), and epsilon\n(E) tocopherols. All tocopherols share the same basic molecu-\nlar structure, differing only in slightly different arrange-\nments of methyl (CH3-) and hydroxyl (OH-) groups. In terms\nof biological activity, a-tocopherol is the most important\nmember of the tocopherol family. The tocopherols are all pale\nyellow, viscous oils found in a variety of plants, including\nalmonds, mustard greens, green and red peppers, spinach,\nand sunflower seeds. The most important source for the\nvitamin is wheat germ.\nVitamin E was discovered in 1922 by two scientists at the\nUniversity of California at Berkeley, Herbert McLean Evans\nC\nC\nC\nO\nC\nC\nC\nC\nC\nC\nC\nC\nC\nHO\nCH3\nCH3\nCH3\nC\nC\nC\nCH3\nC\nC\nC\nC\nCH3\nCH3\nCH3\nH3C\nC\nC\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nH\nHH\nCHEMICAL COMPOUNDS\n37\n\n\n[Source 5 (Relevance: 0.683)]\nOTHER NAMES:\nAlumina\nFORMULA:\nAl2O3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nMetallic oxide\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n101.96 g/mol\nMELTING POINT:\n2072\u0002C (3762\u0002F)\nBOILING POINT:\n2980\u0002C (5396\u0002F)\nSOLUBILITY:\nInsoluble in water and\nmost organic sol-\nvents; slowly soluble\nin basic solutions.\nAluminum Oxide\nK E Y F A C T S\nOVERVIEW\nAluminum oxide (uh-LOO-min-um OK-side) is white crystal-\nline powder that occurs in nature in a variety of minerals,\nincluding boehmite, bayerite, corundum, diaspore, and gibb-\nsite. Corundum is second hardest naturally occurring mineral.\nOnly diamond is harder. Aluminum oxide occurs in a variety of\nchemical forms in a variety of gemstones, including chryso-\nberyl, ruby, sapphire, and spinel. The color of these gemstones\nis a result of impurities, such as chromium (in the case of ruby)\nand iron and titanium (in the case of sapphire). The colors may\nalso vary depending on the kind and amount of each impurity.\nAluminum oxide’s commercial uses depend not only on its\nhardness, but also on its high melting point and its low elec-\ntrical conductivity. The compound is also non-combustible and\nresistant to attack by most solvents and other chemical agents.\nHOW IT IS MADE\nAluminum oxide is produced by washing the rocky mate-\nrial bauxite with a hot solution of sodium hydroxide (NaOH).\nAl\nAl\nO\nO\nO\nCHEMICAL COMPOUNDS\n49\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "How is Silver(I) Oxide typically produced?",
+      "answer": "The provided text does not contain information on how Silver(I) Oxide is typically produced. It only lists it as a chemical compound (page 243).",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 1800,
+      "question_idx": 3,
+      "rag_chunks": [
+        {
+          "id": "chunk_46",
+          "score": 0.688593327999115,
+          "text": "OXIDIZE To combine a substance with oxygen, or to remove\nhydrogen from a molecule using oxygen, or to remove\nelectrons from a molecule.\n•\nP\nPARTICULATE MATTER Tiny particles of pollutants sus-\npended in the air.\nPETROCHEMICALS Chemical compounds that form in rocks,\nsuch as petroleum and coal.\nPH (POTENTIAL HYDROGEN) The acidity or alkalinity of a\nsubstance based on its concentration of hydrogen ions.\nPHOSPHATE A compound that is a salt of phosphoric acid,\nwhich consists of phosphorus, oxygen, sometimes hydro-\ngen, and another element or ion.\nPHOTOELECTRIC EFFECT The emission of electrons by a sub-\nstance, especially metal, when light falls on its surface.\nPHOTOSYNTHESIS The process by which green plants and\nsome other organisms using the energy in sunlight to\nconvert carbon dioxide and water into carbohydrates and\noxygen.\nPHOTOVOLTAIC EFFECT A type of photoelectric effect where\nlight is converted to electrical voltage by a substance.\nPLASTICIZER A substance added to plastics to make them\nstronger and more flexible.\nPOLYAMIDE A polymer, such as nylon, containing recurrent\namide groups linking segments of the polymer chain.\nPOLYMER A substance composed of very large molecules\nbuilt up by linking small molecules over and over again.\nPOLYSACCHARIDE A very large molecule made of many thou-\nsands of simple sugar molecules joined to each other in\nlong, complex chains.\nxlvi\nCHEMICAL COMPOUNDS\nWords to Know\n",
+          "metadata": {
+            "text_length": 1422,
+            "image_path": "",
+            "chunk_id": "chunk_46",
+            "has_image": false,
+            "page_range": "47-47"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_7",
+          "score": 0.6670633256435394,
+          "text": "Copper(I) Oxide . . . . . . . . . . . . . . . . . . . . 243\nCopper(II) Oxide . . . . . . . . . . . . . . . . . . . . 247\nCopper(II) Sulfate . . . . . . . . . . . . . . . . . . . .251\nCumene . . . . . . . . . . . . . . . . . . . . . . . . . 255\nCyanoacrylate . . . . . . . . . . . . . . . . . . . . . 259\nCyanocobalamin . . . . . . . . . . . . . . . . . . . . 265\nDenatonium Benzoate . . . . . . . . . . . . . . . . .271\nDichlorodifluoromethane . . . . . . . . . . . . . . 277\nDichlorodiphenyltrichloroethane . . . . . . . . . 283\nDimethyl Ketone . . . . . . . . . . . . . . . . . . . 289\nEthyl Acetate . . . . . . . . . . . . . . . . . . . . . 293\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nvolume 2 Reader ’s Guide . . . . . . . . . . . . . . . . . . . . xiii\nTimeline of the Development of\nChemical Compounds . . . . . . . . . . . . . . .xxi\nWords to Know . . . . . . . . . . . . . . . . . .xxxvii\nEthyl Alcohol . . . . . . . . . . . . . . . . . . . . . 297\nEthylbenzene. . . . . . . . . . . . . . . . . . . . . . 303\nEthylene. . . . . . . . . . . . . . . . . . . . . . . . . 307\nEthylene Glycol . . . . . . . . . . . . . . . . . . . . .313\nEthylene Oxide . . . . . . . . . . . . . . . . . . . . .317\nFolic Acid . . . . . . . . . . . . . . . . . . . . . . . . .321\nFormaldehyde . . . . . . . . . . . . . . . . . . . . . 325\nFructose . . . . . . . . . . . . . . . . . . . . . . . . . 329\nGamma-1,2,3,4,5,6-Hexachlorocyclohexane . . . 333\nGelatin . . . . . . . . . . . . . . . . . . . . . . . . . . 337\nGlucose. . . . . . . . . . . . . . . . . . . . . . . . . . 343\nCHEMICAL COMPOUNDS\nvii\nContents\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_7",
+            "has_image": false,
+            "text_length": 1837,
+            "page_range": "8-8"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_70",
+          "score": 0.661047637462616,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "image_path": "",
+            "chunk_id": "chunk_70",
+            "has_image": false,
+            "page_range": "71-71",
+            "text_length": 1074
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_95",
+          "score": 0.6606689393520355,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n",
+          "metadata": {
+            "has_image": false,
+            "page_range": "96-96",
+            "text_length": 1351,
+            "image_path": "",
+            "chunk_id": "chunk_95"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6589397490024567,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "text_length": 1326,
+            "has_image": false,
+            "page_range": "40-40",
+            "image_path": "",
+            "chunk_id": "chunk_39"
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.689)]\nOXIDIZE To combine a substance with oxygen, or to remove\nhydrogen from a molecule using oxygen, or to remove\nelectrons from a molecule.\n•\nP\nPARTICULATE MATTER Tiny particles of pollutants sus-\npended in the air.\nPETROCHEMICALS Chemical compounds that form in rocks,\nsuch as petroleum and coal.\nPH (POTENTIAL HYDROGEN) The acidity or alkalinity of a\nsubstance based on its concentration of hydrogen ions.\nPHOSPHATE A compound that is a salt of phosphoric acid,\nwhich consists of phosphorus, oxygen, sometimes hydro-\ngen, and another element or ion.\nPHOTOELECTRIC EFFECT The emission of electrons by a sub-\nstance, especially metal, when light falls on its surface.\nPHOTOSYNTHESIS The process by which green plants and\nsome other organisms using the energy in sunlight to\nconvert carbon dioxide and water into carbohydrates and\noxygen.\nPHOTOVOLTAIC EFFECT A type of photoelectric effect where\nlight is converted to electrical voltage by a substance.\nPLASTICIZER A substance added to plastics to make them\nstronger and more flexible.\nPOLYAMIDE A polymer, such as nylon, containing recurrent\namide groups linking segments of the polymer chain.\nPOLYMER A substance composed of very large molecules\nbuilt up by linking small molecules over and over again.\nPOLYSACCHARIDE A very large molecule made of many thou-\nsands of simple sugar molecules joined to each other in\nlong, complex chains.\nxlvi\nCHEMICAL COMPOUNDS\nWords to Know\n\n\n[Source 2 (Relevance: 0.667)]\nCopper(I) Oxide . . . . . . . . . . . . . . . . . . . . 243\nCopper(II) Oxide . . . . . . . . . . . . . . . . . . . . 247\nCopper(II) Sulfate . . . . . . . . . . . . . . . . . . . .251\nCumene . . . . . . . . . . . . . . . . . . . . . . . . . 255\nCyanoacrylate . . . . . . . . . . . . . . . . . . . . . 259\nCyanocobalamin . . . . . . . . . . . . . . . . . . . . 265\nDenatonium Benzoate . . . . . . . . . . . . . . . . .271\nDichlorodifluoromethane . . . . . . . . . . . . . . 277\nDichlorodiphenyltrichloroethane . . . . . . . . . 283\nDimethyl Ketone . . . . . . . . . . . . . . . . . . . 289\nEthyl Acetate . . . . . . . . . . . . . . . . . . . . . 293\nCompounds by Formula. . . . . . . . . . . . . . . liii\nCompounds by Element . . . . . . . . . . . . . . . lix\nCompounds by Type . . . . . . . . . . . . . . . . .lxv\nFor Further Information . . . . . . . . . . . . . lxix\nIndex . . . . . . . . . . . . . . . . . . . . . . . . . lxxix\nvolume 2 Reader ’s Guide . . . . . . . . . . . . . . . . . . . . xiii\nTimeline of the Development of\nChemical Compounds . . . . . . . . . . . . . . .xxi\nWords to Know . . . . . . . . . . . . . . . . . .xxxvii\nEthyl Alcohol . . . . . . . . . . . . . . . . . . . . . 297\nEthylbenzene. . . . . . . . . . . . . . . . . . . . . . 303\nEthylene. . . . . . . . . . . . . . . . . . . . . . . . . 307\nEthylene Glycol . . . . . . . . . . . . . . . . . . . . .313\nEthylene Oxide . . . . . . . . . . . . . . . . . . . . .317\nFolic Acid . . . . . . . . . . . . . . . . . . . . . . . . .321\nFormaldehyde . . . . . . . . . . . . . . . . . . . . . 325\nFructose . . . . . . . . . . . . . . . . . . . . . . . . . 329\nGamma-1,2,3,4,5,6-Hexachlorocyclohexane . . . 333\nGelatin . . . . . . . . . . . . . . . . . . . . . . . . . . 337\nGlucose. . . . . . . . . . . . . . . . . . . . . . . . . . 343\nCHEMICAL COMPOUNDS\nvii\nContents\n\n\n[Source 3 (Relevance: 0.661)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n\n\n[Source 4 (Relevance: 0.661)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n\n\n[Source 5 (Relevance: 0.659)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+      "filtered_as_missing_info": true
+    },
+    {
+      "question": "Discuss the solubility and decomposition characteristics of Silver(I) Oxide and their implications for its use.",
+      "answer": "I am sorry, but the provided context does not contain information about Silver(I) Oxide's solubility or decomposition characteristics. The documents focus on Acetaminophen, Acetic Acid, Aluminum Hydroxide and other general chemical terms. Therefore, I cannot answer your question based on the given information.",
+      "latency_s": 53.47,
+      "rag_used": true,
+      "search_type": "text",
+      "n_chunks_used": 5,
+      "char_limit": 2000,
+      "question_idx": 4,
+      "rag_chunks": [
+        {
+          "id": "chunk_70",
+          "score": 0.6347871422767639,
+          "text": "(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n",
+          "metadata": {
+            "text_length": 1074,
+            "has_image": false,
+            "page_range": "71-71",
+            "image_path": "",
+            "chunk_id": "chunk_70"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_39",
+          "score": 0.6325860321521759,
+          "text": "•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n",
+          "metadata": {
+            "image_path": "",
+            "text_length": 1326,
+            "has_image": false,
+            "chunk_id": "chunk_39",
+            "page_range": "40-40"
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_76",
+          "score": 0.6226570308208466,
+          "text": "• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n",
+          "metadata": {
+            "chunk_id": "chunk_76",
+            "has_image": false,
+            "page_range": "77-77",
+            "text_length": 1769,
+            "image_path": ""
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_47",
+          "score": 0.6140374541282654,
+          "text": "PRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n",
+          "metadata": {
+            "page_range": "48-48",
+            "chunk_id": "chunk_47",
+            "has_image": false,
+            "image_path": "",
+            "text_length": 1258
+          },
+          "search_type": "text"
+        },
+        {
+          "id": "chunk_95",
+          "score": 0.6132302284240723,
+          "text": "OTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n",
+          "metadata": {
+            "chunk_id": "chunk_95",
+            "text_length": 1351,
+            "image_path": "",
+            "page_range": "96-96",
+            "has_image": false
+          },
+          "search_type": "text"
+        }
+      ],
+      "rag_context_formatted": "[Source 1 (Relevance: 0.635)]\n(1848–1920) re-discovered and synthesized the compound in\n1873. Even then, the medicinal qualities of the compound\nwere not appreciated for another twenty years, and the com-\npound was not even prescribed or used by doctors until 1949.\nSince that time, however, it has become extremely popular,\nexceeded only by aspirin as the most popular analgesic sold\nin the world.\nHOW IT IS MADE\nAcetaminophen is made in a straight-forward reaction\nbetween p-aminophenol [C6H4(OH)(NH2)] and acetic anhy-\ndride [(CH3CO)2O]. As its formula shows, the p-aminophenol\nprovides the basic structure from which acetaminophen is\nformed, with the acetic anhydride adding the -CH3CO group\nof atoms needed to complete the compound.\nCOMMON USES AND POTENTIAL HAZARDS\nIn addition to its use as a pain reliever, acetaminophen\nhas a number of industrial uses, including:\nAcetaminophen. Red atoms\nare oxygen; white atoms are\nhydrogen; black atoms are\ncarbon; and blue atom is\nnitrogen. Gray sticks indicate\ndouble bonds. P U B L I S H E R S\nR E S O U R C E G R O U P\n20\nCHEMICAL COMPOUNDS\nACETAMINOPHEN\n\n\n[Source 2 (Relevance: 0.633)]\n•\nC\nCARBOHYDRATES Organic compounds composed of carbon,\noxygen, and hydrogen, which are used by the body as\nfood.\nCARBOXYL GROUPS Groups of atoms consisting of a carbon\natom double bonded to an oxygen atom and single\nbonded to a hydroxyl (-OH) group (–COOH).\nCARCINOGEN A substance that causes cancer in humans or\nother animals.\nCATALYST A material that increases the rate of a chemical\nreaction without undergoing any change in its own che-\nmical structure.\nCATHODE The electrode in a battery through which electrons\nenter the fuel cell.\nCATION A positively charged ion.\nCAUSTIC Capable of burning or eating away, usually by the\naction of chemical reactions.\nCENTRIFUGE A device that separates substances that have\ndifferent densities by using centrifugal force.\nCHELATE A chemical compound that is in the form of a ring.\nIt usually contains one metal ion attached to a minimum\nof two nonmetal ions by coordinate bonds.\nCHEMILUMINESCENCE Light produced by a chemical reac-\ntion.\nCHIRAL A molecule with different left-handed and right-\nhanded forms; not mirror symmetric.\nCHLOROFLUOROCARBONS (CFCS)\nA family of chemicals\nmade up of carbon, chlorine, and fluorine. CFCs were used\nas a refrigerant and propellant before they were banned\nfor fear that they were destroying the ozone layer.\nCHEMICAL COMPOUNDS\nxxxix\nWords to Know\n\n\n[Source 3 (Relevance: 0.623)]\n• For the production of a variety of organic compounds,\nsuch as those used in the manufacture of packaging\nmaterials, paints, adhesives and artificial fibers;\n• As a fumigant (pesticide) to preserve fruits and grains;\n• In the printing of textiles; and\n• As an acidifier to improve the flow of oil from wells.\nDilute acetic acid in the form of vinegar is harmless and\nhas been consumed by humans for centuries. Prolonged con-\ntact with the skin or eyes may, however, produce irritation of\ntissues and should be avoided. Concentrated forms of acetic\nacid pose more serious health risks, such as irritation of the\ngastrointestinal system, respiratory system, and eyes. Most\npeople do not come into contact with the concentrated acid,\nand safety precautions are of importance only to individuals\nwho handle the material in their work.\nF O R F U R T H E R I N F O R M A T I O N\n‘‘Acetic Acid.’’ Chemical of the Week.\nhttp://scifun.chem.wisc.edu/chemweek/AceticAcid/AceticAcid.\nhtml (accessed on September 16, 2005).\n‘‘Acetic Acid and CMA.’’ https://netfiles.uiuc.edu/mcheryan/www/\ncma.htm (accessed on September 16, 2005).\n‘‘Acetic Acid and Derivatives.’’ Kirk Othmer Encyclopedia of Che\nmical Technology, 4th ed. Vol. 1. New York: John Wiley & Sons,\n1991, pp. 121 175.\nSee Also Amyl acetate; butyl acetate; ethyl acetate; isoamyl\nacetate\nWords to Know\nALCHEMY An ancient field of study from\nwhich the modern science of chemistry\nevolved.\nCATALYST A material that increases the rate\nof a chemical reaction without undergoing\nany change in its own chemical structure.\nDISTILLATION A process of separating\ntwo or more substances by boiling the\nmixture of which they are composed\nand condensing the vapors produced\nat different temperatures.\n26\nCHEMICAL COMPOUNDS\nACETIC ACID\n\n\n[Source 4 (Relevance: 0.614)]\nPRECIPITATE A solid material that settles out of a solution,\noften as the result of a chemical reaction.\nPRECURSOR A compound that gives rise to some other com-\npound in a series of reactions.\nPROPRIETARY Manufactured, sold, or known only by the\nowner of the item’s patent.\nPROSTAGLANDINS A group of potent hormone-like sub-\nstances that are produced in various tissues of the\nbody. Prostaglandins help with a wide range of physiolo-\ngical functions, such as control of blood pressure,\ncontraction of smooth muscles, and modulation of inflam-\nmation.\nPROTEIN A large, complex compound made of long chains of\namino acids. Proteins have a number of essential func-\ntions in living organisms.\n•\nQ\nQUARRY An open pit, often big, that is used to obtain stone.\n•\nR\nREAGENT A substance that is employed to react, measure, or\ndetect with another substance.\nREDUCTION A chemical reaction in which oxygen is removed\nfrom a substance or electrons are added to a substance.\nREFRACTORY A material with a high melting point, resistant\nto melting, often used to line the interior of industrial\nfurnaces.\nRESIN A solid or semi-solid organic material that is used to\nmake lacquers, adhesives, plastics, and many other clear\nsubstances.\nCHEMICAL COMPOUNDS\nxlvii\nWords to Know\n\n\n[Source 5 (Relevance: 0.613)]\nOTHER NAMES:\nSee Overview.\nFORMULA:\nAl(OH)3\nELEMENTS:\nAluminum, oxygen\nCOMPOUND TYPE:\nInorganic base\nSTATE:\nSolid\nMOLECULAR WEIGHT:\n78.00 g/mol\nMELTING POINT:\nNot applicable; loses\nwater on heating to\nbecome aluminum\noxide (Al2O3)\nBOILING POINT:\nNot applicable\nSOLUBILITY:\nInsoluble in water;\nsoluble in strong\nacids and bases\nAluminum Hydroxide\nK E Y F A C T S\nOVERVIEW\nAluminum hydroxide (uh-LOO-min-um hi-DROK-side) is\nalso known as alumina hydrate, aluminum hydrate, aluminum\ntrihydrate, hydrated alumina, hydrated aluminum oxide, and\naluminum white. It is a white crystalline powder that occurs\nin nature as the mineral gibbsite, one of the three minerals\n(along with boehmite, diaspore) that makes up bauxite. Baux-\nite is a rocky material from which the metal aluminum is\nextracted commercially. Aluminum hydroxide is perhaps best\nknown to the average person as an ingredient in antacids,\ncompounds for the treatment of upset stomach, acid indiges-\ntion, and related symptoms. It is found in products such as\nMaalox\u0002, Mylanta\u0002, and Gelusil\u0002. A closely related chemical\ncompound, aluminum hydroxychloride (Al2Cl(OH)5) is the\nactive ingredient in most deodorants and anti-perspirants.\nHOW IT IS MADE\nMost aluminum hydroxide is produced by treating baux-\nite with a hot, concentrated solution of sodium hydroxide\nOH\nOH\nOH\nAl\nCHEMICAL COMPOUNDS\n45\n",
+      "filtered_as_missing_info": true
+    }
+  ],
+  "regenerated_at": "2025-11-27 16:46:41",
+  "regenerated_with": "gemma3+rag",
+  "max_tokens": 500,
+  "char_limit_q1": 600,
+  "char_limit_q2": 1000,
+  "char_limit_q3": 1800,
+  "char_limit_q4": 2000,
+  "max_tokens_q1": 200,
+  "max_tokens_q2": 333,
+  "max_tokens_q3": 600,
+  "max_tokens_q4": 666,
+  "concise_mode": true,
+  "prompt_instruction": "brief, concise, and to the point",
+  "rag_enabled": true,
+  "rag_regenerated_at": "2025-11-27 16:46:41",
+  "source_input_dir": "/home/himanshu/dev/output/qwen_regenerated",
+  "rag_chunks_extracted": true,
+  "chunks_extracted_at": "2025-11-28 13:32:57",
+  "filtered_by_missing_info": true,
+  "filtered_at": "2025-11-29 15:23:28",
+  "filtered_answers_count": 3,
+  "filtered_answers_indices": [
+    2,
+    3,
+    4
+  ]
+}

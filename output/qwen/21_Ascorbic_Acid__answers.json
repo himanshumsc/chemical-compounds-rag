@@ -1,0 +1,27 @@
+{
+  "source_file": "21_Ascorbic_Acid.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram in the image shows Ascorbic Acid (also known as Vitamin C). Key properties of Ascorbic Acid include:\n\n1. **Chemical Composition**: It consists of 6 carbon atoms, 8 hydrogen atoms, and 6 oxygen atoms.\n2. **Double Bonds**: The diagram indicates that there are double bonds present in the molecule, which are crucial for its stability and reactivity.\n3. **Functionality**: Ascorbic Acid is an antioxidant and plays a vital role in the body's immune system by supporting the production of white blood cells. It also helps in the absorption of iron from plant-based foods",
+      "latency_s": 16.37
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Ascorbic Acid?",
+      "answer": "The chemical formula for Ascorbic Acid, also known as Vitamin C, is:\n\n\\[ \\text{C}_6\\text{H}_8\\text{O}_6 \\]\n\nTo calculate the molecular weight of Ascorbic Acid, we need to sum the atomic weights of each element in the formula:\n\n- Carbon (C): 12.01 g/mol\n- Hydrogen (H): 1.008 g/mol\n- Oxygen (O): 16.00 g/mol\n\nNow, multiply the atomic weight by the number of atoms of each element:\n\n- Carbon: \\( 6 \\",
+      "latency_s": 10.31
+    },
+    {
+      "question": "Explain why Ascorbic Acid is considered an essential vitamin for humans.",
+      "answer": "Ascorbic acid, also known as Vitamin C, is considered essential for humans because it plays a crucial role in various physiological processes and is not synthesized by the human body in sufficient quantities to meet its needs. Here are some key reasons why Vitamin C is essential:\n\n1. **Collagen Synthesis**: Vitamin C is essential for the synthesis of collagen, which is a protein that forms the structural framework of connective tissues such as skin, blood vessels, tendons, and ligaments. Collagen is vital for maintaining the integrity and strength of these tissues.\n\n2. **Immune Function**: Vitamin C is important for the proper functioning of",
+      "latency_s": 10.31
+    },
+    {
+      "question": "Discuss the solubility properties of Ascorbic Acid and the implications for its storage and consumption.",
+      "answer": "Ascorbic acid, also known as vitamin C, is a water-soluble compound. This means that it dissolves easily in water but not in fats or oils. Its solubility in water makes it highly stable in aqueous solutions at room temperature. However, its solubility can be affected by several factors.\n\n### Solubility Factors:\n1. **Temperature**: Ascorbic acid is more soluble in hot water than in cold water. This property is useful when preparing solutions for intravenous administration where the solution needs to be warm.\n2. **Acidity**: The solubility of ascorbic acid increases with",
+      "latency_s": 10.31
+    }
+  ]
+}

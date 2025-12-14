@@ -1,0 +1,27 @@
+{
+  "source_file": "13_Ammonia.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows ammonia (NH₃). The blue atom represents nitrogen, and the white atoms represent hydrogen. Key properties of ammonia include:\n\n1. **Ammonium Ion Formation**: Ammonia readily forms ammonium ions (NH₄⁺) when dissolved in water.\n2. **Basicity**: It is a weak base due to the lone pair of electrons on the nitrogen atom.\n3. **Solubility**: Ammonia is highly soluble in water, forming aqueous solutions that are basic.\n4. **Odor**: It has a pungent smell.\n5. **Reactivity**: It can react",
+      "latency_s": 16.92
+    },
+    {
+      "question": "What is the chemical formula for ammonia and which elements does it contain?",
+      "answer": "The chemical formula for ammonia is \\( \\text{NH}_3 \\). It contains two elements: nitrogen (N) and hydrogen (H). Specifically, one molecule of ammonia consists of one atom of nitrogen and three atoms of hydrogen.",
+      "latency_s": 10.61
+    },
+    {
+      "question": "How does the Haber-Bosch process produce ammonia, and why is it significant?",
+      "answer": "The Haber-Bosch process is a chemical method for producing ammonia (NH₃) from nitrogen (N₂) and hydrogen (H₂). This process is significant because it provides a means to produce a crucial fertilizer that supports global food production.\n\n### How the Haber-Bosch Process Works:\n\n1. **Raw Materials**: The process starts with nitrogen gas (N₂) and hydrogen gas (H₂), which are obtained from natural sources or produced synthetically.\n2. **Catalyst**: A catalyst is used to facilitate the reaction. The most commonly used catalyst is iron (Fe).\n3. **Pressure and Temperature",
+      "latency_s": 10.61
+    },
+    {
+      "question": "Discuss the role and environmental significance of ammonia in the atmosphere and its industrial applications.",
+      "answer": "Ammonia, or NH3, is a compound consisting of one nitrogen atom and three hydrogen atoms. It plays a significant role in both natural and industrial processes due to its unique properties and chemical reactions.\n\n### Environmental Significance\n\n1. **Nitrogen Cycle**: Ammonia is a crucial component of the nitrogen cycle, which is essential for life on Earth. It is converted into nitrate by bacteria in the soil through a process called nitrification. This nitrate is then used by plants as a source of nitrogen, which is necessary for their growth. This cycle is vital for maintaining soil fertility and supporting plant life.\n\n2.",
+      "latency_s": 10.61
+    }
+  ]
+}

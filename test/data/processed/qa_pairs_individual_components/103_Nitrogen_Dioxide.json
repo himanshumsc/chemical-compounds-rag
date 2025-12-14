@@ -1,0 +1,38 @@
+{
+  "compound_id": 100,
+  "compound_name": "Nitrogen Dioxide",
+  "source_file": "compound_100_Nitrogen Dioxide.json",
+  "main_entry_length": 4762,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0554_Nitrogen_Dioxide_chapter_start.png",
+  "generated_at": "2025-10-05 16:27:52",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The image shows the molecular structure of nitrogen dioxide (NO₂). In the diagram, red atoms represent oxygen, and the blue atom represents nitrogen, with gray sticks indicating double bonds.\n\nKey properties of nitrogen dioxide include:\n\n1. **Chemical Formula**: NO₂\n2. **Appearance**: Brown gas with a sharp, acrid odor.\n3. **Formation**: Produced naturally when nitric oxide (NO) is oxidized in the atmosphere.\n4. **Reactivity**: Reacts readily with oxygen to form nitrogen dioxide, contributing to air pollution and smog.\n5. **Commercial Production**: Made by decomposing nitric acid or through...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:00:56"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of nitrogen dioxide?",
+      "answer": "The chemical formula of nitrogen dioxide is NO2, and its molecular weight is 46.01 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how nitrogen dioxide is produced naturally and through human activities.",
+      "answer": "Nitrogen dioxide occurs naturally in the atmosphere as a result of lightning strikes, volcanic action, forest fires, and bacterial action on dead plants and animals. It is produced naturally when nitric oxide (NO) is oxidized in the atmosphere. This nitric oxide forms whenever sufficient energy allows the reaction between atmospheric nitrogen (N2) and oxygen (O2), resulting in 2NO. This nitric oxide then reacts with oxygen to form nitrogen dioxide (2NO + O2 → 2NO2). Human activities, such as the combustion of fossil fuels like coal and petroleum, produce large amounts of nitric oxide, which rapidly oxidizes to nitrogen dioxide, contributing to atmospheric pollution and smog.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Describe the uses of nitrogen dioxide in industrial applications and the associated safety hazards.",
+      "answer": "Nitrogen dioxide is extensively used in the manufacture of nitric and sulfuric acids, acting as an oxidizing and nitrating agent. It is also used as a catalyst in industrial operations, in rocket propellants to supply oxygen for fuel combustion, in the bleaching of flour, and as a polymerization inhibitor in plastics production. However, nitrogen dioxide poses significant safety and health hazards. It is a strong oxidizing agent, which means it can react readily with combustible materials like paper and cloth, potentially causing fires or explosions. Additionally, it is toxic and can cause irritation of the eyes, nose, and throat, as well as respiratory issues such as coughing, congestion, and chest pain, even at low concentrations.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

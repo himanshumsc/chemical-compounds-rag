@@ -1,0 +1,58 @@
+{
+  "compound_id": 9,
+  "compound_name": "Ammonia",
+  "source_file": "compound_009_Ammonia.json",
+  "main_entry_length": 4304,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0108_Ammonia_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:14",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is of ammonia (NH₃). Ammonia consists of one nitrogen atom (blue) and three hydrogen atoms (white). It is a colorless gas with a pungent smell and is highly soluble in water. Ammonia is a key compound in the nitrogen cycle and is primarily used in fertilizers. It is produced industrially via the Haber-Bosch process, which combines nitrogen and hydrogen gases under high temperatures and pressures.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:03:06"
+    },
+    {
+      "question": "What is the chemical formula for ammonia and which elements does it contain?",
+      "answer": "The chemical formula for ammonia is NH3. It contains the elements nitrogen and hydrogen.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:11",
+      "char_limit": 1000,
+      "answer_length": 88
+    },
+    {
+      "question": "How does the Haber-Bosch process produce ammonia, and why is it significant?",
+      "answer": "The Haber-Bosch process produces ammonia by directly combining nitrogen and hydrogen gases at high temperatures (400°C to 650°C) and high pressures (200 to 400 atmospheres) in the presence of a finely-divided iron catalyst. This method, developed by Fritz Haber and later refined by Carl Bosch, revolutionized the production of ammonia by efficiently synthesizing it from its elemental components.\n\nThe significance of the Haber-Bosch process lies in its ability to produce ammonia on an industrial scale, which is critical for agricultural and industrial applications. Ammonia is a key component in the production of fertilizers, accounting for about 90% of its use in the United States, which supports global food production. Additionally, the process played a crucial role during World War I as it provided Germany with the means to produce explosives. The Haber-Bosch process remains the most common form of ammonia production in many countries, underscoring its enduring impact on both agriculture and industry.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:20",
+      "char_limit": 1800,
+      "answer_length": 1016
+    },
+    {
+      "question": "Discuss the role and environmental significance of ammonia in the atmosphere and its industrial applications.",
+      "answer": "Ammonia (NH3) plays a significant role in both the Earth's atmosphere and industrial applications. In the atmosphere, ammonia is believed to have been a source of nitrogen for early life forms and was present in the primordial atmosphere. It was the first chemical compound identified in interstellar space and is a major component of the atmospheres of various planets in our solar system.\n\nIndustrially, ammonia is essential for producing fertilizers, with about 90 percent of its usage in the United States directed towards this purpose. It can be used directly as a fertilizer in liquid form or dissolved in water and also converted into compounds like ammonium nitrate, ammonium phosphate, and ammonium sulfate. Additionally, ammonia is used in synthesizing urea, which serves as a cattle feed supplement.\n\nAmmonia is naturally produced by bacteria acting on atmospheric nitrogen and during the decomposition of organic matter. It is also a product of animal metabolism, where protein breakdown leads to ammonia conversion into urea, which is excreted in urine.\n\nThe industrial production of ammonia primarily utilizes the Haber-Bosch process, where nitrogen and hydrogen gases are combined at high temperatures and pressures over an iron catalyst. This process is vital not only for fertilizers but also for producing nitric acid, used in making explosives—a critical application during World War I. The development of the Haber-Bosch process was driven by the need for such materials.\n\nIn summary, ammonia is crucial for both environmental nitrogen cycling and as a foundational chemical in agricultural and industrial processes.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:43:28",
+      "char_limit": 2000,
+      "answer_length": 1636
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 12032,
+  "updated_at": "2025-11-30 13:43:29",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

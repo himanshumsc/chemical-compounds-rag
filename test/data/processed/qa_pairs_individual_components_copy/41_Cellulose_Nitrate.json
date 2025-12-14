@@ -1,0 +1,36 @@
+{
+  "compound_id": 38,
+  "compound_name": "Cellulose Nitrate",
+  "source_file": "compound_038_Cellulose Nitrate.json",
+  "main_entry_length": 1561,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0252_Cellulose_Nitrate_chapter_start.png",
+  "generated_at": "2025-10-05 16:23:32",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Cellulose Nitrate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and primary elements present in cellulose nitrate?",
+      "answer": "The chemical formula for cellulose nitrate is C12H16N4O18. The primary elements present are carbon (C), hydrogen (H), nitrogen (N), and oxygen (O).",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "How does the nitrogen content affect the solubility properties of cellulose nitrate?",
+      "answer": "The solubility properties of cellulose nitrate vary with its nitrogen content. The 'high-nitrogen' form of cellulose nitrate is soluble in acetone but insoluble in an alcohol/ether mixture. Conversely, the 'low-nitrogen' form is soluble in both acetone and the alcohol/ether mixture.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Describe the discovery of cellulose nitrate and its initial observation by Christian Friedrich Schönbein.",
+      "answer": "Cellulose nitrate was first discovered in 1845 by Swiss-German chemist Christian Friedrich Schönbein. The discovery was serendipitous; Schönbein used his wife's cotton apron to clean up spilled nitric acid in his laboratory. He noticed that the cotton reacted with the nitric acid to form a new compound that exploded when heated, releasing a puff of black smoke. This reaction led to the recognition of cellulose nitrate's potential applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "history"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

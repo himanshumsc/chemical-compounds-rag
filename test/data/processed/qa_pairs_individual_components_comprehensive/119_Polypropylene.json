@@ -1,0 +1,58 @@
+{
+  "compound_id": 116,
+  "compound_name": "Polypropylene",
+  "source_file": "compound_116_Polypropylene.json",
+  "main_entry_length": 5063,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0638_Polypropylene_chapter_start.png",
+  "generated_at": "2025-10-05 16:28:57",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is polypropylene. It is a polymer made by the polymerization of propylene monomers (CH₃CH=CH₂). Key properties of polypropylene include:\n\n1. **Lightweight**: It has a low density, making it ideal for various applications.\n2. **High Resistance**: It is resistant to chemical solvents, acids, and bases.\n3. **Durability**: Polypropylene is tough and resilient, providing good impact resistance.\n4. **Versatile**: It can be used in various forms, such as fibers, films, and molded products.\n5. **Thermoplastic**: It softens when heated, allowing it to be...",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:01:45"
+    },
+    {
+      "question": "What is the chemical formula and compound type of polypropylene?",
+      "answer": "The chemical formula of polypropylene is -[-CH(CH3)CH2-]-n. It is an organic polymer.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:38:58",
+      "char_limit": 1000,
+      "answer_length": 85
+    },
+    {
+      "question": "Why is polypropylene considered a thermoplastic polymer, and how does this property affect its usability?",
+      "answer": "Polypropylene is considered a thermoplastic polymer because it can be repeatedly heated and cooled, transitioning between solid and liquid states. This property is due to its molecular structure, which allows it to be molded and reshaped when heated above its melting point (165°C–170°C or 330°F–340°F) and then solidified upon cooling. This thermoplastic nature makes polypropylene highly versatile and usable in various applications. It can be easily molded into different shapes and forms through processes like extrusion and molding, making it suitable for manufacturing a wide range of products. Its ability to be reheated and reshaped without significant degradation enhances its recyclability and adaptability in industrial and consumer applications. Polypropylene's thermoplastic property, combined with its high tensile strength, flexibility, resistance to heat, abrasion, inorganic acids and bases, organic materials, and bacteria, supports its use in products such as fibers, fabrics, carpets, packaging films, surgical objects, and durable goods like banknotes.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:05",
+      "char_limit": 1800,
+      "answer_length": 1073
+    },
+    {
+      "question": "Explain the role of catalysts in the production of crystalline polypropylene and name one type of catalyst used.",
+      "answer": "Catalysts play a crucial role in the production of crystalline polypropylene by controlling the polymerization of propylene to ensure that the methyl groups (-CH3) are oriented on the same side of the main polymer chain. Without this control, the polymerization would result in an amorphous product with limited uses. The use of catalysts is essential for achieving the desired crystalline form of polypropylene, which possesses favorable properties such as high tensile strength and electrical resistance.\n\nOne type of catalyst used for this purpose is metal halides, with titanium chloride being specifically mentioned in the text. These catalysts help achieve the correct methyl group orientation during polymerization. Additionally, metallocenes, discovered by Walter Kaminsky and colleagues, are another group of catalysts that can polymerize crystalline polypropylene even more efficiently. The production of polypropylene today heavily relies on these catalysts to produce the desired crystalline structure.",
+      "difficulty_level": "advanced",
+      "topic_category": "reactions",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 13:39:11",
+      "char_limit": 2000,
+      "answer_length": 1014
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 8614,
+  "updated_at": "2025-11-30 13:39:11",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

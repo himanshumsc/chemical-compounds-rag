@@ -1,0 +1,36 @@
+{
+  "compound_id": 178,
+  "compound_name": "1,3-Butadiene",
+  "source_file": "compound_178_13-Butadiene.json",
+  "main_entry_length": 4438,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0052_1,3-Butadiene_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:26",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is 1,3-Butadiene.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula of 1,3-butadiene, and what type of compound is it?",
+      "answer": "The chemical formula of 1,3-butadiene is CH2=CHCH=CH2. It is classified as an alkene, which is an unsaturated hydrocarbon.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Explain how 1,3-butadiene is produced in the United States.",
+      "answer": "1,3-butadiene is produced in the United States through three main processes. The first two processes start with four-carbon compounds, butane (CH3CH2CH2CH3) and butene (CH2=CHCH2CH3 and CH3CH=CHCH3), which are treated to add an additional double bond, forming 1,3-butadiene (CH2=CHCH=CH2). The most common method is steam cracking, where large petroleum molecules are exposed to hot steam, breaking them into smaller molecules. 1,3-butadiene is a by-product of this process and is separated from the main product, ethylene, after cracking.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Discuss the industrial uses of 1,3-butadiene and the potential hazards associated with it.",
+      "answer": "1,3-butadiene is primarily used in the manufacture of polymers. It is mixed with other polymers to create products with desirable qualities or polymerized with other monomers to form copolymers, such as polystyrene-polybutadiene. It is also used as a raw material in fungicides, manufacture of latex adhesives, and production of various domestic and industrial products. Despite its industrial applications, 1,3-butadiene poses several health hazards, including respiratory irritation, fatigue, dizziness, and is considered a potential carcinogen. These effects mainly concern individuals who work directly with the compound, and typically under unusual exposure conditions.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

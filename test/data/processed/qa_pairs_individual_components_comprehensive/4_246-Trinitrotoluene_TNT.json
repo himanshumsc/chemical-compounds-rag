@@ -1,0 +1,58 @@
+{
+  "compound_id": 177,
+  "compound_name": "2,4,6-Trinitrotoluene (TNT)",
+  "source_file": "compound_177_246-Trinitrotoluene_TNT.json",
+  "main_entry_length": 1536,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0066_2,4,6-Trinitrotoluene_(TNT)_chapter_start.png",
+  "generated_at": "2025-10-05 16:33:22",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure shown in the image is 2,4,6-Trinitrotoluene, commonly known as TNT. TNT is a pale yellow solid and is well-known for its explosive properties. It is relatively stable to shock and friction, which makes it safe to handle and transport. TNT is used extensively in military munitions and demolition. Its explosive power is due to the rapid release of gas and heat when it decomposes. It was first used in World War I and remains a widely used explosive today.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:57"
+    },
+    {
+      "question": "What is the molecular formula and molecular weight of 2,4,6-Trinitrotoluene (TNT)?",
+      "answer": "The molecular formula of 2,4,6-Trinitrotoluene (TNT) is C6H2(CH3)(NO2)3, and its molecular weight is 227.13 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:01",
+      "char_limit": 1000,
+      "answer_length": 114
+    },
+    {
+      "question": "Explain why TNT is considered a relatively safe explosive to handle compared to other explosives.",
+      "answer": "TNT is considered a relatively safe explosive to handle compared to other explosives because it is relatively insensitive to shock. This means that workers can handle TNT without fear of it suddenly exploding if it is dropped or jarred. It requires a blasting cap or detonator to cause it to explode. Blasting caps and detonators are very sensitive explosives that can initiate the explosion of less sensitive explosives like TNT. Therefore, the use of a detonator system ensures controlled detonation, making TNT safer to handle under normal conditions.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:03",
+      "char_limit": 1800,
+      "answer_length": 554
+    },
+    {
+      "question": "Discuss how TNT's solubility properties affect its applications and handling.",
+      "answer": "TNT, or 2,4,6-trinitrotoluene, is a solid compound with specific solubility properties that influence its applications and handling. According to the provided information, TNT is insoluble in water but soluble in alcohol, ether, acetone, and benzene. These solubility characteristics make TNT suitable for use in various environments without the risk of dissolving in water, thus maintaining its stability and effectiveness as an explosive. The ability to dissolve in organic solvents like alcohol and acetone may facilitate its application in manufacturing and handling processes, allowing it to be mixed or applied in solution form when necessary. This insolubility in water also plays a crucial role in its safety and environmental impact, as it reduces the likelihood of unintentional spread or contamination through aqueous solutions. Overall, TNT's solubility properties are critical for its safe handling and effective use in explosive applications.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties",
+      "updated_by": "comprehensive_text_generator_with_limits",
+      "updated_at": "2025-11-30 14:00:07",
+      "char_limit": 2000,
+      "answer_length": 956
+    }
+  ],
+  "note": "Questions 2, 3, 4 answers regenerated using comprehensive_text with character limits (Q2:1000, Q3:1800, Q4:2000). Question 1 (image-based) preserved.",
+  "comprehensive_text_length": 1636,
+  "updated_at": "2025-11-30 14:00:07",
+  "updated_by": "comprehensive_text_generator_with_limits",
+  "char_limits": {
+    "q2": 1000,
+    "q3": 1800,
+    "q4": 2000
+  }
+}

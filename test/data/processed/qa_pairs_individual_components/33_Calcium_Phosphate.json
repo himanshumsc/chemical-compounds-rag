@@ -1,0 +1,38 @@
+{
+  "compound_id": 30,
+  "compound_name": "Calcium Phosphate",
+  "source_file": "compound_030_Calcium Phosphate.json",
+  "main_entry_length": 3766,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0206_Calcium_Phosphate_chapter_start.png",
+  "generated_at": "2025-10-05 16:22:59",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The chemical compound shown in the image is calcium phosphate. In the diagram, red atoms represent oxygen, yellow atoms represent phosphorus, and turquoise atoms represent calcium; gray sticks indicate double bonds. Key properties include:\n\n- Dibasic and tribasic forms are insoluble in water and alcohol but soluble in most acids.\n- Monobasic calcium phosphate is soluble in water and acids but insoluble in alcohol.\n- All forms are non-flammable.\n\nCalcium phosphate is often obtained from minerals like apatite.",
+      "difficulty_level": "basic",
+      "topic_category": "identification",
+      "updated_by": "openai_api",
+      "updated_at": "2025-11-22 07:07:07"
+    },
+    {
+      "question": "What are the different forms of calcium phosphate mentioned, and how do they differ in terms of composition?",
+      "answer": "The three forms of calcium phosphate mentioned are dibasic calcium phosphate (CaHPO4), monobasic calcium phosphate (Ca(H2PO4)2), and tribasic calcium phosphate (Ca3(PO4)2). Dibasic calcium phosphate is also known as calcium monohydrogen phosphate and often found as a hydrate like CaHPO4·2H2O. Monobasic calcium phosphate, also called calcium hypophosphite, exists as a hydrate Ca(H2PO4)2·H2O and contains more hydrogen atoms compared to the dibasic form. Tribasic calcium phosphate, also known as tricalcium phosphate, does not contain hydrogen atoms and is distinct from the other two forms.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the solubility characteristics of the three forms of calcium phosphate.",
+      "answer": "Dibasic and tribasic calcium phosphate are insoluble in water and alcohol but soluble in most acids. Monobasic calcium phosphate, on the other hand, is soluble in water and acids but insoluble in alcohol. These solubility characteristics are important for their respective applications and handling.",
+      "difficulty_level": "intermediate",
+      "topic_category": "properties"
+    },
+    {
+      "question": "Explain how tribasic calcium phosphate can be synthesized and its primary uses.",
+      "answer": "Tribasic calcium phosphate can be synthesized from natural sources like apatite or phosphorite, minerals containing calcium phosphate mixed with other compounds. It can also be produced synthetically by reacting phosphoric acid (H3PO4) with solid calcium hydroxide (Ca(OH)2) or through a reaction between calcium chloride (CaCl2) and sodium triphosphate (Na5P3O10). Its primary uses include serving as a nutrient and mineral supplement in animal foods, processed foods such as cereals, and dental products to replace lost hydroxyapatite.",
+      "difficulty_level": "advanced",
+      "topic_category": "uses"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}

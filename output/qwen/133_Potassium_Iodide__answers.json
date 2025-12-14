@@ -1,0 +1,27 @@
+{
+  "source_file": "133_Potassium_Iodide.json",
+  "model": "qwen",
+  "image_used_for_q1": true,
+  "answers": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The molecular structure diagram shows Potassium Iodide (KI). Key properties of Potassium Iodide include:\n\n1. **Composition**: It consists of one atom of potassium (K) and one atom of iodine (I).\n2. **Color**: The green sphere represents iodine, and the turquoise sphere represents potassium.\n3. **Formula**: Its chemical formula is KI.\n4. **Production Methods**:\n   - Reacting hydriodic acid (HI) with potassium bicarbonate: HI + KHCO₃ → KI + CO₂ + H₂O.\n   - Reacting iron(III) iod",
+      "latency_s": 16.88
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Potassium Iodide?",
+      "answer": "The chemical formula for Potassium Iodide (KI) is:\n\n\\[ \\text{KI} \\]\n\nTo calculate its molecular weight, we need to sum the atomic weights of the constituent elements:\n\n- Potassium (K): The atomic weight of potassium is approximately 39.10 g/mol.\n- Iodine (I): The atomic weight of iodine is approximately 126.90 g/mol.\n\nSo, the molecular weight of Potassium Iodide (KI) is calculated as follows:\n\n\\[ \\text{Molecular Weight of KI} = 39.10 \\, \\text",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Describe the process of how Potassium Iodide can be made using iodine and potassium hydroxide.",
+      "answer": "The synthesis of Potassium Iodide (KI) from iodine and potassium hydroxide involves a chemical reaction that typically proceeds through a substitution or displacement mechanism. Here's a step-by-step description of the process:\n\n### Materials Needed:\n- Iodine (I₂)\n- Potassium Hydroxide (KOH)\n- Water (H₂O)\n\n### Equipment Needed:\n- Glassware: beakers, flasks, test tubes, pipettes, stirring rods, etc.\n- Heating mantle or hot plate\n- Distillation apparatus for purification\n\n### Procedure:\n\n1. **Preparation of Solutions**:\n   - Dissolve",
+      "latency_s": 10.65
+    },
+    {
+      "question": "Explain how Potassium Iodide acts as a protective agent against radiation exposure.",
+      "answer": "Potassium iodide (KI) is a compound that contains iodine, an essential nutrient for the thyroid gland. When taken orally before or during exposure to radioactive iodine, KI can act as a protective agent by saturating the thyroid with non-radioactive iodine. This process is known as \"iodine loading\" and helps to prevent the thyroid from taking up radioactive iodine, which could otherwise cause damage.\n\nHere's a step-by-step explanation of how potassium iodide works:\n\n1. **Thyroid Function**: The thyroid gland uses iodine to produce thyroid hormones, which regulate metabolism in the body. These hormones are crucial",
+      "latency_s": 10.65
+    }
+  ]
+}

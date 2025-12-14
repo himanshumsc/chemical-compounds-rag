@@ -1,0 +1,36 @@
+{
+  "compound_id": 15,
+  "compound_name": "Amyl Acetate",
+  "source_file": "compound_015_Amyl Acetate.json",
+  "main_entry_length": 2299,
+  "qa_pairs_count": 4,
+  "image_path": "/home/himanshu/dev/test/extracted_images/renders/page_0136_Amyl_Acetate_chapter_start.png",
+  "generated_at": "2025-10-05 16:21:37",
+  "qa_pairs": [
+    {
+      "question": "Look at the molecular structure diagram in the image. What chemical compound is shown, and what are its key properties?",
+      "answer": "The compound shown in the image is Amyl Acetate.",
+      "difficulty_level": "basic",
+      "topic_category": "identification"
+    },
+    {
+      "question": "What is the chemical formula and molecular weight of Amyl Acetate?",
+      "answer": "The chemical formula of Amyl Acetate is CH3COOC5H11, and its molecular weight is 130.18 g/mol.",
+      "difficulty_level": "basic",
+      "topic_category": "formula"
+    },
+    {
+      "question": "Describe the process by which Amyl Acetate is industrially produced.",
+      "answer": "Amyl Acetate is produced by adding acetic acid (HC2H3O2) to amyl alcohol (C5H11OH), using a small amount of concentrated sulfuric acid (H2SO4) as a catalyst. The specific isomer of amyl acetate produced depends on the specific amyl alcohol used. The product is then separated from the reaction mixture by boiling the liquid.",
+      "difficulty_level": "intermediate",
+      "topic_category": "reactions"
+    },
+    {
+      "question": "Explain why different isomers of Amyl Acetate have varying boiling points and provide their values.",
+      "answer": "Isomers of Amyl Acetate have the same molecular formula but different structural formulas, which lead to different chemical and physical properties, including boiling points. The boiling point of normal amyl acetate is 149.2°C (300.6°F), secondary amyl acetate is 142.0°C (287.6°F), and isoamyl acetate is 140.0°C (284.0°F). These differences in structure affect how the molecules interact with each other, influencing their boiling points.",
+      "difficulty_level": "advanced",
+      "topic_category": "properties"
+    }
+  ],
+  "note": "Image path is the compound name only; link to image index later."
+}
