@@ -2,7 +2,8 @@
 output/*.json
 output/*.csv
 output/*.parquet
-output/*.md
+# Include generated .md reports
+# output/*.md
 
 # Plots (generated visualizations)
 plots/
