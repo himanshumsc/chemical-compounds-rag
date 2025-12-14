@@ -5,8 +5,8 @@ output/*.parquet
 # Include generated .md reports
 # output/*.md
 
-# Plots (generated visualizations)
-plots/
+# Plots (generated visualizations) - Include plots in git
+# plots/
 
 # Logs
 *.log
